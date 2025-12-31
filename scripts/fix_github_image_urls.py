@@ -27,7 +27,14 @@ def convert_relative_to_media_url(relative_path: str) -> str:
 
 
 def extract_filename_from_url(url: str) -> str:
-    """Extract filename from Dropbox URL or relative path."""
+    """Extract filename from Dropbox URL, GitHub URL, or relative path."""
+    # Handle existing GitHub URLs (media.githubusercontent.com or github.com)
+    if 'githubusercontent.com' in url or ('github.com' in url and '/blob/' in url):
+        # Extract path after /main/ or /blob/main/
+        match = re.search(r'/(?:blob/)?main/(.+?)(?:\?|$)', url)
+        if match:
+            return match.group(1)
+
     # Handle Dropbox URLs
     if 'dropbox.com' in url:
         # Extract path between domain and query string
@@ -62,12 +69,15 @@ def update_markdown_file(md_file: Path) -> int:
         thumb_path = match.group(2)
         full_path = match.group(3)
 
-        # Extract filenames and convert to GitHub media URLs
+        # Extract filenames
         thumb_clean = extract_filename_from_url(thumb_path)
         full_clean = extract_filename_from_url(full_path)
 
+        # Thumbnail displays via media CDN
         thumb_url = f"https://media.githubusercontent.com/media/{GITHUB_REPO}/{BRANCH}/{thumb_clean}"
-        full_url = f"https://media.githubusercontent.com/media/{GITHUB_REPO}/{BRANCH}/{full_clean}"
+
+        # Link goes to GitHub's blob view (for viewing the file)
+        full_url = f"https://github.com/{GITHUB_REPO}/blob/{BRANCH}/{full_clean}"
 
         return f"[![{alt_text}]({thumb_url})]({full_url})"
 
@@ -83,7 +93,7 @@ def update_markdown_file(md_file: Path) -> int:
         # Only process if it's a local image path
         if link_path.startswith('../../raw/') or link_path.startswith('../../derived/'):
             clean_path = extract_filename_from_url(link_path)
-            new_url = f"https://media.githubusercontent.com/media/{GITHUB_REPO}/{BRANCH}/{clean_path}"
+            new_url = f"https://github.com/{GITHUB_REPO}/blob/{BRANCH}/{clean_path}"
             return f"[{link_text}]({new_url})"
 
         return match.group(0)
