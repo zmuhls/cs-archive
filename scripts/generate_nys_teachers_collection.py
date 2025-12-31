@@ -198,14 +198,14 @@ def group_by_theme(items: List[dict]) -> Dict[str, List[dict]]:
 
 
 def format_thumbnail_url(filename: str) -> str:
-    """Generate GitHub media CDN URL for thumbnail."""
+    """Generate GitHub raw URL for thumbnail."""
     if not filename:
         return ""
 
     # Remove any directory path, just get the filename
     base_filename = Path(filename).name
 
-    return f"https://media.githubusercontent.com/media/{GITHUB_REPO}/{BRANCH}/derived/thumbs/{base_filename}"
+    return f"https://raw.githubusercontent.com/{GITHUB_REPO}/{BRANCH}/derived/thumbs/{base_filename}"
 
 
 def format_fullsize_url(filename: str) -> str:
