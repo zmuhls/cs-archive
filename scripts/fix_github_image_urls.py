@@ -81,29 +81,13 @@ def update_markdown_file(md_file: Path) -> int:
 
         return f"[![{alt_text}]({thumb_url})]({full_url})"
 
-    # Pattern matches: [![alt](any_url)](any_url)
-    pattern = r'\[!\[([^\]]*)\]\(([^)]+)\)\]\(([^)]+)\)'
-    content = re.sub(pattern, replace_link, content)
-
-    # Also fix standalone relative path links: [text](../../raw/scans/img/...)
-    def replace_standalone_link(match):
-        link_text = match.group(1)
-        link_path = match.group(2)
-
-        # Only process if it's a local image path
-        if link_path.startswith('../../raw/') or link_path.startswith('../../derived/'):
-            clean_path = extract_filename_from_url(link_path)
-            new_url = f"https://github.com/{GITHUB_REPO}/blob/{BRANCH}/{clean_path}"
-            return f"[{link_text}]({new_url})"
-
-        return match.group(0)
-
-    # Match standalone links (not already part of image markdown)
-    # Negative lookbehind to avoid matching image links we already processed
-    content = re.sub(r'(?<!\!)\[([^\]]+)\]\(([^)]+)\)', replace_standalone_link, content)
+    # Pattern matches the full structure: [![alt](thumb)](link) [text](textlink)
+    # We'll replace it with just: [![alt](thumb)](link)
+    full_pattern = r'\[!\[([^\]]*)\]\(([^)]+)\)\]\(([^)]+)\)\s+\[[^\]]+\]\([^)]+\)'
+    content = re.sub(full_pattern, replace_link, content)
 
     # Count total changes
-    num_changes = len(re.findall(pattern, original_content))
+    num_changes = len(re.findall(full_pattern, original_content))
 
     if content != original_content:
         md_file.write_text(content, encoding='utf-8')
