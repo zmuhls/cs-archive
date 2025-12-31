@@ -212,7 +212,7 @@ def format_item_markdown(item: dict, show_artifact_id: bool = False) -> str:
     """Format a single item as markdown."""
     year = item.get('extracted_date')
     uncertain = item.get('date_uncertain', False)
-    title = item.get('item_title', 'Untitled')
+    title = item.get('item_title', '').strip() or item.get('subject', '').strip() or 'Untitled'
     location = item.get('location_guess', '')
     filename = item.get('filename', '')
     artifact_id = item.get('artifact_group_id', '')
@@ -234,7 +234,9 @@ def format_item_markdown(item: dict, show_artifact_id: bool = False) -> str:
         parts.append(date_str)
 
     if img_url:
-        parts.append(f"[![{title}]({img_url})]({blob_url})")
+        # Use "Thumbnail: FILENAME" format for alt text
+        base_filename = Path(filename).stem if filename else 'Unknown'
+        parts.append(f"[![Thumbnail: {base_filename}]({img_url})]({blob_url})")
     else:
         parts.append(title)
 
