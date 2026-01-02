@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 88,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_88.jpg",
+    "processed_at": "2026-01-01T22:47:05.574556",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "County",
+    "table_type": "unknown",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "10",
+        "town": "West Sparta",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS"
+      },
+      {
+        "n": "1",
+        "town": "North Danville",
+        "date_org": "",
+        "date_appr": "1 Sept. 1944",
+        "n_new": "1",
+        "rmk": "North Danville"
+      },
+      {
+        "n": "9",
+        "town": "Danville (Steben Co)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS"
+      },
+      {
+        "n": "1",
+        "town": "No Danville",
+        "date_org": "",
+        "date_appr": "effective November 15, 1944",
+        "n_new": "1",
+        "rmk": "North Danville"
+      },
+      {
+        "n": "10",
+        "town": "Danville - Steben Co",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS"
+      },
+      {
+        "n": "1",
+        "town": "North Danville",
+        "date_org": "",
+        "date_appr": "effective November 15, 1944",
+        "n_new": "1",
+        "rmk": "North Danville"
+      },
+      {
+        "n": "3+5",
+        "town": "Leicester",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Leicester + Perry",
+        "date_org": "",
+        "date_appr": "effective August 15, 1945",
+        "n_new": "1",
+        "rmk": "CRS"
+      },
+      {
+        "n": "8",
+        "town": "Leicester + Geneseo",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "York"
+      },
+      {
+        "n": "10",
+        "town": "Leicester + Perry",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS"
+      },
+      {
+        "n": "9",
+        "town": "Ossin",
+        "date_org": "",
+        "date_appr": "effective October 1, 1945",
+        "n_new": "1",
+        "rmk": "North Danville"
+      },
+      {
+        "n": "1",
+        "town": "North Danville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS"
+      },
+      {
+        "n": "9",
+        "town": "Sparta + Springwater",
+        "date_org": "",
+        "date_appr": "effective November 30, 1945",
+        "n_new": "1",
+        "rmk": "North Danville"
+      },
+      {
+        "n": "1",
+        "town": "North Danville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "CRS",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "4.5 dist",
+        "date_org": "5 Geneseo",
+        "date_appr": "Laid out Apr 23, 1947",
+        "n_new": "1",
+        "rmk": "Geneseo"
+      },
+      {
+        "n": "",
+        "town": "C.S dist",
+        "date_org": "4 Groneland",
+        "date_appr": "Meeting held May 19, 1947",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "1,4,6,7,8,9,10 Geneseo",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "1,2,3,5,6,8 Groneland",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "CRS",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "4.5 dist",
+        "date_org": "5 Caledonia",
+        "date_appr": "Laid out June 7, 1950",
+        "n_new": "1",
+        "rmk": "Caledonia (dist)"
+      },
+      {
+        "n": "",
+        "town": "C.S dist",
+        "date_org": "3 Wheatland + Caledonia (cons)",
+        "date_appr": "Meeting held June 23, 1950",
+        "n_new": "",
+        "rmk": "Wheatland + Riga (cons)"
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "3,6,7 Caledonia",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "Wheatland + Riga (cons)"
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "1 Caledonia + Pendleton (cons)",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "6,7 Wheatland (cons)",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "2 Wheatland + Le Roy (cons)",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "9 Wheatland + Riga + Le Roy",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

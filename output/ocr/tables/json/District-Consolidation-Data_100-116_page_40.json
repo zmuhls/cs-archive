@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 40,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_40.jpg",
+    "processed_at": "2026-01-01T22:27:03.686916",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Delaware",
+    "table_type": "union_free_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "21",
+        "town": "Colchester",
+        "date_org": "26 September 1903",
+        "date_appr": "",
+        "n_new": "7",
+        "rmk": ""
+      },
+      {
+        "n": "17",
+        "town": "Middletown",
+        "date_org": "5 November 1892",
+        "date_appr": "",
+        "n_new": "9",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Davenport",
+        "date_org": "23 July 1912",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "19",
+        "town": "Roxbury",
+        "date_org": "4 May 1920",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Kortright",
+        "date_org": "14 March 1922",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      }
+    ]
+  }
+}

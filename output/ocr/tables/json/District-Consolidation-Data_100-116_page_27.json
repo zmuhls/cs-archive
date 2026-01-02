@@ -1,0 +1,633 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 27,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_27.jpg",
+    "processed_at": "2026-01-01T22:22:14.290211",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Chenango",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1,8,9+12",
+        "town": "Afton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,10+11",
+        "town": "Afton + Coventry",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Afton + Bainbridge",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Afton + Coleville (Broome Co.)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Afton + Sanford (Broome Co.)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,3",
+        "town": "Coventry",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Coventry, Afton, Bainbridge",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Coleville, Sanford (Broome Co.)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "14",
+        "town": "Coleville + Afton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Sanford + Chauves (Broome Co.)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "17",
+        "town": "Sanford (Broome Co.) Afton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Columbus",
+        "date_org": "31 Aug. 1933 to take effect",
+        "date_appr": "15 Dec. 1933",
+        "n_new": "C.R.S. 1 Sherburne",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Sherburne",
+        "date_org": "31 Aug. 1933",
+        "date_appr": "15 Dec. 1933",
+        "n_new": "C.R.S. 1 Sherburne",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Columbus",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Sherburne",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "C.R.S.",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "New Berlin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "C.R.S. 1 New Berlin + Columbus, Chenango Co., Pittsfield, Otego Co., Madison Co.",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Columbus + New Berlin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,9,10+12",
+        "town": "New Berlin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,8+9",
+        "town": "Columbus",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,3,6,7+8",
+        "town": "Pittsfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Edmeston",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4+10",
+        "town": "New Berlin + Columbus, Chenango Co. + Pittsfield, Otego Co.",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Edmeston, Otego Co. + Columbus, Chenango Co.",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Smyrna",
+        "date_org": "2 June 1936 to take effect",
+        "date_appr": "1st Sept 1936",
+        "n_new": "2 Smyrna",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "C.R.S. 2 Guilford",
+        "rmk": ""
+      },
+      {
+        "n": "16",
+        "town": "Unadilla + Guilford (Otego Co.)",
+        "date_org": "26 June 1936 to take effect",
+        "date_appr": "1 October 1936",
+        "n_new": "C.R.S. 2 Guilford",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Guilford, Ypsilanti, Butternut, Unadilla",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Pittsfield, Otego Co.",
+        "date_org": "1 March 1937 to take effect",
+        "date_appr": "30 June 1937",
+        "n_new": "C.R.S. 1 New Berlin etc.",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "New Berlin, Columbus, Chenango Co., Pittsfield, Edmeston, Otego Co., Brookfield, Madison Co.",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Oxford + Coventry",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "C.R.S. 1 Oxford etc.",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Oxford, Pierson, McDonough + Smithville",
+        "date_org": "10 April 1937 to take effect",
+        "date_appr": "23 July 1937",
+        "n_new": "C.R.S. 1 Coleville, Broome Co.",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Coleville, Broome Co.",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Coventry",
+        "date_org": "26 March 1938 to take effect",
+        "date_appr": "1 July 1938",
+        "n_new": "C.R.S. 1 Sherburne",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Sherburne",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8+14",
+        "town": "Hamilton (Mad. Co.)",
+        "date_org": "27 April 1937",
+        "date_appr": "27 July 1937",
+        "n_new": "C.R.S. 1 Bainbridge",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Sanford (Broome Co.)",
+        "date_org": "27 April 1938",
+        "date_appr": "15 Aug. 1938",
+        "n_new": "C.R.S. 1 Afton",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Bainbridge",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Coventry",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Afton",
+        "date_org": "13 Aug. 1938 to take effect",
+        "date_appr": "15 Nov. 1938",
+        "n_new": "C.R.S. 1 Coleville",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Coventry",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Coleville (Broome)",
+        "date_org": "5 January 1939 to take effect",
+        "date_appr": "1 July 1939",
+        "n_new": "C.R.S. 1 Cincinnati",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "German",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Cincinnatus (Cortland)",
+        "date_org": "10 March 1939 to take effect",
+        "date_appr": "1 July 1939",
+        "n_new": "C.R.S. 1 Cincinnatus",
+        "rmk": ""
+      },
+      {
+        "n": "11+5",
+        "town": "Smyrna",
+        "date_org": "12 June 1939",
+        "date_appr": "15 Sept 1939",
+        "n_new": "5 Smyrna",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Smyrna",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "C.R.S. 1 Sherburne",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Sherburne",
+        "date_org": "5 Nov. 1940",
+        "date_appr": "10 Feb. 1941",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "C.R.S. dist",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "U.J.S. 4 Greene",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "U.J.S. dist 15 Smithville + German",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "C.S. dists 5,6,7,8,9,10,15,18,19+23 Greene",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "13,17+22 Greene + Smithville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "14+24 Greene + Coventry",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "16 Greene + Oxford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "11 Greene, Triangle + Basher",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "2+3 Smithville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "4 Smithville + Greene",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "5 Smithville + Willett",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "6 Smithville + McDonough",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "7 Coventry",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "8 Coventry + Greene",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Laid out 11 April 1941",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Meeting held 5 May 1941",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Designation of dist 13 May 1941",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Smyrna",
+        "date_org": "14 May 1941 to take effect",
+        "date_appr": "15 Aug. 1941",
+        "n_new": "C.R.S. 1 Otsego",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Otsego",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "C.R.S. 1 Otsego",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Plymouth",
+        "date_org": "5 June 1941",
+        "date_appr": "6 Sept 1941",
+        "n_new": "C.R.S. 1 Sherburne",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Otsego",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "C.R.S. 1 Oxford",
+        "rmk": ""
+      },
+      {
+        "n": "4,5,6",
+        "town": "10,12 and 14 Smyrna",
+        "date_org": "15 May 1941",
+        "date_appr": "15 Aug. 1941",
+        "n_new": "C.R.S. 1 Afton",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Sherburne",
+        "date_org": "27 May 1941",
+        "date_appr": "1 Sept 1941",
+        "n_new": "C.R.S. 1 Oxford",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "McDonough + Pierson",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Oxford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "15",
+        "town": "Afton",
+        "date_org": "30 June 1941",
+        "date_appr": "29 Sept 1941",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Afton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "H",
+        "town": "Oxford",
+        "date_org": "28 May 1942",
+        "date_appr": "1 Sept 1942",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Oxford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

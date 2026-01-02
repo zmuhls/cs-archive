@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 100,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_100.jpg",
+    "processed_at": "2026-01-01T22:52:07.960080",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Montgomery",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "2",
+        "town": "Minden",
+        "date_org": "Appealed",
+        "date_appr": "Order set aside",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "St Johnsville",
+        "date_org": "5 May 1915",
+        "date_appr": "8-36873 14-52710",
+        "n_new": "2 St Johnsville",
+        "rmk": ""
+      },
+      {
+        "n": "8 & 14",
+        "town": "Root",
+        "date_org": "12 May 1915",
+        "date_appr": "to take effect 1 Je. 14-15",
+        "n_new": "8 Root",
+        "rmk": ""
+      },
+      {
+        "n": "4 & 19",
+        "town": "Minden",
+        "date_org": "1 June 1915",
+        "date_appr": "4-60,662 17-50,321",
+        "n_new": "4 Minden",
+        "rmk": ""
+      },
+      {
+        "n": "11 & 16",
+        "town": "Minden",
+        "date_org": "28 August 1926",
+        "date_appr": "11-31841 16-68071",
+        "n_new": "16 Minden",
+        "rmk": ""
+      },
+      {
+        "n": "3 & 7",
+        "town": "St. Johnsville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "C.R.S",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "St. Johnsville & Palatine",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "2 St. Johnsville, Palatine",
+        "rmk": ""
+      },
+      {
+        "n": "1 & 2",
+        "town": "Minden",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "and Minden, Montgomery, Oppenheim, Ephratah, Fulton Co. and Marheim, Herkimer Co.",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Palatine & St. Johnsville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Marheim & St. Johnsville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of Central School Dist. Oppenheim, Ephratah, Stafford, St. Johnsville, Minden",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of Oppenheim & St. Johnsville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Oswego (Herkimer Co.)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "St. Johnsville",
+        "date_org": "",
+        "date_appr": "15 Sept 1944",
+        "n_new": "C.R.S",
+        "rmk": "2 St. Johnsville"
+      },
+      {
+        "n": "1-8",
+        "town": "Canajoharie",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "C.R.S.",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Palatine",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Canajoharie, Palatine",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,3,9,10",
+        "town": "Canajoharie",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Root, Minden, Charleston",
+        "rmk": ""
+      },
+      {
+        "n": "4 & 5",
+        "town": "Canajoharie & Root",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Mohawk, Montgomery &",
+        "rmk": ""
+      },
+      {
+        "n": "13 & 14",
+        "town": "Canajoharie & Minden",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Carlsbad, Shann, Schoharie Co.",
+        "rmk": ""
+      },
+      {
+        "n": "10 & 16",
+        "town": "Palatine & Mohawk",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5 & 12",
+        "town": "Root & Mohawk",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,4,5,8,11",
+        "town": "Root",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Canajoharie",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Charleston, Otselic",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Canajoharie, Shann",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Charleston",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Dewitt - Herkimer",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "C.R.S",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "St. Johnsville",
+        "date_org": "",
+        "date_appr": "Effective August 1, 1945",
+        "n_new": "2 St. Johnsville",
+        "rmk": ""
+      }
+    ]
+  }
+}

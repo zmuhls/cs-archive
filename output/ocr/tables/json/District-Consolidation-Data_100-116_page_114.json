@@ -1,0 +1,473 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 114,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_114.jpg",
+    "processed_at": "2026-01-01T23:00:46.918206",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Onondaga",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "5,7,9,22",
+        "town": "Onondaga",
+        "date_org": "27 March 1916",
+        "date_appr": "5-42,300 16; 7-162,135 16; 22-288,782 26",
+        "n_new": "5 Onondaga",
+        "rmk": ""
+      },
+      {
+        "n": "11,13",
+        "town": "Manlius",
+        "date_org": "7 August 1918",
+        "date_appr": "11-1,005,935 Acad; 13-62,983 Cont",
+        "n_new": "11 Manlius",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 18 and 3 Manlius",
+        "date_org": "17 June 1921",
+        "date_appr": "Part added to No. 3 Manlius 99.34",
+        "n_new": "3 Manlius",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 6 Van Buren and 4 Van Buren",
+        "date_org": "6 August 1922",
+        "date_appr": "Part added to No. 4 Van Buren 50; 100;",
+        "n_new": "4 Van Buren",
+        "rmk": ""
+      },
+      {
+        "n": "6 to 7",
+        "town": "Manlius",
+        "date_org": "24 June 1924 to take effect 1 Jul",
+        "date_appr": "6-1,023,624 Acad; 7-101,161 Cont",
+        "n_new": "6 Manlius",
+        "rmk": ""
+      },
+      {
+        "n": "15,21",
+        "town": "Onondaga",
+        "date_org": "7 October 1926 to take effect 11 Oct",
+        "date_appr": "15-86,565 16; 21-186,418 16",
+        "n_new": "15 Onondaga",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Onondaga, City Syracuse",
+        "date_org": "1 January 1927",
+        "date_appr": "",
+        "n_new": "City of Syracuse",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "DeWitt",
+        "date_org": "1 January 1927",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 8, 10, 12",
+        "date_org": "1 January 1927",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,9,11",
+        "town": "Elbridge C.R.S.",
+        "date_org": "Laid out 24 Sep 1928; Meeting held Nov 1928; Design. of dist. 2 Jan 1929",
+        "date_appr": "9-107,539 - 7th ncnt; 9-344,400 - acad; 11-236,501 - cont; 6-860,381 - 16; 11-57,488 - 16",
+        "n_new": "3 Elbridge, Onon. Co. of Brutus, Cay Co.",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Elbridge, Onon Co & Brutus, Cay Co",
+        "date_org": "Design. of dist. 2 Jan 1929",
+        "date_appr": "",
+        "n_new": "Designated 1 Nov 1952",
+        "rmk": ""
+      },
+      {
+        "n": "6,11",
+        "town": "Pompey",
+        "date_org": "10 October 1927",
+        "date_appr": "",
+        "n_new": "6 Pompey",
+        "rmk": ""
+      },
+      {
+        "n": "1,3,4,6",
+        "town": "Tully C.R.S.",
+        "date_org": "Laid out 13 Jan 1930",
+        "date_appr": "",
+        "n_new": "2 Tully, Lafayette, Fabius, Otisco, Spafford, Ohm. Cont, Preble, Truxton, Cort. Co.",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "LaFayette",
+        "date_org": "Meeting held 30 Jan 1930",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Preble & Truxton, Cort. Co.",
+        "date_org": "Design. of dist. 20 Feb 1930",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Truxton & town of Tully",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Preble & town of Tully",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Tully, Otisco, Spafford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Tully, Fabius",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Pompey, Elbridge, Onondaga",
+        "date_org": "Order vacated 16 Jul 1930; Order vacated 27 July 1930; Laid out 27 May 1930; Meeting held 16 Jul 1930; Designation of dist. 23 Jul 1930",
+        "date_appr": "",
+        "n_new": "3 Elbridge",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Elbridge",
+        "date_org": "Order vacated 27 July 1930; Laid out 27 May 1930; Meeting held 16 Jul 1930; Designation of dist. 23 Jul 1930",
+        "date_appr": "",
+        "n_new": "3 Elbridge",
+        "rmk": ""
+      },
+      {
+        "n": "2,13,14,15,17,18",
+        "town": "Onondaga",
+        "date_org": "Laid out 27 May 1930; Meeting held 16 Jul 1930; Designation of dist. 23 Jul 1930",
+        "date_appr": "",
+        "n_new": "1 Onondaga, Manellus",
+        "rmk": ""
+      },
+      {
+        "n": "10,16",
+        "town": "Onondaga & Marcellus",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "LaFayette & Otisco",
+        "rmk": ""
+      },
+      {
+        "n": "19",
+        "town": "Onondaga, Lafayette & Otisco",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,7,8,9,10,15",
+        "town": "Fabius",
+        "date_org": "C.R.S.",
+        "date_appr": "",
+        "n_new": "1 Fabius, Lafayette, Pompey",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Fabius & Lafayette",
+        "date_org": "C.R.S.",
+        "date_appr": "",
+        "n_new": "Cuyler & Truxton",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Pompey & Fabius",
+        "date_org": "Laid out 7 Jul 1930; Meeting held 23 Jul 1930",
+        "date_appr": "",
+        "n_new": "C.R.S.",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Cuyler & Fabius (part)",
+        "date_org": "Designation of dist. 29 Jul 1930",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Fabius & Truxton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Otisco",
+        "date_org": "5 March 1930 to take effect 6 Mar 1930",
+        "date_appr": "",
+        "n_new": "2 Tully",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Tully",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Fabius & Tully",
+        "date_org": "27 Feb 1930 to take effect 2 Mar 1930",
+        "date_appr": "",
+        "n_new": "2 Tully",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Tully",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Marcellus & Skaneateles",
+        "date_org": "C.R.S.",
+        "date_appr": "",
+        "n_new": "1 Marcellus, Skaneateles, Camillus, Onondaga, Spafford & Otisco; Onon. Co.",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Onondaga, Camillus & Marcellus",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,4,6,6,7",
+        "town": "Marcellus",
+        "date_org": "Laid out 15 Oct 1935; Meeting held 29 Oct 1935; Designation of dist. 7 Nov 1935",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Marcellus & Camillus",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Marcellus & Onondaga",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Marcellus & Spafford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Skaneateles & Marcellus",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Otisco",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,11",
+        "town": "Fabius",
+        "date_org": "5 Nov 1936 to take effect 6 Feb 1937",
+        "date_appr": "",
+        "n_new": "11 Fabius",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "LaFayette",
+        "date_org": "Laid out 27 May 1931; Meeting held 19 Nov 1937; Designation of dist. 23 Nov 1937",
+        "date_appr": "",
+        "n_new": "C.R.S.",
+        "rmk": ""
+      },
+      {
+        "n": "2,3,4,5,6",
+        "town": "LaFayette",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "7 LaFayette, Fabius, Tully & Onondaga",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "LaFayette, Fabius & Tully",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "25",
+        "town": "Onondaga & LaFayette",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Skaneateles",
+        "date_org": "13 May 1938 to take effect 15 Aug 1938",
+        "date_appr": "",
+        "n_new": "C.R.S.",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Marcellus",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Marcellus",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Marcellus",
+        "date_org": "28 October 1938 to take effect 1 July 1939",
+        "date_appr": "",
+        "n_new": "1 Marcellus",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Marcellus",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "13",
+        "town": "Eysander",
+        "date_org": "25 May 1942 to take effect 25 Aug 1942",
+        "date_appr": "",
+        "n_new": "16 Eysander",
+        "rmk": ""
+      },
+      {
+        "n": "16",
+        "town": "Eysander",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Pompey",
+        "date_org": "1 April 1943 to take effect 5 July 1943",
+        "date_appr": "",
+        "n_new": "1 Cayuga Med.",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Cayuga Med. Co.",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Otisco",
+        "date_org": "19 March 1943 to take effect 1 July 1943",
+        "date_appr": "",
+        "n_new": "2 Tully",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Tully",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

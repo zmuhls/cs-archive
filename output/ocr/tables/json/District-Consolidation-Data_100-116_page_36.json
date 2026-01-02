@@ -1,0 +1,369 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 36,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_36.jpg",
+    "processed_at": "2026-01-01T22:25:19.090599",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Columbia",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1+2",
+        "town": "New Lebanon",
+        "date_org": "31 August 1914",
+        "date_appr": "1-234,474 265 Acad. 14-15",
+        "n_new": "15,150",
+        "rmk": "1 New Lebanon"
+      },
+      {
+        "n": "8+10",
+        "town": "Ghent",
+        "date_org": "10 May 1915",
+        "date_appr": "2-14,150 1K 14,905 8-167,876 1K 10-365 103 263",
+        "n_new": "renumbered",
+        "rmk": "3 Ghent"
+      },
+      {
+        "n": "3+10",
+        "town": "Ghent (formerly No.12)",
+        "date_org": "5 May 1915",
+        "date_appr": "3-81,300 1K 10-see above",
+        "n_new": "",
+        "rmk": "3 Ghent"
+      },
+      {
+        "n": "1+2",
+        "town": "New Lebanon",
+        "date_org": "29 July 1916",
+        "date_appr": "1-See above 2-64,000 1K 15-16 4-51,221 1K 7-114,427 1K 8-162,788 1K",
+        "n_new": "",
+        "rmk": "1 New Lebanon"
+      },
+      {
+        "n": "4,7+8",
+        "town": "Copake",
+        "date_org": "25 April 1919",
+        "date_appr": "6-33,800 Conf 13-69,680 1K 2-236,620 1K 5-146,699 1K 3-76,647 1K 4-84,315 1K 21-22",
+        "n_new": "renum.",
+        "rmk": "8 Copake"
+      },
+      {
+        "n": "6+13",
+        "town": "Chatham",
+        "date_org": "7 May 1921",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "13 Chatham"
+      },
+      {
+        "n": "2+5",
+        "town": "Germantown",
+        "date_org": "17 November 1921",
+        "date_appr": "265 (26+21)",
+        "n_new": "",
+        "rmk": "2 Germantown"
+      },
+      {
+        "n": "3+4",
+        "town": "Germantown + Clermont",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "4 Clermont"
+      },
+      {
+        "n": "C.R.S. 1,2,7+9",
+        "town": "New Lebanon",
+        "date_org": "",
+        "date_appr": "Laid out 9 Jul. 1928 Meeting held 19 Jul. 1928 Design. dist. 25 Jul. 1928 1-see above 2-24,554 1K 7-108,070 1K 9-30,647 Conf. 6.30303-1K",
+        "n_new": "",
+        "rmk": "1 New Lebanon & Candan"
+      },
+      {
+        "n": "1+6",
+        "town": "New Lebanon",
+        "date_org": "5 February 1929",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "1 New Lebanon"
+      },
+      {
+        "n": "1+2",
+        "town": "Hillsdale + Copake",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "1 Hillsdale, Copake"
+      },
+      {
+        "n": "8",
+        "town": "Copake",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,7,8,9,10",
+        "town": "Hillsdale + Claverack",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Hillsdale + Taghkanic",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Hillsdale + Austerlitz",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6+14",
+        "town": "Averram + No. East",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2+4",
+        "town": "Copake + Taghkanic",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Copake + Balaclava",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Copake + Taghkanic",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Copake + Taghkanic",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,3,5",
+        "town": "Copake + Taghkanic",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Copake + Taghkanic",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Copake + Hillsdale",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Copake + Averram",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1+2",
+        "town": "Taghkanic + Copake",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3+6",
+        "town": "Taghkanic + Copake",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Claverack (2d Col.)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Stephentown (2d Rensselaer)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "New Lebanon",
+        "date_org": "29 May 1931 to take effect 1 Sept. 1930",
+        "date_appr": "C.R.S. Laid out 11 Jul. 1931. Meeting 2 Stephentown Held 2 Jul. 1931. Designation of dist. 17 Jul. 1931",
+        "n_new": "",
+        "rmk": "1 New Lebanon"
+      },
+      {
+        "n": "2d",
+        "town": "Germantown + Clermont",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Germantown",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Germantown",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1+5",
+        "town": "New Lebanon",
+        "date_org": "28 May 1937 to take effect 30 Aug. 1937",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "1 New Lebanon"
+      },
+      {
+        "n": "3",
+        "town": "New Lebanon",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "New Lebanon",
+        "date_org": "19 June 1942",
+        "date_appr": "17 Sept 1942",
+        "n_new": "",
+        "rmk": "1 New Lebanon"
+      },
+      {
+        "n": "CRS",
+        "town": "New Lebanon",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS"
+      },
+      {
+        "n": "2",
+        "town": "Claverack",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "2 Claverack"
+      },
+      {
+        "n": "C.R.S. 2,5,7,8,9,10,12",
+        "town": "Claverack",
+        "date_org": "Laid out June 4, 1946",
+        "date_appr": "Meeting June 26, 1946",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Champion",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,8",
+        "town": "Ghent",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4,12,13",
+        "town": "Hillsdale",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Austerlitz",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "16",
+        "town": "Schodack (Rensselaer Co.)",
+        "date_org": "Aug 23 1913 (per creed and 9 chetam)",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "creed (in part) with #9 Chatham"
+      }
+    ]
+  }
+}

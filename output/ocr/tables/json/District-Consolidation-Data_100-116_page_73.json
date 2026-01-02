@@ -1,0 +1,433 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 73,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_73.jpg",
+    "processed_at": "2026-01-01T22:39:11.261166",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Herkimer",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "8",
+        "town": "Stark",
+        "date_org": "25 October 1913",
+        "date_appr": "8- 9900 Conf",
+        "n_new": "8 Stark",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Stark",
+        "date_org": "3 October 1913",
+        "date_appr": "9- 47719 1k",
+        "n_new": "3 Stark",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Warren",
+        "date_org": "23 March 1914",
+        "date_appr": "3- 23,290 Regal. 15 for 1/2 yr. 12-13",
+        "n_new": "8 Warren",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Schuyler",
+        "date_org": "9 September 1915",
+        "date_appr": "11- 24,585 1k",
+        "n_new": "6 Schuyler",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Ohio",
+        "date_org": "24 October 1918",
+        "date_appr": "8- 30,260 C-10 10- 68,950 1k",
+        "n_new": "4 Ohio",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Norway",
+        "date_org": "31 March 1919",
+        "date_appr": "6- 14,15 1k 15-16 30,960 1k 13- 72,000 C-1 14-39",
+        "n_new": "4 Norway",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Norway",
+        "date_org": "8 August 1919",
+        "date_appr": "3- 9,180 1k 4- 835.3 1k",
+        "n_new": "7 Norway",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Webb",
+        "date_org": "16 September 1919",
+        "date_appr": "4- 63,584 1k 18-19",
+        "n_new": "1 Webb",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Fairfield",
+        "date_org": "21 April 1923",
+        "date_appr": "6- 13,920 1k",
+        "n_new": "5 Fairfield",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Fairfield",
+        "date_org": "25 August 1924",
+        "date_appr": "7 Ohio 10,700 1k 18-19",
+        "n_new": "2 Fairfield",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Salisbury",
+        "date_org": "C.R.S. with 1 Stratford, Fulton Co. id See",
+        "date_appr": "7 Norway 28,996 1k",
+        "n_new": "Salisbury",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Manfield (Neb. co.) + Bridgewater (Oneida co.)",
+        "date_org": "C.R.S.",
+        "date_appr": "1- 1,881,544 16k Good 1919-20",
+        "n_new": "Manfield, Littlefield",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Plainfield (Otsego co.) + Brookfield (Madison co.)",
+        "date_org": "C.R.S.",
+        "date_appr": "2- 154,666 1k",
+        "n_new": "Columbia (Oneida co.)",
+        "rmk": ""
+      },
+      {
+        "n": "2,5,6,7",
+        "town": "Manfield",
+        "date_org": "C.R.S.",
+        "date_appr": "3- 51,611 Conf",
+        "n_new": "Manfield, Littlefield",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Littlefield",
+        "date_org": "C.R.S.",
+        "date_appr": "5- 667,067 9k Good 21-22",
+        "n_new": "Columbia (Oneida co.)",
+        "rmk": ""
+      },
+      {
+        "n": "3,4,9",
+        "town": "Plainfield (Otsego co.)",
+        "date_org": "C.R.S.",
+        "date_appr": "1- 32,584 1k",
+        "n_new": "Plainfield, Richfield",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Manfield (Neb. co.) + Plainfield (Otsego co.)",
+        "date_org": "C.R.S.",
+        "date_appr": "2- 70,561 1k",
+        "n_new": "Eutaw (Otsego co.) +",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Richfield (\" - )",
+        "date_org": "C.R.S.",
+        "date_appr": "Laid out 29 May 1931",
+        "n_new": "Bridgewater + Paris (Oneida co.) +",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Littlefield + Columbia",
+        "date_org": "C.R.S.",
+        "date_appr": "Meeting held 25 June 1931",
+        "n_new": "Brookfield (Madison co.)",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Columbia",
+        "date_org": "C.R.S.",
+        "date_appr": "Designation of dist 25 June 1931",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Plainfield + Eutaw (Otsego co.)",
+        "date_org": "C.R.S.",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Richfield (Otsego co.) + Manfield (Neb. co.)",
+        "date_org": "C.R.S.",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Bridgewater (Oneida co.) + Manfield (Neb. co.)",
+        "date_org": "C.R.S.",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Eutaw + Plainfield (Otsego co.)",
+        "date_org": "C.R.S.",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Richfield + \"",
+        "date_org": "C.R.S.",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Bridgewater + Paris (Oneida co.) + Manfield (Neb. co.)",
+        "date_org": "C.R.S.",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,5,6,7,10,13",
+        "town": "Stark",
+        "date_org": "2d",
+        "date_appr": "Laid out 16 Apr. 1931",
+        "n_new": "1 Stark + Little Falls (Neb. co.)",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Stark + Little Falls",
+        "date_org": "2d",
+        "date_appr": "Meeting held 1 May 31",
+        "n_new": "Minden (Montgomery co.)",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "\" (Neb. co.) + Minden (Montg. co.)",
+        "date_org": "10k",
+        "date_appr": "Designation of dist 18 June 31",
+        "n_new": "Springfield (Otsego co.)",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Springfield (Otsego co.) + Stark (Neb. co.)",
+        "date_org": "9 July 1931",
+        "date_appr": "7 October 1931",
+        "n_new": "4 Ohio",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Ohio",
+        "date_org": "9 July 1931",
+        "date_appr": "to take effect 10 Oct. 1931",
+        "n_new": "4 Ohio",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Springfield + Haven",
+        "date_org": "1 July 1932",
+        "date_appr": "to take effect 1 Nov. 1932",
+        "n_new": "C.R.S. 1 Stark",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Stark",
+        "date_org": "4 June 1932",
+        "date_appr": "1 Dec. 1932",
+        "n_new": "C.R.S. 1 Stark",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Haven + town 2k",
+        "date_org": "4 May 1932",
+        "date_appr": "15 Aug. 1932",
+        "n_new": "C.R.S. 1 Stark",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Stark",
+        "date_org": "4 May 1932",
+        "date_appr": "15 Aug. 1932",
+        "n_new": "C.R.S. 1 Stark",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Haven",
+        "date_org": "4 May 1932",
+        "date_appr": "15 Aug. 1932",
+        "n_new": "C.R.S. 1 Stark",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Stark",
+        "date_org": "4 June 1932",
+        "date_appr": "15 Dec. 1932",
+        "n_new": "C.R.S. 1 Stark",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Haven",
+        "date_org": "4 June 1932",
+        "date_appr": "15 Dec. 1932",
+        "n_new": "C.R.S. 1 Stark",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Stark",
+        "date_org": "4 June 1932",
+        "date_appr": "15 Dec. 1932",
+        "n_new": "C.R.S. 1 Stark",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Haven + Columbia",
+        "date_org": "4 June 1932",
+        "date_appr": "15 Dec. 1932",
+        "n_new": "C.R.S. 1 Stark",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Stark",
+        "date_org": "4 June 1932",
+        "date_appr": "15 Dec. 1932",
+        "n_new": "C.R.S. 1 Stark",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S.",
+        "town": "dist. 8 Newport + Russia",
+        "date_org": "Laid out 24 May 1934",
+        "date_appr": "Meeting held 18 June 1934",
+        "n_new": "C.R.S. 3 Newport, Russia",
+        "rmk": ""
+      },
+      {
+        "n": "U.F.S.",
+        "town": "3 Newport, 3 Norway, 7 Norway",
+        "date_org": "Designation of dist 28 June 1934",
+        "date_appr": "Norway, Ohio, Salisbury",
+        "n_new": "",
+        "rmk": null
+      },
+      {
+        "n": "C.S.",
+        "town": "4 Ohio, 1 & 5 Ohio, 4 Salisbury",
+        "date_org": "Designation of dist 28 June 1934",
+        "date_appr": "Webb and Deerfield",
+        "n_new": "",
+        "rmk": null
+      },
+      {
+        "n": "",
+        "town": "2,3,4 & 8 Ohio, 9 Ohio & Webb, 5, 6, 7, 9, 10, 11, 12 Russia, 15 Russia, Norway & Ohio, 10 Deerfield (Oneida Co.)",
+        "date_org": "Designation of dist 28 June 1934",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": null
+      },
+      {
+        "n": "1",
+        "town": "Russia + 3 Newport",
+        "date_org": "20 Aug 1934",
+        "date_appr": "to take effect 1 Dec. 1934",
+        "n_new": "C.R.S. 3 Newport",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Oppenheim + 10 Oppenheim",
+        "date_org": "12 June 1936",
+        "date_appr": "to take effect 15 Sept 1936",
+        "n_new": "10 Oppenheim",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Danube + Stark",
+        "date_org": "15 July 1936",
+        "date_appr": "to take effect 15 Oct 1936",
+        "n_new": "C.R.S. 1 Stark",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Stark, Little Falls, Minden, Springfield",
+        "date_org": "24 June 1937",
+        "date_appr": "to take effect 25 Sept 1937",
+        "n_new": "C.R.S. 1 Stark",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Little Falls, Gurnee, 3 Little Falls",
+        "date_org": "24 June 1937",
+        "date_appr": "to take effect 25 Sept 1937",
+        "n_new": "C.R.S. 1 Stark",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Stark etc",
+        "date_org": "24 June 1937",
+        "date_appr": "to take effect 25 Sept 1937",
+        "n_new": "C.R.S. 1 Stark",
+        "rmk": ""
+      }
+    ]
+  }
+}

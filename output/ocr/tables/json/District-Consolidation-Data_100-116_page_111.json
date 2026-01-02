@@ -1,0 +1,569 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 111,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_111.jpg",
+    "processed_at": "2026-01-01T22:59:01.342826",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Oneida",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "7 to 2",
+        "town": "Paris",
+        "date_org": "13 June 1938",
+        "date_appr": "13 Sept 1938",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Paris"
+      },
+      {
+        "n": "",
+        "town": "Part of Brookfield & C.R.S. 9 Brookfield",
+        "date_org": "1 Aug 1938",
+        "date_appr": "5 Nov 1938",
+        "n_new": "",
+        "rmk": "C.R.S. 9 Brookfield"
+      },
+      {
+        "n": "",
+        "town": "Part of Marshall & C.R.S. 10 Sangerfield",
+        "date_org": "11 Aug 1938",
+        "date_appr": "11 Nov 1938",
+        "n_new": "",
+        "rmk": "C.R.S. 10 Sangerfield"
+      },
+      {
+        "n": "",
+        "town": "Part of 1 Kirkland",
+        "date_org": "11 Aug 1938",
+        "date_appr": "11 Nov 1938",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Kirkland"
+      },
+      {
+        "n": "8",
+        "town": "Forestport",
+        "date_org": "22 March 1939",
+        "date_appr": "1 July 1939",
+        "n_new": "",
+        "rmk": "C.R.S. 10 Forestport"
+      },
+      {
+        "n": "10",
+        "town": "Forestport",
+        "date_org": "22 March 1939",
+        "date_appr": "1 July 1939",
+        "n_new": "",
+        "rmk": "C.R.S. 10 Forestport"
+      },
+      {
+        "n": "4",
+        "town": "Sitchfield, Herkimer Co",
+        "date_org": "22 March 1939",
+        "date_appr": "1 July 1939",
+        "n_new": "",
+        "rmk": "C.R.S. 4 Sitchfield"
+      },
+      {
+        "n": "2",
+        "town": "Paris",
+        "date_org": "12 June 1940",
+        "date_appr": "11 Sept 1940",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Paris"
+      },
+      {
+        "n": "7",
+        "town": "Marshall",
+        "date_org": "29 March 1941",
+        "date_appr": "1 July 1941",
+        "n_new": "",
+        "rmk": "C.R.S. 7 Marshall"
+      },
+      {
+        "n": "1",
+        "town": "Sangerfield",
+        "date_org": "29 March 1941",
+        "date_appr": "1 July 1941",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Sangerfield"
+      },
+      {
+        "n": "26",
+        "town": "Rome",
+        "date_org": "25 March 1941",
+        "date_appr": "1 July 1941",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Rome"
+      },
+      {
+        "n": "",
+        "town": "C.R.S 2 Rome",
+        "date_org": "25 March 1941",
+        "date_appr": "1 July 1941",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Rome"
+      },
+      {
+        "n": "1",
+        "town": "Camden",
+        "date_org": "Laid out 12 June 1943",
+        "date_appr": "Meeting held 30 June 1943",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Camden, Annville"
+      },
+      {
+        "n": "2,3,5,6,7,11",
+        "town": "Camden",
+        "date_org": "Laid out 12 June 1943",
+        "date_appr": "Meeting held 30 June 1943",
+        "n_new": "",
+        "rmk": "Florence, Vienna and"
+      },
+      {
+        "n": "4",
+        "town": "Camden & Vienna",
+        "date_org": "Laid out 12 June 1943",
+        "date_appr": "Meeting held 30 June 1943",
+        "n_new": "",
+        "rmk": "Lee, Oneida Co. and"
+      },
+      {
+        "n": "8",
+        "town": "Camden & Florence",
+        "date_org": "Laid out 12 June 1943",
+        "date_appr": "Meeting held 30 June 1943",
+        "n_new": "",
+        "rmk": "Williamstown and"
+      },
+      {
+        "n": "9",
+        "town": "Camden, Florence & Williamstown",
+        "date_org": "Laid out 12 June 1943",
+        "date_appr": "Meeting held 30 June 1943",
+        "n_new": "",
+        "rmk": "Constantia, Oswego Co"
+      },
+      {
+        "n": "10",
+        "town": "Camden, Florence & Constantia",
+        "date_org": "Laid out 12 June 1943",
+        "date_appr": "Meeting held 30 June 1943",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12; 13",
+        "town": "Camden & Annville",
+        "date_org": "Laid out 12 June 1943",
+        "date_appr": "Meeting held 30 June 1943",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "14",
+        "town": "Camden, Annville & Florence",
+        "date_org": "Laid out 12 June 1943",
+        "date_appr": "Meeting held 30 June 1943",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,3,4,7,8,9,11,12,14,15",
+        "town": "Annville",
+        "date_org": "Designation of district 12 July 1943",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Annville & Florence",
+        "date_org": "Designation of district 12 July 1943",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "16",
+        "town": "Annville & Lee",
+        "date_org": "Designation of district 12 July 1943",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,3,4,5,6,8,11,12,14,15",
+        "town": "Florence",
+        "date_org": "Designation of district 12 July 1943",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "16",
+        "town": "Florence & Annville",
+        "date_org": "Designation of district 12 July 1943",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,4,8,9,12,13,14",
+        "town": "Vienna",
+        "date_org": "Designation of district 12 July 1943",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Western",
+        "date_org": "26 August 1943",
+        "date_appr": "26 Nov 1943",
+        "n_new": "",
+        "rmk": "16 Western"
+      },
+      {
+        "n": "16",
+        "town": "Western",
+        "date_org": "26 August 1943",
+        "date_appr": "26 Nov 1943",
+        "n_new": "",
+        "rmk": "C.R.S. 16 Western"
+      },
+      {
+        "n": "13",
+        "town": "Aurora, Herkimer Co.",
+        "date_org": "26 August 1943",
+        "date_appr": "26 Nov 1943",
+        "n_new": "",
+        "rmk": "C.R.S. 13 Aurora"
+      },
+      {
+        "n": "1",
+        "town": "Remsen",
+        "date_org": "1 Sept 1944",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Remsen"
+      },
+      {
+        "n": "2",
+        "town": "Floyd",
+        "date_org": "15 Sept 1944",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Floyd"
+      },
+      {
+        "n": "1",
+        "town": "Trenton",
+        "date_org": "15 Sept 1944",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Trenton"
+      },
+      {
+        "n": "1",
+        "town": "Bonnville",
+        "date_org": "Laid out & designated 13 June 1944",
+        "date_appr": "Meeting held 30 June 1944",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Bonville, Ava, Western & Steuben"
+      },
+      {
+        "n": "2,5,6,8,10,11,12,13,15,16,18",
+        "town": "Bonnville",
+        "date_org": "Laid out & designated 13 June 1944",
+        "date_appr": "Meeting held 30 June 1944",
+        "n_new": "",
+        "rmk": "Oneida Co. & Leyden"
+      },
+      {
+        "n": "3",
+        "town": "Bonnville & Ava",
+        "date_org": "Laid out & designated 13 June 1944",
+        "date_appr": "Meeting held 30 June 1944",
+        "n_new": "",
+        "rmk": "Lynndale, Lewis Co."
+      },
+      {
+        "n": "4",
+        "town": "Bonnville & Lynndale",
+        "date_org": "Laid out & designated 13 June 1944",
+        "date_appr": "Meeting held 30 June 1944",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Bonnville & Steuben",
+        "date_org": "Laid out & designated 13 June 1944",
+        "date_appr": "Meeting held 30 June 1944",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Bonnville, Leyden & Ava",
+        "date_org": "Laid out & designated 13 June 1944",
+        "date_appr": "Meeting held 30 June 1944",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4 to 9",
+        "town": "Ava & Western",
+        "date_org": "Laid out & designated 13 June 1944",
+        "date_appr": "Meeting held 30 June 1944",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Ava & Western",
+        "date_org": "Laid out & designated 13 June 1944",
+        "date_appr": "Meeting held 30 June 1944",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Ava & Bonville",
+        "date_org": "Laid out & designated 13 June 1944",
+        "date_appr": "Meeting held 30 June 1944",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9,14,19",
+        "town": "Western",
+        "date_org": "Laid out & designated 13 June 1944",
+        "date_appr": "Meeting held 30 June 1944",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Western, Ava & Bonville",
+        "date_org": "Laid out & designated 13 June 1944",
+        "date_appr": "Meeting held 30 June 1944",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Steuben, Western & Bonville",
+        "date_org": "Laid out & designated 13 June 1944",
+        "date_appr": "Meeting held 30 June 1944",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "20",
+        "town": "Leyden, Lewis Co.",
+        "date_org": "Laid out & designated 13 June 1944",
+        "date_appr": "Meeting held 30 June 1944",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Hartford",
+        "date_org": "Effective April 2, 1945",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 3 Hartford (Herkimer Co)"
+      },
+      {
+        "n": "3",
+        "town": "Hartford - Herkimer Co",
+        "date_org": "Effective October 1, 1945",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 3 Hartford"
+      },
+      {
+        "n": "3",
+        "town": "Stittfield - Herkimer Co",
+        "date_org": "Effective October 1, 1945",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 3 Stittfield"
+      },
+      {
+        "n": "2",
+        "town": "Paris",
+        "date_org": "Effective February 15, 1946",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Paris"
+      },
+      {
+        "n": "8",
+        "town": "Augusta",
+        "date_org": "Effective February 15, 1946",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 8 Augusta"
+      },
+      {
+        "n": "1",
+        "town": "Madison - Madison Co",
+        "date_org": "Effective February 15, 1946",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Madison - Madison Co"
+      },
+      {
+        "n": "C.R.S",
+        "town": "1 New Hartford",
+        "date_org": "Laid out June 10, 1946",
+        "date_appr": "Meeting held June 27, 1946",
+        "n_new": "",
+        "rmk": "C.R.S. 1 New Hartford"
+      },
+      {
+        "n": "",
+        "town": "5,6,7,10,11,12,13 New Hartford",
+        "date_org": "Laid out June 10, 1946",
+        "date_appr": "Meeting held June 27, 1946",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "12 Kirkland",
+        "date_org": "Laid out June 10, 1946",
+        "date_appr": "Meeting held June 27, 1946",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S",
+        "town": "1 Vernon",
+        "date_org": "Laid out May 28, 1950",
+        "date_appr": "Meeting held June 2, 1950",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Vernon"
+      },
+      {
+        "n": "",
+        "town": "Vernon",
+        "date_org": "Laid out May 28, 1950",
+        "date_appr": "Meeting held June 2, 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "26 Vernon - City of Rome",
+        "date_org": "Laid out May 28, 1950",
+        "date_appr": "Meeting held June 2, 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "1,2,3,7,8,10 Vernon",
+        "date_org": "Laid out May 28, 1950",
+        "date_appr": "Meeting held June 2, 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "11 Vernon & Kirkland",
+        "date_org": "Laid out May 28, 1950",
+        "date_appr": "Meeting held June 2, 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "6,7,9,10,14,15,16,17,18,19,21,22,23,24,25,26 Vernon",
+        "date_org": "Laid out May 28, 1950",
+        "date_appr": "Meeting held June 2, 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "2 Vernon & Westmoreland & City of Rome",
+        "date_org": "Laid out May 28, 1950",
+        "date_appr": "Meeting held June 2, 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "4,13, Vernon & Vernon",
+        "date_org": "Laid out May 28, 1950",
+        "date_appr": "Meeting held June 2, 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "3 Vernon & City of Rome",
+        "date_org": "Laid out May 28, 1950",
+        "date_appr": "Meeting held June 2, 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "8 City of Rome & Town of Westmoreland",
+        "date_org": "Laid out May 28, 1950",
+        "date_appr": "Meeting held June 2, 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "15 City of Rome & Town of Westmoreland",
+        "date_org": "Laid out May 28, 1950",
+        "date_appr": "Meeting held June 2, 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "3 City of Rome & Town of Vernon",
+        "date_org": "Laid out May 28, 1950",
+        "date_appr": "Meeting held June 2, 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "10 Westmoreland & Vernon",
+        "date_org": "Laid out May 28, 1950",
+        "date_appr": "Meeting held June 2, 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "City School District of the City of Sherrill",
+        "date_org": "Laid out May 28, 1950",
+        "date_appr": "Meeting held June 2, 1950",
+        "n_new": "",
+        "rmk": "City School District of the City of Sherrill"
+      }
+    ]
+  }
+}

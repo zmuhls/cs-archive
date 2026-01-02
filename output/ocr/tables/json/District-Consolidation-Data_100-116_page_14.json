@@ -1,0 +1,481 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 14,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_14.jpg",
+    "processed_at": "2026-01-01T22:13:26.487198",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "County",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "C.R.S. 1+5",
+        "town": "Cato & Ira",
+        "date_org": "Laid out 25 May 1938",
+        "date_appr": "Meeting held 16 June 1938",
+        "n_new": "Designation of dist. 16 July 1938",
+        "rmk": "C.R.S. 1 Cato, Ira, Conquest, Victory and Sterling, Cayuga Co., Lysander, Onondaga Co., Butler, Wayne Co., & Hannibal, Oswego Co."
+      },
+      {
+        "n": "2,6,7,9",
+        "town": "Cato",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Cato & Ira",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Cato & Conquest",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,3,4,6,6,7,8,10,11,12,13,9,14",
+        "town": "Ira, Cato & Lysander",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "14",
+        "town": "Conquest",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,8,12",
+        "town": "Conquest & Victory",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Conquest & Victory & Ira",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Conquest & Butler",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Conquest & Cato",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Victory",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Victory & Ira",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Victory, Ira, Sterling, Hannibal",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S. 6",
+        "town": "Genoa & Venice",
+        "date_org": "Laid out 19 Sept 1938",
+        "date_appr": "Meeting held 5 Oct. 1938",
+        "n_new": "Designation of dist. 8 Oct. 1938",
+        "rmk": "C.R.S. 1 Genoa, Venice, Roche and Scipio, Cayuga Co., and Lansing Tompkins Co."
+      },
+      {
+        "n": "6,9",
+        "town": "Genoa",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "13",
+        "town": "Genoa & Roche",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,6,12",
+        "town": "Genoa & Lansing",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6,7",
+        "town": "Venice & Genoa",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Venice & Scipio",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S. 2",
+        "town": "Brutus",
+        "date_org": "Laid out 8 Sept 1938",
+        "date_appr": "Meeting held 21 Sept 1938",
+        "n_new": "Designation of dist. 22 Sept 1938",
+        "rmk": "C.R.S. 1 Brutus, Cato, Conquest, Sennett and Throop, Cayuga Co."
+      },
+      {
+        "n": "4,5,6",
+        "town": "Brutus",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "30,10",
+        "town": "Cato",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Conquest & Cato",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,6",
+        "town": "Sennett & Throop",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Sennett & Brutus",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Throop, Sennett & Brutus",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Venice",
+        "date_org": "15 Sept 1938 to take effect 1 July 1939",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 4 Scipio"
+      },
+      {
+        "n": "4",
+        "town": "Scipio",
+        "date_org": "20 Sept 1938",
+        "date_appr": "2 Jan 1939",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Menty"
+      },
+      {
+        "n": "3",
+        "town": "Conquest",
+        "date_org": "20 October 1941",
+        "date_appr": "20 Jan. 1942",
+        "n_new": "",
+        "rmk": "C.R.S. 4 Scipio"
+      },
+      {
+        "n": "1",
+        "town": "Menty",
+        "date_org": "1 July 1942",
+        "date_appr": "1 Oct. 1942",
+        "n_new": "",
+        "rmk": "9 Sempronius"
+      },
+      {
+        "n": "8",
+        "town": "Sainis",
+        "date_org": "18 November 1942",
+        "date_appr": "18 Feb. 1943",
+        "n_new": "",
+        "rmk": "C.R.S. 4 Scipio"
+      },
+      {
+        "n": "4",
+        "town": "Scipio",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Sempronius",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Sempronius",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Scipio",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Scipio",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Throop",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Menty",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Xinb",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Moravia",
+        "date_org": "Effective July 16, 1945",
+        "date_appr": "Effective January 15, 1946",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Menty"
+      },
+      {
+        "n": "C.R.S. 1",
+        "town": "Moravia",
+        "date_org": "Laid out June 8, 1945",
+        "date_appr": "Meeting held June 27, 1945",
+        "n_new": "",
+        "rmk": "C.R.S. 6 Moravia"
+      },
+      {
+        "n": "U.F.S. dist",
+        "town": "1 Moravia & Xinb",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Moravia, Xinb, Tiler, Sempronius, Venice & Hannibal in Cayuga & Tioga Co."
+      },
+      {
+        "n": "Co dist",
+        "town": "3,4,7 Moravia",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "3 Moravia, Tiler & Sempronius",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "5 Moravia & Sempronius",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "6 Moravia, Xinb & Venice",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "5 Xinb",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "2 Xinb, Hannibal",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "2,6,8,9,10,12 Xinb",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "5 Tiler & Moravia",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "7 Tiler & Sempronius",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "3,5 Sempronius",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "1 Sempronius, Xinb, Sennett",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "6 Xinb, Moravia",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "9 Tiler",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "8 Moravia",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "9 Venice, Moravia",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

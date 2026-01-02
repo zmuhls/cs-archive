@@ -1,0 +1,321 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 109,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_109.jpg",
+    "processed_at": "2026-01-01T22:56:45.467914",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Oneida",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "4,12,8,13",
+        "town": "Paris",
+        "date_org": "24 June 1914",
+        "date_appr": "4- 196,735 Acqd 12- 28,509 Cont 13- 37,571 Cont",
+        "n_new": "4 Paris",
+        "rmk": ""
+      },
+      {
+        "n": "4,8,5",
+        "town": "Paris",
+        "date_org": "24 June 1914",
+        "date_appr": "4- See above 5- 37,000 1½",
+        "n_new": "4 Paris",
+        "rmk": ""
+      },
+      {
+        "n": "9,8,11",
+        "town": "Paris",
+        "date_org": "24 June 1914",
+        "date_appr": "9- 254,712 Acqd 11- 43,288 1½",
+        "n_new": "9 Paris",
+        "rmk": ""
+      },
+      {
+        "n": "12,8,14",
+        "town": "Sangerfield",
+        "date_org": "24 August 1915",
+        "date_appr": "12- 164,925 2½ 14- 16,625 Cont 15- 57,450 1½",
+        "n_new": "12 Sangerfield",
+        "rmk": ""
+      },
+      {
+        "n": "6,8,16",
+        "town": "Western",
+        "date_org": "5 February 1916",
+        "date_appr": "6- 840 1½ 16- 31,440 1½",
+        "n_new": "16 Western",
+        "rmk": ""
+      },
+      {
+        "n": "6,8,15",
+        "town": "Kirkland",
+        "date_org": "3 September 1916",
+        "date_appr": "6- 131,720 1½ 15- 24,540 1½",
+        "n_new": "6 Kirkland",
+        "rmk": ""
+      },
+      {
+        "n": "6,8,14",
+        "town": "Boonville",
+        "date_org": "7 September 1915",
+        "date_appr": "6- 16,260 1½ 14- 2945 Cont",
+        "n_new": "6 Boonville",
+        "rmk": ""
+      },
+      {
+        "n": "6,8,12",
+        "town": "Vernon",
+        "date_org": "3 February 1917",
+        "date_appr": "6- 319,646 4½ 12- 462,533 Acqd",
+        "n_new": "6 Vernon",
+        "rmk": ""
+      },
+      {
+        "n": "1,8,9",
+        "town": "Trenton",
+        "date_org": "6 March 1919",
+        "date_appr": "1- 97,590 Acqd to take effect 1 Ag.",
+        "n_new": "1 Trenton",
+        "rmk": ""
+      },
+      {
+        "n": "4,5,8,10",
+        "town": "Marshall",
+        "date_org": "2 June 1919",
+        "date_appr": "4- 33,130 Cont 5- 55,800 Cont 10- 178,473 3½",
+        "n_new": "4 Marshall",
+        "rmk": ""
+      },
+      {
+        "n": "11,8,17",
+        "town": "Boonville",
+        "date_org": "7 July 1920",
+        "date_appr": "11- 315,000 1½ to take effect 1 Ag",
+        "n_new": "11 Boonville",
+        "rmk": ""
+      },
+      {
+        "n": "4,8,14",
+        "town": "Lee",
+        "date_org": "6 April 1921",
+        "date_appr": "4- 21,695 Cont 14- 12,395 Cont to take effect 1 Jl 1921",
+        "n_new": "4 Lee",
+        "rmk": ""
+      },
+      {
+        "n": "1,8,15",
+        "town": "Westmoreland",
+        "date_org": "3 May 1922",
+        "date_appr": "1- 284,584 Acqd 15- 77,300 Cont",
+        "n_new": "1 Westmoreland",
+        "rmk": ""
+      },
+      {
+        "n": "3,8,11",
+        "town": "Forestport",
+        "date_org": "1 August 1922",
+        "date_appr": "3- 310,251 Cont",
+        "n_new": "3 Forestport",
+        "rmk": ""
+      },
+      {
+        "n": "4,8,10",
+        "town": "Forestport",
+        "date_org": "7 April 1923",
+        "date_appr": "4- 62,236 1½ 7- 49,447 no sch in 1922-23, 21-23",
+        "n_new": "10 Forestport",
+        "rmk": ""
+      },
+      {
+        "n": "7,8,10",
+        "town": "Forestport",
+        "date_org": "7 April 1923",
+        "date_appr": "10- 131,770 Acqd to take effect 31 Jl 1923",
+        "n_new": "7 Forestport",
+        "rmk": ""
+      },
+      {
+        "n": "2,8,3",
+        "town": "Vernon",
+        "date_org": "3 April 1924",
+        "date_appr": "Appealed & consol. Set aside 23 Ag 1924",
+        "n_new": "3 Vernon",
+        "rmk": ""
+      },
+      {
+        "n": "Part of 23 Verona",
+        "town": "Verona",
+        "date_org": "23 August 1924",
+        "date_appr": "9- 61.81 10- 73.56 18- 39.63",
+        "n_new": "9 Verona",
+        "rmk": ""
+      },
+      {
+        "n": "Part of 24 Verona",
+        "town": "Verona",
+        "date_org": "10 September 1926",
+        "date_appr": "10- .13 19- 97.57 21- 52.30",
+        "n_new": "10 Verona",
+        "rmk": ""
+      },
+      {
+        "n": "Part of 7 New Hartford",
+        "town": "New Hartford",
+        "date_org": "16 August 1926",
+        "date_appr": "1- 102.60 12- 22.40",
+        "n_new": "1 New Hartford",
+        "rmk": ""
+      },
+      {
+        "n": "Part of 2 Deerfield",
+        "town": "Deerfield",
+        "date_org": "7 October 1926",
+        "date_appr": "3- 41.23 6- 83.77",
+        "n_new": "3 Deerfield",
+        "rmk": ""
+      },
+      {
+        "n": "6,8,13",
+        "town": "Lee",
+        "date_org": "6 May 1927",
+        "date_appr": "6- 13,390 1½ to take effect 1 Ag, 1927",
+        "n_new": "6 Lee",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Florence",
+        "date_org": "6 April 1927",
+        "date_appr": "8 Camden 27,690 1½ 7 Florence 25,975 Cont",
+        "n_new": "7 Florence",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Camden",
+        "date_org": "6 April 1927",
+        "date_appr": "to take effect 27 Ap 1927",
+        "n_new": "8 Camden",
+        "rmk": ""
+      },
+      {
+        "n": "10,8,11",
+        "town": "Remsen",
+        "date_org": "7 January 1928",
+        "date_appr": "10- 30,825 1½ 11- 41,910 1½",
+        "n_new": "11 Remsen",
+        "rmk": ""
+      },
+      {
+        "n": "1,8,10",
+        "town": "Forestport",
+        "date_org": "7 February 1928",
+        "date_appr": "1- 33,335 - no pup.",
+        "n_new": "10 Forestport",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,5,6,7,9,12,8,13",
+        "town": "Sangerfield",
+        "date_org": "C.R.S. laid out 31 Oct. 1928 Meeting held 13 Nov. 1928",
+        "date_appr": "Design of Dist. 17 Dec. 1928",
+        "n_new": "1 Sangerfield",
+        "rmk": ""
+      },
+      {
+        "n": "2,5",
+        "town": "Marshall",
+        "date_org": "2",
+        "date_appr": "C.R.S. laid out 31 Oct. 1928 Meeting held 13 Nov. 1928",
+        "n_new": "2 Marshall",
+        "rmk": ""
+      },
+      {
+        "n": "6,8,13",
+        "town": "Annsville",
+        "date_org": "25 January 1929",
+        "date_appr": "6- 14,280 13- 9150 - wood",
+        "n_new": "6 Annsville",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Madison, Madison Co. & Sangerfield, Oneida Co.",
+        "date_org": "3 May 1929 to take effect 1 Ag. 1929",
+        "date_appr": "set over & made a part of Cent. Sch. dist 1 Sangerfield etc.",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,8,9",
+        "town": "Westmoreland & Whitestown",
+        "date_org": "C.R.S. laid out 1 April 1930 Meeting held 28 April 1930",
+        "date_appr": "Designation of district 13 May 1930",
+        "n_new": "1 Westmoreland and Whitestown",
+        "rmk": ""
+      },
+      {
+        "n": "2,8,5,7",
+        "town": "Westmoreland & Whitestown",
+        "date_org": "C.R.S. laid out 1 April 1930 Meeting held 28 April 1930",
+        "date_appr": "Designation of district 13 May 1930",
+        "n_new": "2 Paris, Bridgewater",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Whitestown & Westmoreland",
+        "date_org": "C.R.S. laid out 1 April 1930 Meeting held 28 April 1930",
+        "date_appr": "Designation of district 13 May 1930",
+        "n_new": "9 Whitestown",
+        "rmk": ""
+      },
+      {
+        "n": "1,8,2",
+        "town": "Paris",
+        "date_org": "C.R.S. laid out 28 June 1930 Meeting held 26 July 1930",
+        "date_appr": "Design of dist. 31 Jl 1930 as",
+        "n_new": "2 Paris, Bridgewater",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Bridgewater, Litchfield",
+        "date_org": "C.R.S. laid out 28 June 1930 Meeting held 26 July 1930",
+        "date_appr": "Design of dist. 31 Jl 1930 as",
+        "n_new": "Litchfield",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Bridgewater, Brookfield",
+        "date_org": "C.R.S. laid out 28 June 1930 Meeting held 26 July 1930",
+        "date_appr": "Design of dist. 31 Jl 1930 as",
+        "n_new": "1 Bridgewater",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Paris",
+        "date_org": "C.R.S. laid out 28 June 1930 Meeting held 26 July 1930",
+        "date_appr": "Design of dist. 31 Jl 1930 as",
+        "n_new": "Paris, Brookfield",
+        "rmk": ""
+      }
+    ]
+  }
+}

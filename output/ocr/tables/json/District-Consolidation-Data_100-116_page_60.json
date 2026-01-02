@@ -1,0 +1,433 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 60,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_60.jpg",
+    "processed_at": "2026-01-01T22:33:14.148830",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Franklin",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "10",
+        "town": "Bangor",
+        "date_org": "12 January 1914",
+        "date_appr": "10 B - 14,471 1K",
+        "n_new": "10 Fort Covington",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Fort Covington",
+        "date_org": "12 January 1914",
+        "date_appr": "10 F - 15,525 1K",
+        "n_new": "10 Fort Covington",
+        "rmk": ""
+      },
+      {
+        "n": "4+7",
+        "town": "Brandon",
+        "date_org": "1 February 1915",
+        "date_appr": "4- 22,600 1K",
+        "n_new": "4 Brandon",
+        "rmk": ""
+      },
+      {
+        "n": "7+13",
+        "town": "Franklin",
+        "date_org": "25 August 1919",
+        "date_appr": "7- 7,545 (2,1K)",
+        "n_new": "7 Franklin",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "7- 8,860 1K",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "13- 10,380 1K",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5+6",
+        "town": "Fort Covington",
+        "date_org": "23 June 1922",
+        "date_appr": "24 Mr. 1935,250 1K",
+        "n_new": "6 Fort Covington",
+        "rmk": ""
+      },
+      {
+        "n": "1+2",
+        "town": "Fort Covington",
+        "date_org": "2 June 1922",
+        "date_appr": "6- 17,300 1K",
+        "n_new": "1 Fort Covington",
+        "rmk": ""
+      },
+      {
+        "n": "5+6",
+        "town": "Bangor",
+        "date_org": "22 June 1922",
+        "date_appr": "1- 329,400 Acad, 21-22",
+        "n_new": "5 Bangor",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 1 Constable and 1 Constable",
+        "date_org": "2 June 1922",
+        "date_appr": "2- 16,600 1K",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "5- 53,131 1K",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "6- 24,423 1K",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "Pair-6 1- 86,77 v. Gaha 20870",
+        "n_new": "1 Constable 372.25",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "5- 113,23 v. \" 26440",
+        "n_new": "5 Constable 472.25",
+        "rmk": ""
+      },
+      {
+        "n": "1+5",
+        "town": "Waverly",
+        "date_org": "28 March 1923",
+        "date_appr": "1- 261,696 Acad, CRS",
+        "n_new": "1 Waverly",
+        "rmk": ""
+      },
+      {
+        "n": "1+3",
+        "town": "Waverly",
+        "date_org": "19 May 1924",
+        "date_appr": "5- 44,545 1K",
+        "n_new": "1 Waverly",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,3,4",
+        "town": "Waverly",
+        "date_org": "22 May 1924",
+        "date_appr": "3- 158,490 1K",
+        "n_new": "1 Waverly",
+        "rmk": ""
+      },
+      {
+        "n": "3+4",
+        "town": "Brighton",
+        "date_org": "18 July 1925",
+        "date_appr": "3- 111,866 1K",
+        "n_new": "4 Brighton",
+        "rmk": ""
+      },
+      {
+        "n": "1+2",
+        "town": "Duane",
+        "date_org": "6 August 1926",
+        "date_appr": "4- 182,697 3K",
+        "n_new": "2 Duane",
+        "rmk": ""
+      },
+      {
+        "n": "3+4",
+        "town": "Duane",
+        "date_org": "6 August 1926",
+        "date_appr": "1- 36,800 1K",
+        "n_new": "3 Duane",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "2- 195,090 1K",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "3- 82,050 1K",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "4- 28,400 1K",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1+2",
+        "town": "Santa Clara",
+        "date_org": "7 April 1927",
+        "date_appr": "1- 274,955 2K",
+        "n_new": "1 Santa Clara",
+        "rmk": ""
+      },
+      {
+        "n": "5+15",
+        "town": "Bellmont",
+        "date_org": "15 August 1927",
+        "date_appr": "5- 192,073 3K",
+        "n_new": "5 Bellmont",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Altamont",
+        "date_org": "6 August 1929",
+        "date_appr": "15 27,280 1K",
+        "n_new": "1 Altamont",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "part of Pinefield (Veteran Mt. Camp of the American Legion)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Franklin Co. + Pinefield, NY",
+        "rmk": ""
+      },
+      {
+        "n": "6+8",
+        "town": "Dickinson",
+        "date_org": "23 May 1932",
+        "date_appr": "to take effect 30 Ag. 1932",
+        "n_new": "8 Dickinson",
+        "rmk": ""
+      },
+      {
+        "n": "14+3",
+        "town": "Bellmont",
+        "date_org": "26 July 1937",
+        "date_appr": "1 Mar. 1937",
+        "n_new": "3 Bellmont to Malone",
+        "rmk": ""
+      },
+      {
+        "n": "6+1",
+        "town": "Franklin",
+        "date_org": "14 June 1938",
+        "date_appr": "15 Sept 1938",
+        "n_new": "1 Franklin",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Bellmont",
+        "date_org": "Order vacated 1938",
+        "date_appr": "Dul 27, 1938",
+        "n_new": "4 Bellmont",
+        "rmk": ""
+      },
+      {
+        "n": "6+4",
+        "town": "Bellmont",
+        "date_org": "Jan 26, 1945",
+        "date_appr": "Effective June 6, 1945",
+        "n_new": "4 Bellmont",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "Crs card made",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "CRS",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "1 Chateaugay",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "2,3,4,5,7,9,10,12,14,16,17 Chateaugay",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "6,12 Chateaugay + Clinton (Chateaugay)",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "11 Chateaugay + Burke",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "15 Chateaugay + Bellmont",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "2,6,10,18 Burke + Chateaugay",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "1,3,14 Burke + Chateaugay",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "1,9 Bellmont",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "10,12 Bellmont + Chateaugay",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "8 Bellmont + Ellenburg (Chateaugay)",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "1,2,4 Clinton (Chateaugay)",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "3 Clinton + Ellenburg + Chateaugay",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "died out June 5, 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "Meeting held June 23, 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "CRS",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "1 Chateaugay (Burke)",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "2 Clinton + Ellenburg (Clinton)",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 77,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_77.jpg",
+    "processed_at": "2026-01-01T22:40:30.352315",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Jefferson",
+    "table_type": "town_school_units",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1",
+        "town": "Ellisburg",
+        "date_org": "U.F.S. 25 and",
+        "date_appr": "1,2,3,4,5,6,7,12,17 & 27",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "\"",
+        "date_org": "18",
+        "date_appr": "8,9,10,13,14,15,16,19,20,21,22,23,24 & 26",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Lyme",
+        "date_org": "4",
+        "date_appr": "1,2,8,9 & 10",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "\"",
+        "date_org": "5",
+        "date_appr": "3,6,7,11,12,13,14 & 15",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Rutland",
+        "date_org": "7",
+        "date_appr": "4,5 & 12",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "\"",
+        "date_org": "8",
+        "date_appr": "1,2,3,6,9,10 & 11",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

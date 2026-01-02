@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 15,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_15.jpg",
+    "processed_at": "2026-01-01T22:13:40.707296",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Chautauqua",
+    "table_type": "union_free_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "3",
+        "town": "Stockton",
+        "date_org": "18 November 1876",
+        "date_appr": "",
+        "n_new": "6",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Stockton",
+        "date_org": "2 July 1901",
+        "date_appr": "",
+        "n_new": "7",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Westfield",
+        "date_org": "7 February 1868",
+        "date_appr": "",
+        "n_new": "9",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "North Harmony",
+        "date_org": "9 May 1919",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Ellery",
+        "date_org": "13 May 1924",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Harmony (#16)",
+        "date_org": "5 October 1904",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,601 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 44,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_44.jpg",
+    "processed_at": "2026-01-01T22:28:59.697252",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Delaware",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "C.R.S",
+        "town": "Colchester",
+        "date_org": "Laid out 21 July 1938",
+        "date_appr": "Meeting held 2 Aug. 1938",
+        "n_new": "147",
+        "rmk": "C.R.S. 1 Colchester, Hamden, Hancock, Walton, Andes, and Tompkins Delaware County"
+      },
+      {
+        "n": "21",
+        "town": "Colchester",
+        "date_org": "Designation of dist. 3 Aug. 1938",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,4,5,7,8,9,13,19",
+        "town": "Colchester",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10+18",
+        "town": "Colchester + Hamden",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "15+17",
+        "town": "Colchester + Walton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "30",
+        "town": "Colchester + Andes",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Hancock",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7+8",
+        "town": "Hamden",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Hamden + Colchester",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S",
+        "town": "Stamford",
+        "date_org": "Laid out 11 Aug. 1938",
+        "date_appr": "Meeting held 24 Aug. 1938",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Stamford, Hothright, Delhi, Harperfield, Meredith + Borina"
+      },
+      {
+        "n": "1",
+        "town": "Hothright, Stamford + Delhi",
+        "date_org": "Designation of dist. 30 Aug. 1938",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,3,6,7",
+        "town": "9+10 Stamford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Stamford + Hothright",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,7,8,9",
+        "town": "10,12,13,14 Hothright",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Hothright + Stamford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Hothright + Meredith",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Harperfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Harperfield + Hothright",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Borina",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S",
+        "town": "Middletown",
+        "date_org": "Laid out 26 July 1938",
+        "date_appr": "Meeting held 11 Aug. 1938",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Middletown, Andes, Borina + Roxbury, Delaware Co., Hardenburg, Ulster Co."
+      },
+      {
+        "n": "17",
+        "town": "Middletown",
+        "date_org": "Designation of dist. 15 Aug. 1938",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,10,13,14,20,22+24",
+        "town": "Middletown",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11+15",
+        "town": "Middletown + Andes",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Middletown + Borina",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "25",
+        "town": "Middletown, Hardenburg + Andes",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "13",
+        "town": "Andes + Middletown",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Hardenburg",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2+4",
+        "town": "Hardenburg + Middletown",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "18",
+        "town": "Roxbury + Middletown",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S",
+        "town": "Davenport",
+        "date_org": "Laid out 10 Sept 1938",
+        "date_appr": "Meeting held 21 Sept 1938",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Davenport, Hothright, Harperfield + Meredith, Delaware Co., Mayland + Worcester, Otsego Co. + Summit, Schoharie Co."
+      },
+      {
+        "n": "1",
+        "town": "Davenport",
+        "date_org": "Designation of dist. 22 Sept 1938",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,5+17",
+        "town": "Davenport",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,9+18",
+        "town": "Davenport + Hothright",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4+8",
+        "town": "Davenport + Mayland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Davenport, Harperfield + Mayland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5+15",
+        "town": "Harperfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "15",
+        "town": "Hothright + Davenport",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "15",
+        "town": "Meredith, Hothright + Davenport",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Summit, Worcester + Harperfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Tompkins",
+        "date_org": "20 March 1939 to take effect 1 July 1939",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Sanford"
+      },
+      {
+        "n": "1",
+        "town": "Sanford (Broome Co.)",
+        "date_org": "Appealed to appeal, abrogate 9 Aug 1939",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Middletown",
+        "date_org": "20 March 1939 to take effect 30 June 1939",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Roxbury"
+      },
+      {
+        "n": "",
+        "town": "Roxbury",
+        "date_org": "Order vacated 1 Sept 1939",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Middletown",
+        "date_org": "20 March 1939 to take effect 30 June 1939",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Roxbury"
+      },
+      {
+        "n": "",
+        "town": "Roxbury",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "Part of",
+        "town": "Middletown + C.R.S. Middletown",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "1 Middletown"
+      },
+      {
+        "n": "",
+        "town": "Andes + Middletown",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "2 Middletown"
+      },
+      {
+        "n": "16",
+        "town": "Andes + Middletown",
+        "date_org": "31 March 1939 to take effect 1 July 1939",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Andes"
+      },
+      {
+        "n": "2",
+        "town": "Andes, Delhi + Borina",
+        "date_org": "17 May 1940 to take effect 20 Aug. 1940",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Andes"
+      },
+      {
+        "n": "22",
+        "town": "Andes",
+        "date_org": "17 May 1940 to take effect 20 Aug. 1940",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Andes, Delhi + Borina",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "18",
+        "town": "Middletown",
+        "date_org": "17 May 1940 to take effect 20 Aug. 1940",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Middletown"
+      },
+      {
+        "n": "1",
+        "town": "Middletown",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S.",
+        "town": "Sidney + Unadilla",
+        "date_org": "Laid out 16 April 1941",
+        "date_appr": "Meeting held 2 May 1941",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Sidney, Franklin + Unadilla, Del. Co., Unadilla, Otsego Co. + Guilford, Chenango Co."
+      },
+      {
+        "n": "2,3,8, dist",
+        "town": "Sidney + Unadilla",
+        "date_org": "Designation of dist. 21 June 1941",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.S. dist",
+        "town": "2,9,11,12,13+15 Sidney",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "7+16 Sidney + Franklin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "1,2,5,6,9,11+13 Maconville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "8 Maconville + Sidney",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "15 Unadilla",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "17 Guilford + Unadilla",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "15",
+        "town": "Franklin",
+        "date_org": "16 May 1941 to take effect 20 Aug. 1941",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Franklin"
+      },
+      {
+        "n": "1",
+        "town": "Franklin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Franklin, Davenport + Middletown",
+        "date_org": "24 May 1941 to take effect 25 Aug. 1941",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Franklin"
+      },
+      {
+        "n": "1",
+        "town": "Franklin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Davenport",
+        "date_org": "8 May 1941 to take effect 15 Aug. 1941",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Franklin"
+      },
+      {
+        "n": "1",
+        "town": "Franklin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3+4",
+        "town": "Sidney",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Unadilla, Otsego Co."
+      },
+      {
+        "n": "2",
+        "town": "Unadilla, Otsego Co",
+        "date_org": "25 March 1942 to take effect 1 July 1942",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Franklin"
+      },
+      {
+        "n": "18",
+        "town": "Franklin + Walton",
+        "date_org": "22 May 1942 to take effect 3 Sept 1942",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Franklin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Andes",
+        "date_org": "24 Aug. 1943 to take effect 24 Nov. 1943",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Andes"
+      }
+    ]
+  }
+}

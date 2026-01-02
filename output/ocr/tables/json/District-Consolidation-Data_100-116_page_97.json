@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 97,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_97.jpg",
+    "processed_at": "2026-01-01T22:51:27.908678",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Monroe",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "CRS",
+        "town": "4 Yarme\n1,2,5,7,9,10,11,13,14 Yarme\n5,7,11 Hamlin\n6,7,13 Greece\n10 Clarkson",
+        "date_org": "Laid out\nMeeting held",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS\n1 Yarme"
+      },
+      {
+        "n": "CRS",
+        "town": "1 Ogden\n2,4,5,12,13 Ogden\n3,8,13 Yarme (2nd move)\n2 Gates\n12 Greece (2nd move)",
+        "date_org": "Laid out\nMeeting held",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS\n1 Ogden"
+      },
+      {
+        "n": "CRS",
+        "town": "4 Riga, Ogden + Sweden\n1,2,5,8,10 Riga\n7 Ogden\n10 Ogden + Riga\n6 Ogden + Chili\n14 Ogden + Sweden\n1,3 Chili\n6 Chili, Riga + Ogden\n7 Chili + Riga",
+        "date_org": "Laid out May 23, 1950\nMeeting held June 14, 1950",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS\n1 Riga, Ogden\nChili + Sweden"
+      }
+    ]
+  }
+}

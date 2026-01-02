@@ -1,0 +1,537 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 79,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_79.jpg",
+    "processed_at": "2026-01-01T22:42:44.131304",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Jefferson",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1",
+        "town": "Hounsfield",
+        "date_org": "Laid out 14 June 1938",
+        "date_appr": "Meeting held 28 June 1938",
+        "n_new": "1",
+        "rmk": "C.R.S. 1 Hounsfield, Henderson, Adams, Watertown"
+      },
+      {
+        "n": "2,5,6,7,8,9,11",
+        "town": "Hounsfield",
+        "date_org": "Designation of dist. 18 July 1938",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "16",
+        "town": "Hounsfield, Henderson",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Hounsfield, Henderson, Adams",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "14",
+        "town": "Hounsfield, Adams, Watertown",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Cape Vincent",
+        "date_org": "Laid out 16 Sept 1938",
+        "date_appr": "Meeting held 21 Sept 1938",
+        "n_new": "1",
+        "rmk": "C.R.S. 1 Cape Vincent, Clayton, Lyme"
+      },
+      {
+        "n": "5,6,7,8,12,13,15,16,17",
+        "town": "Cape Vincent",
+        "date_org": "Designation of dist. 23 Sept 1938",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10,14",
+        "town": "Cape Vincent, Clayton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,4,9,11",
+        "town": "Cape Vincent, Lyme",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Clayton",
+        "date_org": "Laid out 6 Sept 1938",
+        "date_appr": "Meeting held 22 Sept 1938",
+        "n_new": "1",
+        "rmk": "C.R.S. 1 Clayton, Cape Vincent, Brownville, Lyme, Orleans"
+      },
+      {
+        "n": "1,3,5,6,7,9,10,11,13,14,15,16,17,21,23,24",
+        "town": "Clayton",
+        "date_org": "Designation of dist. 23 Sept 1938",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Clayton, Lyme",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Clayton, Brownville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "22",
+        "town": "Clayton, Orleans",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Clayton, Orleans, Brownville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "19",
+        "town": "Clayton, Cape Vincent, Lyme",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "15",
+        "town": "Orleans, Clayton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Ellisburg",
+        "date_org": "2 February 1939 to take effect 11 May 1939",
+        "date_appr": "",
+        "n_new": "2",
+        "rmk": "C.R.S. 2 Ellisburg"
+      },
+      {
+        "n": "2",
+        "town": "Ellisburg",
+        "date_org": "22 June 1939 to take effect 19 Sept 1939",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "C.R.S. 1 Hounsfield"
+      },
+      {
+        "n": "10",
+        "town": "Hounsfield",
+        "date_org": "29 June 1939 to take effect 19 Sept 1939",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "C.R.S. 1 Hounsfield"
+      },
+      {
+        "n": "1",
+        "town": "Hounsfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Hounsfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Theresa",
+        "date_org": "1 March 1940",
+        "date_appr": "1 July 1940",
+        "n_new": "1",
+        "rmk": "C.R.S. 1 Theresa, Le Ray"
+      },
+      {
+        "n": "7",
+        "town": "Theresa, Le Ray",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "16",
+        "town": "Ellisburg",
+        "date_org": "23 Sept 1940",
+        "date_appr": "26 Dec 1940",
+        "n_new": "2",
+        "rmk": "C.R.S. 2 Ellisburg"
+      },
+      {
+        "n": "2",
+        "town": "Ellisburg",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S. U.3.9. dist 1",
+        "town": "Brownville, Pamela",
+        "date_org": "Laid out 28 April 1941",
+        "date_appr": "Meeting held 20 May 1941",
+        "n_new": "1",
+        "rmk": "C.R.S. 1 Brownville, Pamela, Hounsfield, Watertown, Jeff. Co."
+      },
+      {
+        "n": "C.S. dists 3,4,6,18",
+        "town": "Brownville",
+        "date_org": "Designation of dist. 2 June 1941",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Brownville, Pamela",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,4,5,7,8,11",
+        "town": "Pamela",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "15",
+        "town": "Hounsfield, Watertown",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5,10,18,20,21",
+        "town": "Antwerp",
+        "date_org": "8 August 1941 to take effect 8 Nov 1941",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "1 Antwerp"
+      },
+      {
+        "n": "1",
+        "town": "Antwerp",
+        "date_org": "13 August 1941",
+        "date_appr": "13 Nov 1941",
+        "n_new": "1",
+        "rmk": "1 Antwerp"
+      },
+      {
+        "n": "11",
+        "town": "Antwerp",
+        "date_org": "9 September 1941",
+        "date_appr": "9 Dec 1941",
+        "n_new": "2",
+        "rmk": "2 Philadelphia"
+      },
+      {
+        "n": "1,2,5",
+        "town": "Philadelphia",
+        "date_org": "21 August 1941",
+        "date_appr": "5 Dec 1941",
+        "n_new": "4",
+        "rmk": "4 Wilna, Diana"
+      },
+      {
+        "n": "4,12,15,16",
+        "town": "Wilna",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Wilna, Diana",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Wilna",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4,5,11",
+        "town": "Le Ray",
+        "date_org": "2 Sept 1941",
+        "date_appr": "5 Dec 1941",
+        "n_new": "3",
+        "rmk": "3 Le Ray"
+      },
+      {
+        "n": "3",
+        "town": "Le Ray",
+        "date_org": "5 Sept 1941",
+        "date_appr": "5 Dec 1941",
+        "n_new": "1",
+        "rmk": "1 Le Ray, Rutland"
+      },
+      {
+        "n": "8",
+        "town": "Le Ray",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "14",
+        "town": "Le Ray",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "14",
+        "town": "Orleans",
+        "date_org": "Laid out 20 Dec 1941",
+        "date_appr": "Meeting held 5 Jan 1942",
+        "n_new": "1",
+        "rmk": "C.R.S. 1 Orleans, Clayton, Alexandria, Pamela, Le Ray, Jefferson Co."
+      },
+      {
+        "n": "4,5,6,9,10,13,16,17",
+        "town": "Orleans",
+        "date_org": "Designation of dist. 20 Jan 1942",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,7,8,18,19",
+        "town": "Orleans, Alexandria",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,11,12",
+        "town": "Orleans, Clayton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Orleans, Pamela, Le Ray",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "18,20",
+        "town": "Clayton, Orleans",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Alexandria, Orleans",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4,5",
+        "town": "Lyme",
+        "date_org": "Laid out 4 June 1942",
+        "date_appr": "Meeting held 23 June 1942",
+        "n_new": "1",
+        "rmk": "C.R.S. 1 Lyme, Clayton, Cape Vincent, Brownville, Jefferson Co."
+      },
+      {
+        "n": "2,6,7,8,11,12,15,17",
+        "town": "Lyme",
+        "date_org": "Designation of dist. 13 July 1942",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Lyme, Clayton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Lyme, Cape Vincent, Clayton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "15",
+        "town": "Lyme, Cape Vincent",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "15",
+        "town": "Brownville, Lyme, Clayton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "16",
+        "town": "Brownville, Lyme",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "22",
+        "town": "Alexandria",
+        "date_org": "27 May 1943 to take effect 1 Sept 1943",
+        "date_appr": "",
+        "n_new": "2",
+        "rmk": "23 Alexandria, Hammond"
+      },
+      {
+        "n": "23",
+        "town": "Alexandria, Hammond",
+        "date_org": "27 May 1943",
+        "date_appr": "1 Sept 1943",
+        "n_new": "3",
+        "rmk": "3 Theresa, Alexandria"
+      },
+      {
+        "n": "10",
+        "town": "Theresa",
+        "date_org": "15 June 1943",
+        "date_appr": "20 Sept 1943",
+        "n_new": "2",
+        "rmk": "C.R.S. 2 Ellisburg"
+      },
+      {
+        "n": "3",
+        "town": "Theresa, Alexandria",
+        "date_org": "effective 15 Sept 1944",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "C.R.S. 1 Hounsfield"
+      },
+      {
+        "n": "8",
+        "town": "Ellisburg",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Ellisburg",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Hounsfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

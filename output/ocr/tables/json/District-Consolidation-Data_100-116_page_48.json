@@ -1,0 +1,561 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 48,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_48.jpg",
+    "processed_at": "2026-01-01T22:30:03.490785",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Dutchess",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "2+6",
+        "town": "Stanford",
+        "date_org": "28 September 1914",
+        "date_appr": "2 181,939 2wo 6 41,134 1k 12-14",
+        "n_new": "2 Stanford",
+        "rmk": ""
+      },
+      {
+        "n": "1+2",
+        "town": "Dover",
+        "date_org": "5 July 1921",
+        "date_appr": "1 143,981 1k 2 327,418 6 wo Acad",
+        "n_new": "2 Dover",
+        "rmk": ""
+      },
+      {
+        "n": "2+10",
+        "town": "Stanford",
+        "date_org": "15 March 1922",
+        "date_appr": "2- See above 10- 192,000 1k (142-21) to take effect 30 March",
+        "n_new": "2 Stanford",
+        "rmk": ""
+      },
+      {
+        "n": "5+7",
+        "town": "Stanford",
+        "date_org": "19 May 1927",
+        "date_appr": "5- 40,640 Cad 7- 85,221 1k 3- 449,719 3k",
+        "n_new": "7 Stanford",
+        "rmk": ""
+      },
+      {
+        "n": "3+5",
+        "town": "Fishkill",
+        "date_org": "4 January 1928",
+        "date_appr": "to take effect 1 Ag.1928",
+        "n_new": "3 Fishkill",
+        "rmk": ""
+      },
+      {
+        "n": "3+6",
+        "town": "Pleasant Valley",
+        "date_org": "27 July 1928",
+        "date_appr": "3- 431,259 - 2wo 6- 32,6601- 2wo",
+        "n_new": "3 Pleasant Valley",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Clinton",
+        "date_org": "20 July 1929",
+        "date_appr": "10- 144,623 - 1k",
+        "n_new": "2 Hyde Park",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Hyde Park",
+        "date_org": "1 August 1929",
+        "date_appr": "2- 133,5083- aced",
+        "n_new": "1 Clinton",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Stanford",
+        "date_org": "1 October 1929",
+        "date_appr": "8- 30,160 - cnt 1- 87,645- 1k",
+        "n_new": "1 Hyde Park",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Clinton",
+        "date_org": "1 October 1929",
+        "date_appr": "3- 55,400- cnt 1- 152,9364- aced",
+        "n_new": "1 Hyde Park",
+        "rmk": ""
+      },
+      {
+        "n": "3+1",
+        "town": "Hyde Park",
+        "date_org": "1 October 1929",
+        "date_appr": "",
+        "n_new": "1 Hyde Park",
+        "rmk": ""
+      },
+      {
+        "n": "7+8",
+        "town": "Poughkeepsie",
+        "date_org": "14 May 1930",
+        "date_appr": "to take effect 15 Ag. 9'30",
+        "n_new": "7 Poughkeepsie",
+        "rmk": ""
+      },
+      {
+        "n": "3+7+3",
+        "town": "Clemons Valley",
+        "date_org": "14 May 1930",
+        "date_appr": "to take effect 15 Ag. 9'30",
+        "n_new": "1 Pine Plains, Milan",
+        "rmk": ""
+      },
+      {
+        "n": "1+4",
+        "town": "Pine Plains",
+        "date_org": "",
+        "date_appr": "Laid out 2 Je 1931. Meeting held 26 Je 1931 Designation of dist 16 Jl 1931",
+        "n_new": "Stanford + no. East (Dutchess co) + Bellatin, Averam, Livingston + Clermont (Col. co)",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Milan",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Stanford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "(Dut. co) Ballatin + Averam (Col. co)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "(Col. co)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Milan",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Pine Plains",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Pine Plains",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Stanford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Pine Plains + Stanford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "13",
+        "town": "East + Pine Plains",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5,6,7",
+        "town": "Averam (Col. co)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Pine Plains (Dut. co)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,3",
+        "town": "Ballatin (\" )",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Livingston, Clermont + Ballatin (Col. co)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Poughkeepsie, Pleasant Valley, Hyde Park + La Grange",
+        "date_org": "13 May 1936 to take effect 15 Aug. 1936",
+        "date_appr": "",
+        "n_new": "7 Poughkeepsie",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Pleasant Valley",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,4,5,6,8,9",
+        "town": "Red Hook",
+        "date_org": "",
+        "date_appr": "Laid out 6 Oct. 1937 Meeting held 26 Oct. 1937 Designation of dist. 1 Nov. 1937",
+        "n_new": "C.R.S. 1 Red Hook, Milan + Rhinebeck, Dutchess + Clermont, Columbia",
+        "rmk": ""
+      },
+      {
+        "n": "4+8",
+        "town": "Milan",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Milan + Red Hook",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Milan, Red Hook + Rhinebeck",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Clermont + Red Hook",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Hyde Park",
+        "date_org": "",
+        "date_appr": "C.R.S. Laid out 21 Aug. 1938 Meeting held 16 Sept 1938 Designation of dist. 11 Oct. 1938",
+        "n_new": "C.R.S. 1 Hyde Park, Poughkeepsie, Clinton + Pleasant Valley",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Hyde Park, Clinton + Pleasant Valley",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Clinton + Hyde Park",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Clinton + Pleasant Valley",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Pleasant Valley, Hyde Park + Clinton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Pleasant Valley + Clinton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Poughkeepsie",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Poughkeepsie + Hyde Park",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Wappinger",
+        "date_org": "",
+        "date_appr": "C.R.S. Laid out 1 Sept 1938 Meeting held 19 Sept 1938 Designation of dist. 20 Sept 1938",
+        "n_new": "C.R.S. 1 Wappinger, Poughkeepsie, Fishkill, East Fishkill + La Grange, Dutchess + Kent + Philipstown, Putnam Co.",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Poughkeepsie + Wappinger",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Fishkill",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,5,6",
+        "town": "Wappinger",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Wappinger, Fishkill or Fishkill",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10,5",
+        "town": "Poughkeepsie",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Poughkeepsie, La Grange + Wappinger",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4,10",
+        "town": "East Fishkill + Fishkill",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "East Fishkill + Wappinger",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "East Fishkill, Kent + Philipstown",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Washington + Dover",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Dover, Washington",
+        "date_org": "31 May 1939 to take effect 31 Aug. 1939",
+        "date_appr": "",
+        "n_new": "2 Dover",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Hyde Park + Pleasant Valley",
+        "date_org": "22 April 1941 to take effect 22 July 1941",
+        "date_appr": "",
+        "n_new": "C.R.S. 1 Hyde Park",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Hyde Park",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Rhinebeck",
+        "date_org": "",
+        "date_appr": "Laid out 11 June 1941 Meeting held 27 June 1941 Designation of dist 15 Sept 1941",
+        "n_new": "C.R.S. 1 Rhinebeck",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,7,11,12",
+        "town": "Rhinebeck",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3+4",
+        "town": "Rhinebeck + Red Hook",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Rhinebeck + Hyde Park",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Rhinebeck + Clinton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Rhinebeck, Clinton + Hyde Park",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Rhinebeck + Milan",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3+4",
+        "town": "Clinton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Clinton + Stanford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Milan",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

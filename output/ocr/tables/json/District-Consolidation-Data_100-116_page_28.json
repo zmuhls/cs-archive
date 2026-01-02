@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 28,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_28.jpg",
+    "processed_at": "2026-01-01T22:22:34.711430",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Chenango",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "2",
+        "town": "Preston",
+        "date_org": "1 June 1942",
+        "date_appr": "1 Sept 1942",
+        "n_new": "",
+        "rmk": "CRS"
+      },
+      {
+        "n": "1",
+        "town": "Oxford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "1 Oxford"
+      },
+      {
+        "n": "2",
+        "town": "McDonough",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS"
+      },
+      {
+        "n": "1",
+        "town": "Oxford",
+        "date_org": "25 May 1943",
+        "date_appr": "1 Sept 1943",
+        "n_new": "",
+        "rmk": "1 Oxford"
+      },
+      {
+        "n": "3",
+        "town": "Oxford",
+        "date_org": "25 May 1943",
+        "date_appr": "1 Sept 1943",
+        "n_new": "",
+        "rmk": "CRS"
+      },
+      {
+        "n": "1",
+        "town": "Oxford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "1 Oxford"
+      },
+      {
+        "n": "2",
+        "town": "German",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Cincinnatus (Cat. Co.)",
+        "date_org": "",
+        "date_appr": "15 Sept 1944",
+        "n_new": "",
+        "rmk": "1 Cincinnatus (Cat. Co.)"
+      },
+      {
+        "n": "4",
+        "town": "McDonough",
+        "date_org": "26 June 1944",
+        "date_appr": "30 Sept 1944",
+        "n_new": "",
+        "rmk": "3 McDonough"
+      },
+      {
+        "n": "3",
+        "town": "McDonough",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS"
+      },
+      {
+        "n": "4",
+        "town": "German",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Greene",
+        "date_org": "",
+        "date_appr": "April 2, 1945",
+        "n_new": "",
+        "rmk": "1 Greene"
+      },
+      {
+        "n": "1",
+        "town": "Margalis & Otsego",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS"
+      },
+      {
+        "n": "1",
+        "town": "Otsego",
+        "date_org": "",
+        "date_appr": "October 31, 1945",
+        "n_new": "",
+        "rmk": "1 Otsego"
+      },
+      {
+        "n": "5",
+        "town": "German",
+        "date_org": "",
+        "date_appr": "November 20, 1945",
+        "n_new": "",
+        "rmk": "CRS"
+      },
+      {
+        "n": "1",
+        "town": "Cincinnatus - Catholic",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "1 Cincinnatus"
+      },
+      {
+        "n": "1",
+        "town": "New Berlin - Chenango",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Cincinnatus - Otsego Co.",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

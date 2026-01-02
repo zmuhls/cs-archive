@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 47,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_47.jpg",
+    "processed_at": "2026-01-01T22:29:23.241332",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Dutchess",
+    "table_type": "town_school_units",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1",
+        "town": "Hyde Park",
+        "date_org": "U.F.S. 1 and 3,4,5",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "\"",
+        "date_org": "U.F.S. 2 and dist. no. 4",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Red Hook",
+        "date_org": "U.F.S. 3 and nos. 7,8,9",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "\"",
+        "date_org": "U.F.S. 4 and 1,5,6,8",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

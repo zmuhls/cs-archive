@@ -1,0 +1,529 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 9,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_9.jpg",
+    "processed_at": "2026-01-01T22:11:15.557057",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Cattaraugus",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "5",
+        "town": "Red House",
+        "date_org": "16 March 1936",
+        "date_appr": "16 June 1936",
+        "n_new": "1",
+        "rmk": "Red House"
+      },
+      {
+        "n": "1",
+        "town": "Red House",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Leon",
+        "date_org": "20 March 1937",
+        "date_appr": "1 July 1937",
+        "n_new": "3",
+        "rmk": "Leon"
+      },
+      {
+        "n": "8",
+        "town": "Leon",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Great Valley, Ellenville",
+        "date_org": "19 July 1937",
+        "date_appr": "20 Oct. 1937",
+        "n_new": "3",
+        "rmk": "Great Valley"
+      },
+      {
+        "n": "2",
+        "town": "Great Valley",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "South Valley",
+        "date_org": "30 March 1938",
+        "date_appr": "1 July 1938",
+        "n_new": "2",
+        "rmk": "South Valley"
+      },
+      {
+        "n": "1",
+        "town": "Hinsdale",
+        "date_org": "11 Feb. 1938",
+        "date_appr": "1 July 1938",
+        "n_new": "1",
+        "rmk": "Hinsdale"
+      },
+      {
+        "n": "4",
+        "town": "Jachua",
+        "date_org": "1 June 1938",
+        "date_appr": "1 Sept 1938",
+        "n_new": "1",
+        "rmk": "Hinsdale"
+      },
+      {
+        "n": "1",
+        "town": "Hinsdale",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Farnerville",
+        "date_org": "9 Aug. 1938",
+        "date_appr": "14 Nov. 1938",
+        "n_new": "1",
+        "rmk": "Rushford (Allegany Co)"
+      },
+      {
+        "n": "1",
+        "town": "Rushford (Allegany)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Leon",
+        "date_org": "10 April 1939",
+        "date_appr": "15 July 1939",
+        "n_new": "5",
+        "rmk": "Leon"
+      },
+      {
+        "n": "2",
+        "town": "Leon & New Lebanon",
+        "date_org": "10 April 1939",
+        "date_appr": "15 July 1939",
+        "n_new": "5",
+        "rmk": "Leon"
+      },
+      {
+        "n": "1",
+        "town": "Leon",
+        "date_org": "10 April 1939",
+        "date_appr": "15 July 1939",
+        "n_new": "5",
+        "rmk": "Leon"
+      },
+      {
+        "n": "1",
+        "town": "Farnerville",
+        "date_org": "24 July 1940",
+        "date_appr": "6 Nov. 1940",
+        "n_new": "1",
+        "rmk": "Rushford (Allegany Co)"
+      },
+      {
+        "n": "1",
+        "town": "Rushford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Yorkshire",
+        "date_org": "Laid out 6 June 1941",
+        "date_appr": "June 27, 1950",
+        "n_new": "1",
+        "rmk": "Yorkshire, Freedom, and 3 and 11 in Catt. Co. and Arcade, Wyoming Co."
+      },
+      {
+        "n": "1,2,3,5,6,9",
+        "town": "Yorkshire",
+        "date_org": "Meeting held 26 June 1941",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Yorkshire, Arcade, Freedom",
+        "date_org": "Designation of dist. 30 June 1941",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Freedom",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Farnerville & Freedom",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Farnerville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Rushford",
+        "date_org": "24 March 1941",
+        "date_appr": "1 July 1941",
+        "n_new": "1",
+        "rmk": "Rushford (Allegany Co)"
+      },
+      {
+        "n": "3",
+        "town": "Napoli & Cold Spring",
+        "date_org": "22 April 1941",
+        "date_appr": "28 July 1941",
+        "n_new": "2",
+        "rmk": "Napoli"
+      },
+      {
+        "n": "2",
+        "town": "Napoli",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Randolph",
+        "date_org": "29 June 1942",
+        "date_appr": "1 Oct. 1942",
+        "n_new": "1",
+        "rmk": "Randolph"
+      },
+      {
+        "n": "1",
+        "town": "Randolph",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Conewango",
+        "date_org": "6 March 1942",
+        "date_appr": "1 July 1942",
+        "n_new": "1",
+        "rmk": "Randolph"
+      },
+      {
+        "n": "1",
+        "town": "Randolph",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Great Valley",
+        "date_org": "12 June 1942",
+        "date_appr": "12 Sept 1942",
+        "n_new": "1",
+        "rmk": "Great Valley"
+      },
+      {
+        "n": "1",
+        "town": "Great Valley",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,3,5,7,9,10,12",
+        "town": "Franklinville",
+        "date_org": "Laid out & designated 2 May 1944",
+        "date_appr": "Meeting held 6 June 1944",
+        "n_new": "1",
+        "rmk": "Franklinville, Farnerville, Byndar, Humphrey, Jachua, Machias"
+      },
+      {
+        "n": "4",
+        "town": "Franklinville & Humphrey",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Byndar",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Jachua & Byndar",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Machias",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Byndar",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Jachua",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Farnerville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Franklinville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,3,8,9",
+        "town": "Farnerville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Machias",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Humphrey & Jachua",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Franklinville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Jachua",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Jachua",
+        "date_org": "Effective July 16, 1945",
+        "date_appr": "Laid out & designated June 13, 1945",
+        "n_new": "1",
+        "rmk": "Hinsdale"
+      },
+      {
+        "n": "1",
+        "town": "Hinsdale",
+        "date_org": "Meeting held June 27, 1945",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Pottville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,3,4,6,10",
+        "town": "Pottville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Pottville & Geneseo (Allegany)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Olean",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Clarksville (Allegany)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4,5",
+        "town": "Geneseo",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Clarksville & Geneseo",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Olean",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Little Valley",
+        "date_org": "Laid out May 11, 1946",
+        "date_appr": "Meeting held June 6, 1946",
+        "n_new": "1",
+        "rmk": "Little Valley"
+      },
+      {
+        "n": "1,3,5,6",
+        "town": "Little Valley",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4,6,7",
+        "town": "Moorfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5,6,7",
+        "town": "New Albion",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Rafaeli",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

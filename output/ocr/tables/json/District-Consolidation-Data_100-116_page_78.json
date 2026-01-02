@@ -1,0 +1,361 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 78,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_78.jpg",
+    "processed_at": "2026-01-01T22:41:49.157299",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Jefferson",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "9 10",
+        "town": "Wilna",
+        "date_org": "30 October 1913",
+        "date_appr": "9-118,914 1K 10-14,520 1K to take effect 1 Dec. 1913",
+        "n_new": "13-14",
+        "rmk": "9 Wilna"
+      },
+      {
+        "n": "9 10",
+        "town": "Philadelphia",
+        "date_org": "2 September 1915",
+        "date_appr": "9-23650 Cont 14-15 10-89,177 1K 15-16",
+        "n_new": "",
+        "rmk": "9 Philadelphia"
+      },
+      {
+        "n": "10 16",
+        "town": "Lyme",
+        "date_org": "1 August 1914",
+        "date_appr": "10-148,825 1K 16-60,232 Cont",
+        "n_new": "",
+        "rmk": "10 Lyme"
+      },
+      {
+        "n": "",
+        "town": "Part of 2 Wilna 3 Wilna",
+        "date_org": "9 March 1923",
+        "date_appr": "3-62,01 14-05 5-23,17 52,70 11-89,82 204,87",
+        "n_new": "205,51 76,81 219,68",
+        "rmk": "3 Wilna 5 11"
+      },
+      {
+        "n": "",
+        "town": "Central Rural Sch 1,3,4,6,7,8,9,10 Adams not a consol",
+        "date_org": "24 1-44,185 Cont 3-79,100 Cont 4-90,077 1K",
+        "date_appr": "6-52,300 Cont 7-55,199 1K 8-53,734 Cont 9-32,789 1K 10-41,209 1K 1R-97,193 1K 6R-90,450 1K",
+        "n_new": "",
+        "rmk": "1 Adams Rodman"
+      },
+      {
+        "n": "186",
+        "town": "Rodman",
+        "date_org": "8 December 1925",
+        "date_appr": "6-85,179 1K 8-71,710 Cont",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6 8",
+        "town": "Antwerp",
+        "date_org": "8 July 1926",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "6 Antwerp"
+      },
+      {
+        "n": "",
+        "town": "1,2,6,7,23,25 Ellisburg CRS",
+        "date_org": "C.R.S. laid out 24 May 1929 Meeting held 12 Je. 1929 Desig. of dist. 24 Je. 1929",
+        "date_appr": "the papers framed",
+        "n_new": "",
+        "rmk": "Central Sch. Dist: No. 1 of the Towns of Ellisburg and Lorraine"
+      },
+      {
+        "n": "27",
+        "town": "Ellisburg Lorraine",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Lorraine Ellisburg",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2 15",
+        "town": "Cape Vincent",
+        "date_org": "16 Sept. 1930 to take effect 16 Dec. 1930",
+        "date_appr": "2-62,400 15-119,715 1-72,980 1K 2-16,514 Cont",
+        "n_new": "",
+        "rmk": "15 Cape Vincent"
+      },
+      {
+        "n": "1 3",
+        "town": "Rutland",
+        "date_org": "1 Oct. 1930 to take effect 10 Oct. 1930",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "1 Rutland"
+      },
+      {
+        "n": "5,6,7,8,9,10,11",
+        "town": "Henderson",
+        "date_org": "C.R.S. laid out 6 Nov. 1930. Meeting held 24 Nov. 1930. Designation of dist 22 Dec. 1930",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "5 Henderson Ellisburg"
+      },
+      {
+        "n": "1 2",
+        "town": "Henderson Ellisburg",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9,10,13,14,19,18,20,21,24 26",
+        "town": "Ellisburg C.R.S.",
+        "date_org": "laid out 6 April 1931. Meeting held 30 Apr. 1931. Desig. of dist. 3 June 1931.",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "2 Ellisburg, Henderson and Adams"
+      },
+      {
+        "n": "12",
+        "town": "Ellisburg Adams",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Adams Hounsfield",
+        "date_org": "15 June 1931 to take effect 15 Sept. 1931",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS Adams Rodman"
+      },
+      {
+        "n": "",
+        "town": "Adams Rodman",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Henderson Adams",
+        "date_org": "14 Jl. 1931 to take effect 16 Oct. 1931",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "2 Ellisburg"
+      },
+      {
+        "n": "",
+        "town": "Ellisburg",
+        "date_org": "Order revoked 13 Oct. 1933",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Rodman",
+        "date_org": "29 Jl. 1932",
+        "date_appr": "20. 1932",
+        "n_new": "",
+        "rmk": "10 Rodman"
+      },
+      {
+        "n": "14",
+        "town": "Watertown Pamelia",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Rutland",
+        "date_org": "6 May 1933",
+        "date_appr": "10 July 1933",
+        "n_new": "",
+        "rmk": "7 Rutland"
+      },
+      {
+        "n": "7",
+        "town": "Rutland",
+        "date_org": "",
+        "date_appr": "July 1933",
+        "n_new": "",
+        "rmk": "15 Hounsfield 1 Brownville"
+      },
+      {
+        "n": "",
+        "town": "Part of Watertown 15 Hounsfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Brownville",
+        "date_org": "15 Feb. 1933",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Rodman",
+        "date_org": "15 October 1933 to take effect 15 Jan 1933",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "8 Rodman"
+      },
+      {
+        "n": "9",
+        "town": "Rodman",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Lyme",
+        "date_org": "4 September 1935",
+        "date_appr": "4 Dec. 1936",
+        "n_new": "",
+        "rmk": "4 Lyme"
+      },
+      {
+        "n": "2",
+        "town": "Ellisburg",
+        "date_org": "28 May 1936 to take effect 31 Aug 1936",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS 2 Ellisburg"
+      },
+      {
+        "n": "15",
+        "town": "Ellisburg",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS 2 Ellisburg"
+      },
+      {
+        "n": "2",
+        "town": "Ellisburg Henderson Adams",
+        "date_org": "27 June 1936 to take effect 25 Sept 1936",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Ellisburg"
+      },
+      {
+        "n": "2",
+        "town": "Ellisburg, Henderson Adams",
+        "date_org": "27 June 1936 to take effect 25 Sept 1936",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Lyme",
+        "date_org": "1 May 1937 to take effect 1 Aug 1937",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "4 Lyme"
+      },
+      {
+        "n": "2",
+        "town": "Rodman",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS 1 Adams"
+      },
+      {
+        "n": "1",
+        "town": "Adams",
+        "date_org": "22 July 1937 to take effect 22 Oct. 1937",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Adams"
+      },
+      {
+        "n": "8",
+        "town": "Rodman",
+        "date_org": "1 Sept 1937 to take effect 5 Dec. 1937",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Adams"
+      },
+      {
+        "n": "1",
+        "town": "Adams",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11 12",
+        "town": "Watertown",
+        "date_org": "1 Sept 1937",
+        "date_appr": "5 Dec. 1937",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Adams"
+      },
+      {
+        "n": "1",
+        "town": "Adams",
+        "date_org": "11 June 1937",
+        "date_appr": "10 Sept 1937",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Adams"
+      },
+      {
+        "n": "6",
+        "town": "Adams",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Adams",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

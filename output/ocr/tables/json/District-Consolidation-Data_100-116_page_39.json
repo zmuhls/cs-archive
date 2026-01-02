@@ -1,0 +1,433 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 39,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_39.jpg",
+    "processed_at": "2026-01-01T22:26:55.903829",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Cortland",
+    "table_type": "unknown",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "8",
+        "town": "Cincinnatus, Freetown, Taylor",
+        "date_org": "15 May 1931",
+        "date_appr": "12 June 1931",
+        "n_new": "",
+        "rmk": "1 Cincinnatus, Willet, Cuyler, Freetown, Solon, Taylor, Truxton (Cats), Salmon, Lickskillet, Pharsalia, Pitcher (Ch), Triangle (Broome Co)"
+      },
+      {
+        "n": "6",
+        "town": "Solon + Taylor",
+        "date_org": "15 May 1931",
+        "date_appr": "12 June 1931",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Taylor + Cincinnatus",
+        "date_org": "15 May 1931",
+        "date_appr": "12 June 1931",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Truxton + Cuyler",
+        "date_org": "15 May 1931",
+        "date_appr": "12 June 1931",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 6 Scott & 1 Scott",
+        "date_org": "5 Aug 1933",
+        "date_appr": "5 Sept 1933",
+        "n_new": "1",
+        "rmk": "Scott"
+      },
+      {
+        "n": "",
+        "town": "\"6\" & 2\"",
+        "date_org": "5 Aug 1933",
+        "date_appr": "5 Sept 1933",
+        "n_new": "2",
+        "rmk": "Scott See *"
+      },
+      {
+        "n": "6",
+        "town": "Preble",
+        "date_org": "29 April 1936",
+        "date_appr": "29 July 1936",
+        "n_new": "2",
+        "rmk": "Preble"
+      },
+      {
+        "n": "9",
+        "town": "Freetown",
+        "date_org": "29 April 1936",
+        "date_appr": "29 July 1936",
+        "n_new": "",
+        "rmk": "C.R.S."
+      },
+      {
+        "n": "5",
+        "town": "Marathon, Freetown",
+        "date_org": "24 May 1938",
+        "date_appr": "25 August 1938",
+        "n_new": "1",
+        "rmk": "Marathon, Freetown"
+      },
+      {
+        "n": "1",
+        "town": "Virgil",
+        "date_org": "23 May 1938",
+        "date_appr": "25 Aug 1938",
+        "n_new": "2",
+        "rmk": "Virgil"
+      },
+      {
+        "n": "15",
+        "town": "Virgil",
+        "date_org": "23 May 1938",
+        "date_appr": "25 Aug 1938",
+        "n_new": "",
+        "rmk": "C.R.S."
+      },
+      {
+        "n": "2",
+        "town": "Germantown (Chenango Co)",
+        "date_org": "10 March 1939",
+        "date_appr": "1 July 1939",
+        "n_new": "1",
+        "rmk": "Cincinnatus"
+      },
+      {
+        "n": "1",
+        "town": "Cincinnatus",
+        "date_org": "10 March 1939",
+        "date_appr": "1 July 1939",
+        "n_new": "",
+        "rmk": "C.R.S."
+      },
+      {
+        "n": "3",
+        "town": "Caper & Harford",
+        "date_org": "27 May 1941",
+        "date_appr": "28 Aug 1941",
+        "n_new": "1",
+        "rmk": "Marathon"
+      },
+      {
+        "n": "1",
+        "town": "Marathon",
+        "date_org": "27 May 1941",
+        "date_appr": "28 Aug 1941",
+        "n_new": "",
+        "rmk": "C.R.S."
+      },
+      {
+        "n": "14",
+        "town": "Cortlandville",
+        "date_org": "19 June 1941",
+        "date_appr": "19 Sept 1941",
+        "n_new": "2",
+        "rmk": "Virgil"
+      },
+      {
+        "n": "2",
+        "town": "Virgil",
+        "date_org": "19 June 1941",
+        "date_appr": "19 Sept 1941",
+        "n_new": "",
+        "rmk": "C.R.S."
+      },
+      {
+        "n": "4",
+        "town": "Virgil",
+        "date_org": "21 May 1942",
+        "date_appr": "19 Aug 1942",
+        "n_new": "1",
+        "rmk": "Marathon"
+      },
+      {
+        "n": "1",
+        "town": "Marathon",
+        "date_org": "21 May 1942",
+        "date_appr": "19 Aug 1942",
+        "n_new": "",
+        "rmk": "C.R.S."
+      },
+      {
+        "n": "6",
+        "town": "Freetown",
+        "date_org": "21 May 1942",
+        "date_appr": "19 Aug 1942",
+        "n_new": "1",
+        "rmk": "Marathon"
+      },
+      {
+        "n": "1",
+        "town": "Marathon",
+        "date_org": "21 May 1942",
+        "date_appr": "19 Aug 1942",
+        "n_new": "",
+        "rmk": "C.R.S."
+      },
+      {
+        "n": "1",
+        "town": "Harford",
+        "date_org": "21 May 1942",
+        "date_appr": "19 Aug 1942",
+        "n_new": "1",
+        "rmk": "Marathon"
+      },
+      {
+        "n": "1",
+        "town": "Marathon",
+        "date_org": "21 May 1942",
+        "date_appr": "19 Aug 1942",
+        "n_new": "",
+        "rmk": "C.R.S."
+      },
+      {
+        "n": "3",
+        "town": "Harford",
+        "date_org": "21 May 1942",
+        "date_appr": "19 Aug 1942",
+        "n_new": "1",
+        "rmk": "Marathon"
+      },
+      {
+        "n": "1",
+        "town": "Dryden, Tompkins Co.",
+        "date_org": "11 May 1942",
+        "date_appr": "9 Aug 1942",
+        "n_new": "1",
+        "rmk": "Dryden, Tompkins Co."
+      },
+      {
+        "n": "15",
+        "town": "Cortlandville, Groton",
+        "date_org": "11 May 1942",
+        "date_appr": "9 Aug 1942",
+        "n_new": "",
+        "rmk": "C.R.S."
+      },
+      {
+        "n": "26",
+        "town": "Groton, Tompkins Co.",
+        "date_org": "15 Aug 1942",
+        "date_appr": "15 Nov 1942",
+        "n_new": "20",
+        "rmk": "Groton"
+      },
+      {
+        "n": "2",
+        "town": "Germantown (Chenango Co.)",
+        "date_org": "15 Aug 1942",
+        "date_appr": "15 Nov 1942",
+        "n_new": "",
+        "rmk": "C.R.S."
+      },
+      {
+        "n": "1",
+        "town": "Cincinnatus",
+        "date_org": "15 Aug 1942",
+        "date_appr": "15 Sept 1944",
+        "n_new": "1",
+        "rmk": "Cincinnatus"
+      },
+      {
+        "n": "7",
+        "town": "Harpersfield",
+        "date_org": "15 Aug 1942",
+        "date_appr": "15 Sept 1944",
+        "n_new": "",
+        "rmk": "C.R.S."
+      },
+      {
+        "n": "1",
+        "town": "Marathon",
+        "date_org": "15 Aug 1942",
+        "date_appr": "15 Sept 1944",
+        "n_new": "1",
+        "rmk": "Marathon"
+      },
+      {
+        "n": "",
+        "town": "C.R.S. 7.7.1.dit",
+        "date_org": "1 Homer",
+        "date_appr": "Laid out May 4, 1946",
+        "n_new": "Meeting held June 4, 1946",
+        "rmk": "1 Homer"
+      },
+      {
+        "n": "",
+        "town": "c.s.dit",
+        "date_org": "2 Scott",
+        "date_appr": "Laid out May 4, 1946",
+        "n_new": "Meeting held June 4, 1946",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "2,3,4,5,7,8,9,10,11,13 Homer",
+        "date_appr": "Laid out May 4, 1946",
+        "n_new": "Meeting held June 4, 1946",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "4,7, Preble",
+        "date_appr": "Laid out May 4, 1946",
+        "n_new": "Meeting held June 4, 1946",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "2,3,6,7,8,10,14 Cortlandville",
+        "date_appr": "Laid out May 4, 1946",
+        "n_new": "Meeting held June 4, 1946",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "4,5,6,10 Preble",
+        "date_appr": "Laid out May 4, 1946",
+        "n_new": "Meeting held June 4, 1946",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "4,7 Remsen",
+        "date_appr": "Laid out May 4, 1946",
+        "n_new": "Meeting held June 4, 1946",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "CRS 2.2.5.dit",
+        "date_org": "13 Cortlandville + Solon",
+        "date_appr": "Laid out June 12, 1950",
+        "n_new": "Meeting held June 29, 1950",
+        "rmk": "4 Cortlandville, Solon, Virgil, Homer, Truxton, Freetown, Taylor"
+      },
+      {
+        "n": "",
+        "town": "c.s.dit",
+        "date_org": "4,9,12 Cortlandville",
+        "date_appr": "Laid out June 12, 1950",
+        "n_new": "Meeting held June 29, 1950",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "13 Cortlandville, Freetown + Virgil",
+        "date_appr": "Laid out June 12, 1950",
+        "n_new": "Meeting held June 29, 1950",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "5 Cortlandville + Homer",
+        "date_appr": "Laid out June 12, 1950",
+        "n_new": "Meeting held June 29, 1950",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "7,8, Solon",
+        "date_appr": "Laid out June 12, 1950",
+        "n_new": "Meeting held June 29, 1950",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "1 Solon + Truxton",
+        "date_appr": "Laid out June 12, 1950",
+        "n_new": "Meeting held June 29, 1950",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "2 Solon + Cortlandville",
+        "date_appr": "Laid out June 12, 1950",
+        "n_new": "Meeting held June 29, 1950",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "3 Solon + Freetown",
+        "date_appr": "Laid out June 12, 1950",
+        "n_new": "Meeting held June 29, 1950",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "5 Solon + Taylor",
+        "date_appr": "Laid out June 12, 1950",
+        "n_new": "Meeting held June 29, 1950",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "9 Solon, Homer + Truxton",
+        "date_appr": "Laid out June 12, 1950",
+        "n_new": "Meeting held June 29, 1950",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "11 Virgil",
+        "date_appr": "Laid out June 12, 1950",
+        "n_new": "Meeting held June 29, 1950",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "11 Cortlandville + Virgil",
+        "date_appr": "Laid out June 12, 1950",
+        "n_new": "Meeting held June 29, 1950",
+        "rmk": ""
+      },
+      {
+        "n": "17",
+        "town": "Cortlandville",
+        "date_org": "Effective June 30, 1950",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "City of Cortland"
+      }
+    ]
+  }
+}

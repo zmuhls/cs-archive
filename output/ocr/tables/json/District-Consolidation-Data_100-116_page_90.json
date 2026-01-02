@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 90,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_90.jpg",
+    "processed_at": "2026-01-01T22:47:25.729214",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Madison",
+    "table_type": "town_school_units",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1",
+        "town": "Brookfield",
+        "date_org": "U.F.S. 12",
+        "date_appr": "15,20,23,27 & 28",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "\"",
+        "date_org": "9",
+        "date_appr": "2,3,16,17,18,19,21,22,24 & 26",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "\"",
+        "date_org": "5",
+        "date_appr": "7,10,13,14,25 & 29",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Eaton",
+        "date_org": "U.F.S. 2",
+        "date_appr": "1,3,6,11,12 & 16",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "\"",
+        "date_org": "8",
+        "date_appr": "4,5,7,9,10,14,15 & 17",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

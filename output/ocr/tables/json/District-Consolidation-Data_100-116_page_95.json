@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 95,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_95.jpg",
+    "processed_at": "2026-01-01T22:50:39.781320",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Monroe",
+    "table_type": "union_free_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "6",
+        "town": "Pittsford",
+        "date_org": "16 April 1890",
+        "date_appr": "",
+        "n_new": "7",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Greece",
+        "date_org": "9 July 1915",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Rush",
+        "date_org": "10 June 1919",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Sweden",
+        "date_org": "13 July 1926",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Brighton",
+        "date_org": "31 August 1928",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Irondequoit",
+        "date_org": "6 May 1930",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Gates",
+        "date_org": "13 May 1931",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Wheatland",
+        "date_org": "1 Jan 1912",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Gates",
+        "date_org": "18 March 1946",
+        "date_appr": "",
+        "n_new": "4",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Irondequoit",
+        "date_org": "25 June 1946",
+        "date_appr": "",
+        "n_new": "4",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Gates",
+        "date_org": "17 April 1947",
+        "date_appr": "",
+        "n_new": "4",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Brighton",
+        "date_org": "6 June 1947",
+        "date_appr": "",
+        "n_new": "7",
+        "rmk": ""
+      }
+    ]
+  }
+}

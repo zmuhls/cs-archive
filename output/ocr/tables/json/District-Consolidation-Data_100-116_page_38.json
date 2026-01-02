@@ -1,0 +1,425 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 38,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_38.jpg",
+    "processed_at": "2026-01-01T22:26:16.473254",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Cortland",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "2,7,13",
+        "town": "Cuyler",
+        "date_org": "3 December 1914",
+        "date_appr": "2- 16,325 16,650",
+        "n_new": "1 Cuyler",
+        "rmk": ""
+      },
+      {
+        "n": "3,4,5",
+        "town": "Cuyler",
+        "date_org": "6 December 1915",
+        "date_appr": "13- 8,075 9,150",
+        "n_new": "5 Cuyler",
+        "rmk": ""
+      },
+      {
+        "n": "2,5,8,9",
+        "town": "Scott",
+        "date_org": "22 April 1915",
+        "date_appr": "3- 12,000 14-15",
+        "n_new": "2 Scott *",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Scott & Homer",
+        "date_org": "",
+        "date_appr": "5- 41,650 8- 18,575",
+        "n_new": "2 Scott",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Scott",
+        "date_org": "18 August 1916",
+        "date_appr": "5- 39,250 9- 28,100",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,3,5,6,7,8",
+        "town": "Freetown",
+        "date_org": "27 April 1917",
+        "date_appr": "Appealed & Sustained (Dist. Supt. 27 Dec. 1918)",
+        "n_new": "1 Freetown",
+        "rmk": ""
+      },
+      {
+        "n": "7,10",
+        "town": "Virgil",
+        "date_org": "23 May 1919",
+        "date_appr": "7- 8,805",
+        "n_new": "10 Virgil",
+        "rmk": ""
+      },
+      {
+        "n": "3,6",
+        "town": "Virgil",
+        "date_org": "20 September 1923",
+        "date_appr": "10- 15,090",
+        "n_new": "3 Virgil",
+        "rmk": ""
+      },
+      {
+        "n": "3,8",
+        "town": "Lapeer",
+        "date_org": "7 September 1926",
+        "date_appr": "3- 39,107",
+        "n_new": "3 Lapeer",
+        "rmk": ""
+      },
+      {
+        "n": "8,9",
+        "town": "Taylor",
+        "date_org": "30 July 1927",
+        "date_appr": "6- 22,475",
+        "n_new": "8 Taylor",
+        "rmk": ""
+      },
+      {
+        "n": "Part of 4",
+        "town": "Cuyler & 1 Cuyler",
+        "date_org": "30 July 1927",
+        "date_appr": "3- 19,859",
+        "n_new": "1 Cuyler",
+        "rmk": ""
+      },
+      {
+        "n": "Part of 10",
+        "town": "Truxton & 2 Truxton",
+        "date_org": "11 November 1926",
+        "date_appr": "8- 18,740",
+        "n_new": "2 Truxton",
+        "rmk": ""
+      },
+      {
+        "n": "4,5",
+        "town": "Solon",
+        "date_org": "3 August 1929",
+        "date_appr": "9- 6,225",
+        "n_new": "5 Solon",
+        "rmk": ""
+      },
+      {
+        "n": "1,4,4",
+        "town": "Truxton",
+        "date_org": "24 October 1929",
+        "date_appr": "1- 82.36 310.50",
+        "n_new": "4 Truxton",
+        "rmk": ""
+      },
+      {
+        "n": "2,3,13,14",
+        "town": "Virgil",
+        "date_org": "Laid out 21 April 1930",
+        "date_appr": "12- 117.64 443.50",
+        "n_new": "2 Virgil, Harford, Lapeer, Cortlandville",
+        "rmk": ""
+      },
+      {
+        "n": "5,12,16",
+        "town": "Virgil + Harford",
+        "date_org": "Meeting Held 5 May 1930",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Virgil + Cortlandville",
+        "date_org": "Designation of district as 22 May 1930",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Virgil, Harford, Lapeer",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7,8,9",
+        "town": "Marathon",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Freetown, Lapeer, Harford, Marathon",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Lapeer, Marathon",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Marathon + Millet",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Virgil, Millet, Cincinnatus, Cortland Co and",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Marathon + Lapeer",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Cincinnatus",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,3,4,8",
+        "town": "Freetown + Millet",
+        "date_org": "Laid out 28 June 1930",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,6",
+        "town": "Freetown",
+        "date_org": "Meeting Held 21 July 1930",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Lapeer, Freetown",
+        "date_org": "Designation of dist. 29 July 1930 as Lisle, Broome Co.",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Marathon + Virgil",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Lapeer + Harford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Virgil + Lapeer",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Virgil",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Truxton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,3,8,11",
+        "town": "Truxton",
+        "date_org": "Laid out 20 Feb. 1931. Meeting",
+        "date_appr": "",
+        "n_new": "6 Truxton, Solon, Pittle, Cuyler + Homer",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Solon",
+        "date_org": "Held 11 Mar. 1931. Designation",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Pittle",
+        "date_org": "of dist. 8 Apr. 1931",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Cuyler",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4,15",
+        "town": "Cuyler + Truxton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8,12",
+        "town": "Homer + Pittle",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Pittle + Homer",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,4,6",
+        "town": "Cincinnatus",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,3,14",
+        "town": "Pitches (Chen. co.)",
+        "date_org": "- 1 Pitches - Cincinnatus",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Pharsalia",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Millet",
+        "date_org": "- 2 \" . Pitches",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,3,6",
+        "town": "Taylor",
+        "date_org": "Leman",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Cuyler, Strickland (Chen. co.)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Pharsalia & Pitches",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Millet + Cincinnatus",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Triangle (Broome co.)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Berman (Chen. co.) + Cincinnatus (Cort. co.)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Cincinnatus + Millet",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Taylor (Cort. co.) + Pitches (Chen. co.)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

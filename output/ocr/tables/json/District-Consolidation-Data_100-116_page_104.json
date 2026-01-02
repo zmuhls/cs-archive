@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 104,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_104.jpg",
+    "processed_at": "2026-01-01T22:53:28.848198",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Nassau",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "7,9,10",
+        "town": "Oyster Bay",
+        "date_org": "7 December 1916",
+        "date_appr": "7-1193700, 9-2922993, 10-1531960",
+        "n_new": "9",
+        "rmk": "No. new dist. 9=old 16 Oyster Bay"
+      },
+      {
+        "n": "16,17",
+        "town": "Hempstead",
+        "date_org": "Papers filed with appeal",
+        "date_appr": "16-17",
+        "n_new": "c.H.S.",
+        "rmk": "c.H.S."
+      },
+      {
+        "n": "22",
+        "town": "Hempstead",
+        "date_org": "Hempstead & No. H established into C.H.S.",
+        "date_appr": "1 Jan 1926",
+        "n_new": "2",
+        "rmk": "Hempstead & No. Hempstead"
+      },
+      {
+        "n": "5",
+        "town": "No Hempstead",
+        "date_org": "1st Formation of C.H.S. 3 Aug 1926",
+        "date_appr": "Nov 1926",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "13,24,30",
+        "town": "Hempstead",
+        "date_org": "2d Formation of C.H.S. 5 May 1925",
+        "date_appr": "Oct 21 1925",
+        "n_new": "",
+        "rmk": "includes also Valley Stream Central School"
+      },
+      {
+        "n": "16",
+        "town": "Oyster Bay & No. Hempstead",
+        "date_org": "Consol. 3 Nov 1930 to take effect 16 Feb 1931",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "15 Oyster Bay & 13 No. Hempstead"
+      },
+      {
+        "n": "15",
+        "town": "Oyster Bay",
+        "date_org": "7-54, 13, 4, 57, 7, 8, 13, 37, 87 to take effect 20 Jul 1932",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "15 Oyster Bay"
+      },
+      {
+        "n": "7",
+        "town": "No Hempstead",
+        "date_org": "7 Nov 1930",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "7 No Hempstead"
+      },
+      {
+        "n": "U.F.S. 4,7,25,29",
+        "town": "Hempstead",
+        "date_org": "Meeting held 25 Sept 1934. Formation of C.H.S. 1 Mar 1934. Designation of dist. as Central High School District No. 3 of the Town of Hempstead, Nassau Co. 1 Mar 1934.",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": "Hempstead"
+      },
+      {
+        "n": "19",
+        "town": "Oyster Bay",
+        "date_org": "Effective date June 6, 1950",
+        "date_appr": "",
+        "n_new": "19",
+        "rmk": "Oyster Bay"
+      }
+    ]
+  }
+}

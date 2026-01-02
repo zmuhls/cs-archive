@@ -1,0 +1,545 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 18,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_18.jpg",
+    "processed_at": "2026-01-01T22:16:20.717382",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Chautauqua",
+    "table_type": "unknown",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "C.R.S.",
+        "town": "Charlotte & Gerry",
+        "date_org": "Laid out 13 Aug. 1938",
+        "date_appr": "Meeting held 16 Sept 1938",
+        "n_new": "Designation of dist. 10 Sept 1938",
+        "rmk": "C.R.S. 1 Charlotte, Gerry, Stockton, Arkwright, Pomfret, Ellery, Cherry Creek, Ellicott and Ellington, Chautauqua Co."
+      },
+      {
+        "n": "3",
+        "town": "Gerry",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Stockton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Stockton Charlotte, Arkwright Pomfret",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "20",
+        "town": "Charlotte",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Charlotte & Stockton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Charlotte & Arkwright",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4,8,11",
+        "town": "Charlotte & Arkwright",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Charlotte & Cherry Creek",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Charlotte, Gerry & Cherry Creek",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Charlotte, Gerry & Stockton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,4,16,8",
+        "town": "Gerry & Ellicott",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Gerry & Ellington",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Gerry & Ellington",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Gerry & Ellery",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4,9",
+        "town": "Stockton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Stockton & Ellery",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Stockton & Pomfret",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Stockton, Gerry & Ellery",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "50",
+        "town": "Arkwright",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Ellery",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Ellery",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Pomfret",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Pomfret & Stockton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S.",
+        "town": "Hanover & Sheridan",
+        "date_org": "Laid out 20 September 1938",
+        "date_appr": "Meeting held 19 October 1938",
+        "n_new": "Designation of dist. 14 November 1938",
+        "rmk": "C.R.S. 3 Hanover, Sheridan, Arkwright, & Villanova, Chaut. Co. & Perrysburg, Catt. Co."
+      },
+      {
+        "n": "16",
+        "town": "Hanover & Sheridan",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,4,5,6,10,12,13,15",
+        "town": "Hanover",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Sheridan & Hanover",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Sheridan & Arkwright",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Arkwright",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Arkwright & Villanova",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Arkwright, Hanover & Sheridan",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Villanova",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Villanova & Hanover",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Villanova, Hanover & Arkwright",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Perrysburg (Cattaraugus Co.)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S.",
+        "town": "Ripley",
+        "date_org": "Laid out 20 September 1938",
+        "date_appr": "Meeting held 5 October 1938",
+        "n_new": "Designation of dist. 13 Oct. 1938",
+        "rmk": "C.R.S. 1 Ripley"
+      },
+      {
+        "n": "3",
+        "town": "Ripley",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,4,5,6,11",
+        "town": "Ripley",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "North Harmony",
+        "date_org": "17 April 1939 to take effect 18 July 1939",
+        "date_appr": "",
+        "n_new": "C.R.S. 2 Chautauqua",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Chautauqua",
+        "date_org": "1 May 1939 to take effect 1 Aug. 1939",
+        "date_appr": "",
+        "n_new": "C.R.S. 1 Sherman",
+        "rmk": ""
+      },
+      {
+        "n": "7,8,9",
+        "town": "Ripley",
+        "date_org": "17 July 1937 to take effect 17 Oct. 1937",
+        "date_appr": "",
+        "n_new": "C.R.S. 1 Sherman",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Sherman",
+        "date_org": "3 July 1940",
+        "date_appr": "5 Oct. 1940",
+        "n_new": "C.R.S. 1 Sherman",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Sherman & North Harmony",
+        "date_org": "8 May 1941",
+        "date_appr": "9 Aug. 1941",
+        "n_new": "C.R.S. 1 Sherman",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Sherman",
+        "date_org": "6 June 1941",
+        "date_appr": "7 Sept 1941",
+        "n_new": "C.R.S. 1 Sherman",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Mina",
+        "date_org": "2 Aug. 1941",
+        "date_appr": "4 Nov. 1941",
+        "n_new": "C.R.S. 1 Sherman",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Sherman & Ripley",
+        "date_org": "24 Dec. 1941",
+        "date_appr": "26 March 1941",
+        "n_new": "C.R.S. 1 Clymer",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Sherman",
+        "date_org": "3 July 1942",
+        "date_appr": "3 Oct. 1942",
+        "n_new": "C.R.S. 1 Clymer",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Mina",
+        "date_org": "11 September 1942",
+        "date_appr": "11 Dec. 1942",
+        "n_new": "C.R.S. 1 Clymer",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Sherman & French Creek",
+        "date_org": "15 July 1943",
+        "date_appr": "20 Oct. 1943",
+        "n_new": "C.R.S. 1 Clymer",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Sherman",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,8,10,12",
+        "town": "Mina",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "French Creek",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Clymer",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Mina & French Creek",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Clymer",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "French Creek",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Clymer",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "French Creek",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.B.S. & 2",
+        "town": "Carroll",
+        "date_org": "Laid out 15 Dec 1947",
+        "date_appr": "Meeting held 24 April 1948",
+        "n_new": "",
+        "rmk": "CRS 1 Carroll"
+      },
+      {
+        "n": "C.B.S. 1,3,4",
+        "town": "Carroll",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5,6,7,8",
+        "town": "Carroll (Chaut. Co.) + South Valley (Catt. Co.)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,2",
+        "town": "Kiantone",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4,5",
+        "town": "Kiantone & Burt",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,3",
+        "town": "Pleasant & Carroll",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

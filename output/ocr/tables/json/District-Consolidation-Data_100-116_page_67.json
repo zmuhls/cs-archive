@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 67,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_67.jpg",
+    "processed_at": "2026-01-01T22:36:54.044599",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Greene",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "27",
+        "town": "Jewett",
+        "date_org": "13 May 1914",
+        "date_appr": "2 14 273 12",
+        "n_new": "7 Jewett",
+        "rmk": ""
+      },
+      {
+        "n": "89",
+        "town": "Jewett",
+        "date_org": "26 September 1913",
+        "date_appr": "7 19 503 12",
+        "n_new": "8 Jewett",
+        "rmk": ""
+      },
+      {
+        "n": "616",
+        "town": "Greenville",
+        "date_org": "17 June 1919",
+        "date_appr": "6 36 270 12",
+        "n_new": "6 Greenville",
+        "rmk": ""
+      },
+      {
+        "n": "413",
+        "town": "New Baltimore",
+        "date_org": "17 June 1919",
+        "date_appr": "4 20 975 cont",
+        "n_new": "4 New Baltimore",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Conesville, Sch. Co.",
+        "date_org": "30 July 1919",
+        "date_appr": "1 36 280 cont",
+        "n_new": "2 Prattsville",
+        "rmk": ""
+      },
+      {
+        "n": "26",
+        "town": "Jewett",
+        "date_org": "10 February 1920",
+        "date_appr": "2 18 815 12",
+        "n_new": "6 Jewett",
+        "rmk": ""
+      },
+      {
+        "n": "612",
+        "town": "New Baltimore",
+        "date_org": "19 July 1920",
+        "date_appr": "6 15 005 cont",
+        "n_new": "12 New Baltimore",
+        "rmk": ""
+      },
+      {
+        "n": "1213",
+        "town": "Durham",
+        "date_org": "25 August 1920",
+        "date_appr": "12 59 316 12",
+        "n_new": "12 Durham",
+        "rmk": ""
+      },
+      {
+        "n": "910",
+        "town": "Catskill",
+        "date_org": "15 June 1922",
+        "date_appr": "9 40 370 1 cont",
+        "n_new": "10 Catskill",
+        "rmk": ""
+      },
+      {
+        "n": "1012",
+        "town": "Catskill",
+        "date_org": "24 July 1922",
+        "date_appr": "10 73 590 1 cont",
+        "n_new": "10 Catskill",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Greenville, Durham, Coxsackie, New Baltimore, Cairo, Green Co and Coeymans, Mesters, Rensselaerville, New Scotland, Albany Co.",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Durham, Cairo, Greenville, Rensselaerville, Conesville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Cairo, Durham, Athens, Catskill, Coxsackie, Greenville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Hunter, Jewett, Lexington",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Windham, Jewett, Ashland, Durham, Jewett, Lexington, Ashland, Windham",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Gibson (Schoharie Co.)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Gibson (Sch. Co.)",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Prattsville + Roxbury",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Roxbury (Del. Co.)",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Roxbury + Gibson (Del. Co.)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Roxbury (Del. Co.)",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Roxbury + Gibson (Del. Co.)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Roxbury (Del. Co.)",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Roxbury + Gibson (Del. Co.)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Roxbury (Del. Co.)",
+        "rmk": ""
+      }
+    ]
+  }
+}

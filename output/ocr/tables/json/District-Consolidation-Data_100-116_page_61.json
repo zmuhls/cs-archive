@@ -1,0 +1,521 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 61,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_61.jpg",
+    "processed_at": "2026-01-01T22:35:29.857458",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Fulton",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1",
+        "town": "Ephratah & Oppenheim",
+        "date_org": "15 May 1914",
+        "date_appr": "12 8345 1K",
+        "n_new": "12 Oppenheim",
+        "rmk": "No. new dist. changed 1915"
+      },
+      {
+        "n": "5,6",
+        "town": "Ephratah",
+        "date_org": "20 August 1914",
+        "date_appr": "1 8400 Cont",
+        "n_new": "6 Ephratah",
+        "rmk": "Oppenheim annulled, dissolved"
+      },
+      {
+        "n": "1,20",
+        "town": "Johnstown",
+        "date_org": "6 May 1914",
+        "date_appr": "11 Johnstown taken out of consol. Mr. 13,1920 numbered",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Ephratah",
+        "date_org": "6 May 1914",
+        "date_appr": "4 Johnstown",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,4",
+        "town": "Caroga",
+        "date_org": "26 April 1916",
+        "date_appr": "to take effect 27 Apr 1916",
+        "n_new": "3 Caroga",
+        "rmk": ""
+      },
+      {
+        "n": "7,8,9,10,11",
+        "town": "Ephratah",
+        "date_org": "7 February 1923",
+        "date_appr": "1-48,201 2K 5-26,720 1K 6-39,590 1K",
+        "n_new": "10 Ephratah",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Bleeker & Caroga",
+        "date_org": "28 May 1923",
+        "date_appr": "4-44,900 1K 5-22,350 1K",
+        "n_new": "4 Bleeker",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Bleeker",
+        "date_org": "28 May 1923",
+        "date_appr": "1-48,201 2K 5-26,720 1K 6-39,590 1K",
+        "n_new": "4 Bleeker",
+        "rmk": ""
+      },
+      {
+        "n": "1,5,6",
+        "town": "Stratford",
+        "date_org": "16 May 1923",
+        "date_appr": "to take effect 1 Ag.1923",
+        "n_new": "1 Stratford",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,3,4,5,7,8,9",
+        "town": "Northampton",
+        "date_org": "C.R.S. Laid out 14 Apr 1928 Meeting held 30 Apr 1928 Desig. of dist 15 May 1928",
+        "date_appr": "1-552,109 2K 2-94,407 1K 3-176,473 1K 4-21,536 1K 5-176,471 1K 6-111,330 1K 7-15,165 1K",
+        "n_new": "1 Northampton & Mayfield Fulton Co. Edinburgh, Sar. Co. Hope, Ham. Co.",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Mayfield & Northampton",
+        "date_org": "C.R.S. Laid out 14 Apr 1928 Meeting held 30 Apr 1928 Desig. of dist 15 May 1928",
+        "date_appr": "1-552,109 2K 2-94,407 1K 3-176,473 1K 4-21,536 1K 5-176,471 1K 6-111,330 1K 7-15,165 1K",
+        "n_new": "Mayfield Fulton Co. Edinburgh, Sar. Co. Hope, Ham. Co.",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Hope, Ham. Co. & Northampton",
+        "date_org": "C.R.S. Laid out 14 Apr 1928 Meeting held 30 Apr 1928 Desig. of dist 15 May 1928",
+        "date_appr": "1-552,109 2K 2-94,407 1K 3-176,473 1K 4-21,536 1K 5-176,471 1K 6-111,330 1K 7-15,165 1K",
+        "n_new": "Hope, Ham. Co.",
+        "rmk": ""
+      },
+      {
+        "n": "1,2",
+        "town": "Caroga",
+        "date_org": "31 July 1928",
+        "date_appr": "1-160,710 2K 2-13,395 1K 3-176,473 1K 4-21,536 1K 5-176,471 1K 6-111,330 1K 7-15,165 1K",
+        "n_new": "1 Caroga",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,3,4,7,9",
+        "town": "Stratford etc Fulton Co.",
+        "date_org": "C.R.S. Laid out 23 May 1928 Meeting held 14 June 1928 Desig. of dist 16 July 1928",
+        "date_appr": "1-552,109 2K 2-94,407 1K 3-176,473 1K 4-21,536 1K 5-176,471 1K 6-111,330 1K 7-15,165 1K",
+        "n_new": "1 Stratford Oppenheim & Ephratah, Fulton Co. & Salisbury, Herk. Co.",
+        "rmk": ""
+      },
+      {
+        "n": "8,11",
+        "town": "Salisbury, Herk. Co.",
+        "date_org": "C.R.S. Laid out 23 May 1928 Meeting held 14 June 1928 Desig. of dist 16 July 1928",
+        "date_appr": "1-552,109 2K 2-94,407 1K 3-176,473 1K 4-21,536 1K 5-176,471 1K 6-111,330 1K 7-15,165 1K",
+        "n_new": "Salisbury, Herk. Co.",
+        "rmk": ""
+      },
+      {
+        "n": "3,8",
+        "town": "Mayfield",
+        "date_org": "1 September 1928",
+        "date_appr": "8 3 acad 7 B. 23,203 1K 3 M. 32,240 1K",
+        "n_new": "8 Broadalbin",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Mayfield",
+        "date_org": "1 September 1928",
+        "date_appr": "8 3 acad 7 B. 23,203 1K 3 M. 32,240 1K",
+        "n_new": "Mayfield",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Broadalbin",
+        "date_org": "1 September 1928",
+        "date_appr": "8 3 acad 7 B. 23,203 1K 3 M. 32,240 1K",
+        "n_new": "Broadalbin",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Path & Johnston",
+        "date_org": "Laid out 17 June 1929 Meeting held 3 July 1929 Desig. of dist 20 July 1929",
+        "date_appr": "11-46,693 - 1K 6-312,672 - 4K",
+        "n_new": "1 Perth, Johnston, Broadalbin, Mayfield Fulton Co., Town of Amsterdam - Mohler, Town of Galway - Saratoga Co.",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Perth, Broadalbin",
+        "date_org": "Laid out 17 June 1929 Meeting held 3 July 1929 Desig. of dist 20 July 1929",
+        "date_appr": "11-46,693 - 1K 6-312,672 - 4K",
+        "n_new": "Perth, Johnston, Broadalbin, Mayfield Fulton Co., Town of Amsterdam - Mohler, Town of Galway - Saratoga Co.",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Perth, Broadalbin & Mayfield",
+        "date_org": "Laid out 17 June 1929 Meeting held 3 July 1929 Desig. of dist 20 July 1929",
+        "date_appr": "11-46,693 - 1K 6-312,672 - 4K",
+        "n_new": "Perth, Johnston, Broadalbin, Mayfield Fulton Co., Town of Amsterdam - Mohler, Town of Galway - Saratoga Co.",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Perth & Mayfield",
+        "date_org": "Laid out 17 June 1929 Meeting held 3 July 1929 Desig. of dist 20 July 1929",
+        "date_appr": "11-46,693 - 1K 6-312,672 - 4K",
+        "n_new": "Perth, Johnston, Broadalbin, Mayfield Fulton Co., Town of Amsterdam - Mohler, Town of Galway - Saratoga Co.",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Broadalbin & Perth",
+        "date_org": "Laid out 17 June 1929 Meeting held 3 July 1929 Desig. of dist 20 July 1929",
+        "date_appr": "11-46,693 - 1K 6-312,672 - 4K",
+        "n_new": "Perth, Johnston, Broadalbin, Mayfield Fulton Co., Town of Amsterdam - Mohler, Town of Galway - Saratoga Co.",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Perth, Fulton Co. & Amsterdam, Mohler",
+        "date_org": "Laid out 17 June 1929 Meeting held 3 July 1929 Desig. of dist 20 July 1929",
+        "date_appr": "11-46,693 - 1K 6-312,672 - 4K",
+        "n_new": "Perth, Johnston, Broadalbin, Mayfield Fulton Co., Town of Amsterdam - Mohler, Town of Galway - Saratoga Co.",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Broadalbin, Fulton Co. & Galway, Saratoga Co.",
+        "date_org": "Laid out 17 June 1929 Meeting held 3 July 1929 Desig. of dist 20 July 1929",
+        "date_appr": "11-46,693 - 1K 6-312,672 - 4K",
+        "n_new": "Perth, Johnston, Broadalbin, Mayfield Fulton Co., Town of Amsterdam - Mohler, Town of Galway - Saratoga Co.",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Amsterdam, Mohler Co. & Perth, Fulton Co.",
+        "date_org": "Laid out 17 June 1929 Meeting held 3 July 1929 Desig. of dist 20 July 1929",
+        "date_appr": "11-46,693 - 1K 6-312,672 - 4K",
+        "n_new": "Perth, Johnston, Broadalbin, Mayfield Fulton Co., Town of Amsterdam - Mohler, Town of Galway - Saratoga Co.",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Mayfield & Broadalbin",
+        "date_org": "1 August 1929",
+        "date_appr": "11-46,693 - 1K 6-312,672 - 4K",
+        "n_new": "6 Mayfield",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Mayfield",
+        "date_org": "1 August 1929",
+        "date_appr": "11-46,693 - 1K 6-312,672 - 4K",
+        "n_new": "6 Mayfield",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Broadalbin & Mayfield",
+        "date_org": "C.R.S. Laid out 22 April 1930 Meeting held 5 May 1930 Designation of dist 7 June 1930",
+        "date_appr": "",
+        "n_new": "1 Broadalbin Mayfield & Perth, Fulton Co. and Providence (Saratoga)",
+        "rmk": ""
+      },
+      {
+        "n": "2,6",
+        "town": "Broadalbin",
+        "date_org": "C.R.S. Laid out 22 April 1930 Meeting held 5 May 1930 Designation of dist 7 June 1930",
+        "date_appr": "",
+        "n_new": "Broadalbin Mayfield & Perth, Fulton Co. and Providence (Saratoga)",
+        "rmk": ""
+      },
+      {
+        "n": "3,4,5",
+        "town": "Broadalbin (Fulton Co.) & Providence (Sar. Co.)",
+        "date_org": "C.R.S. Laid out 22 April 1930 Meeting held 5 May 1930 Designation of dist 7 June 1930",
+        "date_appr": "",
+        "n_new": "Broadalbin Mayfield & Perth, Fulton Co. and Providence (Saratoga)",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Mayfield & Broadalbin",
+        "date_org": "C.R.S. Laid out 22 April 1930 Meeting held 5 May 1930 Designation of dist 7 June 1930",
+        "date_appr": "",
+        "n_new": "Broadalbin Mayfield & Perth, Fulton Co. and Providence (Saratoga)",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Mayfield & Perth",
+        "date_org": "C.R.S. Laid out 22 April 1930 Meeting held 5 May 1930 Designation of dist 7 June 1930",
+        "date_appr": "",
+        "n_new": "Broadalbin Mayfield & Perth, Fulton Co. and Providence (Saratoga)",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Broadalbin & Galway",
+        "date_org": "C.R.S. Laid out 22 April 1930 Meeting held 5 May 1930 Designation of dist 7 June 1930",
+        "date_appr": "",
+        "n_new": "Broadalbin Mayfield & Perth, Fulton Co. and Providence (Saratoga)",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Providence (Sar. Co.)",
+        "date_org": "4 May 1931 to take effect 1 Aug. 1931",
+        "date_appr": "",
+        "n_new": "6 Northampton",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Northampton",
+        "date_org": "4 May 1931 to take effect 1 Aug. 1931",
+        "date_appr": "",
+        "n_new": "6 Northampton",
+        "rmk": ""
+      },
+      {
+        "n": "1,2",
+        "town": "Bleeker",
+        "date_org": "28 April 1932 to take effect 28 Jul 1932",
+        "date_appr": "",
+        "n_new": "2 Bleeker C.R.S",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Northampton, Broadalbin, Edinburgh & Providence",
+        "date_org": "28 April 1932 to take effect 28 Jul 1932",
+        "date_appr": "",
+        "n_new": "1 Broadalbin C.R.S",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Broadalbin etc.",
+        "date_org": "1 May 1935 to take effect 1 Aug. 1935",
+        "date_appr": "",
+        "n_new": "1 Mayfield",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Mayfield, Broadalbin & Northampton",
+        "date_org": "Laid out 29 May 1937 Meeting held 15 June 1937 Designation of dist 23 June 1937",
+        "date_appr": "",
+        "n_new": "Broadalbin, Northampton & Johnston",
+        "rmk": ""
+      },
+      {
+        "n": "4,6,7,8,13",
+        "town": "Mayfield",
+        "date_org": "Laid out 29 May 1937 Meeting held 15 June 1937 Designation of dist 23 June 1937",
+        "date_appr": "",
+        "n_new": "Broadalbin, Northampton & Johnston",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Mayfield & Northampton",
+        "date_org": "Laid out 29 May 1937 Meeting held 15 June 1937 Designation of dist 23 June 1937",
+        "date_appr": "",
+        "n_new": "Broadalbin, Northampton & Johnston",
+        "rmk": ""
+      },
+      {
+        "n": "14,15",
+        "town": "Mayfield & Johnston",
+        "date_org": "Laid out 29 May 1937 Meeting held 15 June 1937 Designation of dist 23 June 1937",
+        "date_appr": "",
+        "n_new": "Broadalbin, Northampton & Johnston",
+        "rmk": ""
+      },
+      {
+        "n": "14,15",
+        "town": "Johnston & Mayfield",
+        "date_org": "Laid out 29 May 1937 Meeting held 15 June 1937 Designation of dist 23 June 1937",
+        "date_appr": "",
+        "n_new": "Broadalbin, Northampton & Johnston",
+        "rmk": ""
+      },
+      {
+        "n": "1,10",
+        "town": "Oppenheim",
+        "date_org": "17 May 1938 to take effect 16 August 1938",
+        "date_appr": "",
+        "n_new": "10 Oppenheim C.R.S",
+        "rmk": ""
+      },
+      {
+        "n": "8,9,10,11,13,14,16",
+        "town": "Oppenheim",
+        "date_org": "Laid out 9 January 1939 Meeting held 1 March 1939 Designation of dist 21 March 1939",
+        "date_appr": "",
+        "n_new": "1 Oppenheim, Ephratah",
+        "rmk": ""
+      },
+      {
+        "n": "5,6",
+        "town": "Oppenheim & St. Johnsville",
+        "date_org": "Laid out 9 January 1939 Meeting held 1 March 1939 Designation of dist 21 March 1939",
+        "date_appr": "",
+        "n_new": "Oppenheim, Ephratah",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Oppenheim & Manheim",
+        "date_org": "Laid out 9 January 1939 Meeting held 1 March 1939 Designation of dist 21 March 1939",
+        "date_appr": "",
+        "n_new": "Oppenheim, Ephratah",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Ephratah",
+        "date_org": "Laid out 9 January 1939 Meeting held 1 March 1939 Designation of dist 21 March 1939",
+        "date_appr": "",
+        "n_new": "Oppenheim, Ephratah",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Ephratah & Stratford",
+        "date_org": "Laid out 9 January 1939 Meeting held 1 March 1939 Designation of dist 21 March 1939",
+        "date_appr": "",
+        "n_new": "Oppenheim, Ephratah",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Ephratah & Oppenheim",
+        "date_org": "Laid out 9 January 1939 Meeting held 1 March 1939 Designation of dist 21 March 1939",
+        "date_appr": "",
+        "n_new": "Oppenheim, Ephratah",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Salisbury (Herkimer Co.)",
+        "date_org": "5 Nov. 1941 to take effect 10 Feb. 1941",
+        "date_appr": "",
+        "n_new": "1 Stratford C.R.S",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Stratford",
+        "date_org": "5 Nov. 1941 to take effect 10 Feb. 1941",
+        "date_appr": "",
+        "n_new": "1 Stratford C.R.S",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Salisbury (Herkimer Co.)",
+        "date_org": "16 Feb. 1942",
+        "date_appr": "30 June 1942",
+        "n_new": "1 Stratford C.R.S",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Stratford",
+        "date_org": "16 Feb. 1942",
+        "date_appr": "30 June 1942",
+        "n_new": "1 Stratford C.R.S",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Oppenheim",
+        "date_org": "11 May 1942",
+        "date_appr": "15 Aug. 1942",
+        "n_new": "1 Oppenheim C.R.S",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Oppenheim",
+        "date_org": "11 May 1942",
+        "date_appr": "15 Aug. 1942",
+        "n_new": "1 Oppenheim C.R.S",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Aenon (Hamilton Co.)",
+        "date_org": "11 May 1942",
+        "date_appr": "15 Aug. 1942",
+        "n_new": "1 Northampton C.R.S",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Meadowport",
+        "date_org": "11 May 1942",
+        "date_appr": "15 Aug. 1942",
+        "n_new": "1 Broadalbin C.R.S",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Broadalbin",
+        "date_org": "11 May 1942",
+        "date_appr": "15 Aug. 1942",
+        "n_new": "1 Broadalbin C.R.S",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Broadalbin",
+        "date_org": "11 May 1942",
+        "date_appr": "15 Aug. 1942",
+        "n_new": "1 Broadalbin C.R.S",
+        "rmk": ""
+      },
+      {
+        "n": "13",
+        "town": "Caroga & Johnston (May 29 1945)",
+        "date_org": "Effective October 1, 1945",
+        "date_appr": "September 1, 1948",
+        "n_new": "1 Caroga",
+        "rmk": ""
+      }
+    ]
+  }
+}

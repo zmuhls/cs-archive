@@ -1,0 +1,409 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 42,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_42.jpg",
+    "processed_at": "2026-01-01T22:27:53.134616",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Delaware",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "13+15",
+        "town": "Harpersfield",
+        "date_org": "23 May 1914",
+        "date_appr": "13-11400 Cont- 15-11600 1K",
+        "n_new": "15 Harpersfield",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Kortright",
+        "date_org": "",
+        "date_appr": "2-12,600 1K",
+        "n_new": "3 Harpersfield",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Harpersfield",
+        "date_org": "31 August 1914",
+        "date_appr": "3-40,735 1K",
+        "n_new": "1 Kortright",
+        "rmk": ""
+      },
+      {
+        "n": "1+17",
+        "town": "Kortright",
+        "date_org": "",
+        "date_appr": "1-80,339 2K 17-27,565 1K",
+        "n_new": "1 Tompkins",
+        "rmk": ""
+      },
+      {
+        "n": "1+2",
+        "town": "Tompkins",
+        "date_org": "11 June 1913",
+        "date_appr": "1-59,525 2K 2-26,935 1K",
+        "n_new": "4 Tompkins",
+        "rmk": ""
+      },
+      {
+        "n": "4+23",
+        "town": "Tompkins",
+        "date_org": "1 September 1914",
+        "date_appr": "4-25,025 1K 23-14,075 Cont-",
+        "n_new": "15 Middletown",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Andes",
+        "date_org": "",
+        "date_appr": "8-10,741 Cont-",
+        "n_new": "3 Davenport",
+        "rmk": ""
+      },
+      {
+        "n": "15",
+        "town": "Middletown",
+        "date_org": "29 September 1914",
+        "date_appr": "15-20,029m 1K",
+        "n_new": "2 Masonville",
+        "rmk": ""
+      },
+      {
+        "n": "3+14",
+        "town": "Davenport",
+        "date_org": "4 September 1915",
+        "date_appr": "3-76,662 1K 14-22,516 1K",
+        "n_new": "1 Kortright",
+        "rmk": ""
+      },
+      {
+        "n": "2+10",
+        "town": "Masonville",
+        "date_org": "19 October 1915",
+        "date_appr": "2-13,845 1K 10-7200 Cont-",
+        "n_new": "1 Harpersfield",
+        "rmk": ""
+      },
+      {
+        "n": "8+9",
+        "town": "Stamford",
+        "date_org": "12 May 1917",
+        "date_appr": "",
+        "n_new": "5 Walton",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "2 Hamden",
+        "rmk": ""
+      },
+      {
+        "n": "1+16",
+        "town": "Harpersfield",
+        "date_org": "15 September 1916",
+        "date_appr": "1-24,175 1K 16-7350 (1,2) 16-17",
+        "n_new": "25 Middletown",
+        "rmk": ""
+      },
+      {
+        "n": "5+23",
+        "town": "Walton",
+        "date_org": "4 January 1919",
+        "date_appr": "5-54,258 1K 23-91,688 Cont- 2-121,905 2K 10-48,989 1K",
+        "n_new": "12 Deposit",
+        "rmk": ""
+      },
+      {
+        "n": "2+10",
+        "town": "Hamden",
+        "date_org": "30 December 1918",
+        "date_appr": "6-16,195 1K 23-10,282 1K 25-15,131 1K",
+        "n_new": "6 Masonville",
+        "rmk": ""
+      },
+      {
+        "n": "6,23+25",
+        "town": "Middletown",
+        "date_org": "1 August 1919",
+        "date_appr": "Appealed 12M-6602 1K 12D-22,319 1K",
+        "n_new": "9 Masonville",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Masonville",
+        "date_org": "10 May 1920",
+        "date_appr": "Appeal dismissed 29 Ag.1920",
+        "n_new": "2 Sidney",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Deposit",
+        "date_org": "",
+        "date_appr": "Part add 6 M, 41.07, 4.62 12.33 12.33",
+        "n_new": "Sidney",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 7 and 6 Masonville",
+        "date_org": "8 August 1920",
+        "date_appr": "to take effect 30 April 1920",
+        "n_new": "30761",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 7 and 9 Masonville",
+        "date_org": "",
+        "date_appr": "Part add 2 S, 12.91.31",
+        "n_new": "454.44",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 7 Masonville and 2 Sidney",
+        "date_org": "",
+        "date_appr": "Order revoked by Supt Ag.1921",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9,9+15",
+        "town": "Sidney",
+        "date_org": "",
+        "date_appr": "Papers with appeal in Gen. file",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1+6",
+        "town": "Kortright",
+        "date_org": "9 February 1922",
+        "date_appr": "1-80,339 2K 6-198,000 1K 8-52,100 1K",
+        "n_new": "1 Kortright",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Stamford",
+        "date_org": "",
+        "date_appr": "See above",
+        "n_new": "4 Davenport",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Kortright",
+        "date_org": "",
+        "date_appr": "13 M - 57.50 Cont-",
+        "n_new": "4 Colchester",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Maryland, Otsego Co.",
+        "date_org": "10 February 1922",
+        "date_appr": "4 D - 34.145 1K",
+        "n_new": "8 Davenport",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Davenport, Del. Co.",
+        "date_org": "30 December 1922",
+        "date_appr": "4-22,942 1K 16-8720 1K 8-16,600 Cont-",
+        "n_new": "16 Franklin",
+        "rmk": ""
+      },
+      {
+        "n": "4+16",
+        "town": "Colchester",
+        "date_org": "8 August 1923",
+        "date_appr": "12-10,350 Much n cont",
+        "n_new": "Meredith",
+        "rmk": ""
+      },
+      {
+        "n": "8+12",
+        "town": "Davenport",
+        "date_org": "15 January 1926",
+        "date_appr": "16-147,423 2K 23-62,333 1K 21-23,373 Cont- 5M-36080 1K 6M-48,472 1K",
+        "n_new": "20 Hancock",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Central Rural School (acquired) 1926.24",
+        "date_org": "",
+        "date_appr": "14-459,238 1K 20-1,833,812 Acad",
+        "n_new": "9 Sidney",
+        "rmk": ""
+      },
+      {
+        "n": "16,21+23",
+        "town": "Franklin",
+        "date_org": "",
+        "date_appr": "Meeting held 6 Nov. 1926",
+        "n_new": "19 Tompkins",
+        "rmk": ""
+      },
+      {
+        "n": "5+6",
+        "town": "Meredith",
+        "date_org": "",
+        "date_appr": "C.R.S. laid out by Com. 9 Oct. 1926",
+        "n_new": "2 Harpersfield",
+        "rmk": ""
+      },
+      {
+        "n": "7+14",
+        "town": "Meredith & Franklin",
+        "date_org": "",
+        "date_appr": "Desig. of dist. as Cent. Sch. Dist. No.16 Franklin 4 Mar. 18 Nov. 1926",
+        "n_new": "21 Walton",
+        "rmk": ""
+      },
+      {
+        "n": "1+20",
+        "town": "Hancock",
+        "date_org": "5 July 1927",
+        "date_appr": "to take effect 20 Ag.1927",
+        "n_new": "17 Colchester",
+        "rmk": ""
+      },
+      {
+        "n": "9+10",
+        "town": "Sidney",
+        "date_org": "6 September 1927",
+        "date_appr": "9-303,007 2K 10-38,585 1K",
+        "n_new": "1 Franklin + Sidney",
+        "rmk": ""
+      },
+      {
+        "n": "19+24",
+        "town": "Tompkins",
+        "date_org": "6 September 1927",
+        "date_appr": "19-30,011 1K 24-13,500 Cont-",
+        "n_new": "1 Otego, Otsego Co.",
+        "rmk": ""
+      },
+      {
+        "n": "2+7",
+        "town": "Harpersfield",
+        "date_org": "18 September 1927",
+        "date_appr": "2-63,758 1K 7-19,075 Cont-",
+        "n_new": "11 Kortright",
+        "rmk": ""
+      },
+      {
+        "n": "11+21",
+        "town": "Walton",
+        "date_org": "20 April 1927",
+        "date_appr": "11-8,950 1K 21-24,100 1K",
+        "n_new": "14 Franklin",
+        "rmk": ""
+      },
+      {
+        "n": "17+28",
+        "town": "Colchester",
+        "date_org": "27 August 1928",
+        "date_appr": "to take effect 1 My 1927",
+        "n_new": "5,17 Sidney + Franklin",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Franklin, Del. Co. + Otego, Otsego Co.",
+        "date_org": "",
+        "date_appr": "Laid out 25 May 1929",
+        "n_new": "14 Franklin",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Sidney + Franklin",
+        "date_org": "",
+        "date_appr": "Meeting held 8 June 1929",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Franklin",
+        "date_org": "18 July 1929",
+        "date_appr": "Designation of dist. 26 June 1929",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "C.R.S.",
+        "date_org": "",
+        "date_appr": "Covered with C.R.S.",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Laid out 24 April 1929",
+        "date_org": "",
+        "date_appr": "See sheet with C.R.S. papers for separate assessed valuations",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Meeting held 14 June 1929",
+        "date_org": "",
+        "date_appr": "Designation of dist. 3 Aug. 1929",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "10,14,16,20 Kortright - Otego Co.",
+        "date_org": "",
+        "date_appr": "10-83934-ont 14-48813 1K 16-58353 1K 20-30,180 1K 11-82549 1K",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "11 Kortright, Del. Co. + Schoharie Co.",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "1 Kortright",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

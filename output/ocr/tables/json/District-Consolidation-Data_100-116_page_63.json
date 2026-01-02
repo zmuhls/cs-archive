@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 63,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_63.jpg",
+    "processed_at": "2026-01-01T22:35:43.825518",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "County",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "2",
+        "town": "Blucker & Mayfield",
+        "date_org": "cons with dist",
+        "date_appr": "4 Blucker & Caroga",
+        "n_new": "4/24/53",
+        "rmk": "effective 9/25/53 4 Blucker"
+      }
+    ]
+  }
+}

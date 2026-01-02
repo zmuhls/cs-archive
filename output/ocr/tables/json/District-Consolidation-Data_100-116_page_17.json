@@ -1,0 +1,553 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 17,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_17.jpg",
+    "processed_at": "2026-01-01T22:14:49.386864",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Chautauqua",
+    "table_type": "unknown",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "749",
+        "town": "Harmony",
+        "date_org": "30 September 1913",
+        "date_appr": "7-44,425 Cont. 12,000",
+        "n_new": "9 Harmony",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Harmony",
+        "date_org": "",
+        "date_appr": "7-41,425 12 41,425",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Chautauqua",
+        "date_org": "12 October 1914",
+        "date_appr": "12 162,995 12. 18-19",
+        "n_new": "3 Chautauqua",
+        "rmk": ""
+      },
+      {
+        "n": "15",
+        "town": "Harmony",
+        "date_org": "",
+        "date_appr": "3 1,717,820 8.65 Acad. 18-19",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Chautauqua",
+        "date_org": "14 November 1918",
+        "date_appr": "15-228,000 Cont. 18-19",
+        "n_new": "3 Chautauqua",
+        "rmk": ""
+      },
+      {
+        "n": "7410",
+        "town": "Stockton",
+        "date_org": "15 August 1918",
+        "date_appr": "Appealed Sep. 1918 but 1-200,158 5-12 acad. 17-18",
+        "n_new": "7 Stockton",
+        "rmk": ""
+      },
+      {
+        "n": "245",
+        "town": "Ellington",
+        "date_org": "23 October 1924",
+        "date_appr": "2-136,696 4.65 Acad. 2-51,990 12",
+        "n_new": "2 Ellington",
+        "rmk": ""
+      },
+      {
+        "n": "243",
+        "town": "Stockton",
+        "date_org": "31 December 1924",
+        "date_appr": "3-205,173 Acad. 6-60,373 12",
+        "n_new": "3 Stockton",
+        "rmk": ""
+      },
+      {
+        "n": "648",
+        "town": "Ellery",
+        "date_org": "11 July 1927",
+        "date_appr": "8-15,050 Cont. 2-26,29 95.39 6-53.75 195.86 12-69.06 250.58 55-25.90 93.97",
+        "n_new": "6 Ellery",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 60 Ellery & 2 Ellery",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "{2 Ellery 6 \" 12 \" 5 Stockton}",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "\"",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "\"",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "\"",
+        "date_org": "31 July 1926",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "37",
+        "town": "Clymer",
+        "date_org": "20 May 1935 to take effect 22 Aug. 1935",
+        "date_appr": "",
+        "n_new": "3 Clymer",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S.",
+        "town": "Clymer",
+        "date_org": "Laid out 10 Oct 1935",
+        "date_appr": "",
+        "n_new": "C.R.S.",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,5,6",
+        "town": "Clymer",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Clymer, Harmony",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Clymer & Harmony",
+        "date_org": "Meeting held 21 Oct. 1936",
+        "date_appr": "",
+        "n_new": "and French Creek,",
+        "rmk": ""
+      },
+      {
+        "n": "3,4,6,8",
+        "town": "French Creek",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Chautauqua Co.",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "French Creek & Clymer",
+        "date_org": "Designation of dist. 28 Oct. 1936",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S.",
+        "town": "Sherman",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "C.R.S.",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,4,6",
+        "town": "Sherman",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Sherman, Chautauqua,",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Sherman, Clymer & No. Harmony",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Mina, Ripley, Westfield,",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Sherman & Mina",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Clymer, No. Harmony",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Chautauqua",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "or French Creek,",
+        "rmk": ""
+      },
+      {
+        "n": "13",
+        "town": "Chautauqua & Sherman",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Chautauqua Co.",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Mina",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,4",
+        "town": "Mina & Sherman",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Mina, Sherman, French Creek & Clymer",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Ripley",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Westfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Westfield & Sherman",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Westfield & Ripley",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S.",
+        "town": "Ellery",
+        "date_org": "Laid out 20 Oct. 1937",
+        "date_appr": "* redesignated effective 10/19/41",
+        "n_new": "C.R.S.",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,3,5,6,7,9,11",
+        "town": "Ellery",
+        "date_org": "Meeting held 16 Nov. 1937",
+        "date_appr": "",
+        "n_new": "1 Ellery, Ellicott, &",
+        "rmk": ""
+      },
+      {
+        "n": "13",
+        "town": "Ellery & Ellicott",
+        "date_org": "Designation of dist. 30 Nov. 1937",
+        "date_appr": "",
+        "n_new": "Chautauqua Co.",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Ellery & Ellicott",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Ellicott",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Ellicott & Ellery",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Stockton & Ellery",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S.",
+        "town": "Chautauqua & No. Harmony",
+        "date_org": "Laid out 10 June 1938",
+        "date_appr": "",
+        "n_new": "C.R.S.",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Chautauqua",
+        "date_org": "Meeting held 27 June 1938",
+        "date_appr": "",
+        "n_new": "2 Chautauqua",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Chautauqua",
+        "date_org": "Designation of dist. 20 July 1938",
+        "date_appr": "",
+        "n_new": "or North Harmony",
+        "rmk": ""
+      },
+      {
+        "n": "2,5,7,8",
+        "town": "Chautauqua & No. Harmony",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "No. Harmony & Chautauqua",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S.",
+        "town": "Chautauqua",
+        "date_org": "Laid out 10 June 1938",
+        "date_appr": "",
+        "n_new": "C.R.S.",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Chautauqua",
+        "date_org": "Meeting held 29 June 1938",
+        "date_appr": "",
+        "n_new": "1 Chautauqua,",
+        "rmk": ""
+      },
+      {
+        "n": "6,7,11,12,13,18,19",
+        "town": "Chautauqua",
+        "date_org": "Designation of dist. 19 July 1938",
+        "date_appr": "",
+        "n_new": "Stockton, Westfield,",
+        "rmk": ""
+      },
+      {
+        "n": "2,7,14",
+        "town": "Chautauqua & Stockton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Portland & Ellery",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Chautauqua, Westfield & Portland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8,9,20",
+        "town": "Chautauqua & Portland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "16",
+        "town": "Chautauqua, Stockton, Portland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Chautauqua & Ellery",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S.",
+        "town": "Portland",
+        "date_org": "Laid out 5 August 1938",
+        "date_appr": "",
+        "n_new": "C.R.S.",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Portland",
+        "date_org": "Meeting held 24 Aug. 1938",
+        "date_appr": "",
+        "n_new": "1 Portland, Stockton",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,4,5,7,8,9,10",
+        "town": "Portland",
+        "date_org": "Designation of dist. 30 Aug. 1938",
+        "date_appr": "",
+        "n_new": "and Pomfret",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Portland & Stockton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,10,13",
+        "town": "Pomfret",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "15",
+        "town": "Pomfret & Portland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S.",
+        "town": "Harmony",
+        "date_org": "Laid out 16 Sept 1938",
+        "date_appr": "",
+        "n_new": "C.R.S.",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Harmony",
+        "date_org": "Meeting held 30 Sept 1938",
+        "date_appr": "",
+        "n_new": "1 Harmony,",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Harmony & No. Harmony",
+        "date_org": "Designation of dist. 30 Sept 1938",
+        "date_appr": "",
+        "n_new": "North Harmony,",
+        "rmk": ""
+      },
+      {
+        "n": "4,6,7,8,9",
+        "town": "Harmony",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Sherman & Clymer",
+        "rmk": ""
+      },
+      {
+        "n": "10,2",
+        "town": "Harmony & No. Harmony",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "No. Harmony",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "No. Harmony & Sherman",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Clymer & Harmony",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

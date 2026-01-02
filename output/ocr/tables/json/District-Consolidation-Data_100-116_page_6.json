@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 6,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_6.jpg",
+    "processed_at": "2026-01-01T22:09:05.390014",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Cattaraugus",
+    "table_type": "union_free_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "9",
+        "town": "Dayton",
+        "date_org": "29 January 1901",
+        "date_appr": "25 March 1901",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Freedom",
+        "date_org": "12 October 1900",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Randolph",
+        "date_org": "16 November 1888",
+        "date_appr": "",
+        "n_new": "9",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Yorkshire",
+        "date_org": "29 August 1893",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Carrollton",
+        "date_org": "13 March 1915",
+        "date_appr": "13 April 1915",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "East Otto",
+        "date_org": "22 December 1920",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Rhinedale",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "See affidavits unifoeed"
+      }
+    ]
+  }
+}

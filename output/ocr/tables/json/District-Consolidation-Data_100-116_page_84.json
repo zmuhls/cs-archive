@@ -1,0 +1,313 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 84,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_84.jpg",
+    "processed_at": "2026-01-01T22:45:13.614711",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Lewis",
+    "table_type": "unknown",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "Part of 23 Croghan & 11 Croghan",
+        "town": "Croghan",
+        "date_org": "26 June 1937",
+        "date_appr": "to take effect 1 October 1937",
+        "n_new": "11",
+        "rmk": "Croghan"
+      },
+      {
+        "n": "",
+        "town": "13",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "13",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "20",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "20",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Watson",
+        "date_org": "4 January 1939",
+        "date_appr": "to take effect 13 April 1939",
+        "n_new": "c.r.s.",
+        "rmk": "Martinsburg"
+      },
+      {
+        "n": "8",
+        "town": "Martinsburg",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "8",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Montague",
+        "date_org": "16 July 1940",
+        "date_appr": "16 Oct. 1940",
+        "n_new": "2",
+        "rmk": "Montague"
+      },
+      {
+        "n": "2",
+        "town": "Diana",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "c.r.s.",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Diana",
+        "date_org": "Laid out 12 June 1941",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "Diana & Croghan"
+      },
+      {
+        "n": "1,2,3,7,8,10,11,14",
+        "town": "Diana",
+        "date_org": "Meeting held 24 June 1941",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "Lewis Co. & Antwerp &"
+      },
+      {
+        "n": "12,16 & 17",
+        "town": "Diana & Croghan",
+        "date_org": "Designating dist. 29 July 1941",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "Wilna, Jefferson Co."
+      },
+      {
+        "n": "9",
+        "town": "Diana, Antwerp & Wilna",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "c.r.s.",
+        "rmk": ""
+      },
+      {
+        "n": "1 & 5",
+        "town": "Oscoda",
+        "date_org": "5 June 1941",
+        "date_appr": "to take effect 25 Sept 1941",
+        "n_new": "1",
+        "rmk": "Lewis"
+      },
+      {
+        "n": "1",
+        "town": "Lewis",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "c.r.s.",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Oscoda",
+        "date_org": "21 June 1941",
+        "date_appr": "27 Sept 1941",
+        "n_new": "1",
+        "rmk": "Lewis"
+      },
+      {
+        "n": "1",
+        "town": "Lewis",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "c.r.s.",
+        "rmk": ""
+      },
+      {
+        "n": "4 & 7",
+        "town": "Leyden",
+        "date_org": "21 June 1941",
+        "date_appr": "25 Sept 1941",
+        "n_new": "1",
+        "rmk": "Lewis"
+      },
+      {
+        "n": "1",
+        "town": "Leyden",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "c.r.s.",
+        "rmk": ""
+      },
+      {
+        "n": "13",
+        "town": "Highmarket",
+        "date_org": "21 June 1941",
+        "date_appr": "25 Sept 1941",
+        "n_new": "2",
+        "rmk": "Highmarket"
+      },
+      {
+        "n": "2",
+        "town": "Twin & West Twin",
+        "date_org": "18 May 1942",
+        "date_appr": "20 Aug. 1942",
+        "n_new": "c.r.s.",
+        "rmk": "Martinsburg"
+      },
+      {
+        "n": "1 & 5",
+        "town": "Martinsburg",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "c.r.s.",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Pitman, St. Anne Co.",
+        "date_org": "24 March 1943",
+        "date_appr": "30 June 1943",
+        "n_new": "1",
+        "rmk": "Diana"
+      },
+      {
+        "n": "9",
+        "town": "Diana",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "2",
+        "rmk": "Lyonsdale"
+      },
+      {
+        "n": "2",
+        "town": "Lyonsdale",
+        "date_org": "12 July 1943",
+        "date_appr": "11 Oct. 1943",
+        "n_new": "2",
+        "rmk": "Lyonsdale"
+      },
+      {
+        "n": "",
+        "town": "7 New Bremen & Croghan",
+        "date_org": "Laid out June 8, 1945",
+        "date_appr": "",
+        "n_new": "c.r.s.",
+        "rmk": "New Bremen"
+      },
+      {
+        "n": "",
+        "town": "1,2,3,4,6,11,12,13 New Bremen",
+        "date_org": "Meeting held June 27, 1945",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "Croghan & Watson"
+      },
+      {
+        "n": "",
+        "town": "10 New Bremen, Croghan",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "Lewis Co."
+      },
+      {
+        "n": "",
+        "town": "8 New Bremen, Watson",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "2,3,4,5,7,9,10,15,16,18,20,21,22 Croghan",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "1,8 Croghan, New Bremen",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "10 Watson, New Bremen",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Lyonsdale, going (in 1944)",
+        "date_org": "Effective date Mar 3, 1947",
+        "date_appr": "",
+        "n_new": "6",
+        "rmk": "Lyonsdale"
+      },
+      {
+        "n": "13",
+        "town": "Martinsburg, coho card",
+        "date_org": "Effective date Mar 24, 1947",
+        "date_appr": "",
+        "n_new": "11",
+        "rmk": "Martinsburg"
+      },
+      {
+        "n": "1",
+        "town": "Montague, cons 15 Apr 1949",
+        "date_org": "Effective date Nov 15, 1949",
+        "date_appr": "",
+        "n_new": "6",
+        "rmk": "Montague"
+      },
+      {
+        "n": "17",
+        "town": "Martinsburg, cons May 20/49",
+        "date_org": "Effective date Aug 24, 1949",
+        "date_appr": "",
+        "n_new": "15",
+        "rmk": "Martinsburg"
+      },
+      {
+        "n": "2",
+        "town": "Jurin, cons May 26/49",
+        "date_org": "Effective date Aug 27, 1949",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "Jurin"
+      },
+      {
+        "n": "7",
+        "town": "Montague, cons wid 6",
+        "date_org": "Montague 7 Oct 1951",
+        "date_appr": "",
+        "n_new": "6",
+        "rmk": "Montague"
+      }
+    ]
+  }
+}

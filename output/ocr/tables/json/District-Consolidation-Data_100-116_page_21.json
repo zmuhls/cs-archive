@@ -1,0 +1,313 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 21,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_21.jpg",
+    "processed_at": "2026-01-01T22:17:46.625589",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Chemung",
+    "table_type": "unknown",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "6,7,8,9",
+        "town": "Van Etten",
+        "date_org": "14 July 1914",
+        "date_appr": "6-13,725 1W 7-8,950 1W 9-12,325 1W",
+        "n_new": "9 Van Etten",
+        "rmk": ""
+      },
+      {
+        "n": "148",
+        "town": "Van Etten",
+        "date_org": "1 August 1919",
+        "date_appr": "1-318,489 1W Acad. 8-14,020 Cont",
+        "n_new": "1 Van Etten",
+        "rmk": ""
+      },
+      {
+        "n": "144",
+        "town": "Van Etten",
+        "date_org": "15 June 1920",
+        "date_appr": "1-see above 4-63,510 1W",
+        "n_new": "1 Van Etten",
+        "rmk": ""
+      },
+      {
+        "n": "143",
+        "town": "Ashland",
+        "date_org": "28 August 1925",
+        "date_appr": "1-289,857 Acad 3-17,591 Cont 24-25",
+        "n_new": "1 Ashland",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Van Etten & Spencer",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "c.r.s. 1 Van Etten, Baldwin, Erin, Chemung, Chemung Co., Spencer, Barton, Tioga Co., Newfield, Tompkins Co., Cayuta, Schuyler Co",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Van Etten",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Van Etten & Baldwin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5,10",
+        "town": "Van Etten & Erin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Van Etten & Newfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Van Etten & Spencer",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Baldwin, Erin, Chemung",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Barton, Baldwin, Chemung",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "14",
+        "town": "Barton & Van Etten",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Newfield, Van Etten, Cayuta",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Cathin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "10 Cathin",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Cathin & Big Slate",
+        "date_org": "20 Jan. 1943",
+        "date_appr": "to take effect 1 May 1943",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "16",
+        "town": "Horseheads & Big Slate",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "14",
+        "town": "Horseheads & Elmira",
+        "date_org": "29 March 1950",
+        "date_appr": "to take effect 1 July 1950",
+        "n_new": "4 Horseheads & Elmira",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Horseheads",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "crs 1 Horseheads, Big Slate, Vistron, Erin, Cathin, Baldwin, Chemung County and Cayuta, Schuyler County",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Horseheads & Erin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Big Slate",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "2,5,8,9, Horseheads",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Horseheads, Big Slate, Vistron",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "2,3,6,7 Big Slate",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "1,2,4,9,10,13,14 Vistron",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "5 Vistron & Erin & Cayuta (edge 6)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "6 Vistron, Erin & Horseheads",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "7 Vistron & Horseheads",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "8,12 Vistron & Cathin (Chemung)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "1,3,15, Erin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "5 Erin & Baldwin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "7 Erin, Horseheads & Vistron",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "9,11 Cathin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "4,8,10 Cathin & Big Slate",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "5 Cathin, Big Slate & Horseheads",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "4 Cayuta (edge 6), Erin & Vistron",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

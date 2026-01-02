@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 106,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_106.jpg",
+    "processed_at": "2026-01-01T22:54:10.732291",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Niagara",
+    "table_type": "unknown",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "142",
+        "town": "Porter",
+        "date_org": "7 September 1917",
+        "date_appr": "New papers rec'd 1 Ag. 1918",
+        "n_new": "1",
+        "rmk": "424 560 acat, 2-127 635 1 Porter"
+      },
+      {
+        "n": "405",
+        "town": "Niagara",
+        "date_org": "14 August 1925",
+        "date_appr": "4= 1,895, 222 10.65 5= 3,846, 754 23.65",
+        "n_new": "1",
+        "rmk": "4 Niagara"
+      },
+      {
+        "n": "",
+        "town": "Vill. of Lasalle annexed to Niagara Falls",
+        "date_org": "6 May 1927",
+        "date_appr": "L. 1927 Ch. 530",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "e.R.S. 1,2,3,4,5,6,7,8,9,10,11 Somerset 9,12,14,15 Harland",
+        "date_org": "Laid out 10 June 1937 Meeting held 26 June 1937 Designation of dist. 8 July 1937",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Somerset & Harland Niagara Co & Yates & Ridgeway, Orleans Co."
+      },
+      {
+        "n": "",
+        "town": "e.R.S. 1 Wilson 2,5,6,7,8,11,12,13,14 Wilson 3+4 Wilson & Newfane 9 Wilson & Porter 10 Wilson & Cambria",
+        "date_org": "Laid out 11 June 1941 Meeting held 24 June 1941 Designation of dist. 19 July 1941",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Wilson, Newfane, Porter & Cambria"
+      },
+      {
+        "n": "",
+        "town": "e.R.S. 12 Newfane 1,2,5,6,7,8,9,10,11,13,14,16 Newfane 17 Newfane & Wilson",
+        "date_org": "Laid out 12 June 1941 Meeting held 25 June 1941 Designation of dist. 19 July 1941",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Newfane & Wilson"
+      },
+      {
+        "n": "",
+        "town": "11 Porter 1 Porter",
+        "date_org": "23 March 1942 to take effect 1 July 1942",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "1 Porter"
+      },
+      {
+        "n": "",
+        "town": "1 Royalton & Harland 18 Royalton 3,8,9,10,12,13,14,15,20,21,22,23 Royalton 2+4 Royalton & Shelby 5 \" & Harland 6 \" , Alabama & Shelby 16 \" & Lockport 4,5,6,7,8,16 Harland 3 \" & Royalton 1 \" & Ridgeway 11 Lockport & Royalton 4 Newfane 1 Newfane 3 Newfane 1 Newfane",
+        "date_org": "Laid out & designated 7 June 1944 Meeting held 29 June 1944",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Royalton, Harland & Lockport, Niagara Co, Shelby & Ridgeway, Orleans Co & Alabama, Genesee Co."
+      },
+      {
+        "n": "",
+        "town": "CRS 1 Newfane",
+        "date_org": "Effective September 1, 1945",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS 1 Newfane"
+      },
+      {
+        "n": "",
+        "town": "CRS 1 Newfane",
+        "date_org": "Effective September 1, 1945",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS 1 Newfane"
+      },
+      {
+        "n": "",
+        "town": "CRS 1 Newfane",
+        "date_org": "Effective June 9, 1944",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS 1 Newfane"
+      },
+      {
+        "n": "",
+        "town": "CRS 1 Leixington 1 Porter c.d. 2,3,4,5,6,10,11,12 Leixington 3,4,7,8,10 Porter",
+        "date_org": "Laid out May 1, 1947 Meeting held May 27, 1947",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS 1 Leixington"
+      },
+      {
+        "n": "6",
+        "town": "Meadfield cons into City of North Tonawanda effective July 1, 1951",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Lockport and",
+        "date_org": "Consolidated into City School District of the City of Lockport effective July 1, 1953",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "\"",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

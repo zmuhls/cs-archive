@@ -1,0 +1,361 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 32,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_32.jpg",
+    "processed_at": "2026-01-01T22:24:13.280586",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Clinton",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "5,7,8,14",
+        "town": "Chazy",
+        "date_org": "17 October 1913",
+        "date_appr": "5-114,589 6th Acad 7-31,639 1K 14-18,978 1K",
+        "n_new": "5 Chazy",
+        "rmk": "Sep.23/1920"
+      },
+      {
+        "n": "8,9,13",
+        "town": "Altona",
+        "date_org": "14 August 1915",
+        "date_appr": "8 Altona diss. & reformed into 2 sch. dists. 8 & 13 each embracing same terr. that it did before consol.",
+        "n_new": "8 Altona",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,3,7,12,13,14",
+        "town": "Chazy & Champlain",
+        "date_org": "6 January 1916",
+        "date_appr": "to take effect 7 Jan. 6-65,39 1K 9-79,76 1K 11-60,25 1K",
+        "n_new": "1 Chazy & Champlain",
+        "rmk": ""
+      },
+      {
+        "n": "6,7,12,13",
+        "town": "Champlain",
+        "date_org": "6 January 1916",
+        "date_appr": "to take effect 7 Jan. 6-65,39 1K 9-79,76 1K 11-60,25 1K",
+        "n_new": "1 Chazy & Champlain",
+        "rmk": ""
+      },
+      {
+        "n": "8,9,11",
+        "town": "Mooers",
+        "date_org": "20 July 1916",
+        "date_appr": "Order withdrawn 27 Ag. 1921",
+        "n_new": "8 Mooers",
+        "rmk": ""
+      },
+      {
+        "n": "4,2,7,10,15",
+        "town": "Ellenburg",
+        "date_org": "30 July 1921",
+        "date_appr": "to take effect 1 Ag. 1-247,720 Acad",
+        "n_new": "1 Ellenburg",
+        "rmk": "5-21,780"
+      },
+      {
+        "n": "1,5",
+        "town": "Peru",
+        "date_org": "6 October 1923",
+        "date_appr": "No edn in 1923 up to Oct. See last yrs. Report. Boundaries of 1 Peru altered by taking therefrom all the lands formerly contained in what was prior to Oct. 6, 1923, sch. dist. No. 5 Peru 31 Ag. 1927. New dist. No. 5 Peru created.",
+        "n_new": "1 Peru",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S. 2,3,5,8,10,12,13,16",
+        "town": "Saranac",
+        "date_org": "20 December 1929",
+        "date_appr": "will unite for purposes",
+        "n_new": "1 Saranac",
+        "rmk": "District 1 Saranac was split up, part being annexed to the C.R.S. 1 Saranac and remaining part formed new district 21 Saranac. (In 1929-30 G.McC. said tappation 2/3 of money to C.R.S. 1 Saranac & 1/3 to 21 Saranac)"
+      },
+      {
+        "n": "C.R.S. 1,3,5,7,9,10,12,13",
+        "town": "Altona & Mooers",
+        "date_org": "Laid out 5 Je 1931. Meeting held 25 Je 1931. Designation of dist. 7 Je 1931",
+        "date_appr": "",
+        "n_new": "1 Altona, Beckmantown Junc.",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Saranac",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Danemora",
+        "date_org": "30 March 1932",
+        "date_appr": "to take effect 1 July 1932",
+        "n_new": "4 Danemora",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S. 1",
+        "town": "Ausable & Chesterfield",
+        "date_org": "Laid out 19 May 1931. Meeting held 13 August 1935. Designation of dist. 29 August 1935.",
+        "date_appr": "",
+        "n_new": "1 Ausable, Peru & Chesterfield",
+        "rmk": ""
+      },
+      {
+        "n": "2,3,4,6,7,8,9,10,11,12",
+        "town": "Chesterfield",
+        "date_org": "27 Sept 1935",
+        "date_appr": "to take effect 1 July 1936",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Ausable & Chesterfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Ausable & Peru",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S. 2",
+        "town": "Altona",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Altona",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Altona",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S. 9",
+        "town": "Mooers",
+        "date_org": "Laid out 11 June 1936. Meeting held 29 June 1936. Designation of dist. 10 Aug 1936",
+        "date_appr": "",
+        "n_new": "1 Mooers, Champlain & Chazy",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,4,7,8,10,13,15,16,17,18,21,22",
+        "town": "Mooers",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Mooers & Champlain",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Chazy, Champlain & Mooers",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Chazy",
+        "date_org": "31 January 1938",
+        "date_appr": "to take effect 1 July 1938",
+        "n_new": "C.R.S. 1 Mooers",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Mooers",
+        "date_org": "24 \" \" \" \" \" \"",
+        "date_appr": "",
+        "n_new": "C.R.S. 1 Mooers",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Chazy",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Mooers",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S. 1",
+        "town": "Peru",
+        "date_org": "Laid out 25 Oct. 1937",
+        "date_appr": "Meeting held 18 Nov. 1937",
+        "n_new": "1 Peru, Ausable, Saranac, Schuyler Falls & Black Brook",
+        "rmk": ""
+      },
+      {
+        "n": "2,4,8,9,10,11,12,14",
+        "town": "Peru",
+        "date_org": "Designation of dist. 26 Nov. 1937",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,5,7",
+        "town": "Peru & Ausable",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Peru, Saranac & Schuyler Falls",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "13",
+        "town": "Peru & Black Brook",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Schuyler Falls & Peru",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S. 21",
+        "town": "Ellenburg, Altona & Mooers",
+        "date_org": "Laid out 5 Feb. 1938",
+        "date_appr": "Meeting held 2 Mar. 1938",
+        "n_new": "1 Ellenburg, Altona, Mooers & Clinton",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,4,6,7,10,11,12,13,14,15,18,19",
+        "town": "Ellenburg",
+        "date_org": "Designation of dist. 23 Mar. 1938",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,5",
+        "town": "Ellenburg & Clinton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "16",
+        "town": "Ellenburg & Altona",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11,14",
+        "town": "Altona & Ellenburg",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "19,20",
+        "town": "Mooers",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "14",
+        "town": "Mooers & Ellenburg",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Clinton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Clinton & Ellenburg",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "Part of 9 Schuyler Falls & C.R.S. 1 Peru",
+        "town": "19 April 1938",
+        "date_org": "to take effect 1 Aug. 1938",
+        "date_appr": "C.R.S. 1 Peru & Schuyler Falls",
+        "n_new": "",
+        "rmk": null
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

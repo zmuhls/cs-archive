@@ -1,0 +1,593 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 74,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_74.jpg",
+    "processed_at": "2026-01-01T22:40:01.735778",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Herkimer",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "C.R.S.",
+        "town": "",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,3,4,6",
+        "town": "German Flatts",
+        "date_org": "Laid out 11 May 1937",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 2 German Flatts"
+      },
+      {
+        "n": "5,9",
+        "town": "German Flatts & Little Falls",
+        "date_org": "Meeting held 24 May 1937",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "Little Falls & Columbia"
+      },
+      {
+        "n": "8",
+        "town": "German Flatts & Columbia",
+        "date_org": "Designation of dist. 4 June 1937",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Little Falls & German Flatts",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7,12",
+        "town": "Columbia",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8,10,11",
+        "town": "Columbia & German Flatts",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Winfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Winfield"
+      },
+      {
+        "n": "3 & 4",
+        "town": "Columbia",
+        "date_org": "31 March 1938 to take effect 1 July 1938",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Winfield"
+      },
+      {
+        "n": "",
+        "town": "Winfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Richfield (Otsego Co.)",
+        "date_org": "1 June 1938 to take effect 1 Sept 1938",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Winfield"
+      },
+      {
+        "n": "C.R.S.",
+        "town": "Fairfield & Newport",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Newport",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6,7,8,10 & 11",
+        "town": "Fairfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Fairfield & Newport",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Fairfield & Norway",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2 & 4",
+        "town": "Newport",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Newport & Deerfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Newport & Schuyler",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4 & 5",
+        "town": "Norway & Newport & Fairfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Norway & Newport & Fairfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Norway & Newport",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Schuyler",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7 & 11",
+        "town": "Herkimer & Newport",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Ritchfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Winfield",
+        "date_org": "31 March 1939 to take effect 1 July 1939",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Winfield"
+      },
+      {
+        "n": "1",
+        "town": "Columbia",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Richfield (Otsego Co.)",
+        "date_org": "31 March 1939 to take effect 1 July 1939",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Richfield"
+      },
+      {
+        "n": "6",
+        "town": "Herkimer",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2 & 3",
+        "town": "Fairfield",
+        "date_org": "29 May 1939",
+        "date_appr": "28 Aug. 1939",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Fairfield"
+      },
+      {
+        "n": "2",
+        "town": "Waneta & German Flatts",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Stark",
+        "date_org": "22 June 1939",
+        "date_appr": "22 Sept 1939",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Stark"
+      },
+      {
+        "n": "5 & 1",
+        "town": "Ritchfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Winfield",
+        "date_org": "1 April 1940",
+        "date_appr": "1 July 1940",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Winfield"
+      },
+      {
+        "n": "9",
+        "town": "Columbia",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Richfield (Otsego Co.)",
+        "date_org": "10 May 1940",
+        "date_appr": "10 August 1940",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Richfield, Otsego Co."
+      },
+      {
+        "n": "3",
+        "town": "Waneta",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Stark",
+        "date_org": "20 June 1940",
+        "date_appr": "26 Sept 1940",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Stark"
+      },
+      {
+        "n": "4",
+        "town": "Ritchfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Paris, Oneida Co.",
+        "date_org": "12 June 1940",
+        "date_appr": "11 Sept 1940",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Paris, Oneida Co."
+      },
+      {
+        "n": "4",
+        "town": "Salisbury",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Stratford (Fulton Co.)",
+        "date_org": "5 Nov. 1941",
+        "date_appr": "10 Feb. 1941",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Stratford, Fulton Co."
+      },
+      {
+        "n": "9",
+        "town": "Salisbury",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Stratford (Fulton Co.)",
+        "date_org": "16 Feb. 1942",
+        "date_appr": "30 June 1942",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Stratford, Fulton Co."
+      },
+      {
+        "n": "",
+        "town": "Manheim & Oppenheim",
+        "date_org": "Laid out 21 April 1942",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Manheim & Salisbury"
+      },
+      {
+        "n": "2,3,5,7,10",
+        "town": "Manheim",
+        "date_org": "Meeting held 4 May 1942",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "Herkimer Co. & Oppenheim"
+      },
+      {
+        "n": "",
+        "town": "Salisbury",
+        "date_org": "Designation of dist. 24 July 1942",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "Fulton Co."
+      },
+      {
+        "n": "1 & 6",
+        "town": "Salisbury & Manheim",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Ritchfield & Frankfort",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8 & 9",
+        "town": "Winfield",
+        "date_org": "15 May 1942 to take effect 15 August 1942",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Winfield"
+      },
+      {
+        "n": "",
+        "town": "Norway",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Fairfield",
+        "date_org": "24 June 1942",
+        "date_appr": "1 Oct. 1942",
+        "n_new": "",
+        "rmk": "C.R.S. 2 Fairfield"
+      },
+      {
+        "n": "6",
+        "town": "Ritchfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Winfield",
+        "date_org": "15 August 1942",
+        "date_appr": "15 Nov. 1942",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Winfield"
+      },
+      {
+        "n": "Part of",
+        "town": "2 Tunisia & 2 Fairfield",
+        "date_org": "30 March 1943",
+        "date_appr": "30 June 1943",
+        "n_new": "",
+        "rmk": "CRS 2 Fairfield"
+      },
+      {
+        "n": "",
+        "town": "7 Newport",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS 3 Newport"
+      },
+      {
+        "n": "13",
+        "town": "Oswego",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Rome (Oneida Co.)",
+        "date_org": "",
+        "date_appr": "1 Sept 1944",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Rome"
+      },
+      {
+        "n": "7",
+        "town": "Exeter (Otsego Co.)",
+        "date_org": "",
+        "date_appr": "15 Sept 1944",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Winfield"
+      },
+      {
+        "n": "1",
+        "town": "Winfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Danube",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "St. Johnsville (Montgomery Co.)",
+        "date_org": "",
+        "date_appr": "15 Sept 1944",
+        "n_new": "",
+        "rmk": "C.R.S. 2 St. Johnsville"
+      },
+      {
+        "n": "7",
+        "town": "Ritchfield - oneida",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 3 Newport"
+      },
+      {
+        "n": "3",
+        "town": "Newport",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "DeRuyter",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "St. Johnsville - Montgomery",
+        "date_org": "Effective April 2, 1945",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 2 St. Johnsville - Montgomery"
+      },
+      {
+        "n": "2",
+        "town": "Otto & Russia",
+        "date_org": "Effective August 1, 1945",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 3 Newport"
+      },
+      {
+        "n": "3",
+        "town": "Newport",
+        "date_org": "Effective October 1, 1945",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Ritchfield",
+        "date_org": "Effective October 1, 1945",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Winfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Winfield"
+      }
+    ]
+  }
+}

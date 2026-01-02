@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 37,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_37.jpg",
+    "processed_at": "2026-01-01T22:25:25.607925",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Cortland",
+    "table_type": "union_free_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1",
+        "town": "Homer",
+        "date_org": "25 July 1873",
+        "date_appr": "",
+        "n_new": "9",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Scott",
+        "date_org": "4 January 1916",
+        "date_appr": "11 February 1916",
+        "n_new": "5",
+        "rmk": ""
+      }
+    ]
+  }
+}

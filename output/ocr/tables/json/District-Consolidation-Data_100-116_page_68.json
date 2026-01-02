@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 68,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_68.jpg",
+    "processed_at": "2026-01-01T22:37:16.049666",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Greene",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "2",
+        "town": "Prattsville & Roxbury",
+        "date_org": "21 December 1943",
+        "date_appr": "to take effect 1 April 1944",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Gilboa Schoharie"
+      },
+      {
+        "n": "1",
+        "town": "Gilboa (Schoharie Co)",
+        "date_org": "21 December 1943",
+        "date_appr": "to take effect 1 April 1944",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Gilboa"
+      },
+      {
+        "n": "4",
+        "town": "Prattsville & Lexington",
+        "date_org": "21 December 1943",
+        "date_appr": "to take effect 1 April 1944",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Gilboa"
+      },
+      {
+        "n": "1",
+        "town": "Gilboa (Schoharie Co)",
+        "date_org": "21 December 1943",
+        "date_appr": "to take effect 1 April 1944",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Gilboa"
+      },
+      {
+        "n": "6",
+        "town": "Prattsville & Ashland",
+        "date_org": "25 February 1944",
+        "date_appr": "to take effect 1 June 1944",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Gilboa"
+      },
+      {
+        "n": "1",
+        "town": "Gilboa (Schoharie Co)",
+        "date_org": "25 February 1944",
+        "date_appr": "to take effect 1 June 1944",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Gilboa"
+      },
+      {
+        "n": "3 & Ashland",
+        "town": "25 February 1944",
+        "date_org": "to take effect 1 June 1944",
+        "date_appr": "",
+        "n_new": "C.R.S. 1 Wyndham",
+        "rmk": null
+      },
+      {
+        "n": "1 Wyndham",
+        "town": "25 February 1944",
+        "date_org": "to take effect 1 June 1944",
+        "date_appr": "",
+        "n_new": "C.R.S. 1 Wyndham",
+        "rmk": null
+      },
+      {
+        "n": "5 Ashland & Prattsville",
+        "town": "25 February 1944",
+        "date_org": "to take effect 1 June 1944",
+        "date_appr": "",
+        "n_new": "C.R.S. 1 Wyndham",
+        "rmk": null
+      },
+      {
+        "n": "1 Wyndham",
+        "town": "25 February 1944",
+        "date_org": "to take effect 1 June 1944",
+        "date_appr": "",
+        "n_new": "C.R.S. 1 Wyndham",
+        "rmk": null
+      },
+      {
+        "n": "5 Westerlo (Albany Co.)",
+        "town": "25 February 1944",
+        "date_org": "to take effect 1 June 1944",
+        "date_appr": "",
+        "n_new": "C.R.S. 1 Greenville",
+        "rmk": null
+      },
+      {
+        "n": "1 Greenville",
+        "town": "25 February 1944",
+        "date_org": "30 Sept. 1944",
+        "date_appr": "",
+        "n_new": "C.R.S. 1 Greenville",
+        "rmk": null
+      },
+      {
+        "n": "",
+        "town": "1 Copake",
+        "date_org": "Laid out June 17, 1947",
+        "date_appr": "Meeting held June 30, 1947",
+        "n_new": "",
+        "rmk": "C.R.S. 1 Copake"
+      },
+      {
+        "n": "",
+        "town": "1, 2 Athens",
+        "date_org": "Laid out June 17, 1947",
+        "date_appr": "Meeting held June 30, 1947",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "3, 4, 5, 6, 7, 8, 9, Copake",
+        "date_org": "Laid out June 17, 1947",
+        "date_appr": "Meeting held June 30, 1947",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "4, 6 Athens",
+        "date_org": "Laid out June 17, 1947",
+        "date_appr": "Meeting held June 30, 1947",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "2, 3, 7, 11 New Baltimore",
+        "date_org": "Laid out June 17, 1947",
+        "date_appr": "Meeting held June 30, 1947",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

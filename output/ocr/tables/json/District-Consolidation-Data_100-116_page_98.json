@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 98,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_98.jpg",
+    "processed_at": "2026-01-01T22:51:35.903046",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Montgomery",
+    "table_type": "union_free_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "14",
+        "town": "Minden",
+        "date_org": "18 March 1893",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Amsterdam",
+        "date_org": "24 March 1866",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Chenajoharie",
+        "date_org": "24 October 1872",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Palatine",
+        "date_org": "30 June 1948",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "(Copy of papers filed Feb 15/62)"
+      }
+    ]
+  }
+}

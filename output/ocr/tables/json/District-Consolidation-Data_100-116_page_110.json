@@ -1,0 +1,521 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 110,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_110.jpg",
+    "processed_at": "2026-01-01T22:57:34.731644",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "County",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1+10",
+        "town": "Sangerfield",
+        "date_org": "1 October 1930",
+        "date_appr": "to take effect 1 Jan. 1931",
+        "n_new": "1 Sangerfield",
+        "rmk": "C.R.S."
+      },
+      {
+        "n": "4+6",
+        "town": "Hickland",
+        "date_org": "24 March 1931",
+        "date_appr": "to take effect 13 June 1931",
+        "n_new": "4 Hickland",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Hickland, Whitetown, New Hartford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Hickland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3d",
+        "town": "New Hartford",
+        "date_org": "Laid out 15 Je 1931",
+        "date_appr": "",
+        "n_new": "1 Hickland, New Hartford, Whitetown",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "New Hartford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Westmoreland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7,13",
+        "town": "Marshall",
+        "date_org": "Meeting held 30 Je 1931",
+        "date_appr": "",
+        "n_new": "Marshall, Westmoreland",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Vernon",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Paris",
+        "date_org": "Designation of dist 10 Je 1931",
+        "date_appr": "",
+        "n_new": "Vernon + Paris",
+        "rmk": ""
+      },
+      {
+        "n": "15",
+        "town": "Melville, Hickland, Vernon",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "16",
+        "town": "Westmoreland, Hickland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5,8,10,14",
+        "town": "Hickland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Whitetown",
+        "date_org": "Laid out 13 Je 1931",
+        "date_appr": "",
+        "n_new": "1 Whitetown",
+        "rmk": "CRS"
+      },
+      {
+        "n": "7",
+        "town": "Whitetown + Rome",
+        "date_org": "Meeting held 25 Je 31",
+        "date_appr": "",
+        "n_new": "Rome, Mary + Floyd",
+        "rmk": ""
+      },
+      {
+        "n": "10,11",
+        "town": "Whitetown + Rome",
+        "date_org": "Designation of dist 15 Aug 31",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Mary + Floyd",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Floyd",
+        "rmk": ""
+      },
+      {
+        "n": "2,3,4,8",
+        "town": "Marshall",
+        "date_org": "18 July 1932 to take effect",
+        "date_appr": "",
+        "n_new": "Sangerfield",
+        "rmk": "CRS"
+      },
+      {
+        "n": "1",
+        "town": "Sangerfield",
+        "date_org": "20 July 1932",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6+13",
+        "town": "Steuken",
+        "date_org": "6 June 1932 to take effect 6 Sept 32",
+        "date_appr": "",
+        "n_new": "13 Steuken",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Marshall",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Sangerfield",
+        "date_org": "17 May 1932",
+        "date_appr": "1 Sept 32",
+        "n_new": "1 Sangerfield",
+        "rmk": "CRS"
+      },
+      {
+        "n": "1",
+        "town": "Rome + Trenton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,4,5,6",
+        "town": "Rome + Trenton",
+        "date_org": "Laid out 26 May 1933",
+        "date_appr": "",
+        "n_new": "1 Rome, Trenton",
+        "rmk": "CRS"
+      },
+      {
+        "n": "3,7",
+        "town": "Rome + Steuken",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Rome + Bonville",
+        "date_org": "Meeting held 16 Je 1933",
+        "date_appr": "",
+        "n_new": "Steuken, Bonville",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Forestport",
+        "date_org": "Designation of dist 29 Je 33",
+        "date_appr": "",
+        "n_new": "+ Forestport",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Steuken, Trenton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Steuken, Trenton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,4,5,11,13",
+        "town": "Steuken, Trenton, Bonville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Trenton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "C.R.S",
+        "town": "Trenton",
+        "date_org": "Laid out 8 June 1934",
+        "date_appr": "",
+        "n_new": "1 Trenton, Rome, Deerfield, Mary, Floyd, Steuben, Weston + Russia",
+        "rmk": "CRS"
+      },
+      {
+        "n": "1",
+        "town": "Trenton, Rome, Russia",
+        "date_org": "Meeting held 29 June 1934",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Trenton, Rome, Russia + Deerfield",
+        "date_org": "Designation of dist 16 July 1934",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4,6,7",
+        "town": "Trenton, Rome, Russia + Deerfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6,11",
+        "town": "Trenton, Rome, Russia + Deerfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Russia",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Rome",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "13",
+        "town": "Mary",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,4,6,7,8",
+        "town": "Floyd",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Floyd, Steuben + Trenton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,8,13",
+        "town": "Steuken",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Weston + Steuben",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Reorganized July 17, 1935",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8+10",
+        "town": "Forestport",
+        "date_org": "18 April 1935 to take effect 20 July 1935",
+        "date_appr": "",
+        "n_new": "10 Forestport",
+        "rmk": "C.R.S"
+      },
+      {
+        "n": "C.R.S",
+        "town": "Whitetown",
+        "date_org": "Laid out 28 May 1935",
+        "date_appr": "",
+        "n_new": "2 Whitetown, Mary, Deerfield + Trenton",
+        "rmk": "C.R.S"
+      },
+      {
+        "n": "2",
+        "town": "Whitetown",
+        "date_org": "Meeting held 14 June 1935",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5+6",
+        "town": "Whitetown",
+        "date_org": "Designation of dist 20 June 1935",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5+6",
+        "town": "Mary",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8+10",
+        "town": "Mary + Deerfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Deerfield + Trenton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Steuken",
+        "date_org": "25 Sept 1935 to take effect 31 Dec 1935",
+        "date_appr": "",
+        "n_new": "1 Trenton",
+        "rmk": "CRS"
+      },
+      {
+        "n": "1",
+        "town": "Trenton",
+        "date_org": "25 Sept 1935",
+        "date_appr": "31 Dec 1935",
+        "n_new": "1 Trenton",
+        "rmk": "CRS"
+      },
+      {
+        "n": "15",
+        "town": "Weston",
+        "date_org": "18 July 1935",
+        "date_appr": "20 Oct. 1935",
+        "n_new": "1 Whitetown",
+        "rmk": "CRS"
+      },
+      {
+        "n": "8",
+        "town": "Whitetown",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Whitetown",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "17+16",
+        "town": "Western",
+        "date_org": "29 March 1937",
+        "date_appr": "1 July 1937",
+        "n_new": "16 Western",
+        "rmk": "C.R.S"
+      },
+      {
+        "n": "2",
+        "town": "Paris",
+        "date_org": "12 July 1937",
+        "date_appr": "12 Oct. 1937",
+        "n_new": "2 Paris",
+        "rmk": "C.R.S"
+      },
+      {
+        "n": "5",
+        "town": "Paris + Litchfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Sangerfield",
+        "date_org": "11 Sept 1937",
+        "date_appr": "11 Dec. 1937",
+        "n_new": "1 Sangerfield",
+        "rmk": "C.R.S"
+      },
+      {
+        "n": "1",
+        "town": "Sangerfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5+12",
+        "town": "Western",
+        "date_org": "26 June 1938",
+        "date_appr": "14 Sept 1938",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

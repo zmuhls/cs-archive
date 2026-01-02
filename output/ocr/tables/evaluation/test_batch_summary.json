@@ -1,0 +1,66 @@
+{
+  "batch_info": {
+    "processed_at": "2025-12-31T15:53:09.116807",
+    "total_pages": 10,
+    "successful_extractions": 6,
+    "failed_extractions": 4,
+    "average_quality_score": 79.72,
+    "average_completeness": 0.609,
+    "hallucination_count": 0
+  },
+  "best_example": {
+    "page_number": 75,
+    "county": "County",
+    "table_type": "town_school_units",
+    "quality_score": 82.0,
+    "total_rows": 2,
+    "completeness_score": 0.7,
+    "test_case_complexity": "ocr_error",
+    "json_path": "json/District-Consolidation-Data_100-116_page_75.json",
+    "csv_path": "csv/District-Consolidation-Data_100-116_page_75.csv"
+  },
+  "results_summary": [
+    {
+      "page": 40,
+      "quality_score": 79.5,
+      "rows": 5,
+      "completeness": 0.6,
+      "has_hallucinations": false
+    },
+    {
+      "page": 41,
+      "quality_score": 77.0,
+      "rows": 4,
+      "completeness": 0.5,
+      "has_hallucinations": false
+    },
+    {
+      "page": 55,
+      "quality_score": 80.12,
+      "rows": 4,
+      "completeness": 0.625,
+      "has_hallucinations": false
+    },
+    {
+      "page": 65,
+      "quality_score": 77.83,
+      "rows": 6,
+      "completeness": 0.533,
+      "has_hallucinations": false
+    },
+    {
+      "page": 75,
+      "quality_score": 82.0,
+      "rows": 2,
+      "completeness": 0.7,
+      "has_hallucinations": false
+    },
+    {
+      "page": 100,
+      "quality_score": 81.85,
+      "rows": 9,
+      "completeness": 0.694,
+      "has_hallucinations": false
+    }
+  ]
+}

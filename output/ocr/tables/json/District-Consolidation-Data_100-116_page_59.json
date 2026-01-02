@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 59,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_59.jpg",
+    "processed_at": "2026-01-01T22:32:43.371179",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Franklin",
+    "table_type": "town_school_units",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1",
+        "town": "Moira",
+        "date_org": "U.F.S. 1 and",
+        "date_appr": "",
+        "n_new": "3,4,9 & 10",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "\"",
+        "date_org": "U.F.S. 2 \"",
+        "date_appr": "",
+        "n_new": "5,6,7,8 & 11",
+        "rmk": ""
+      }
+    ]
+  }
+}

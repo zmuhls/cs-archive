@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 49,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_49.jpg",
+    "processed_at": "2026-01-01T22:30:13.806481",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Dutchess",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "UFS#2\n1,3,4,6,7,89",
+        "town": "Albion\nAlbion + Union Vale\nAlbion",
+        "date_org": "Effective date Dec 31, 1946",
+        "date_appr": "",
+        "n_new": "2",
+        "rmk": "Albion"
+      },
+      {
+        "n": "CRS\nU.H.S.dit\nC.S.dit",
+        "town": "5. Pawling\n1,3,6,8,9 Pawling\n2 Pawling, Buchanan (East Fishkill)\n4 Pawling & Tottenville (Cudde)\n7 Pawling, East Fishkill & Tottenville (Cudde)\n10 Albion, Pawling & Buchanan",
+        "date_org": "Laid out June 5, 1950\nMeeting held June 27, 1950",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS\nPawling, Albion\nEast Fishkill, Buchanan\nAddition 6 & 7 (Tottenville, Cudde)"
+      },
+      {
+        "n": "C.S. 8",
+        "town": "North East",
+        "date_org": "Cons with 6 North East, U.F.S.",
+        "date_appr": "Aug 7, 1952",
+        "n_new": "6 North East",
+        "rmk": ""
+      },
+      {
+        "n": "C.S. 7",
+        "town": "\"",
+        "date_org": "\" 6 \" \" U.F.S.",
+        "date_appr": "Feb 11, 1951",
+        "n_new": "6 \" \"",
+        "rmk": ""
+      },
+      {
+        "n": "C.S. 2",
+        "town": "Amenia",
+        "date_org": "\" U.F.S 2 Dover",
+        "date_appr": "June 30, 1953",
+        "n_new": "2 Dover",
+        "rmk": ""
+      }
+    ]
+  }
+}

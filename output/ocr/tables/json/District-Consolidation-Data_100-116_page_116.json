@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 116,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_116.jpg",
+    "processed_at": "2026-01-01T23:02:02.288692",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Onondaga",
+    "table_type": "town_school_units",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "Cm. 1",
+        "town": "Dewitt",
+        "date_org": "annexed to Commw",
+        "date_appr": "3 Dewitt Aug 1, 1954 (y.42)",
+        "n_new": "3",
+        "rmk": "3 Dewitt"
+      },
+      {
+        "n": "2",
+        "town": "Dewitt",
+        "date_org": "\"",
+        "date_appr": "3 Dewitt Aug 1, 1954 (\" \")",
+        "n_new": "3",
+        "rmk": "3 Dewitt"
+      }
+    ]
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 96,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_96.jpg",
+    "processed_at": "2026-01-01T22:51:17.469272",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Monroe",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "3,5,10",
+        "town": "Rush",
+        "date_org": "5 August 1919",
+        "date_appr": "3-288,414 1k 5-212,482 1k 10-389,802 3k 16-19",
+        "n_new": "10 Rush",
+        "rmk": ""
+      },
+      {
+        "n": "6,15",
+        "town": "Hamlin",
+        "date_org": "30 April 1919",
+        "date_appr": "6-287,064 1k 15-363,704 1k",
+        "n_new": "6 Hamlin",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Ogden",
+        "date_org": "",
+        "date_appr": "8-128,631 1k",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,4",
+        "town": "Riga",
+        "date_org": "25 June 1923",
+        "date_appr": "3-140,400 1k 4-1,375,903 Cred 22-23",
+        "n_new": "4 Riga",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 9 Ogden & 4 Riga",
+        "date_org": "",
+        "date_appr": "Part. all'd 15 4-97.76 7-16.59 10-10.65 9th 177.53 20.73 19.34",
+        "n_new": "",
+        "rmk": "4 Riga 216.64 7 Ogden 36.77 10 Ogden 23.39"
+      },
+      {
+        "n": "",
+        "town": "\" \" \" 7 Ogden",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "\" \" \" 10 \"",
+        "date_org": "29 August 1918",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "This was dissolved before the law went into effect allowing money to dists that were divided but Mr Esmond made a special decision in this case that the dists could receive partial quotas"
+      },
+      {
+        "n": "",
+        "town": "C.R.S. 1,2,6 Sweden",
+        "date_org": "Meeting held 19 July 1927",
+        "date_appr": "",
+        "n_new": "1 Sweden, Ogden",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "4,8 Sweden & Ogden",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "6 Clarkson & Sweden",
+        "date_org": "Designation of dist. 17 Ag. 1927 as",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "9 Sweden & Clarkson",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "1,2,3,4,7,8 Clarkson",
+        "date_org": "C.R.S. laid out 24 Je. 1927",
+        "date_appr": "",
+        "n_new": "Parma & Clarkson",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "11 Ogden, Sweden & Parma",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Mon. Co. &",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "3,7,8 Sweden, Mon. Co. & Clarendon, Or. Co.",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Clarendon & Murray Or. Co.",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "6 Parma & Clarkson",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "9 Clarkson, Sweden, Mon. Co. & Clarendon & Murray, Or. Co.",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,8",
+        "town": "Brighton",
+        "date_org": "30 April 1925",
+        "date_appr": "8-2,349,133 2k 8-2,115,623 1k",
+        "n_new": "1 Brighton",
+        "rmk": ""
+      },
+      {
+        "n": "3,11,16",
+        "town": "Greece",
+        "date_org": "Laid out by Com. 11 Jl. 1927 Meeting held 21 Mr. 1928 Desig. of dist. 9 My 28",
+        "date_appr": "",
+        "n_new": "1 Greece",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Rush",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Avon & Lima (Livingston Co.)",
+        "date_org": "",
+        "date_appr": "15 Sept. 1944",
+        "n_new": "1 Avon & Lima",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "CRS 1st dist 1 Webster & Penfield (Monroe County)",
+        "date_org": "",
+        "date_appr": "Laid out April 27, 1948 Meeting held May 26, 1948",
+        "n_new": "1 Webster",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "2,3,4,6,7,8,9 Webster",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "5 Webster & Penfield (Mon Co) & Valworth & Ontario (Wayne Co)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "6,9,10,11 Penfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "13 Penfield (Mon Co) & Valworth (Wayne Co)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "CRS 1st dist 2,3,5,6 Penfield & Perinton",
+        "date_org": "",
+        "date_appr": "Laid out May 25, 1948 Meeting held June 24, 1948",
+        "n_new": "1 Penfield",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "7 Penfield & Brighton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "12 Valworth & Mendon (Wayne Co) and",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Penfield & Perinton (Monroe Co)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "13 Gates & Chili",
+        "date_org": "1 April 1950 to be effect 1 July 1950",
+        "date_appr": "",
+        "n_new": "1 Gates & Chili",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "CRS 1st dist 6 Pittsford",
+        "date_org": "",
+        "date_appr": "Laid out Sept 30, 1946 Meeting held Oct 23, 1946",
+        "n_new": "1 Pittsford",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "c.s. dist 1,2,3,4,5,7,8,9 Perinton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "13 Mendon",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "CRS 1st dist 10 Rush",
+        "date_org": "",
+        "date_appr": "Laid out Oct 2, 1946 Meeting held Nov 14, 1946",
+        "n_new": "1 Rush",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "c.s. dist 5 Henrietta",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "1,2,3,4,7,9 Rush",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "1,2,3,6,7,8,9,10 Henrietta",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "CRS 1st dist 17 Mendon",
+        "date_org": "",
+        "date_appr": "Laid out Aug 1, 1949 Meeting held June 29, 1949",
+        "n_new": "1 Mendon",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "c.s. dist 1,2,3,4,5,6,7,9,10,11,12,14,15 Mendon",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "8,9 Lima (and Livingston)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "8 Avon (and Livingston)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "1 and Penfield (1st district)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

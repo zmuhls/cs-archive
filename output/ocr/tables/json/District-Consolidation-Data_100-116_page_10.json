@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 10,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_10.jpg",
+    "processed_at": "2026-01-01T22:11:46.775356",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "County",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "CRS\n1,4,5,6,7,8,9,10,11,12,13,14\nC.S.dit\n2,3,5,6,7,8,9,10,11,12,13,14",
+        "town": "New Albion\n2,3,5,6 New Albion\n2,3,10 Mumford\n2,4,5,6,7,8 Otts\n7,8 Dayton\n5 Austin\n7 Leon\n1,2,6,8,9 East Otts",
+        "date_org": "Laid out\nMeeting held",
+        "date_appr": "June 6, 1946\nJune 25, 1946",
+        "n_new": "",
+        "rmk": "CRS\n1 New Albion"
+      },
+      {
+        "n": "CRS\n1,2,3,4,5,6,7,8,9,10,11,12,13,14\nC.S.dit\n3,4,5,6,7,8,9,10,11,12,13,14",
+        "town": "Allegany\n4,5,6,7,8,9,10,11,12,13,14 Allegany\n4,6 Carrollton\n3 Humphrey",
+        "date_org": "Laid out\nMeeting held",
+        "date_appr": "June 9, 1947\nJune 30, 1947",
+        "n_new": "",
+        "rmk": "CRS\n1 Allegany"
+      },
+      {
+        "n": "CRS\n1,2,3,4,5,6,7,8,9,10,11,12,13,14\nC.S.dit\n2,3,4,5,6,7,8,9,10,11,12,13,14",
+        "town": "Elliotville\n3 Great Valley\n2,3,4,7,8,11 Elliotville\n2,4,5,7,10 Great Valley\n1,5,8,9 Mumford\n1,5 Humphrey\n4,5 East Otts",
+        "date_org": "Laid out\nMeeting held",
+        "date_appr": "Oct 30, 1946\nNov 3, 1946",
+        "n_new": "",
+        "rmk": "CRS\n1 Elliotville"
+      },
+      {
+        "n": "2\n1",
+        "town": "Carrollton & Allegany\nand\nCarrollton",
+        "date_org": "4/24/54",
+        "date_appr": "effective date July 31, 1954",
+        "n_new": "1",
+        "rmk": "Carrollton (k-75)"
+      }
+    ]
+  }
+}

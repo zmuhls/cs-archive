@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 107,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_107.jpg",
+    "processed_at": "2026-01-01T22:54:24.963492",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Oneida",
+    "table_type": "union_free_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "4",
+        "town": "Paris",
+        "date_org": "1 November 1870",
+        "date_appr": "",
+        "n_new": "9",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Sangerfield",
+        "date_org": "12 February 1872",
+        "date_appr": "",
+        "n_new": "9",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Whitestown",
+        "date_org": "12 October 1887",
+        "date_appr": "",
+        "n_new": "9",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Trenton",
+        "date_org": "25 February 1910",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Vernon Whitestown",
+        "date_org": "6 May 1913",
+        "date_appr": "25 June 1913",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "New Hartford",
+        "date_org": "21 April 1913",
+        "date_appr": "5 May 1913",
+        "n_new": "6",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "New Hartford",
+        "date_org": "7 October 1913",
+        "date_appr": "22 October 1913",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Vernon & Oneida",
+        "date_org": "16 June 1916",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Marshall",
+        "date_org": "1 November 1920",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Western",
+        "date_org": "see papers in folder",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Trenton",
+        "date_org": "7 December 1911",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Augusta",
+        "date_org": "see papers in folder",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Augusta",
+        "date_org": "\"\" \"\" \"\"",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Lee",
+        "date_org": "15 May 1871",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

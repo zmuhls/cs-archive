@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 76,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_76.jpg",
+    "processed_at": "2026-01-01T22:40:19.707813",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Jefferson",
+    "table_type": "union_free_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "13",
+        "town": "Adams",
+        "date_org": "21 June 1899",
+        "date_appr": "",
+        "n_new": "9",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Brownville",
+        "date_org": "9 March 1896",
+        "date_appr": "",
+        "n_new": "9",
+        "rmk": "No detailed account of meeting received"
+      },
+      {
+        "n": "18",
+        "town": "Ellisburg",
+        "date_org": "11 May 1906",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Rutland",
+        "date_org": "16 April 1919",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Wilna & Diana",
+        "date_org": "6 January 1921",
+        "date_appr": "",
+        "n_new": "7",
+        "rmk": ""
+      }
+    ]
+  }
+}

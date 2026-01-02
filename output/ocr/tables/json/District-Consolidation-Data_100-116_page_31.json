@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 31,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_31.jpg",
+    "processed_at": "2026-01-01T22:23:21.539008",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Clinton",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1,2,3,7,12,13,14",
+        "town": "Chazy 3d",
+        "date_org": "6 January 1916",
+        "date_appr": "to take effect 7 Jan.",
+        "n_new": "",
+        "rmk": "Chazy Central Consolidated Rural Sch."
+      },
+      {
+        "n": "6,7,12,13",
+        "town": "Champlain 3d",
+        "date_org": "20 July 1916",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "Chazy & Champlain"
+      },
+      {
+        "n": "8,9,11",
+        "town": "Moers",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "8 Moers"
+      }
+    ]
+  }
+}

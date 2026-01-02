@@ -1,0 +1,297 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 5,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_5.jpg",
+    "processed_at": "2026-01-01T22:08:40.323917",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Broome",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "5",
+        "town": "Windsor",
+        "date_org": "13 Nov. 1941",
+        "date_appr": "1 July 1942",
+        "n_new": "1 Windsor",
+        "rmk": "CRS"
+      },
+      {
+        "n": "15",
+        "town": "Windsor",
+        "date_org": "20 May 1942",
+        "date_appr": "20 Aug. 1942",
+        "n_new": "1 Windsor",
+        "rmk": "C.R.S"
+      },
+      {
+        "n": "13",
+        "town": "Richwood",
+        "date_org": "21 May 1942",
+        "date_appr": "21 Aug. 1942",
+        "n_new": "1 Windsor",
+        "rmk": "C.R.S."
+      },
+      {
+        "n": "24",
+        "town": "Windsor",
+        "date_org": "24 March 1942",
+        "date_appr": "1 July 1942",
+        "n_new": "1 Union",
+        "rmk": "C.R.S."
+      },
+      {
+        "n": "1",
+        "town": "Union",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Windsor",
+        "rmk": "C.R.S."
+      },
+      {
+        "n": "7",
+        "town": "Windsor & Sanford",
+        "date_org": "",
+        "date_appr": "1 Nov. 1943",
+        "n_new": "1 Triangle",
+        "rmk": "CRS"
+      },
+      {
+        "n": "10",
+        "town": "Windsor & Richford",
+        "date_org": "2 Aug. 1943",
+        "date_appr": "13 Oct. 1943",
+        "n_new": "1 Triangle",
+        "rmk": "CRS"
+      },
+      {
+        "n": "11",
+        "town": "Triangle",
+        "date_org": "7 July 1943",
+        "date_appr": "11 Oct. 1943",
+        "n_new": "1 Triangle",
+        "rmk": "CRS."
+      },
+      {
+        "n": "1",
+        "town": "Rifle",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Triangle",
+        "rmk": "CRS."
+      },
+      {
+        "n": "1",
+        "town": "Triangle",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Triangle",
+        "rmk": "CRS"
+      },
+      {
+        "n": "3",
+        "town": "Rifle",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Triangle",
+        "rmk": "CRS"
+      },
+      {
+        "n": "6",
+        "town": "Triangle",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Triangle",
+        "rmk": "CRS"
+      },
+      {
+        "n": "1",
+        "town": "Chenango",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Triangle",
+        "rmk": "CRS"
+      },
+      {
+        "n": "1",
+        "town": "Triangle",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Triangle",
+        "rmk": "CRS"
+      },
+      {
+        "n": "8",
+        "town": "Union (Broome County)",
+        "date_org": "",
+        "date_appr": "Effective October 1, 1945",
+        "n_new": "1 Colesville",
+        "rmk": "CRS"
+      },
+      {
+        "n": "16",
+        "town": "Union, Broome Co",
+        "date_org": "",
+        "date_appr": "Effective August 22, 1947",
+        "n_new": "1 Union, Broome Co",
+        "rmk": "CRS"
+      },
+      {
+        "n": "12",
+        "town": "Binghamton",
+        "date_org": "",
+        "date_appr": "Effective July 5, 1947",
+        "n_new": "2 Union",
+        "rmk": "CRS"
+      },
+      {
+        "n": "",
+        "town": "D. Wiegand 7 Binghamton",
+        "date_org": "3 May 1950",
+        "date_appr": "140 to take effect 3 Aug 1950",
+        "n_new": "7 Binghamton",
+        "rmk": "CRS"
+      },
+      {
+        "n": "",
+        "town": "CRS",
+        "date_org": "",
+        "date_appr": "Laid out June 5, 1950",
+        "n_new": "1 Dickinson, 1 Kenton, 1 Chenango, 1 Kirkwood",
+        "rmk": "CRS"
+      },
+      {
+        "n": "",
+        "town": "N.S. dist",
+        "date_org": "1 Dickinson & Kenton",
+        "date_appr": "Meeting held June 26, 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "C.S. dist",
+        "date_org": "3 Dickinson",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "2 Kenton",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "7 Kenton & Kirkwood",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "10 Chenango & Kenton",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "11 Chenango & Dickinson",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "7 Kirkwood & Kenton",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "8 Kirkwood & Dickinson",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "CRS",
+        "date_org": "",
+        "date_appr": "Laid out June 5, 1950",
+        "n_new": "1 Conklin, Binghamton, Kirkwood",
+        "rmk": "CRS"
+      },
+      {
+        "n": "",
+        "town": "N.S. dist",
+        "date_org": "4 Conklin & Binghamton",
+        "date_appr": "Meeting held June 28, 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "C.S. dist",
+        "date_org": "1,3,5 Conklin",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "6,7,8 Conklin & Binghamton",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "1,3,4,5,7 Binghamton",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "2,6 Binghamton & Vestal",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "1,2 Kirkwood",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

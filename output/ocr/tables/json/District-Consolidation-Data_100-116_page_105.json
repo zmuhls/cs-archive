@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 105,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_105.jpg",
+    "processed_at": "2026-01-01T22:53:39.045870",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Niagara",
+    "table_type": "union_free_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1",
+        "town": "Lewiston",
+        "date_org": "21 February 1898",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "New fane",
+        "date_org": "22 August 1918",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "18",
+        "town": "Royalton",
+        "date_org": "1 March 1917",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Niagara",
+        "date_org": "14 August 1925",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Yorke",
+        "date_org": "16 August 1947",
+        "date_appr": "",
+        "n_new": "6",
+        "rmk": ""
+      }
+    ]
+  }
+}

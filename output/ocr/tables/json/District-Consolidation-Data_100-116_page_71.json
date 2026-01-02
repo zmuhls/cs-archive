@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 71,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_71.jpg",
+    "processed_at": "2026-01-01T22:38:05.606322",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Herkimer",
+    "table_type": "union_free_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1",
+        "town": "Herkimer",
+        "date_org": "20 January 1865",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": "Time and result of meeting recd - no detailed"
+      },
+      {
+        "n": "1",
+        "town": "Webb",
+        "date_org": "19 January 1909",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Stark",
+        "date_org": "18 November 1930",
+        "date_appr": "Desig. of dist. Dec. 12 '30",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Frankfort",
+        "date_org": "28 Feb. 1907",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Herkimer",
+        "date_org": "17 June 1948",
+        "date_appr": "",
+        "n_new": "2",
+        "rmk": "Herkimer"
+      }
+    ]
+  }
+}

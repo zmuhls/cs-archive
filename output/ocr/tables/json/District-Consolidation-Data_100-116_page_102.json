@@ -1,0 +1,321 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 102,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_102.jpg",
+    "processed_at": "2026-01-01T22:52:50.435849",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Nassau",
+    "table_type": "union_free_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "9",
+        "town": "Hempstead",
+        "date_org": "7 October 1890",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Hempstead",
+        "date_org": "25 January 1893",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "14",
+        "town": "Hempstead",
+        "date_org": "5 February 1898",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "27",
+        "town": "Hempstead",
+        "date_org": "9 August 1911",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "North Hempstead",
+        "date_org": "7 June 1899",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "17",
+        "town": "Oyster Bay",
+        "date_org": "6 October 1896",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Hempstead",
+        "date_org": "20 October 1908",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Oyster Bay",
+        "date_org": "29 September 1892",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "28",
+        "town": "Hempstead",
+        "date_org": "21 August 1915",
+        "date_appr": "L 1924 Ch. 535",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "North Hempstead",
+        "date_org": "21 August 1916",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "25",
+        "town": "Hempstead",
+        "date_org": "11 May 1922",
+        "date_appr": "",
+        "n_new": "7",
+        "rmk": ""
+      },
+      {
+        "n": "29",
+        "town": "Hempstead",
+        "date_org": "9 June 1922",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "30",
+        "town": "Hempstead",
+        "date_org": "19 June 1923",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "13",
+        "town": "Hempstead",
+        "date_org": "2 October 1923",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "21",
+        "town": "Oyster Bay",
+        "date_org": "24 March 1908",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Hempstead",
+        "date_org": "2 October 1907",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": "(See letters & affidavit filed with No. 16)"
+      },
+      {
+        "n": "16",
+        "town": "Hempstead",
+        "date_org": "16 January 1907",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": "(See letters & affidavit filed with No. 4)"
+      },
+      {
+        "n": "22",
+        "town": "Hempstead",
+        "date_org": "11 May 1894",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "18",
+        "town": "Hempstead",
+        "date_org": "10 May 1929",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Oyster Bay",
+        "date_org": "28 July 1866",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Hempstead",
+        "date_org": "24 March 1893",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "North Hempstead",
+        "date_org": "10 July 1930",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "15",
+        "town": "North Hempstead",
+        "date_org": "16 September 1931",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Oyster Bay",
+        "date_org": "Memo from Mr. Brinse July 8, 1931",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Oyster Bay, Hempstead",
+        "date_org": "21 March 1895",
+        "date_appr": "6 April 1895",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Oyster Bay",
+        "date_org": "14 June 1934",
+        "date_appr": "21 June 1934",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "23",
+        "town": "Oyster Bay",
+        "date_org": "15 June 1937",
+        "date_appr": "23 July 1937",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Oyster Bay",
+        "date_org": "22 October 1907",
+        "date_appr": "16 November 1937",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Hempstead",
+        "date_org": "8 October 1948",
+        "date_appr": "8 October 1948",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Hempstead",
+        "date_org": "28 April 1948",
+        "date_appr": "10 May 1948",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "North Hempstead",
+        "date_org": "21 Jan 1949",
+        "date_appr": "1 Dec 1949",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "14",
+        "town": "Oyster Bay",
+        "date_org": "10 July 1950",
+        "date_appr": "16 Aug 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "19",
+        "town": "Oyster Bay",
+        "date_org": "26 May 1950",
+        "date_appr": "6 June 1950",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "18",
+        "town": "Oyster Bay",
+        "date_org": "7 Aug 1951",
+        "date_appr": "26 Dec 1951",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "26",
+        "town": "Hempstead",
+        "date_org": "21 Feb 1951",
+        "date_appr": "23 Feb 1951",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Oyster Bay etc",
+        "date_org": "1 July 1952",
+        "date_appr": "15 July 1952",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "13",
+        "town": "Oyster Bay",
+        "date_org": "5 Dec 1952",
+        "date_appr": "8 Dec 1952",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

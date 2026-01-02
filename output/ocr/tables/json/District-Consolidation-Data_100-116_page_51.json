@@ -1,0 +1,449 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 51,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_51.jpg",
+    "processed_at": "2026-01-01T22:30:51.415082",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Erie",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "6+9",
+        "town": "Vill. Sloan",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Checktowaga",
+        "date_org": "30 April 1914",
+        "date_appr": "9-12-13",
+        "n_new": "9 Checktowaga",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,6,7+10",
+        "town": "East Hamburg",
+        "date_org": "30 April 1914",
+        "date_appr": "1-12-13",
+        "n_new": "6 East Hamburg",
+        "rmk": ""
+      },
+      {
+        "n": "6+9",
+        "town": "East Hamburg",
+        "date_org": "15 March 1915",
+        "date_appr": "6-13-14",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Amherst",
+        "date_org": "1 May 1917",
+        "date_appr": "",
+        "n_new": "3 Amherst",
+        "rmk": ""
+      },
+      {
+        "n": "2+3",
+        "town": "Vill. Kenmore",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Tonawanda",
+        "date_org": "1 August 1919",
+        "date_appr": "3-18-19",
+        "n_new": "3 Tonawanda",
+        "rmk": ""
+      },
+      {
+        "n": "1+4",
+        "town": "Evans",
+        "date_org": "27 September 1919",
+        "date_appr": "4-18-19",
+        "n_new": "1 Evans",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 1 Hamburg & Boston & 1 Hamburg",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "4 Boston",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "6 Eden",
+        "date_org": "4 September 1920",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3+11",
+        "town": "Newstead",
+        "date_org": "8 June 1921",
+        "date_appr": "1 Aug.",
+        "n_new": "3 Newstead",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Collins",
+        "date_org": "8 July 1921",
+        "date_appr": "",
+        "n_new": "6 Collins",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,4,6,7+8",
+        "town": "Vill. Kenmore",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,3+4",
+        "town": "Tonawanda",
+        "date_org": "30 April 1924",
+        "date_appr": "13-10-18",
+        "n_new": "1 Tonawanda",
+        "rmk": ""
+      },
+      {
+        "n": "13+18",
+        "town": "Amherst",
+        "date_org": "Meeting held Ap 2 1929",
+        "date_appr": "Central H.S. 1 Amherst",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12+1",
+        "town": "Aurora",
+        "date_org": "23 January 1930",
+        "date_appr": "12-1",
+        "n_new": "1 Aurora",
+        "rmk": ""
+      },
+      {
+        "n": "1,3,4,5,6+9",
+        "town": "Holland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Holland",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Colden",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Colden + Wales",
+        "rmk": ""
+      },
+      {
+        "n": "2+7",
+        "town": "Holland + Wales",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Colden + Holland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6+1",
+        "town": "Aurora",
+        "date_org": "24 June 1932",
+        "date_appr": "22 Sept. 1932",
+        "n_new": "1 Aurora",
+        "rmk": ""
+      },
+      {
+        "n": "7+9",
+        "town": "Colden",
+        "date_org": "18 June 1935",
+        "date_appr": "18 Sept 1935",
+        "n_new": "1 Holland",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Holland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5+1",
+        "town": "Village Jamaica",
+        "date_org": "7 June 1938",
+        "date_appr": "6 Sept 1938",
+        "n_new": "1 Tonawanda",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Holland",
+        "date_org": "10 November 1938",
+        "date_appr": "30 June 1939",
+        "n_new": "1 Holland",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Holland",
+        "date_org": "10 November 1938",
+        "date_appr": "30 June 1939",
+        "n_new": "1 Holland",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Eden",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,3,8+9",
+        "town": "Eden",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Eden & Evans",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Eden & Boston",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Eden & North Collins",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Evans & Eden",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "CRS",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Concord & Sardinia",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,3,4,5,6,7,8,9,11+14",
+        "town": "Concord",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10+12",
+        "town": "Concord & Collins",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3+10",
+        "town": "Sardinia",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1+2",
+        "town": "Ashford, Cattaraugus &",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "13",
+        "town": "Ashford, Concord & Ellicott",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Yorkshire, Sardinia & Ashford",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Sardinia",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Arcade (Wyoming Co.)",
+        "date_org": "23 Feb. 1943",
+        "date_appr": "1 July 1943",
+        "n_new": "1 Arcade, Wyoming Co.",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Sardinia",
+        "date_org": "18 June 1943",
+        "date_appr": "20 Sept 1943",
+        "n_new": "1 Arcade",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Arcade (Wyoming Co.)",
+        "date_org": "24 June 1943",
+        "date_appr": "25 Sept 1943",
+        "n_new": "1 Holland",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Holland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Holland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Orchard Park, Hamburg, Aurora",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,4,5",
+        "town": "Orchard Park",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Orchard Park & Elma",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Wetmore",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Elma",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Aurora & Elma",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

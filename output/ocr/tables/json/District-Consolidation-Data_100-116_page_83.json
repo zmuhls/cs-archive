@@ -1,0 +1,449 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 83,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_83.jpg",
+    "processed_at": "2026-01-01T22:44:23.990555",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Lewis",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "187",
+        "town": "Greig",
+        "date_org": "13 May 1914",
+        "date_appr": "1 31959 1½ 7 8690 1½ 13-14",
+        "n_new": "1 Greig",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,8+10",
+        "town": "Lowville",
+        "date_org": "23 November 1916",
+        "date_appr": "24 Ja. 1919 1-150,165 2½ 2- 1,643,026 2½ 1 Ag.1917",
+        "n_new": "2 Lowville",
+        "rmk": ""
+      },
+      {
+        "n": "14+17",
+        "town": "Denmark",
+        "date_org": "19 August 1918",
+        "date_appr": "1 303,071 1½ 17 90,476 1½ 10 29,591 1½ 17-18",
+        "n_new": "1 Denmark",
+        "rmk": ""
+      },
+      {
+        "n": "10+19",
+        "town": "Martinsburg",
+        "date_org": "20 August 1918",
+        "date_appr": "17 14,450 1½ 2 29610 1½",
+        "n_new": "10 Martinsburg",
+        "rmk": ""
+      },
+      {
+        "n": "2+7",
+        "town": "High Market",
+        "date_org": "23 September 1918",
+        "date_appr": "7 21,380 1½ 8 15,669 1½ 10-17,115 1½",
+        "n_new": "2 High Market",
+        "rmk": ""
+      },
+      {
+        "n": "8+10",
+        "town": "Pinckney",
+        "date_org": "1 April 1919",
+        "date_appr": "to take effect 1 Ag.1919",
+        "n_new": "8 Pinckney",
+        "rmk": ""
+      },
+      {
+        "n": "2+3",
+        "town": "Martinsburg",
+        "date_org": "30 August 1918",
+        "date_appr": "2 61,466 2½ 3 44,318 1½ 17-18",
+        "n_new": "2 Martinsburg",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Lyonsdale",
+        "date_org": "27 June 1919",
+        "date_appr": "1-53,795 2½ 15 234,535 2½ Appeal dismissed",
+        "n_new": "15 Leyden",
+        "rmk": ""
+      },
+      {
+        "n": "15",
+        "town": "Leyden",
+        "date_org": "27 June 1919",
+        "date_appr": "Appealed Consol. stands Appeal dismissed 23 Dec. 19",
+        "n_new": "15 Leyden",
+        "rmk": ""
+      },
+      {
+        "n": "2,5+9",
+        "town": "Turin",
+        "date_org": "11 September 1919",
+        "date_appr": "Appealed",
+        "n_new": "9 Turin",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "West Turin",
+        "date_org": "11 September 1919",
+        "date_appr": "Appeal dismissed (No. 654)",
+        "n_new": "9 Turin",
+        "rmk": ""
+      },
+      {
+        "n": "6+8",
+        "town": "Osceola",
+        "date_org": "1 September 1919",
+        "date_appr": "6 68,448 1½ 8 52,155 1½",
+        "n_new": "6 Osceola",
+        "rmk": ""
+      },
+      {
+        "n": "5,8+15",
+        "town": "Leyden",
+        "date_org": "1 July 1919",
+        "date_appr": "5 29,890 1½ 8 22,240 1½ 15 See above",
+        "n_new": "15 Leyden",
+        "rmk": ""
+      },
+      {
+        "n": "2+11",
+        "town": "Lawville",
+        "date_org": "27 July 1920",
+        "date_appr": "2- See above 11-88743 1½ 19-20",
+        "n_new": "2 Lowville",
+        "rmk": ""
+      },
+      {
+        "n": "4+5",
+        "town": "Greig",
+        "date_org": "29 December 1920",
+        "date_appr": "4 51620 9m 19-20 2½ 20-21 2½ (probably for consol. dist.) 5 23,650 1½",
+        "n_new": "4 Greig",
+        "rmk": ""
+      },
+      {
+        "n": "3+5",
+        "town": "Montague",
+        "date_org": "25 June 1924",
+        "date_appr": "3 15,675 1½ 5 73,150 1½",
+        "n_new": "3 Montague",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,3,4,5+6",
+        "town": "Lewis",
+        "date_org": "C.R.S. Cent. Rural Sch. laid out 30 Ja.1926 Meeting held 17 Jl.1926 Design of dist. 16 Sept. 1926",
+        "date_appr": "1-17,374 1½ 3-10,180 1½ 5-11,966 1½ 7-29,786 1½ 2-43,935 1½ 4-24,665 1½ 6-12,914 1½ 8-25,043 1½ 5-16,050 1½ 7-215,777 1½",
+        "n_new": "1 Lewis Leyden, West Turin, High Market, Lewis, d Ava, Oneida Co. 9-38,140 1½ 10-56,901 2½",
+        "rmk": ""
+      },
+      {
+        "n": "5+7",
+        "town": "West Turin",
+        "date_org": "2 August 1926",
+        "date_appr": "8 69,48 26,194 5 13,09 49,35 4 117,43 442,71",
+        "n_new": "7 West Turin",
+        "rmk": ""
+      },
+      {
+        "n": "Part of 4 Watson Greig + 8 Watson",
+        "town": "Watson",
+        "date_org": "11 October 1927",
+        "date_appr": "new extra",
+        "n_new": "8 Watson",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "4 Greig",
+        "rmk": ""
+      },
+      {
+        "n": "1+3",
+        "town": "Greig",
+        "date_org": "1 August 1928",
+        "date_appr": "4 20900 cont 2 2000",
+        "n_new": "1 Greig",
+        "rmk": ""
+      },
+      {
+        "n": "2+4",
+        "town": "High Market",
+        "date_org": "1 August 1928",
+        "date_appr": "1 Greig 98395 all not no pound 2 248330 3 136187 4 59450 5 61705 8 551140",
+        "n_new": "2 High Market",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Martinsburg, Greig",
+        "date_org": "Laid out 5 July 1929 Meeting held 22 July 1929 Design of dist. 31 July 1929",
+        "date_appr": "No. 8 towns of Martinsburg, Greig and Turin from dept in upper",
+        "n_new": "No. 8 towns of Martinsburg, Greig and Turin from dept in upper",
+        "rmk": ""
+      },
+      {
+        "n": "1,3,4",
+        "town": "Greig",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7,8",
+        "town": "Turin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3,6+7",
+        "town": "West Turin",
+        "date_org": "Laid out 18 July 1930 Meeting held 14 July 1930 Design of dist. 24 July 1930 in folder",
+        "date_appr": "2 High Market, West Leyden, West Turin",
+        "n_new": "",
+        "rmk": null
+      },
+      {
+        "n": "1,2,3,6",
+        "town": "High Market",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "High Market + West Turin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Leyden + West Turin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "W. Turin + Leyden",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "W. Turin + High Market",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2+5",
+        "town": "High Market",
+        "date_org": "26 September 1930 to take effect Jan. 1931",
+        "date_appr": "",
+        "n_new": "2 High Market",
+        "rmk": ""
+      },
+      {
+        "n": "7+8",
+        "town": "Martinsburg",
+        "date_org": "10 June 1931 to take effect 9th Sept 1931",
+        "date_appr": "",
+        "n_new": "8 Martinsburg",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Leyden, West Turin, Lyonsdale",
+        "date_org": "Laid out 31 May 1935 Meeting held 19 June 1935 Design of dist. 30 July 1935",
+        "date_appr": "",
+        "n_new": "5 Leyden, West Turin, Lyonsdale",
+        "rmk": ""
+      },
+      {
+        "n": "1,4,10+14",
+        "town": "Rutland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Leyden + West Turin",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Leyden + Lyonsdale",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "C.R.S.",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Denmark, Harrisburg",
+        "date_org": "Laid out 2 Oct. 1935 Meeting held 16 Oct. 1935 Designation of dist. 25 Oct. 1935",
+        "date_appr": "",
+        "n_new": "1 Denmark, Harrisburg",
+        "rmk": ""
+      },
+      {
+        "n": "7+15",
+        "town": "Champion, Denmark",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Champion, Rutland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "14",
+        "town": "Champion, Rutland, Denmark",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "50",
+        "town": "Denmark",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Harrisburg",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "13+7",
+        "town": "Harrisburg, Denmark",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Harrisburg, Denmark",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "30",
+        "town": "Pinckney",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Pinckney, Harrisburg",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Pinckney, Harrisburg, Rutland",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "C.R.S.",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Pinckney, Champion, Rutland, Jefferson",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "over",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

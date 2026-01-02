@@ -1,0 +1,321 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 91,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_91.jpg",
+    "processed_at": "2026-01-01T22:48:34.877035",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Madison",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "2+5",
+        "town": "Georgetown",
+        "date_org": "23 January 1914",
+        "date_appr": "2-17413 1K 5-13850 Cont to take effect 25 Apr 1914",
+        "n_new": "2 Georgetown",
+        "rmk": ""
+      },
+      {
+        "n": "4,5+9",
+        "town": "Lebanon",
+        "date_org": "8 April 1914",
+        "date_appr": "4-99,845 1K 5-89,380 1K to take effect 8 May 1914",
+        "n_new": "4 Lebanon",
+        "rmk": ""
+      },
+      {
+        "n": "5+6",
+        "town": "Nelson",
+        "date_org": "12 October 1914",
+        "date_appr": "5-29632 1K 6-179,493 Cont to take effect 15 Oct 1914",
+        "n_new": "5 Nelson",
+        "rmk": ""
+      },
+      {
+        "n": "1+3",
+        "town": "Smithfield",
+        "date_org": "25 August 1914",
+        "date_appr": "1-175,519 Acad. 3-62,900 Cont",
+        "n_new": "1 Smithfield",
+        "rmk": ""
+      },
+      {
+        "n": "1+6",
+        "town": "Lebanon",
+        "date_org": "4 September 1915",
+        "date_appr": "1-36,469 Cont 6-71,605 2 hrs 12-34,820 1K",
+        "n_new": "16 Lebanon",
+        "rmk": ""
+      },
+      {
+        "n": "12+13",
+        "town": "Lebanon",
+        "date_org": "4 October 1915",
+        "date_appr": "12-12,770 Cont",
+        "n_new": "1 Lebanon",
+        "rmk": ""
+      },
+      {
+        "n": "2+13",
+        "town": "Eaton",
+        "date_org": "3 May 1915",
+        "date_appr": "2-204,262 Acad 13-27,093 Cont",
+        "n_new": "2 Eaton",
+        "rmk": ""
+      },
+      {
+        "n": "1+5",
+        "town": "Georgetown",
+        "date_org": "14 August 1916",
+        "date_appr": "1-121,266 Acad 5-12,500 Cont",
+        "n_new": "1 Georgetown",
+        "rmk": ""
+      },
+      {
+        "n": "9+26",
+        "town": "Brookfield",
+        "date_org": "18 September 1918",
+        "date_appr": "9-142,432 Acad 26-12,400 Cont Appeal stands",
+        "n_new": "9 Brookfield",
+        "rmk": ""
+      },
+      {
+        "n": "5+12",
+        "town": "Stockbridge",
+        "date_org": "5 June 1919",
+        "date_appr": "Order set aside 26 Aug 1920",
+        "n_new": "5 Stockbridge",
+        "rmk": ""
+      },
+      {
+        "n": "10+17",
+        "town": "Eaton",
+        "date_org": "8 September 1919",
+        "date_appr": "10-24,760 Cont Order revoked 4-6 Lenox",
+        "n_new": "10 Eaton",
+        "rmk": ""
+      },
+      {
+        "n": "6+9",
+        "town": "Lenox",
+        "date_org": "10 August 1920",
+        "date_appr": "Reestablished as it was prior to consol. 17 March 1921",
+        "n_new": "9 Lenox",
+        "rmk": ""
+      },
+      {
+        "n": "5,13+25",
+        "town": "Brookfield",
+        "date_org": "29 July 1921",
+        "date_appr": "13-154,268 Acad 25-49,069 Cont",
+        "n_new": "5 Brookfield",
+        "rmk": ""
+      },
+      {
+        "n": "Part of 6 Columbus",
+        "town": "Brookfield",
+        "date_org": "6 September 1921",
+        "date_appr": "Paid all 21 Brookfield 76,96",
+        "n_new": "New 21a 297.24",
+        "rmk": ""
+      },
+      {
+        "n": "3,6,8+9",
+        "town": "Georgetown",
+        "date_org": "1 April 1922",
+        "date_appr": "3-12,283 Acad 9-19,850 Cont to take effect 1 July 1922",
+        "n_new": "1 Georgetown",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Smithfield",
+        "date_org": "8 May 1923",
+        "date_appr": "4-40,002 1K",
+        "n_new": "4 Smithfield",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,8+10",
+        "town": "Stockbridge",
+        "date_org": "31 July 1923",
+        "date_appr": "1-252,232 Acad 2-70,986 1K 10-39,729 Cont",
+        "n_new": "Stockbridge",
+        "rmk": ""
+      },
+      {
+        "n": "1+6",
+        "town": "Stockbridge",
+        "date_org": "18 September 1923",
+        "date_appr": "6-32,950 Cont",
+        "n_new": "1 Stockbridge",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "DeRuyter",
+        "date_org": "31 July 1925",
+        "date_appr": "6 D-110,500 2 hrs",
+        "n_new": "6 DeRuyter",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Georgetown",
+        "date_org": "31 July 1925",
+        "date_appr": "3 G-26,670 Cont",
+        "n_new": "3 Georgetown",
+        "rmk": ""
+      },
+      {
+        "n": "6,9,14",
+        "town": "Madison C.R.S.",
+        "date_org": "19 June 1926",
+        "date_appr": "C.R.S. laid out 21 Feb 1926 66,876 Cont Meeting held 9 July 1926",
+        "n_new": "Madison",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Eaton",
+        "date_org": "19 June 1926",
+        "date_appr": "Designation of dist. 10 Aug 1926 Includes also com. sch. dist. 16 Eaton",
+        "n_new": "Eaton",
+        "rmk": ""
+      },
+      {
+        "n": "1,5,7",
+        "town": "Hamilton",
+        "date_org": "19 June 1926",
+        "date_appr": "1-331,316 Acad 4-22,250 1K 10-15,069 Cont",
+        "n_new": "Hamilton",
+        "rmk": ""
+      },
+      {
+        "n": "1,4+10",
+        "town": "DeRuyter",
+        "date_org": "4 September 1926",
+        "date_appr": "1 DeRuyter",
+        "n_new": "1 DeRuyter",
+        "rmk": ""
+      },
+      {
+        "n": "1+8",
+        "town": "DeRuyter",
+        "date_org": "12 August 1927",
+        "date_appr": "8-21,428 Cont 6-26,543 Cont 11-163,352 Acad",
+        "n_new": "1 DeRuyter",
+        "rmk": ""
+      },
+      {
+        "n": "6+11",
+        "town": "Nelson",
+        "date_org": "16 August 1927",
+        "date_appr": "1-374,959 Acad 2-68,690 Cont 6-31,720 Cont 8-57,044 Cont",
+        "n_new": "11 Nelson",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,8+12",
+        "town": "Stockbridge",
+        "date_org": "29 November 1927",
+        "date_appr": "2-112,980 Cont",
+        "n_new": "1 Stockbridge",
+        "rmk": ""
+      },
+      {
+        "n": "6,10+14",
+        "town": "Stockbridge + Smithfield",
+        "date_org": "8 December 1927",
+        "date_appr": "6- above 5-47775- cont",
+        "n_new": "Smithfield",
+        "rmk": ""
+      },
+      {
+        "n": "1+2",
+        "town": "DeRuyter",
+        "date_org": "14 May 1928",
+        "date_appr": "to take effect 31 Jul 1928",
+        "n_new": "1 DeRuyter",
+        "rmk": ""
+      },
+      {
+        "n": "5+6",
+        "town": "Lebanon",
+        "date_org": "14 May 1928",
+        "date_appr": "9-16,258- acad 16-33,497- cont 17-50,334- 1K 23-30,450- cont 24-24,584- cont 29-39,958- cont",
+        "n_new": "6 Lebanon",
+        "rmk": ""
+      },
+      {
+        "n": "9,16,17,22,24+27",
+        "town": "Brookfield",
+        "date_org": "10 December 1928",
+        "date_appr": "C.R.S. laid out 20 Nov 1928 Meeting held 10 Dec 1928 Design of dist. 10 Jan 1929",
+        "n_new": "9 Brookfield",
+        "rmk": ""
+      },
+      {
+        "n": "14",
+        "town": "Cazenovia",
+        "date_org": "30 March 1929",
+        "date_appr": "to take effect 20 Apr 1929",
+        "n_new": "14 Cazenovia",
+        "rmk": ""
+      },
+      {
+        "n": "15",
+        "town": "Cazenovia + Nelson",
+        "date_org": "30 March 1929",
+        "date_appr": "Order rescinded Sept. 5, 1929",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2+3",
+        "town": "Lebanon",
+        "date_org": "17 April 1929",
+        "date_appr": "11 above",
+        "n_new": "2 Lebanon",
+        "rmk": ""
+      },
+      {
+        "n": "9+11",
+        "town": "Nelson",
+        "date_org": "27 May 1929",
+        "date_appr": "9-7,874",
+        "n_new": "11 Nelson",
+        "rmk": ""
+      },
+      {
+        "n": "*Part of 2 Georgetown (former 2) signed with 1 Georgetown",
+        "town": "",
+        "date_org": "15 Aug 1929",
+        "date_appr": "ten. papers in cont. to be filed",
+        "n_new": "1 Georgetown",
+        "rmk": ""
+      },
+      {
+        "n": "*Part of 2 Georgetown (former 2) signed with 11 Nelson",
+        "town": "",
+        "date_org": "15 Aug 1929",
+        "date_appr": "ten. papers in cont. to be filed",
+        "n_new": "11 Nelson",
+        "rmk": ""
+      }
+    ]
+  }
+}

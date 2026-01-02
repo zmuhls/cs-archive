@@ -1,0 +1,22 @@
+{
+  "recommendation": {
+    "page_number": 75,
+    "reason": "Highest quality score (82.0) with 2 rows extracted",
+    "table_type": "town_school_units",
+    "county": "County",
+    "complexity": "ocr_error",
+    "paths": {
+      "json": "json/District-Consolidation-Data_100-116_page_75.json",
+      "csv": "csv/District-Consolidation-Data_100-116_page_75.csv"
+    }
+  },
+  "use_as_template": {
+    "description": "Use this example to guide continued processing of remaining pages",
+    "next_steps": [
+      "Review the JSON structure for accuracy",
+      "Validate the CSV export meets your needs",
+      "If satisfied, extend script to process all 117 pages",
+      "Consider integrating PixtralTableExtractor into main pipeline"
+    ]
+  }
+}

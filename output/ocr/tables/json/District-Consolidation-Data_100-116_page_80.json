@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 80,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_80.jpg",
+    "processed_at": "2026-01-01T22:42:54.145362",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Jefferson",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "CRS\nU.F.S. Dist\nC.S. Dist",
+        "town": "5 Alexandria\n2,3,7,9,11,12,13,16,17,18,19,21\nAlexandria",
+        "date_org": "Said out meeting",
+        "date_appr": "April 30, 1945\nJune 1, 1945",
+        "n_new": "",
+        "rmk": "CRS\n2 Alexandria"
+      },
+      {
+        "n": "✓ 6\n1",
+        "town": "Polman, Hornein & with\nHornein & Ellsberg",
+        "date_org": "May 18, 1950\nwith U.T.S",
+        "date_appr": "State effective Aug 8, 1950\nAdams (effete) April 2 1953",
+        "n_new": "2",
+        "rmk": "7 Polman & Hornein\n3 Adams etc"
+      }
+    ]
+  }
+}

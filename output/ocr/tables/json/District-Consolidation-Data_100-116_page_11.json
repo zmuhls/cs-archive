@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 11,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_11.jpg",
+    "processed_at": "2026-01-01T22:11:58.035451",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Cayuga",
+    "table_type": "union_free_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1",
+        "town": "Moravia",
+        "date_org": "19 December 1868",
+        "date_appr": "",
+        "n_new": "6",
+        "rmk": "No copy of original papers/record but account of meeting copied from Historical Sketches"
+      },
+      {
+        "n": "6",
+        "town": "Genoa",
+        "date_org": "9 September 1912",
+        "date_appr": "13 September 1912",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Genoa",
+        "date_org": "31 Ag. 1915",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Ledyard",
+        "date_org": "9 May 1919",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Locke",
+        "date_org": "17 September 1918",
+        "date_appr": "3",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "16",
+        "town": "Sterling",
+        "date_org": "See papers in folder",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

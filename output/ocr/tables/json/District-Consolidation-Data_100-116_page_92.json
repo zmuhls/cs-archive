@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 92,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_92.jpg",
+    "processed_at": "2026-01-01T22:49:17.742743",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Madison",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1",
+        "town": "Caynor, Fenner",
+        "date_org": "5 July 1929",
+        "date_appr": "31 July 1929",
+        "n_new": "1",
+        "rmk": "C.R.S. laid out 5 July 1929, Meeting held 24 July 1929, Designation of dist. 31 July 1929"
+      },
+      {
+        "n": "",
+        "town": "Caynor, Fenner, Nelson",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Smyrna, Shellburne, Lebanon, Hamilton",
+        "date_org": "24 June 1929",
+        "date_appr": "30 Sept 1929",
+        "n_new": "2",
+        "rmk": "C.R.S. laid out 5 June 1929, Meeting held 25 June 1929, Designation of dist. 30 Sept 1929"
+      },
+      {
+        "n": "",
+        "town": "Hamilton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Hamilton, Brookfield",
+        "date_org": "30 April 1937",
+        "date_appr": "1 Sept 1937",
+        "n_new": "14",
+        "rmk": "Brookfield reestablished April 30, 1937"
+      },
+      {
+        "n": "",
+        "town": "Stockbridge",
+        "date_org": "15 June 1930",
+        "date_appr": "15 Sept 1930",
+        "n_new": "1",
+        "rmk": "to take effect 15 Sept. 1930"
+      },
+      {
+        "n": "",
+        "town": "Stockbridge",
+        "date_org": "11 Sept 1930",
+        "date_appr": "10 Dec 1930",
+        "n_new": "1",
+        "rmk": "to take effect 10 Dec. 1930"
+      },
+      {
+        "n": "",
+        "town": "Brookfield",
+        "date_org": "15 Oct 1930",
+        "date_appr": "15 Jan 1931",
+        "n_new": "9",
+        "rmk": "to take effect 15 Jan. 1931"
+      },
+      {
+        "n": "",
+        "town": "Hamilton",
+        "date_org": "9 Aug 1930",
+        "date_appr": "9 Nov 1930",
+        "n_new": "10",
+        "rmk": "to take effect 9 Nov. 1930"
+      },
+      {
+        "n": "",
+        "town": "Brookfield",
+        "date_org": "4 Dec 1930",
+        "date_appr": "1 April 1931",
+        "n_new": "1",
+        "rmk": "to take effect 1 April 1931"
+      },
+      {
+        "n": "",
+        "town": "De Ruyter",
+        "date_org": "31 Dec 1930",
+        "date_appr": "1 April 1931",
+        "n_new": "1",
+        "rmk": "to take effect 1 April 1931"
+      },
+      {
+        "n": "",
+        "town": "Madison, Eaton",
+        "date_org": "4 Dec 1930",
+        "date_appr": "23 Jan 1931",
+        "n_new": "1",
+        "rmk": "C.R.S. laid out 4 Dec. 1930, Meeting held 20 Dec. 1930, Designation 23 Jan. 1931"
+      },
+      {
+        "n": "",
+        "town": "Hamilton",
+        "date_org": "18 May 1931",
+        "date_appr": "20 Aug 1931",
+        "n_new": "1",
+        "rmk": "to take effect 20 Aug 1931"
+      },
+      {
+        "n": "",
+        "town": "Nelson",
+        "date_org": "27 May 1931",
+        "date_appr": "31 Aug 1931",
+        "n_new": "1",
+        "rmk": "to take effect 31 Aug 1931"
+      },
+      {
+        "n": "",
+        "town": "Caynor",
+        "date_org": "20 June 1931",
+        "date_appr": "25 Sept 1931",
+        "n_new": "1",
+        "rmk": "to take effect 25 Sept. 1931"
+      },
+      {
+        "n": "",
+        "town": "Brookfield",
+        "date_org": "10 Oct 1931",
+        "date_appr": "10 Oct 1931",
+        "n_new": "12",
+        "rmk": "Laid out 10 Oct 1931, Meeting held 27 June 1931, Designation of dist. 15 Oct 1931"
+      },
+      {
+        "n": "",
+        "town": "Plainfield",
+        "date_org": "27 June 1931",
+        "date_appr": "15 Oct 1931",
+        "n_new": "1",
+        "rmk": "Designation of dist. 15 Oct 1931"
+      },
+      {
+        "n": "",
+        "town": "De Ruyter, Cuyler, Lincklaen",
+        "date_org": "26 May 1931",
+        "date_appr": "30 June 1931",
+        "n_new": "1",
+        "rmk": "Laid out 26 May, Meeting held 17 June 1931, Designation 30 June 1931"
+      },
+      {
+        "n": "",
+        "town": "Lincklaen, Cuyler",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "De Ruyter, Georgetown",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Georgetown, Otsego",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Smyrna",
+        "date_org": "15 May 1931",
+        "date_appr": "1 Sept 1931",
+        "n_new": "2",
+        "rmk": "to take effect 1 Sept. 1931"
+      },
+      {
+        "n": "",
+        "town": "Hamilton",
+        "date_org": "1 Sept 1931",
+        "date_appr": "1 Dec 1931",
+        "n_new": "2",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Lebanon",
+        "date_org": "1 Sept 1931",
+        "date_appr": "1 Dec 1931",
+        "n_new": "2",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Brookfield",
+        "date_org": "25 Sept 1931",
+        "date_appr": "25 Sept 1931",
+        "n_new": "12",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Plainfield",
+        "date_org": "16 July 1931",
+        "date_appr": "15 Oct 1931",
+        "n_new": "1",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Brookfield",
+        "date_org": "16 May 1933",
+        "date_appr": "15 Aug 1933",
+        "n_new": "1",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Fenner, Caynor",
+        "date_org": "14 July 1933",
+        "date_appr": "15 Oct 1933",
+        "n_new": "1",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Nelson, Georgetown",
+        "date_org": "14 July 1933",
+        "date_appr": "15 Oct 1933",
+        "n_new": "1",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Caynor",
+        "date_org": "4 June 1934",
+        "date_appr": "4 Sept 1934",
+        "n_new": "1",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Stockbridge",
+        "date_org": "26 July 1934",
+        "date_appr": "1 Nov 1934",
+        "n_new": "6",
+        "rmk": "Order rescinded Sept. 11, 1934"
+      },
+      {
+        "n": "",
+        "town": "Lebanon",
+        "date_org": "15 Sept 1934",
+        "date_appr": "15 Dec 1934",
+        "n_new": "1",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Hamilton",
+        "date_org": "2 Nov 1934",
+        "date_appr": "1 Feb 1935",
+        "n_new": "1",
+        "rmk": ""
+      }
+    ]
+  }
+}

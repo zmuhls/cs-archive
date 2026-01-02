@@ -1,0 +1,625 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 93,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_93.jpg",
+    "processed_at": "2026-01-01T22:50:13.363019",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Madison",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "CRS",
+        "town": "",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,3,8",
+        "town": "Eaton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4,6,14",
+        "town": "Eaton & Nelson",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5,7,12",
+        "town": "Eaton & Lebanon",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Eaton & Lebanon",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,5,6",
+        "town": "Nelson",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Nelson, Eaton, Jenner & Smithfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Smithfield, Eaton & Stockbridge",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "* consolidated (see over)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "21",
+        "town": "Brookfield",
+        "date_org": "15 July 1935 to take effect 15 Oct. 1935",
+        "date_appr": "",
+        "n_new": "CRS",
+        "rmk": "9 Brookfield"
+      },
+      {
+        "n": "9",
+        "town": "Brookfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "20",
+        "town": "Pompey",
+        "date_org": "19 Sept 1935",
+        "date_appr": "31 Dec. 1935",
+        "n_new": "CRS",
+        "rmk": "1 Cazenovia"
+      },
+      {
+        "n": "1",
+        "town": "Cazenovia",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Jenner",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Cazenovia",
+        "date_org": "10 May 1937",
+        "date_appr": "14 Aug. 1937",
+        "n_new": "CRS",
+        "rmk": "1 Cazenovia"
+      },
+      {
+        "n": "3",
+        "town": "Feldman",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Hamilton",
+        "date_org": "5 May 1937",
+        "date_appr": "10 Aug 1937",
+        "n_new": "CRS",
+        "rmk": "1 Hamilton"
+      },
+      {
+        "n": "2",
+        "town": "Lebanon",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Hamilton",
+        "date_org": "13 May 1937",
+        "date_appr": "1 Aug 1937",
+        "n_new": "CRS",
+        "rmk": "2 Hamilton"
+      },
+      {
+        "n": "3",
+        "town": "Hamilton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Hamilton",
+        "date_org": "28 Aug 1937",
+        "date_appr": "28 Nov. 1937",
+        "n_new": "CRS",
+        "rmk": "2 Hamilton"
+      },
+      {
+        "n": "14",
+        "town": "Brookfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Brookfield",
+        "date_org": "1 July 1937",
+        "date_appr": "1 Oct. 1937",
+        "n_new": "CRS",
+        "rmk": "9 Brookfield"
+      },
+      {
+        "n": "",
+        "town": "Sherburne (2d change)",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "14",
+        "town": "Hamilton",
+        "date_org": "27 April 1937",
+        "date_appr": "27 July 1937",
+        "n_new": "CRS",
+        "rmk": "1 Sherburne (Sen. Co.)"
+      },
+      {
+        "n": "19",
+        "town": "Brookfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Brookfield",
+        "date_org": "12 May 1938",
+        "date_appr": "1 Sept 1938",
+        "n_new": "CRS",
+        "rmk": "9 Brookfield"
+      },
+      {
+        "n": "1",
+        "town": "Eaton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Smithfield",
+        "date_org": "11 June 1938",
+        "date_appr": "10 Sept 1938",
+        "n_new": "CRS",
+        "rmk": "1 Eaton"
+      },
+      {
+        "n": "5",
+        "town": "Smithfield",
+        "date_org": "21 June 1938",
+        "date_appr": "20 Sept 1938",
+        "n_new": "CRS",
+        "rmk": "1 Eaton"
+      },
+      {
+        "n": "",
+        "town": "Part of 5 Brookfield & C.R.S. 9 Brookfield",
+        "date_org": "1 Aug 1938 to take effect 5 Nov. 1938",
+        "date_appr": "",
+        "n_new": "CRS",
+        "rmk": "9 Brookfield"
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS 1 Sangerfield"
+      },
+      {
+        "n": "9",
+        "town": "Brookfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Brookfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Brookfield",
+        "date_org": "9 May 1939 to take effect 9 Aug 1939",
+        "date_appr": "",
+        "n_new": "CRS",
+        "rmk": "9 Brookfield"
+      },
+      {
+        "n": "10",
+        "town": "Brookfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Jenner",
+        "date_org": "3 June 1940 to take effect 2 Sept 1940",
+        "date_appr": "",
+        "n_new": "CRS",
+        "rmk": "9 Brookfield"
+      },
+      {
+        "n": "1",
+        "town": "Cazenovia",
+        "date_org": "24 June 1940",
+        "date_appr": "30 Sept 1940",
+        "n_new": "CRS",
+        "rmk": "1 Cazenovia"
+      },
+      {
+        "n": "7",
+        "town": "Cazenovia",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Cazenovia",
+        "date_org": "27 Aug. 1940",
+        "date_appr": "30 Nov. 1940",
+        "n_new": "CRS",
+        "rmk": "1 Cazenovia"
+      },
+      {
+        "n": "10",
+        "town": "Hamilton & Brookfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Hamilton",
+        "date_org": "27 Aug. 1940",
+        "date_appr": "30 Nov. 1940",
+        "n_new": "CRS",
+        "rmk": "1 Hamilton"
+      },
+      {
+        "n": "5",
+        "town": "Cazenovia & Pompey",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Cazenovia",
+        "date_org": "12 June 1941",
+        "date_appr": "13 Sept 1941",
+        "n_new": "CRS",
+        "rmk": "1 Cazenovia"
+      },
+      {
+        "n": "6",
+        "town": "Cazenovia & Nelson",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Cazenovia",
+        "date_org": "12 June 1941",
+        "date_appr": "13 Sept 1941",
+        "n_new": "CRS",
+        "rmk": "1 Cazenovia"
+      },
+      {
+        "n": "4",
+        "town": "Jenner",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Cazenovia",
+        "date_org": "12 June 1941",
+        "date_appr": "13 Sept 1941",
+        "n_new": "CRS",
+        "rmk": "1 Cazenovia"
+      },
+      {
+        "n": "5",
+        "town": "Jenner",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Cazenovia",
+        "date_org": "15 May 1941",
+        "date_appr": "30 Aug. 1941",
+        "n_new": "CRS",
+        "rmk": "1 Cazenovia"
+      },
+      {
+        "n": "1",
+        "town": "Stockbridge",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Madison",
+        "date_org": "11 Jan. 1941",
+        "date_appr": "10 July 1941",
+        "n_new": "CRS",
+        "rmk": "1 Madison"
+      },
+      {
+        "n": "1",
+        "town": "Nelson & Georgetown",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Georgetown",
+        "date_org": "23 August 1941",
+        "date_appr": "1 Dec. 1941",
+        "n_new": "CRS",
+        "rmk": "1 Georgetown"
+      },
+      {
+        "n": "1",
+        "town": "Cazenovia & Sullivan",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Cazenovia",
+        "date_org": "30 August 1941",
+        "date_appr": "15 Dec. 1941",
+        "n_new": "CRS",
+        "rmk": "1 Cazenovia"
+      },
+      {
+        "n": "1",
+        "town": "Fontham, Onondaga Co.",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Cazenovia",
+        "date_org": "1 April 1943",
+        "date_appr": "5 July 1943",
+        "n_new": "CRS",
+        "rmk": "1 Cazenovia"
+      },
+      {
+        "n": "1",
+        "town": "Stockbridge",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Stockbridge",
+        "date_org": "6 May 1943",
+        "date_appr": "9 Aug. 1943",
+        "n_new": "CRS",
+        "rmk": "1 Stockbridge"
+      },
+      {
+        "n": "1",
+        "town": "Cazenovia",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Fabius, Onondaga",
+        "date_org": "31 March 1944",
+        "date_appr": "1 July 1944",
+        "n_new": "CRS",
+        "rmk": "1 Cazenovia"
+      },
+      {
+        "n": "1",
+        "town": "De Ruyter",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "15",
+        "town": "Stockbridge",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Eaton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Stockbridge",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Smithfield",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Eaton",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Smithfield & Stockbridge",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Stockbridge",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "effective 16 Oct. 1944",
+        "date_appr": "",
+        "n_new": "CRS",
+        "rmk": "1 De Ruyter"
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "effective October 1, 1945",
+        "date_appr": "",
+        "n_new": "CRS",
+        "rmk": "1 Stockbridge"
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "CRS",
+        "rmk": "1 Stockbridge"
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "CRS",
+        "rmk": "1 Eaton"
+      },
+      {
+        "n": "",
+        "town": "",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "CRS",
+        "rmk": "1 Stockbridge"
+      }
+    ]
+  }
+}

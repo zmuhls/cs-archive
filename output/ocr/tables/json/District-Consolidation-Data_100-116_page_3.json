@@ -1,0 +1,393 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 3,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_3.jpg",
+    "processed_at": "2026-01-01T22:06:59.356281",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Broome",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "598",
+        "town": "Fenton",
+        "date_org": "6 July 1915",
+        "date_appr": "5- 14,300 Cond 6- 22,370 1k",
+        "n_new": "5 Fenton",
+        "rmk": ""
+      },
+      {
+        "n": "20+27",
+        "town": "Colesville",
+        "date_org": "1 September 1914",
+        "date_appr": "Consol. appealed 4 dist. reestablished 31 Ag. 1915",
+        "n_new": "20 Colesville",
+        "rmk": ""
+      },
+      {
+        "n": "18+19",
+        "town": "Sanford",
+        "date_org": "10 October 1914",
+        "date_appr": ".18- 20,984 1k 19- 14,879 1k",
+        "n_new": "19 Sanford",
+        "rmk": ""
+      },
+      {
+        "n": "17+19",
+        "town": "Sanford",
+        "date_org": "19 September 1915",
+        "date_appr": "17- 12,210 1k to take effect 28 Sept",
+        "n_new": "17 Sanford",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Dickinson & Kirkwood",
+        "date_org": "30 October 1915",
+        "date_appr": "5- 7,250 Cond 8- 38,278 1k",
+        "n_new": "8 Kirkwood",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Kirkwood",
+        "date_org": "",
+        "date_appr": "1D. 399,510 2k",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Dickinson & Fenton",
+        "date_org": "2 February 1917",
+        "date_appr": "17- 182,177 1k",
+        "n_new": "1 Dickinson & Fenton",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Fenton",
+        "date_org": "",
+        "date_appr": "New papers rec'd 1- 170,083 consol. 14- 2 Ag. 3, 1918 2- 100,562 1k",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,2+8",
+        "town": "Conklin",
+        "date_org": "17 August 1917",
+        "date_appr": "3- 28,691 1k",
+        "n_new": "1 Conklin",
+        "rmk": ""
+      },
+      {
+        "n": "3+31",
+        "town": "Colesville",
+        "date_org": "1 September 1919",
+        "date_appr": "31- 9,850 Cond",
+        "n_new": "3 Colesville",
+        "rmk": ""
+      },
+      {
+        "n": "19",
+        "town": "Maine",
+        "date_org": "28 August 1919",
+        "date_appr": "1- 101,929 2k 7- 31,795 Cond",
+        "n_new": "1 Maine",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 8 Newark Valley & 7 Newark Valley, Tioga Co.",
+        "date_org": "",
+        "date_appr": "Par-ald 7 New V, 12.3.19 6.19 11 1 Maine 181.43 4k 107.30",
+        "n_new": "Newark Valley",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 15 Richford & 7 Lisle, Broome Co.",
+        "date_org": "",
+        "date_appr": "to take effect 20 Ag. 50.26 12.3.19 12.3.19 19.10",
+        "n_new": "Maine",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 15 Richford & 11 Richford, Tioga Co.",
+        "date_org": "",
+        "date_appr": "Par-ald 7 Lisle 50.27 12.3.19 19.10",
+        "n_new": "7 Lisle",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 15 Richford & 8 Berkshire",
+        "date_org": "",
+        "date_appr": "11 1 Berkshire 67.47 19.10",
+        "n_new": "11 Richford, Tioga Co.",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Lisle & Richford",
+        "date_org": "13 July 1920",
+        "date_appr": "to take effect 1 Ag. 1920",
+        "n_new": "8 Berkshire",
+        "rmk": ""
+      },
+      {
+        "n": "9",
+        "town": "Lisle",
+        "date_org": "29 April 1921",
+        "date_appr": "6- 18,025 Cond 9- 74,381 1k",
+        "n_new": "9 Lisle",
+        "rmk": ""
+      },
+      {
+        "n": "1+3",
+        "town": "Union (1 in a Vill)",
+        "date_org": "3 August 1923",
+        "date_appr": "1- 205,250 5d. 1k 4 Cond. Reg. Extra 7- 61.46 17.27 1- 47.32 17.35 1- 58.22 14.38",
+        "n_new": "1 Union",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 12 Richford & 7 Lisle",
+        "date_org": "",
+        "date_appr": "to take effect 1 Ag. 1924",
+        "n_new": "7 Lisle",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 12 Richford & 11 Richford",
+        "date_org": "",
+        "date_appr": "May 1924",
+        "n_new": "11 Richford",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Windsor",
+        "date_org": "",
+        "date_appr": "C.R. laid out 11 J. 1931. Meeting held 30 J. 1931. Designation of dist. on 7 J. 1931",
+        "n_new": "Windsor",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Colesville + Windsor",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Colesville",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Windsor + Colesville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Colesville, Fenton, Broome",
+        "date_org": "",
+        "date_appr": "C.R.S. laid out 27 May 1932. Meeting held 14 June 1932. Designation of district 21 June 1932",
+        "n_new": "Colesville, Fenton",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Sanford + Windsor",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Sanford + Windsor",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "County, Afton + Colesville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "(Broome Co.) and",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Afton + Colesville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Oswego, Afton, Coventry",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "County + Colesville",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Triangle, Barker, Lisle",
+        "date_org": "",
+        "date_appr": "C.R.S. laid out 19 November, 1934. Meeting held 14 December 1934. Designation of district 27 December, 1934",
+        "n_new": "C.R.S.",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Lisle",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "1 Triangle, Lisle,",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Barker & Nanticoke",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Barker, Chenango,",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Barker",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Nanticoke & Maine,",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Chenango, Barker, Maine",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Broome Co., Marathon",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Chenango & Barker",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Willet, Cortland Co.",
+        "rmk": ""
+      },
+      {
+        "n": "4+5",
+        "town": "Lisle",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Greene & Smithville",
+        "rmk": ""
+      },
+      {
+        "n": "1,3+4",
+        "town": "Nanticoke",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "Chenango Co.",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Nanticoke, Barker, Maine",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Nanticoke & Maine",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Nanticoke & Barker",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Nanticoke & Lisle",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,5,7,11",
+        "town": "Triangle",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Triangle, Marathon, Willett",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Triangle & Greene",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Triangle & Lisle",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Triangle & Willett",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Triangle, Willett, Smithville, Greene",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

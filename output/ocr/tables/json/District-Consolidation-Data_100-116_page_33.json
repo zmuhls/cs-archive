@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 33,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_33.jpg",
+    "processed_at": "2026-01-01T22:24:31.190386",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Clinton",
+    "table_type": "unknown",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1",
+        "town": "Chazy",
+        "date_org": "8 June 1938",
+        "date_appr": "8 Sept 1938",
+        "n_new": "1",
+        "rmk": "Chazy, C.R.S. 1 Champlain"
+      },
+      {
+        "n": "",
+        "town": "U.F.S. dist 1 Champlain",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "C.S. dists 2,3,4,6,7,8,9 Champlain",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Saranac",
+        "date_org": "13 June 1942",
+        "date_appr": "15 Sept 1942",
+        "n_new": "1",
+        "rmk": "Saranac, C.R.S."
+      },
+      {
+        "n": "13",
+        "town": "Saranac, Chesterfield & Willsboro",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Queable",
+        "date_org": "18 July 1942",
+        "date_appr": "20 Oct 1942",
+        "n_new": "1",
+        "rmk": "Queable, C.R.S."
+      },
+      {
+        "n": "10",
+        "town": "Beekmantown",
+        "date_org": "30 March 1943",
+        "date_appr": "3 July 1943",
+        "n_new": "1",
+        "rmk": "Saranac"
+      },
+      {
+        "n": "",
+        "town": "Saranac",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Plattsburg, Saranac & Danville",
+        "date_org": "30 March 1943",
+        "date_appr": "2 July 1943",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Saranac",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Plattsburg",
+        "date_org": "",
+        "date_appr": "3 July 1943",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Saranac",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Plattsburg, Saranac & Schuyler Falls",
+        "date_org": "",
+        "date_appr": "1 July 1943",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "13",
+        "town": "Plattsburg & Schuyler Falls",
+        "date_org": "",
+        "date_appr": "2 July 1943",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "19",
+        "town": "Saranac",
+        "date_org": "",
+        "date_appr": "1 July 1943",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Saranac",
+        "date_org": "",
+        "date_appr": "1 July 1943",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "19",
+        "town": "Saranac & Schuyler Falls",
+        "date_org": "",
+        "date_appr": "1 July 1943",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Saranac",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "17",
+        "town": "Saranac and Black Brook",
+        "date_org": "",
+        "date_appr": "1 Sept 1944",
+        "n_new": "1",
+        "rmk": "Saranac, C.R.S."
+      }
+    ]
+  }
+}

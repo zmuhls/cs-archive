@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 75,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_75.jpg",
+    "processed_at": "2026-01-01T22:40:10.239163",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "County",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "3",
+        "town": "Litchfield",
+        "date_org": "",
+        "date_appr": "Effective October 1, 1945",
+        "n_new": "",
+        "rmk": "CRS"
+      },
+      {
+        "n": "2",
+        "town": "Paris - outside Co",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "2 Paris - outside Co"
+      },
+      {
+        "n": "7",
+        "town": "German Flatts and Frankfort",
+        "date_org": "May 3, 1946",
+        "date_appr": "Effective August 1, 1946",
+        "n_new": "8.75",
+        "rmk": "1 German Flatts"
+      }
+    ]
+  }
+}

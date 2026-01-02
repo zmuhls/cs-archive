@@ -1,0 +1,345 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 56,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_56.jpg",
+    "processed_at": "2026-01-01T22:32:03.518820",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Essex",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "11",
+        "town": "Minerva, Essex Co",
+        "date_org": "21 August 1915",
+        "date_appr": "to take effect 28 Ag.",
+        "n_new": "5 Indian Lake",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "Indian Lake, Ham.C.",
+        "date_org": "",
+        "date_appr": "1- 119,797 Acad. 15-16",
+        "n_new": "1 Schroon",
+        "rmk": ""
+      },
+      {
+        "n": "14 2",
+        "town": "Schroon",
+        "date_org": "29 April 1916",
+        "date_appr": "2- 52,217 11C",
+        "n_new": "1 Schroon",
+        "rmk": ""
+      },
+      {
+        "n": "24 8",
+        "town": "Westport",
+        "date_org": "20 October 1917",
+        "date_appr": "New papers 20 Ja.19",
+        "n_new": "2 Westport",
+        "rmk": ""
+      },
+      {
+        "n": "14 10",
+        "town": "Lewis",
+        "date_org": "20 November 1917",
+        "date_appr": "1- 20,306 11C",
+        "n_new": "1 Lewis",
+        "rmk": ""
+      },
+      {
+        "n": "15 6",
+        "town": "Lewis",
+        "date_org": "8 September 1917",
+        "date_appr": "New papers 23 Dec.1919",
+        "n_new": "5 Lewis",
+        "rmk": ""
+      },
+      {
+        "n": "24 4",
+        "town": "Lewis",
+        "date_org": "24 December 1917",
+        "date_appr": "1- Acad 2,092,903",
+        "n_new": "2 Lewis",
+        "rmk": ""
+      },
+      {
+        "n": "14 10",
+        "town": "Moriah",
+        "date_org": "30 December 1918",
+        "date_appr": "10- 4475 11C",
+        "n_new": "1 Moriah",
+        "rmk": ""
+      },
+      {
+        "n": "13 14",
+        "town": "Crown Point",
+        "date_org": "16 September 1918",
+        "date_appr": "13- 40,019 11C",
+        "n_new": "13 Crown Point",
+        "rmk": ""
+      },
+      {
+        "n": "8",
+        "town": "Ticonderoga",
+        "date_org": "",
+        "date_appr": "14- 20,995 11C",
+        "n_new": "With CR.S.3 Crown Pt.",
+        "rmk": ""
+      },
+      {
+        "n": "16",
+        "town": "Crown Point",
+        "date_org": "16 September 1918",
+        "date_appr": "8- 10,585 11C",
+        "n_new": "16 Crown Point",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,3 4",
+        "town": "Crown Point",
+        "date_org": "26 April 1919",
+        "date_appr": "16- 4445 11C",
+        "n_new": "3 Crown Point",
+        "rmk": ""
+      },
+      {
+        "n": "16 10",
+        "town": "Lewis",
+        "date_org": "20 January 1919",
+        "date_appr": "1- Acad 532,076",
+        "n_new": "4 Lewis",
+        "rmk": ""
+      },
+      {
+        "n": "14 4",
+        "town": "Elizabethtown",
+        "date_org": "15 January 1919",
+        "date_appr": "4- Contad 29,873",
+        "n_new": "1 Elizabethtown",
+        "rmk": ""
+      },
+      {
+        "n": "54 8",
+        "town": "Lewis",
+        "date_org": "30 December 1918",
+        "date_appr": "5- see above",
+        "n_new": "5 Lewis",
+        "rmk": ""
+      },
+      {
+        "n": "4 10",
+        "town": "Chesterfield",
+        "date_org": "27 August 1919",
+        "date_appr": "Consol. revoked 27 Oct. 1919",
+        "n_new": "10 Chesterfield",
+        "rmk": ""
+      },
+      {
+        "n": "24 9",
+        "town": "Lewis",
+        "date_org": "8 December 1919",
+        "date_appr": "2- 40,637 11C",
+        "n_new": "2 Lewis",
+        "rmk": ""
+      },
+      {
+        "n": "6 12",
+        "town": "Moriah",
+        "date_org": "11 September 1919",
+        "date_appr": "9- 40,725 11C",
+        "n_new": "12 Moriah",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Part of 8 Essex and 5 Essex",
+        "date_org": "2 November 1921",
+        "date_appr": "6- 10,245 11C",
+        "n_new": "5 Essex",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "\" \" \" 6 \"",
+        "date_org": "",
+        "date_appr": "12- 12,470 Contad",
+        "n_new": "6 \"",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "\" \" \" 9 \"",
+        "date_org": "",
+        "date_appr": "Reg. 5- 1.68 4.20 6.20",
+        "n_new": "9 \"",
+        "rmk": ""
+      },
+      {
+        "n": "1 9",
+        "town": "Minerva",
+        "date_org": "30 July 1922",
+        "date_appr": "6- 58.90 14.77 219.47",
+        "n_new": "1 Minerva",
+        "rmk": ""
+      },
+      {
+        "n": "1 10",
+        "town": "Minerva",
+        "date_org": "25 July 1923",
+        "date_appr": "9- 2114.42 285.73 424.73",
+        "n_new": "1 Minerva",
+        "rmk": ""
+      },
+      {
+        "n": "2 5",
+        "town": "Minerva",
+        "date_org": "1 August 1924",
+        "date_appr": "1- 166,729 21-22",
+        "n_new": "2 Minerva",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Essex",
+        "date_org": "",
+        "date_appr": "9- 27,264 11C",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Willsboro",
+        "date_org": "8 September 1925",
+        "date_appr": "10- 8890 11C",
+        "n_new": "10 Willsboro",
+        "rmk": ""
+      },
+      {
+        "n": "1,3,4 8",
+        "town": "Schroon Cent. Rural Sch.",
+        "date_org": "3 May 1926",
+        "date_appr": "2- 48,780 21C",
+        "n_new": "1 Schroon",
+        "rmk": ""
+      },
+      {
+        "n": "1,3,4 4",
+        "town": "Newcomb Cent. Rural Sch.",
+        "date_org": "23 June 1926",
+        "date_appr": "5- 57,210 11C",
+        "n_new": "2 Newcomb",
+        "rmk": ""
+      },
+      {
+        "n": "6 10",
+        "town": "Willsboro",
+        "date_org": "12 August 1927",
+        "date_appr": "3 Query 23 198 11C",
+        "n_new": "10 Willsboro",
+        "rmk": ""
+      },
+      {
+        "n": "1 2",
+        "town": "Keene",
+        "date_org": "15 June 1928",
+        "date_appr": "10 W. 42,746 11C",
+        "n_new": "1 Keene",
+        "rmk": ""
+      },
+      {
+        "n": "1 6",
+        "town": "Keene",
+        "date_org": "16 August 1928",
+        "date_appr": "6- 17,633 cont.",
+        "n_new": "1 Keene",
+        "rmk": ""
+      },
+      {
+        "n": "1 5",
+        "town": "Schroon",
+        "date_org": "17 September 1928",
+        "date_appr": "1- 655,740 Acad",
+        "n_new": "1 Schroon",
+        "rmk": ""
+      },
+      {
+        "n": "10 1",
+        "town": "Schroon",
+        "date_org": "1 August 1929",
+        "date_appr": "2- 28,315 11C",
+        "n_new": "1 Schroon",
+        "rmk": ""
+      },
+      {
+        "n": "1,3,4,5,7,8,9",
+        "town": "Keene C.R.S.",
+        "date_org": "15 April 1930",
+        "date_appr": "1- see above",
+        "n_new": "1 Keene, Jay",
+        "rmk": ""
+      },
+      {
+        "n": "2,3,4,6",
+        "town": "No. Elba",
+        "date_org": "2 July 1930",
+        "date_appr": "6- 43,005 11C",
+        "n_new": "2 No. Elba",
+        "rmk": ""
+      },
+      {
+        "n": "1 9",
+        "town": "Schroon",
+        "date_org": "15 May 1930",
+        "date_appr": "5- 158,708 21C",
+        "n_new": "1 Schroon",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,3,5,6,8,9,11,12",
+        "town": "Jay",
+        "date_org": "",
+        "date_appr": "1- 14, 46980",
+        "n_new": "1 Jay, Keene, Chesterfield, Wilmington, Essex co Black Brook, Clinton co Frankfort",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Jay, Keene, Wilmington",
+        "date_org": "18 July 1930",
+        "date_appr": "Designation of district",
+        "n_new": "Chesterfield, Wilmington, Essex co Black Brook, Clinton co Frankfort",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Black Brook",
+        "date_org": "24 July 1930",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Black Brook + Frankfort",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

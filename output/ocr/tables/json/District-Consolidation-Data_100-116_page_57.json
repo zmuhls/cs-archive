@@ -1,0 +1,305 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 57,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_57.jpg",
+    "processed_at": "2026-01-01T22:32:30.127729",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "County",
+    "table_type": "unknown",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1,3,4,9+10",
+        "town": "Ticonderoga",
+        "date_org": "19 June 1930",
+        "date_appr": "24 July 1930",
+        "n_new": "",
+        "rmk": "1 Ticonderoga, Essex and Hague, Warren Co."
+      },
+      {
+        "n": "7",
+        "town": "Ticonderoga + Hague",
+        "date_org": "2 July 1930",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2+1",
+        "town": "Elizabethtown",
+        "date_org": "15 Sept. 1930",
+        "date_appr": "15 Dec. 1930",
+        "n_new": "1",
+        "rmk": "Elizabethtown"
+      },
+      {
+        "n": "1,4+13",
+        "town": "Minerva",
+        "date_org": "19 Nov. 1930",
+        "date_appr": "13 Jan. 1931",
+        "n_new": "",
+        "rmk": "1 Minerva (Essex)"
+      },
+      {
+        "n": "7",
+        "town": "Chester",
+        "date_org": "2 Dec. 1930",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "Chester (Warren Co)"
+      },
+      {
+        "n": "1,2,3,4,5,6,7,8",
+        "town": "North Hudson",
+        "date_org": "22 April 1931",
+        "date_appr": "22 April 1931",
+        "n_new": "",
+        "rmk": "1 Schroon"
+      },
+      {
+        "n": "X",
+        "town": "Schroon",
+        "date_org": "22 April 1931",
+        "date_appr": "22 April 1931",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Westport",
+        "date_org": "18 May 1931",
+        "date_appr": "1 July 1931",
+        "n_new": "",
+        "rmk": "1 Westport, Essex"
+      },
+      {
+        "n": "4,5,8,9,10,11",
+        "town": "Westport + Essex",
+        "date_org": "18 May 1931",
+        "date_appr": "1 July 1931",
+        "n_new": "",
+        "rmk": "Moiah, Elizabethtown, Lewis"
+      },
+      {
+        "n": "1",
+        "town": "Westport + Essex",
+        "date_org": "18 May 1931",
+        "date_appr": "1 July 1931",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Westport + Moiah",
+        "date_org": "18 May 1931",
+        "date_appr": "1 July 1931",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "?",
+        "town": "Elizabethtown + Westport",
+        "date_org": "18 May 1931",
+        "date_appr": "1 July 1931",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "7",
+        "town": "Essex, Lewis + Westport",
+        "date_org": "18 May 1931",
+        "date_appr": "1 July 1931",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5+11",
+        "town": "Lewis",
+        "date_org": "28 Sept. 1931",
+        "date_appr": "28 December 1931",
+        "n_new": "5",
+        "rmk": "Lewis"
+      },
+      {
+        "n": "3",
+        "town": "Crown Point + 5,6,15,16",
+        "date_org": "30 Mar. 1935",
+        "date_appr": "30 June 1935",
+        "n_new": "3",
+        "rmk": "Crown Point"
+      },
+      {
+        "n": "",
+        "town": "Crown Point",
+        "date_org": "30 Mar. 1935",
+        "date_appr": "30 June 1935",
+        "n_new": "",
+        "rmk": "vacating order reversed (Oct 10, 1935)"
+      },
+      {
+        "n": "3",
+        "town": "Crown Point",
+        "date_org": "25 March 1936",
+        "date_appr": "30 June 1936",
+        "n_new": "3",
+        "rmk": "Crown Point"
+      },
+      {
+        "n": "7,8,9,10,11,12,13,17",
+        "town": "Crown Point",
+        "date_org": "25 March 1936",
+        "date_appr": "30 June 1936",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "4+11",
+        "town": "Moiah",
+        "date_org": "5 April 1938",
+        "date_appr": "5 July 1938",
+        "n_new": "2",
+        "rmk": "Moiah"
+      },
+      {
+        "n": "2",
+        "town": "Moiah",
+        "date_org": "5 April 1938",
+        "date_appr": "5 July 1938",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5+1",
+        "town": "Elizabethtown",
+        "date_org": "15 June 1938",
+        "date_appr": "15 Sept. 1938",
+        "n_new": "1",
+        "rmk": "Elizabethtown"
+      },
+      {
+        "n": "",
+        "town": "Elizabethtown, Westport, Lewis",
+        "date_org": "13 Sept 1938",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "1 Elizabethtown, Westport, Lewis"
+      },
+      {
+        "n": "3,5,7",
+        "town": "Elizabethtown",
+        "date_org": "13 Sept 1938",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "16",
+        "town": "Elizabethtown, Lewis, Westport",
+        "date_org": "13 Sept 1938",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2,8,4,9,1",
+        "town": "Lewis + Elizabethtown",
+        "date_org": "28 Sept 1938",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "1 Chesterfield"
+      },
+      {
+        "n": "5",
+        "town": "Lewis + Chesterfield",
+        "date_org": "30 Sept 1938",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "12",
+        "town": "Moiah",
+        "date_org": "3 February 1939",
+        "date_appr": "6 May 1939",
+        "n_new": "2",
+        "rmk": "Moiah"
+      },
+      {
+        "n": "2",
+        "town": "Moiah",
+        "date_org": "3 February 1939",
+        "date_appr": "6 May 1939",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1,2,4,5,7,8,9",
+        "town": "Willsboro",
+        "date_org": "2 October 1941",
+        "date_appr": "12 December 1941",
+        "n_new": "",
+        "rmk": "1 Willsboro, Essex or Lewis"
+      },
+      {
+        "n": "3",
+        "town": "Willsboro + Essex",
+        "date_org": "2 October 1941",
+        "date_appr": "12 December 1941",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Willsboro + Lewis",
+        "date_org": "2 October 1941",
+        "date_appr": "12 December 1941",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "13",
+        "town": "Chesterfield + Willsboro",
+        "date_org": "18 July 1942",
+        "date_appr": "20 Oct. 1942",
+        "n_new": "",
+        "rmk": "1 Ausable, Clinton Co"
+      },
+      {
+        "n": "1",
+        "town": "Ausable (Clinton Co)",
+        "date_org": "18 July 1942",
+        "date_appr": "20 Oct. 1942",
+        "n_new": "",
+        "rmk": "C.D. 1"
+      },
+      {
+        "n": "2",
+        "town": "Minerva",
+        "date_org": "21 March 1944",
+        "date_appr": "1 July 1944",
+        "n_new": "1",
+        "rmk": "Minerva"
+      },
+      {
+        "n": "1",
+        "town": "Minerva",
+        "date_org": "21 March 1944",
+        "date_appr": "1 July 1944",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

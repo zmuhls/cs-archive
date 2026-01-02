@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 53,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_53.jpg",
+    "processed_at": "2026-01-01T22:31:17.865101",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "County",
+    "table_type": "consolidated_districts",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "C.S. 10",
+        "town": "Aurora cons with",
+        "date_org": "1 Aurora (Village of East Aurora)",
+        "date_appr": "Aug 12, 1952",
+        "n_new": "1",
+        "rmk": "1 Aurora"
+      },
+      {
+        "n": "11",
+        "town": "\"",
+        "date_org": "\"",
+        "date_appr": "\"",
+        "n_new": "\"",
+        "rmk": "\""
+      },
+      {
+        "n": "2",
+        "town": "Aurora",
+        "date_org": "1 Aurora",
+        "date_appr": "Aug 5, 1953 (effective date)",
+        "n_new": "1",
+        "rmk": "1 \""
+      },
+      {
+        "n": "4",
+        "town": "Aurora",
+        "date_org": "1 Aurora",
+        "date_appr": "Aug 5, 1953",
+        "n_new": "1",
+        "rmk": "1 \""
+      },
+      {
+        "n": "5",
+        "town": "Aurora",
+        "date_org": "1 Aurora",
+        "date_appr": "Aug 7, 1954",
+        "n_new": "1",
+        "rmk": "1 Aurora"
+      },
+      {
+        "n": "7",
+        "town": "Aurora",
+        "date_org": "1 Aurora",
+        "date_appr": "Aug 26, 1954",
+        "n_new": "1",
+        "rmk": "1 Aurora"
+      }
+    ]
+  }
+}

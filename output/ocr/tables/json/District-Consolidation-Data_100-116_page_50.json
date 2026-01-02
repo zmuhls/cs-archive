@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 50,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_50.jpg",
+    "processed_at": "2026-01-01T22:30:25.595374",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Erie",
+    "table_type": "union_free_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "8",
+        "town": "Hamburg",
+        "date_org": "12 March 1903",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Newstead",
+        "date_org": "18 December 1883",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "West Seneca",
+        "date_org": "24 September 1912",
+        "date_appr": "23 September 1913",
+        "n_new": "7",
+        "rmk": ""
+      },
+      {
+        "n": "13",
+        "town": "Hamburg",
+        "date_org": "27 August 1920",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Collins",
+        "date_org": "1 August 1923",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Evans",
+        "date_org": "12 July 1923",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "West Seneca",
+        "date_org": "25 March 1925",
+        "date_appr": "",
+        "n_new": "7",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Hamburg",
+        "date_org": "14 Nov. 1897",
+        "date_appr": "",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "11",
+        "town": "Cheektowaga",
+        "date_org": "31 May 1932",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "6",
+        "town": "Evans",
+        "date_org": "see paper in folder",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "3",
+        "town": "Evans & Eden",
+        "date_org": "24 May 1937",
+        "date_appr": "9 July 1937",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "10",
+        "town": "Cheektowaga",
+        "date_org": "30 Aug 1940",
+        "date_appr": "24 October 1940",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Clarence & Amherst",
+        "date_org": "19 June 1942",
+        "date_appr": "18 September 1942",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "4",
+        "town": "Chautauqua",
+        "date_org": "28 November 1945",
+        "date_appr": "11 January 1946",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "West Seneca",
+        "date_org": "29 November 1945",
+        "date_appr": "29 November 1945",
+        "n_new": "5",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "Cheektowaga",
+        "date_org": "29 March 1949",
+        "date_appr": "25 April 1949",
+        "n_new": "5",
+        "rmk": ""
+      }
+    ]
+  }
+}

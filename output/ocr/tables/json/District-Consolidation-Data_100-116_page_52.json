@@ -1,0 +1,217 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 52,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_52.jpg",
+    "processed_at": "2026-01-01T22:31:09.127995",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Erie",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "14",
+        "town": "Sardinia",
+        "date_org": "Effective February 20, 1946",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "CRS 1 Holland"
+      },
+      {
+        "n": "1",
+        "town": "Holland",
+        "date_org": "order set aside Apr 9, 1946",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "5",
+        "town": "West Seneca",
+        "date_org": "changed to Union Free School District",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "per Union Free page 92"
+      },
+      {
+        "n": "1",
+        "town": "Lancaster",
+        "date_org": "Effective November 29, 1945",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "Lancaster"
+      },
+      {
+        "n": "2",
+        "town": "Lancaster",
+        "date_org": "Effective April 15, 1946",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Amherst + Cheektowaga",
+        "date_org": "Laid out April 20, 1948",
+        "date_appr": "",
+        "n_new": "3",
+        "rmk": "CRS 3 Amherst"
+      },
+      {
+        "n": "",
+        "town": "Amherst + Cheektowaga",
+        "date_org": "Meeting held May 26, 1948",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Amherst + Clarence",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Town of Grand Island",
+        "date_org": "Laid out 25 May 1948. Meeting held June 29, 1948",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "CRS 1 Grand Island"
+      },
+      {
+        "n": "19",
+        "town": "Aurora",
+        "date_org": "Effective Sept 28, 1948",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "Aurora + Elma"
+      },
+      {
+        "n": "",
+        "town": "Clarence",
+        "date_org": "Laid out June 10, 1946",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "CRS 1 Clarence"
+      },
+      {
+        "n": "",
+        "town": "Clarence",
+        "date_org": "Meeting held June 27, 1946",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "West Seneca",
+        "date_org": "Laid out April 26, 1946",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "CRS 1 West Seneca"
+      },
+      {
+        "n": "",
+        "town": "West Seneca",
+        "date_org": "Meeting held May 28, 1946",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Newstead",
+        "date_org": "Laid out May 19, 1949",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "CRS 1 Newstead"
+      },
+      {
+        "n": "",
+        "town": "Newstead",
+        "date_org": "Meeting held June 25, 1949",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Allen",
+        "date_org": "Laid out Nov 12, 1947",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "CRS 1 Allen"
+      },
+      {
+        "n": "",
+        "town": "Allen",
+        "date_org": "Meeting held June 28, 1949",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "North Collins",
+        "date_org": "Laid out May 27, 1949",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "CRS 1 North Collins"
+      },
+      {
+        "n": "",
+        "town": "North Collins",
+        "date_org": "Meeting held June 23, 1949",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Amherst",
+        "date_org": "Laid out June 7, 1950",
+        "date_appr": "",
+        "n_new": "4",
+        "rmk": "CRS 4 Amherst and Tonawanda"
+      },
+      {
+        "n": "",
+        "town": "Amherst + Tonawanda",
+        "date_org": "Meeting held June 30, 1950",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Evans",
+        "date_org": "Laid out Mar 22, 1950",
+        "date_appr": "",
+        "n_new": "1",
+        "rmk": "CRS 1 Evans and Grant"
+      },
+      {
+        "n": "",
+        "town": "Evans",
+        "date_org": "Meeting held Apr 29, 1950",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

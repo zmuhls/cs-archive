@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 45,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_45.jpg",
+    "processed_at": "2026-01-01T22:29:08.926131",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Delaware",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "11",
+        "town": "Franklin",
+        "date_org": "Effective October 15, 1945",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS 16 Franklin"
+      },
+      {
+        "n": "16",
+        "town": "Franklin",
+        "date_org": "Effective October 31, 1945",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS 1 Delhi"
+      },
+      {
+        "n": "13",
+        "town": "Wrentham",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Delhi",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "Walton",
+        "date_org": "",
+        "date_appr": "Laid out Apr 19, 1949",
+        "n_new": "",
+        "rmk": "CRS 1 Walton"
+      },
+      {
+        "n": "",
+        "town": "Walton",
+        "date_org": "",
+        "date_appr": "Meeting held May 24, 1949",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "2,3,4,5,6,7,8,9,10,11",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "12,13,14,15,17,18,19,20",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "1,5,10,13",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "7,9,10,14,21",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "17",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

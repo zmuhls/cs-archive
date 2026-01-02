@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 86,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_86.jpg",
+    "processed_at": "2026-01-01T22:45:34.028858",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Livingston",
+    "table_type": "town_school_units",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "1",
+        "town": "Livonia",
+        "date_org": "U.F.S. 9 and 3,5,7,8,10 & 11",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "\"",
+        "date_org": "\" 4 \"",
+        "date_appr": "1,6 & 13",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "1",
+        "town": "Nunda",
+        "date_org": "U.F.S. 1 \"",
+        "date_appr": "2,4,8,9,10 & 11",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "2",
+        "town": "\"",
+        "date_org": "\" 12 \"",
+        "date_appr": "3,5,6 & 7",
+        "n_new": "",
+        "rmk": ""
+      }
+    ]
+  }
+}

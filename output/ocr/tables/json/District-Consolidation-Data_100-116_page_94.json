@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "source_pdf": "District-Consolidation-Data_100-116.pdf",
+    "source_pdf_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+    "page_number": 94,
+    "page_image_path": "/Users/zacharymuhlbauer/Desktop/studio/projects/cs-archive/output/ocr/tables/images/District-Consolidation-Data_100-116_page_94.jpg",
+    "processed_at": "2026-01-01T22:50:24.216485",
+    "model": "qwen/qwen3-vl-32b-instruct",
+    "county": "Madison",
+    "table_type": "central_rural_schools",
+    "extraction_method": "full"
+  },
+  "table": {
+    "headers": [
+      "n",
+      "town",
+      "date_org",
+      "date_appr",
+      "n_new",
+      "rmk"
+    ],
+    "rows": [
+      {
+        "n": "5",
+        "town": "Augusta - mile 6",
+        "date_org": "Effective February 15, 1946",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS 1 Madison"
+      },
+      {
+        "n": "1",
+        "town": "Madison",
+        "date_org": "",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": ""
+      },
+      {
+        "n": "",
+        "town": "CRS 4.7.8 dist 9 Lenox (Village & Country) 1,2,3,4,5,6,7,8 Lenox 1,2,5 Lincoln 20 Sullivan 7 Smithfield 7 Frank",
+        "date_org": "Laid out June 1, 1949 Meeting held June 23, 1949",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS 1 Lenox"
+      },
+      {
+        "n": "",
+        "town": "CRS 4.7.8 dist 2 Sullivan 1,2,3,4,5,6,7,9,10,11,12, Sullivan 13,15,16,17,18,19 3 Cazenovia 14 Xenia (2nd reading)",
+        "date_org": "Laid out June 7, 1949 Meeting held June 30, 1949",
+        "date_appr": "",
+        "n_new": "",
+        "rmk": "CRS 1 Sullivan"
+      }
+    ]
+  }
+}

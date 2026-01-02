@@ -1,0 +1,82 @@
+{
+  "qwen_vs_pixtral": [
+    {
+      "page": 40,
+      "pixtral_quality_score": 79.5,
+      "comparison": {
+        "qwen_available": true,
+        "qwen_row_count": 6,
+        "pixtral_row_count": 5,
+        "row_count_difference": 1,
+        "qwen_has_hallucinations": false,
+        "pixtral_has_hallucinations": false,
+        "improvements": []
+      }
+    },
+    {
+      "page": 41,
+      "pixtral_quality_score": 77.0,
+      "comparison": {
+        "qwen_available": true,
+        "qwen_row_count": 5,
+        "pixtral_row_count": 4,
+        "row_count_difference": 1,
+        "qwen_has_hallucinations": false,
+        "pixtral_has_hallucinations": false,
+        "improvements": []
+      }
+    },
+    {
+      "page": 55,
+      "pixtral_quality_score": 80.12,
+      "comparison": {
+        "qwen_available": true,
+        "qwen_row_count": 5,
+        "pixtral_row_count": 4,
+        "row_count_difference": 1,
+        "qwen_has_hallucinations": false,
+        "pixtral_has_hallucinations": false,
+        "improvements": []
+      }
+    },
+    {
+      "page": 65,
+      "pixtral_quality_score": 77.83,
+      "comparison": {
+        "qwen_available": true,
+        "qwen_row_count": 7,
+        "pixtral_row_count": 6,
+        "row_count_difference": 1,
+        "qwen_has_hallucinations": false,
+        "pixtral_has_hallucinations": false,
+        "improvements": []
+      }
+    },
+    {
+      "page": 75,
+      "pixtral_quality_score": 82.0,
+      "comparison": {
+        "qwen_available": true,
+        "qwen_row_count": 3,
+        "pixtral_row_count": 2,
+        "row_count_difference": 1,
+        "qwen_has_hallucinations": false,
+        "pixtral_has_hallucinations": false,
+        "improvements": []
+      }
+    },
+    {
+      "page": 100,
+      "pixtral_quality_score": 81.85,
+      "comparison": {
+        "qwen_available": true,
+        "qwen_row_count": 22,
+        "pixtral_row_count": 9,
+        "row_count_difference": 13,
+        "qwen_has_hallucinations": false,
+        "pixtral_has_hallucinations": false,
+        "improvements": []
+      }
+    }
+  ]
+}
