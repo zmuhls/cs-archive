@@ -219,8 +219,8 @@ def format_fullsize_url(filename: str) -> str:
     return f"https://github.com/{GITHUB_REPO}/blob/{BRANCH}/raw/scans/img/{base_filename}"
 
 
-def format_item_markdown(item: dict, show_artifact_id: bool = False) -> str:
-    """Format a single item as markdown."""
+def format_item_markdown(item: dict, show_artifact_id: bool = False, indent: bool = False) -> str:
+    """Format a single item as markdown with thumbnail on separate line."""
     year = item.get('extracted_date')
     uncertain = item.get('date_uncertain', False)
     title = item.get('item_title', '').strip() or item.get('subject', '').strip() or 'Untitled'
@@ -230,34 +230,32 @@ def format_item_markdown(item: dict, show_artifact_id: bool = False) -> str:
 
     # Format date
     if year:
-        date_str = f"[{year}?]" if uncertain else f"[{year}]"
+        date_str = f"{year}?" if uncertain else f"{year}"
     else:
-        date_str = ""
+        date_str = "Undated"
 
     # Format image URLs - thumbnail for display, full-size for link
     thumb_url = format_thumbnail_url(filename)
     fullsize_url = format_fullsize_url(filename)
+    base_filename = Path(filename).stem if filename else 'Unknown'
 
-    # Build markdown line
-    parts = []
+    # Build markdown with thumbnail on separate indented line
+    lines = []
 
-    if date_str:
-        parts.append(date_str)
-
-    if thumb_url and fullsize_url:
-        # Use "Thumbnail: FILENAME" format for alt text
-        base_filename = Path(filename).stem if filename else 'Unknown'
-        parts.append(f"[![Thumbnail: {base_filename}]({thumb_url})]({fullsize_url})")
-    else:
-        parts.append(title)
-
+    # First line: link with date and location
+    link_text = f"{date_str}"
     if location:
-        parts.append(f"— {location}")
-
+        link_text += f" — {location}"
     if show_artifact_id and artifact_id:
-        parts.append(f"({artifact_id})")
+        link_text += f" ({artifact_id})"
 
-    return " ".join(parts)
+    lines.append(f"- [{link_text}]({fullsize_url})")
+
+    # Second line: thumbnail (indented)
+    if thumb_url and fullsize_url:
+        lines.append(f"  [![{base_filename}]({thumb_url})]({fullsize_url})")
+
+    return "\n".join(lines)
 
 
 def format_chronological_section(decade_items: Dict[str, List[dict]]) -> str:
@@ -265,21 +263,19 @@ def format_chronological_section(decade_items: Dict[str, List[dict]]) -> str:
     lines = [
         "## Chronology (By Decade)",
         "",
-        "> Generated programmatically. See \"Thematic Groupings\" for another view.",
-        ""
     ]
 
     for decade, items in decade_items.items():
         if decade == 'undated':
             lines.append("### Undated")
         else:
-            # decade is like "1840s" - keep as is
             lines.append(f"### {decade.capitalize()}")
 
-        for item in items:
-            lines.append(f"- {format_item_markdown(item)}")
+        lines.append("")
 
-        lines.append("")  # Blank line between decades
+        for item in items:
+            lines.append(format_item_markdown(item))
+            lines.append("")
 
     return "\n".join(lines)
 
@@ -289,12 +285,11 @@ def format_thematic_section(theme_items: Dict[str, List[dict]]) -> str:
     lines = [
         "## Thematic Groupings",
         "",
-        "> Generated programmatically. Items may appear in more than one theme when appropriate.",
-        ""
     ]
 
     for theme, items in theme_items.items():
         lines.append(f"### {theme}")
+        lines.append("")
 
         # Group by artifact_group_id within theme
         by_artifact = defaultdict(list)
@@ -303,16 +298,9 @@ def format_thematic_section(theme_items: Dict[str, List[dict]]) -> str:
             by_artifact[artifact_id].append(item)
 
         for artifact_id, artifact_items in sorted(by_artifact.items()):
-            if len(artifact_items) > 1:
-                # Multi-page artifact
-                lines.append(f"- ({artifact_id}) {artifact_items[0].get('subject', artifact_items[0].get('item_title', ''))}")
-                for item in artifact_items:
-                    lines.append(f"  - {format_item_markdown(item)}")
-            else:
-                # Single item
-                lines.append(f"- {format_item_markdown(artifact_items[0], show_artifact_id=True)}")
-
-        lines.append("")  # Blank line between themes
+            for item in artifact_items:
+                lines.append(format_item_markdown(item, show_artifact_id=True))
+                lines.append("")
 
     return "\n".join(lines)
 
@@ -323,18 +311,40 @@ def generate_markdown(items: List[dict]) -> str:
     by_decade = group_by_decade(items)
     by_theme = group_by_theme(items)
 
+    # Build Table of Contents
+    toc_lines = [
+        "## Table of Contents",
+        "",
+    ]
+
+    # Add decades to TOC
+    for decade in by_decade.keys():
+        if decade == 'undated':
+            toc_lines.append(f"- [Undated](#undated) ({len(by_decade[decade])} items)")
+        else:
+            toc_lines.append(f"- [{decade.capitalize()}](#{decade}) ({len(by_decade[decade])} items)")
+
+    toc_lines.append("")
+
+    # Add themes to TOC
+    toc_lines.append("**Thematic Groupings:**")
+    for theme in by_theme.keys():
+        anchor = theme.lower().replace(' ', '-').replace('&', '')
+        toc_lines.append(f"- [{theme}](#{anchor}) ({len(by_theme[theme])} items)")
+
+    toc = "\n".join(toc_lines)
+
     # Build markdown
     sections = [
         "<!-- This file is auto-generated by scripts/generate_nys_teachers_collection.py -->",
         "",
         "# New York State Teachers' Association — Curated Collection",
         "",
-        "This exhibition-styled collection gathers materials across the archive that explicitly reference the New York State Teachers' Association (NYSTA). Items are presented two ways:",
+        "This collection gathers materials across the archive that explicitly reference the New York State Teachers' Association (NYSTA), spanning 1845-1940s. Each entry links to the digitized artifact with a thumbnail preview.",
         "",
-        "- Chronological highlights by decade to trace continuity and change.",
-        "- Thematic groupings to surface recurring concerns and formats (proceedings, programs, membership, advocacy, and meta/publication history).",
+        "---",
         "",
-        "Each bullet links directly to the digitized artifact within this repository.",
+        toc,
         "",
         "---",
         "",
@@ -346,10 +356,10 @@ def generate_markdown(items: List[dict]) -> str:
         "",
         "## Notes",
         "",
-        "- Scope: Items include explicit \"New York State Teachers' Association,\" \"N.Y. State Teachers' Association,\" \"NYSTA,\" or clear NYS context; generic \"State Teachers' Association\" without NY reference are excluded.",
-        "- Sources: Derived from `csv/images_inventory_labeled.csv` and OCR text outputs in this repo.",
-        "- Dates: Extracted systematically from OCR text and metadata. Uncertain dates marked with `?`.",
-        "- Regenerate: Re-run `python scripts/generate_nys_teachers_collection.py` to refresh this page after new labeling or processing.",
+        "- **Scope**: Items include explicit \"New York State Teachers' Association,\" \"N.Y. State Teachers' Association,\" \"NYSTA,\" or clear NYS context.",
+        "- **Sources**: Derived from `csv/images_inventory_labeled.csv` and OCR text outputs.",
+        "- **Dates**: Extracted from OCR text and metadata. Uncertain dates marked with `?`.",
+        "- **Regenerate**: Run `python scripts/generate_nys_teachers_collection.py` to refresh.",
         ""
     ]
 
