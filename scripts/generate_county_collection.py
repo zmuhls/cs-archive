@@ -137,7 +137,7 @@ def generate_markdown(grouped: Dict[str, List[Dict]]) -> str:
     for county in sorted_counties:
         anchor = county.lower().replace(' ', '-')
         count = len(grouped[county])
-        lines.append(f"- [{county} County](#-{anchor}-county) ({count} pages)")
+        lines.append(f"- [{county} County](#{anchor}-county) ({count} pages)")
 
     lines.append("")
     lines.append("---")
