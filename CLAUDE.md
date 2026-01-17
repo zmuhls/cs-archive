@@ -108,20 +108,92 @@ OCR prompts preserve 19th century characteristics:
 
 ---
 
-## Current Work: OCR Pipeline Enhancement
+## OMEKA Classic Integration
+
+### Overview
+
+Collections are published to OMEKA Classic using the "Thanks, Roy" theme. Two curated collections are available:
+1. **NYS Teachers' Association (1845-1940s)** - Proceedings, membership materials, advocacy documents
+2. **District Consolidation Records** - County-by-county tables from NYS Archives Series A4456
+
+### Docker Deployment
+
+OMEKA runs in Docker with MySQL backend:
+
+```bash
+# Start OMEKA and MySQL
+cd /tmp && docker-compose -f docker-compose.yml up -d
+
+# Access OMEKA at http://localhost:8001
+# Admin login: admin / omeka123456
+
+# Stop services
+docker-compose down
+```
+
+Configuration files: `/tmp/docker-compose.yml`, `/tmp/Dockerfile`
+
+### OMEKA CSV Generation
+
+Transform collections into OMEKA-compatible CSV:
+```bash
+python scripts/generate_omeka_csv.py
+# Output: output/omeka/items_import.csv (249 items)
+```
+
+**CSV Schema:**
+- Maps consolidated artifacts to Dublin Core metadata
+- Distinguishes table items (Dataset type) from image items (Text type)
+- Generates GitHub CDN URLs for images and table thumbnails
+- Columns: collection, title, date, description, type, spatial, subject, source, identifier, file
+
+**Key Functions:**
+- `parse_district_consolidation()` - Extracts table metadata from markdown
+- `parse_nys_teachers()` - Extracts teacher association items
+- `find_artifact_for_image()` - Maps filenames to artifact metadata
+- `get_github_raw_url()` - Generates GitHub CDN URLs with path differentiation
+
+### Theme Customization
+
+The "Thanks, Roy" theme in `dev/omeka/` has been modified:
+
+**[dev/omeka/index.php](dev/omeka/index.php):**
+- Added featured collections grid to homepage
+- Grid displays both collection cards with descriptions and explore links
+
+**[dev/omeka/css/style.css](dev/omeka/css/style.css):**
+- Added responsive CSS Grid layout (`repeat(auto-fit, minmax(300px, 1fr))`)
+- Styled `.collection-card` with hover effects
+- Mobile-first design with flexbox for card content
+
+### Import Workflow
+
+1. Create collections in OMEKA admin (assigns IDs 1 and 2)
+2. Upload CSV via CSV Import plugin
+3. Plugin maps CSV columns to Dublin Core elements
+4. 249 items imported from consolidated artifacts + tables
+
+**Documentation:**
+- `output/omeka/OMEKA_SETUP_GUIDE.md` - Step-by-step configuration
+- `output/omeka/THEME_MODIFICATIONS.md` - Technical details
+- `output/omeka/README.md` - Overview of integration package
+
+---
+
+## Current Work: OMEKA Publishing & Human Review
 
 ### In Progress
 <!-- Move items here when actively working on them -->
 
 ### Backlog
 
-**Stage 2: Human-in-the-Loop**
+**Stage 4: Human-in-the-Loop Review**
 - Create `scripts/generate_review_queues.py` (hallucination detection, low-confidence flagging)
 - Create `csv/ocr_review_queue.csv` template
 - Create `scripts/apply_corrections.py` for correction ingestion
 - Document review workflow in CLAUDE.md
 
-**Stage 3: Multi-Model Ensemble**
+**Stage 5: Multi-Model Ensemble**
 - Abstract OCR class for multiple backends in `ocr.py`
 - Add `qwen/qwen-vl-max` as secondary model via OpenRouter
 - Add Mistral OCR as tertiary model via OpenRouter
@@ -138,3 +210,11 @@ OCR prompts preserve 19th century characteristics:
 - Updated `consolidate_artifacts.py` to handle different link types
 - Tested on sample session S0026 (19 items)
 - Generated `csv/artifact_review_queue.csv` with 14 items for review
+
+**Stage 3: OMEKA Integration** (2025-01-16)
+- Created `scripts/generate_omeka_csv.py` for CSV import preparation (249 items)
+- Generated Dublin Core metadata mapping (collection, title, date, description, type, spatial, subject, source, identifier, file)
+- Created collection introductions and about page content
+- Modified "Thanks, Roy" theme with featured collections grid and responsive CSS
+- Provided Docker setup (MySQL + PHP + Apache) and OMEKA installation guide
+- Package ready for manual OMEKA configuration and CSV import

@@ -1,6 +1,6 @@
 # Common School Archive of New York State
 
-A multimodal digital archive pipeline for preserving and analyzing 19th-century New York State educational records.
+Preserving and analyzing 19th-century New York State educational records.
 
 **Project Status:** Active Development
 **Last Updated:** January 2025
@@ -18,16 +18,6 @@ A multimodal digital archive pipeline for preserving and analyzing 19th-century 
 - [Usage Guide](#usage-guide)
 - [Data Model](#data-model)
 
----
-
-## Overview
-
-This repository contains the processing pipeline, raw assets, and derived outputs for the **Common School Archive**, a digital humanities initiative to preserve and analyze historical New York State educational records.
-
-The system employs a **multimodal AI pipeline** (Qwen VL Plus via OpenRouter) to transcribe, classify, and extract metadata from complex historical artifacts—handwritten ledgers, typed reports, mixed-media cards—preparing them for publication in an **Omeka Classic** digital exhibit.
-
----
-
 ## Browse the Archive
 
 ### District Consolidation Tables
@@ -39,6 +29,7 @@ Extracted tabular data from NYS Archives Series A4456: District Consolidation Re
 **Full index:** [Browse all 115 table extractions](output/ocr/tables/markdown/)
 
 **Bulk downloads:**
+
 - [CSV format](output/ocr/tables/csv/) — Structured data for analysis
 - [JSON format](output/ocr/tables/json/) — Machine-readable with metadata
 
@@ -49,6 +40,7 @@ A curated exhibition-styled collection of materials referencing the New York Sta
 **[View the full collection](output/collections/nys-teachers-association.md)** — Organized chronologically by decade and thematically by document type.
 
 Includes:
+
 - Annual meeting programs and proceedings
 - Membership materials and advocacy documents
 - Historical photographs and ephemera
@@ -115,12 +107,13 @@ raw/scans/img/  →  build_images_inventory.py  →  csv/images_inventory.csv
 
 ### Core Components
 
-| Component | Purpose |
-|-----------|---------|
-| `ocr.py` | Async API calls to Qwen VL Plus with retry logic, PDF-to-image conversion, document-type-specific prompts |
-| `process_archive.py` | Batch orchestrator with resume capability, maps item types to OCR prompts |
-| `extract_all_tables.py` | Structured table extraction from ledger pages to CSV/JSON/Markdown |
-| `consolidate_artifacts.py` | Groups outputs by artifact, merges pages, culls duplicates (>85% text similarity) |
+
+| Component                  | Purpose                                                                                                   |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| `ocr.py`                   | Async API calls to Qwen VL Plus with retry logic, PDF-to-image conversion, document-type-specific prompts |
+| `process_archive.py`       | Batch orchestrator with resume capability, maps item types to OCR prompts                                 |
+| `extract_all_tables.py`    | Structured table extraction from ledger pages to CSV/JSON/Markdown                                        |
+| `consolidate_artifacts.py` | Groups outputs by artifact, merges pages, culls duplicates (>85% text similarity)                         |
 
 ---
 
@@ -156,16 +149,17 @@ python scripts/generate_thumbnails.py           # Generate display thumbnails
 
 Target schema for Omeka ingestion:
 
-| Field | Description | Source |
-|-------|-------------|--------|
-| **Title** | Derived from content or filename | LLM / Inventory |
-| **Identifier** | UUID or Archival Call Number | `source_series` + `id` |
-| **Date** | ISO 8601 (YYYY-MM-DD) | Extracted from text |
-| **Description** | Summary of contents | LLM |
-| **Transcription** | Full text content | OCR (Qwen VL Plus) |
-| **Format** | Document type (Ledger, Letter, Report) | Classifier |
-| **Creator** | School district / Official name | Entity linking |
-| **Source** | Physical location/collection | Provenance metadata |
+
+| Field             | Description                            | Source                 |
+| ------------------- | ---------------------------------------- | ------------------------ |
+| **Title**         | Derived from content or filename       | LLM / Inventory        |
+| **Identifier**    | UUID or Archival Call Number           | `source_series` + `id` |
+| **Date**          | ISO 8601 (YYYY-MM-DD)                  | Extracted from text    |
+| **Description**   | Summary of contents                    | LLM                    |
+| **Transcription** | Full text content                      | OCR (Qwen VL Plus)     |
+| **Format**        | Document type (Ledger, Letter, Report) | Classifier             |
+| **Creator**       | School district / Official name        | Entity linking         |
+| **Source**        | Physical location/collection           | Provenance metadata    |
 
 ---
 
