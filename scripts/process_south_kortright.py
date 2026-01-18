@@ -147,14 +147,14 @@ async def process_south_kortright():
 
                 logger.debug(f"Page {page_num}: Saved temp image ({temp_path.stat().st_size / 1024:.1f} KB)")
 
-                # Process the image with HANDWRITTEN document type and enhancement
+                # Process the image with HANDWRITTEN document type (no preprocessing)
                 try:
-                    logger.info(f"Page {page_num}/{total_pages}: Sending to API (handwritten mode with enhancement)...")
+                    logger.info(f"Page {page_num}/{total_pages}: Sending to API (handwritten mode)...")
 
                     result = await ocr.process_image(
                         temp_path,
                         document_type="handwritten",
-                        enhance_handwritten=True  # Enable preprocessing for washed-out images
+                        enhance_handwritten=False  # Preprocessing degrades OCR quality
                     )
                     result["page_number"] = page_num
                     result["source_pdf"] = str(pdf_path)
