@@ -1,0 +1,278 @@
+---
+layout: default
+---
+
+<article class="artifact-page">
+  <header class="artifact-header">
+    <h1 class="artifact-title">{{ page.title }}</h1>
+    <div class="artifact-meta">
+      <span class="artifact-id">{{ page.artifact_id }}</span>
+      <span class="artifact-type">{{ page.item_type | replace: "_", " " | capitalize }}</span>
+      {% if page.decade %}<span class="artifact-decade">{{ page.decade }}</span>{% endif %}
+      {% if page.location and page.location != "" %}<span class="artifact-location">{{ page.location }}</span>{% endif %}
+    </div>
+  </header>
+
+  <div class="artifact-content">
+    <div class="artifact-main">
+      <!-- Source Images Gallery -->
+      {% if page.source_images.size > 0 %}
+      <section class="image-gallery">
+        <h2>Source Images</h2>
+        <div class="gallery-grid">
+          {% for image in page.source_images %}
+          <figure class="gallery-item">
+            <a href="{{ image.full }}" target="_blank" title="View full image">
+              <img src="{{ image.thumbnail }}" alt="{{ page.title }} - {{ image.id }}" loading="lazy">
+            </a>
+            <figcaption>{{ image.id }}</figcaption>
+          </figure>
+          {% endfor %}
+        </div>
+      </section>
+      {% endif %}
+
+      <!-- Transcription -->
+      <section class="transcription">
+        <h2>Transcription</h2>
+        <div class="transcription-content">
+          {{ content }}
+        </div>
+      </section>
+    </div>
+
+    <aside class="artifact-sidebar">
+      <!-- Metadata -->
+      <section class="metadata-panel">
+        <h3>Document Information</h3>
+        <dl class="metadata-list">
+          <dt>Artifact ID</dt>
+          <dd>{{ page.artifact_id }}</dd>
+
+          <dt>Document Type</dt>
+          <dd>{{ page.item_type | replace: "_", " " | capitalize }}</dd>
+
+          <dt>Collection</dt>
+          <dd>{{ page.collection | capitalize }}</dd>
+
+          {% if page.location and page.location != "" %}
+          <dt>Location</dt>
+          <dd>{{ page.location }}</dd>
+          {% endif %}
+
+          {% if page.decade %}
+          <dt>Decade</dt>
+          <dd>{{ page.decade }}</dd>
+          {% endif %}
+
+          {% if page.county %}
+          <dt>County</dt>
+          <dd>{{ page.county }}</dd>
+          {% endif %}
+
+          <dt>Word Count</dt>
+          <dd>{{ page.word_count | default: 0 }}</dd>
+
+          <dt>OCR Confidence</dt>
+          <dd>{{ page.confidence | times: 100 | round }}%</dd>
+
+          <dt>Source Images</dt>
+          <dd>{{ page.source_images.size }} image{% if page.source_images.size != 1 %}s{% endif %}</dd>
+
+          {% if page.is_research %}
+          <dt>Classification</dt>
+          <dd>Research Material</dd>
+          {% endif %}
+        </dl>
+
+        {% if page.notes and page.notes != "" %}
+        <h3>Notes</h3>
+        <p class="artifact-notes">{{ page.notes }}</p>
+        {% endif %}
+      </section>
+
+      <!-- Navigation -->
+      <nav class="artifact-nav">
+        <a href="{{ '/browse/' | relative_url }}" class="btn">Browse All</a>
+        <a href="{{ '/search/' | relative_url }}" class="btn">Search Archive</a>
+      </nav>
+    </aside>
+  </div>
+</article>
+
+<style>
+.artifact-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.artifact-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid #e1e1e1;
+}
+
+.artifact-title {
+  font-size: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.artifact-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.artifact-meta span {
+  background: #f0f0f0;
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.875rem;
+}
+
+.artifact-id {
+  font-family: monospace;
+  background: #e8e8e8 !important;
+}
+
+.artifact-content {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: 2rem;
+}
+
+@media (max-width: 900px) {
+  .artifact-content {
+    grid-template-columns: 1fr;
+  }
+  .artifact-sidebar {
+    order: -1;
+  }
+}
+
+.artifact-main section {
+  margin-bottom: 2rem;
+}
+
+.artifact-main h2 {
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #e1e1e1;
+}
+
+/* Image Gallery */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 1rem;
+}
+
+.gallery-item {
+  margin: 0;
+}
+
+.gallery-item img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.gallery-item img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.gallery-item figcaption {
+  font-size: 0.75rem;
+  color: #666;
+  text-align: center;
+  margin-top: 0.25rem;
+  font-family: monospace;
+}
+
+/* Transcription */
+.transcription-content {
+  background: #fafafa;
+  padding: 1.5rem;
+  border-radius: 4px;
+  border: 1px solid #e1e1e1;
+  font-family: Georgia, serif;
+  line-height: 1.7;
+  white-space: pre-wrap;
+  overflow-x: auto;
+}
+
+/* Sidebar */
+.artifact-sidebar {
+  position: sticky;
+  top: 1rem;
+  align-self: start;
+}
+
+.metadata-panel {
+  background: #f8f8f8;
+  padding: 1.25rem;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.metadata-panel h3 {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.metadata-list {
+  margin: 0;
+}
+
+.metadata-list dt {
+  font-weight: 600;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  color: #666;
+  margin-top: 0.75rem;
+}
+
+.metadata-list dt:first-child {
+  margin-top: 0;
+}
+
+.metadata-list dd {
+  margin: 0.25rem 0 0 0;
+  font-size: 0.9rem;
+}
+
+.artifact-notes {
+  font-size: 0.875rem;
+  color: #555;
+  line-height: 1.5;
+}
+
+.artifact-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.artifact-nav .btn {
+  display: block;
+  text-align: center;
+  padding: 0.75rem 1rem;
+  background: #333;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 0.875rem;
+}
+
+.artifact-nav .btn:hover {
+  background: #555;
+}
+</style>
