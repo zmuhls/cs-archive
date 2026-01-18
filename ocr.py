@@ -73,7 +73,8 @@ class QwenVLOCR:
                 "historical_document": self._get_historical_prompt(),
                 "handwritten": self._get_handwritten_prompt(),
                 "typed": self._get_typed_prompt(),
-                "mixed": self._get_mixed_prompt()
+                "mixed": self._get_mixed_prompt(),
+                "notecard": self._get_notecard_prompt()
             }
         }
     
@@ -137,6 +138,33 @@ Instructions:
 6. Indicate any stamps, seals, or official markings
 
 Transcribe all visible text:"""
+
+    def _get_notecard_prompt(self) -> str:
+        """Prompt for administrative notecard records (index cards with structured timelines)"""
+        return """Transcribe these administrative index cards from the NYS Common School system archives.
+
+DOCUMENT FORMAT:
+- Each page shows 1-2 index cards photographed against a dark background
+- Each card contains a SCHOOL/DISTRICT NAME at the top, followed by a chronological timeline of administrative events
+
+TRANSCRIPTION RULES:
+1. Separate multiple cards on the same page with a horizontal rule: ---
+2. For each card, start with the HEADER (school/district name and location)
+3. Then transcribe the TIMELINE entries in chronological order, one per line
+4. Preserve date formats exactly as shown (e.g., "4 F. 1923", "1 May 1923", "R 9 Jan 1880")
+5. For typed text: transcribe exactly, preserving abbreviations
+6. For handwritten text: transcribe carefully, mark uncertain words with [?]
+7. Indicate text type when switching: [typed:] or [handwritten:]
+8. Mark illegible sections as [illegible]
+9. Note any stamps or annotations as [stamp: ...]
+
+STRUCTURE EXAMPLE:
+Allen Dale and Columbia School of Rochester (Monroe Co.)
+[typed:] R 19 May 1834 (ch. 297) Alexander Classical School
+[typed:] 5 Feb. 1859 - admitted
+[handwritten:] 4/30-5/1/69 name changed to...
+
+Transcribe all visible text from the card(s):"""
 
     async def process_image(self, image_path: Path, document_type: str = "historical_document",
                            enhance_handwritten: bool = False) -> Dict:
