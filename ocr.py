@@ -265,27 +265,83 @@ Transcribe all visible text:"""
         confidence = max(0.0, 1.0 - (uncertainty_markers / total_words * 10))
         return round(confidence, 3)
     
+    def _filter_stamp_noise(self, text: str) -> str:
+        """Filter repetitive microfilm stamp annotations, keeping first instance only."""
+        lines = text.split('\n')
+        filtered_lines = []
+        stamp_seen = {}
+        in_stamp_block = False
+        current_stamp_lines = []
+
+        for i, line in enumerate(lines):
+            stripped = line.strip()
+
+            # Detect start of stamp annotation
+            if stripped.startswith('[stamp:') or stripped.startswith('[STAMP:'):
+                in_stamp_block = True
+                current_stamp_lines = [line]
+                continue
+
+            # If we're in a stamp block, accumulate lines until we find the closing bracket
+            if in_stamp_block:
+                current_stamp_lines.append(line)
+                if stripped.endswith(']'):
+                    # End of stamp block
+                    in_stamp_block = False
+                    stamp_text = '\n'.join(current_stamp_lines)
+                    stamp_key = stamp_text.lower().strip()
+
+                    # Keep first instance only
+                    if stamp_key not in stamp_seen:
+                        stamp_seen[stamp_key] = True
+                        filtered_lines.extend(current_stamp_lines)
+
+                    current_stamp_lines = []
+                continue
+
+            # Regular content - always keep
+            filtered_lines.append(line)
+
+        filtered_text = '\n'.join(filtered_lines)
+
+        # Clean up excessive trailing blank lines (keep max 2)
+        filtered_text = filtered_text.rstrip('\n') + '\n'
+
+        # Log filtering stats if significant reduction occurred
+        original_lines = len(lines)
+        filtered_line_count = len(filtered_lines)
+        if original_lines - filtered_line_count > 10:
+            logger.debug(f"Stamp filtering: {original_lines} → {filtered_line_count} lines (removed {original_lines - filtered_line_count} duplicates)")
+
+        return filtered_text
+
     def _save_results(self, source_path: Path, result: Dict) -> Path:
-        """Save OCR results to file"""
+        """Save OCR results to file with stamp noise filtering"""
         # Create output filename based on source
         stem = source_path.stem
-        
-        # Save text
+
+        # Apply stamp noise filtering
+        original_text = result["text"]
+        filtered_text = self._filter_stamp_noise(original_text)
+
+        # Save filtered text
         text_path = self.output_dir / "text" / f"{stem}.txt"
         with open(text_path, 'w', encoding='utf-8') as f:
-            f.write(result["text"])
-        
-        # Save metadata
+            f.write(filtered_text)
+
+        # Save metadata with both original and filtered stats
         metadata = {
             "source_file": str(source_path),
             "processed_at": datetime.now().isoformat(),
             "model": result["model"],
             "usage": result.get("usage", {}),
             "confidence": result.get("confidence"),
-            "text_length": len(result["text"]),
+            "text_length_original": len(original_text),
+            "text_length_filtered": len(filtered_text),
+            "stamp_filtering_applied": True,
             "checksum": self._calculate_checksum(source_path)
         }
-        
+
         metadata_path = self.output_dir / "metadata" / f"{stem}.json"
         with open(metadata_path, 'w', encoding='utf-8') as f:
             json.dump(metadata, f, indent=2)
