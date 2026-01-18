@@ -238,6 +238,12 @@ Leaflet map at `dev/leaflet/archive-map.html` displays both NYSTA meetings (red 
 - Add consensus scoring to metadata schema
 - Test ensemble on 10 challenging documents
 
+---
+
+### Done
+
+- 2026-01-18 — README overhaul and link hub (added collection overviews, cross-links to browse/search/map, outputs, inventories, prompts, and developer docs)
+
 ### Done
 
 #### Stage 1: Artifact Collation (2024-12-24)

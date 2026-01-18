@@ -83,3 +83,20 @@ Implementing artifact collation as the first priority from the planning session.
 ### Next Steps
 - [What comes next]
 ```
+
+---
+
+## 2026-01-18: README overhaul and link hub
+
+### Context
+The root README was minimal and lacked cross-links to the curated collections, browse pages, and generated outputs. A more presentable, one-stop entry point was requested.
+
+### Changes Made
+- readme.md: Rewrote intro with purpose, scope, and archival sources; added Collections overview; added a comprehensive One‑Stop Link Hub covering curated pages, browse/search/map, outputs, inventories, prompts, and developer docs; included concise build instructions.
+
+### Decisions
+- Favor repository-relative links to existing markdown and output directories to keep navigation consistent inside GitHub and the local repo.
+- Keep build commands lightweight in README and direct deeper technical details to CLAUDE.md and AGENTS.md.
+
+### Next Steps
+- Optional: add link-check CI or a lightweight script under `scripts/` to verify README links remain valid as files move.
