@@ -138,23 +138,30 @@ Instructions:
 
 Transcribe all visible text:"""
 
-    async def process_image(self, image_path: Path, document_type: str = "historical_document") -> Dict:
-        """Process a single image with DeepSeek OCR"""
+    async def process_image(self, image_path: Path, document_type: str = "historical_document",
+                           enhance_handwritten: bool = False) -> Dict:
+        """Process a single image with OCR and optional preprocessing.
+
+        Args:
+            image_path: Path to image file
+            document_type: Type of document for prompt selection
+            enhance_handwritten: Apply contrast/brightness enhancement for washed-out handwriting
+        """
         try:
             # Load and prepare image
-            image_data = self._prepare_image(image_path)
-            
+            image_data = self._prepare_image(image_path, enhance_handwritten=enhance_handwritten)
+
             # Select appropriate prompt
             prompt = self.config["prompts"].get(document_type, self.config["prompts"]["historical_document"])
-            
+
             # Make API request
             result = await self._call_deepseek_api(image_data, prompt)
-            
+
             # Save results
             output_path = self._save_results(image_path, result)
-            
+
             logger.info(f"Successfully processed: {image_path.name}")
-            
+
             return {
                 "status": "success",
                 "source": str(image_path),
@@ -163,9 +170,10 @@ Transcribe all visible text:"""
                 "document_type": document_type,
                 "text_length": len(result.get("text", "")),
                 "confidence": result.get("confidence"),
+                "preprocessing_applied": enhance_handwritten,
                 "checksum": self._calculate_checksum(image_path)
             }
-            
+
         except Exception as e:
             logger.error(f"Error processing {image_path}: {e}")
             return {
@@ -175,24 +183,82 @@ Transcribe all visible text:"""
                 "timestamp": datetime.now().isoformat()
             }
     
-    def _prepare_image(self, image_path: Path) -> str:
-        """Prepare image for API submission"""
+    def _enhance_handwritten_image(self, img: Image.Image) -> Image.Image:
+        """Enhance washed-out handwritten documents with poor contrast."""
+        from PIL import ImageEnhance, ImageFilter, ImageOps
+
+        # Convert to grayscale for analysis
+        if img.mode != 'L':
+            gray = img.convert('L')
+        else:
+            gray = img
+
+        # Check if image is washed out (high mean brightness)
+        import numpy as np
+        img_array = np.array(gray)
+        mean_brightness = img_array.mean()
+
+        # Only enhance if brightness is above threshold (washed out)
+        if mean_brightness > 190:
+            logger.debug(f"Enhancing washed-out image (brightness: {mean_brightness:.1f}/255)")
+
+            # Step 1: Aggressive percentile normalization for washed-out handwriting
+            img_array = np.array(gray)
+
+            # Use wider percentile range to stretch contrast more aggressively
+            p5, p95 = np.percentile(img_array, (5, 95))
+            if p95 - p5 > 10:  # Only if there's some contrast to work with
+                # Stretch to full 0-255 range
+                img_array = np.clip((img_array - p5) * (255.0 / (p95 - p5)), 0, 255).astype(np.uint8)
+            enhanced = Image.fromarray(img_array)
+
+            # Step 2: Aggressive contrast boost
+            contrast_enhancer = ImageEnhance.Contrast(enhanced)
+            enhanced = contrast_enhancer.enhance(1.5)
+
+            # Step 3: Reduce brightness to darken text
+            brightness_enhancer = ImageEnhance.Brightness(enhanced)
+            enhanced = brightness_enhancer.enhance(0.9)
+
+            # Step 4: Sharpen to make cursive edges clearer
+            enhanced = enhanced.filter(ImageFilter.UnsharpMask(radius=1, percent=120, threshold=3))
+
+            # Convert back to original mode if needed
+            if img.mode == 'RGB':
+                enhanced = enhanced.convert('RGB')
+
+            # Log final brightness for verification
+            final_array = np.array(enhanced.convert('L'))
+            final_brightness = final_array.mean()
+            logger.debug(f"Image enhancement applied: {mean_brightness:.1f} → {final_brightness:.1f}")
+
+            return enhanced
+        else:
+            logger.debug(f"No enhancement needed (brightness: {mean_brightness:.1f}/255)")
+            return img
+
+    def _prepare_image(self, image_path: Path, enhance_handwritten: bool = False) -> str:
+        """Prepare image for API submission with optional enhancement."""
         with Image.open(image_path) as img:
+            # Apply handwritten enhancement if requested
+            if enhance_handwritten:
+                img = self._enhance_handwritten_image(img)
+
             # Resize if necessary
             max_size = self.config["max_image_size"]
             if img.size[0] > max_size[0] or img.size[1] > max_size[1]:
                 img.thumbnail(max_size, Image.Resampling.LANCZOS)
                 logger.debug(f"Resized image to {img.size}")
-            
+
             # Convert to RGB if necessary
             if img.mode not in ('RGB', 'L'):
                 img = img.convert('RGB')
-            
+
             # Save to bytes
             from io import BytesIO
             buffer = BytesIO()
             img.save(buffer, format='JPEG', quality=self.config["jpeg_quality"])
-            
+
             # Encode to base64
             return base64.b64encode(buffer.getvalue()).decode('utf-8')
     
