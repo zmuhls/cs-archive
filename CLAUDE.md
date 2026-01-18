@@ -9,6 +9,7 @@ Digital humanities archive for the Common School system of New York State (1800s
 ## Development Commands
 
 ### Full Pipeline (in order)
+
 ```bash
 # 1. Ingest images and build inventory
 python scripts/build_images_inventory.py
@@ -37,6 +38,7 @@ python scripts/generate_archive_manifest.py
 ```
 
 ### OCR Processing
+
 ```bash
 python process_archive.py --collection all      # All collections
 python process_archive.py --collection images   # Loose images only
@@ -47,7 +49,8 @@ python process_archive.py --collection nys      # NYS Archives PDFs
 ## Architecture Overview
 
 ### Processing Pipeline
-```
+
+```text
 raw/scans/img/     →  build_images_inventory.py  →  csv/images_inventory.csv
                    →  generate_thumbnails.py     →  derived/thumbs/
                    →  prepare_image_label_requests.py → prompts/images_label_requests.jsonl
@@ -79,7 +82,7 @@ raw/scans/img/     →  build_images_inventory.py  →  csv/images_inventory.csv
 ### Key Data Files
 
 | File | Purpose |
-|------|---------|
+| --- | --- |
 | `csv/images_inventory.csv` | Raw inventory from ingestion |
 | `csv/images_inventory_labeled.csv` | Inventory with LLM classifications |
 | `prompts/images_label_requests.jsonl` | LLM labeling requests |
@@ -89,6 +92,7 @@ raw/scans/img/     →  build_images_inventory.py  →  csv/images_inventory.csv
 | `AGENTS.md` | Instructions for AI agents |
 
 ### Item Type Vocabulary
+
 12 controlled types: `document_page`, `notecard`, `ledger_or_register`, `form`, `letter`, `pamphlet_or_brochure`, `report`, `meeting_minutes`, `map_or_diagram`, `photograph_of_display`, `envelope_or_folder`, `cover_or_title_page`, `blank_or_unreadable`
 
 ## API Configuration
@@ -101,6 +105,7 @@ raw/scans/img/     →  build_images_inventory.py  →  csv/images_inventory.csv
 ## Historical Document Handling
 
 OCR prompts preserve 19th century characteristics:
+
 - Period spelling and abbreviations ("inst." for instant, "&c" for etc.)
 - Archaic terms (selectmen, freeholders, trustees)
 - Uncertainty markers: [?] for unclear, [illegible] for unreadable
@@ -112,9 +117,11 @@ OCR prompts preserve 19th century characteristics:
 
 ### Overview
 
-Collections are published to OMEKA Classic using the "Thanks, Roy" theme. Two curated collections are available:
+Collections are published to OMEKA Classic using the "Thanks, Roy" theme. Three curated collections are available:
+
 1. **NYS Teachers' Association (1845-1940s)** - Proceedings, membership materials, advocacy documents
-2. **District Consolidation Records** - County-by-county tables from NYS Archives Series A4456
+2. **District Consolidation Records** - County-by-county tables from NYS Archives Series B0494
+3. **NYS Archives Local District Records** - Meeting minutes, notecards, and administrative records from Series A4645, B0594, A4456
 
 ### Docker Deployment
 
@@ -136,20 +143,32 @@ Configuration files: `/tmp/docker-compose.yml`, `/tmp/Dockerfile`
 ### OMEKA CSV Generation
 
 Transform collections into OMEKA-compatible CSV:
+
 ```bash
 python scripts/generate_omeka_csv.py
-# Output: output/omeka/items_import.csv (249 items)
+# Output: output/omeka/items_import.csv (355 items across 3 collections)
+
+# Generate individual collection markdown files:
+python scripts/generate_nys_teachers_collection.py
+python scripts/generate_county_collection.py
+python scripts/generate_nys_local_records_collection.py
+
+# Process Amityville PDF separately (665 pages):
+python scripts/process_amityville.py
 ```
 
 **CSV Schema:**
+
 - Maps consolidated artifacts to Dublin Core metadata
-- Distinguishes table items (Dataset type) from image items (Text type)
-- Generates GitHub CDN URLs for images and table thumbnails
+- Distinguishes table items (Dataset type), PDF pages (Text type), and image items (Text type)
+- Generates GitHub CDN URLs for images, table thumbnails, and OCR text files
 - Columns: collection, title, date, description, type, spatial, subject, source, identifier, file
 
 **Key Functions:**
+
 - `parse_district_consolidation()` - Extracts table metadata from markdown
 - `parse_nys_teachers()` - Extracts teacher association items
+- `parse_nys_local_records()` - Extracts NYS Archives PDF page items
 - `find_artifact_for_image()` - Maps filenames to artifact metadata
 - `get_github_raw_url()` - Generates GitHub CDN URLs with path differentiation
 
@@ -158,10 +177,12 @@ python scripts/generate_omeka_csv.py
 The "Thanks, Roy" theme in `dev/omeka/` has been modified:
 
 **[dev/omeka/index.php](dev/omeka/index.php):**
+
 - Added featured collections grid to homepage
 - Grid displays both collection cards with descriptions and explore links
 
 **[dev/omeka/css/style.css](dev/omeka/css/style.css):**
+
 - Added responsive CSS Grid layout (`repeat(auto-fit, minmax(300px, 1fr))`)
 - Styled `.collection-card` with hover effects
 - Mobile-first design with flexbox for card content
@@ -174,9 +195,23 @@ The "Thanks, Roy" theme in `dev/omeka/` has been modified:
 4. 249 items imported from consolidated artifacts + tables
 
 **Documentation:**
+
 - `output/omeka/OMEKA_SETUP_GUIDE.md` - Step-by-step configuration
 - `output/omeka/THEME_MODIFICATIONS.md` - Technical details
 - `output/omeka/README.md` - Overview of integration package
+
+---
+
+## Location Mapping
+
+Geographic data extracted to `output/locations/` for spatial visualization:
+
+| File | Description |
+| --- | --- |
+| `LOCATION_MAP.md` | Master documentation with coordinates and next steps |
+| `nysta-meetings.geojson` | 16 NYSTA meeting sites (1881-1927) |
+
+Leaflet map at `dev/leaflet/archive-map.html` displays both NYSTA meetings (red markers) and consolidation counties (blue markers) with layer toggles and clickable sidebar.
 
 ---
 
@@ -187,13 +222,15 @@ The "Thanks, Roy" theme in `dev/omeka/` has been modified:
 
 ### Backlog
 
-**Stage 4: Human-in-the-Loop Review**
+#### Stage 4: Human-in-the-Loop Review
+
 - Create `scripts/generate_review_queues.py` (hallucination detection, low-confidence flagging)
 - Create `csv/ocr_review_queue.csv` template
 - Create `scripts/apply_corrections.py` for correction ingestion
 - Document review workflow in CLAUDE.md
 
-**Stage 5: Multi-Model Ensemble**
+#### Stage 5: Multi-Model Ensemble
+
 - Abstract OCR class for multiple backends in `ocr.py`
 - Add `qwen/qwen-vl-max` as secondary model via OpenRouter
 - Add Mistral OCR as tertiary model via OpenRouter
@@ -203,7 +240,8 @@ The "Thanks, Roy" theme in `dev/omeka/` has been modified:
 
 ### Done
 
-**Stage 1: Artifact Collation** (2024-12-24)
+#### Stage 1: Artifact Collation (2024-12-24)
+
 - Added new columns to inventory CSV schema (artifact_link_type, artifact_confidence, needs_review, parent_artifact_id)
 - Created `scripts/refine_artifact_groups.py` for text-similarity-based grouping
 - Created `scripts/migrate_inventory_schema.py` for existing data migration
@@ -211,10 +249,20 @@ The "Thanks, Roy" theme in `dev/omeka/` has been modified:
 - Tested on sample session S0026 (19 items)
 - Generated `csv/artifact_review_queue.csv` with 14 items for review
 
-**Stage 3: OMEKA Integration** (2025-01-16)
+#### Stage 3: OMEKA Integration (2025-01-16)
+
 - Created `scripts/generate_omeka_csv.py` for CSV import preparation (249 items)
 - Generated Dublin Core metadata mapping (collection, title, date, description, type, spatial, subject, source, identifier, file)
 - Created collection introductions and about page content
 - Modified "Thanks, Roy" theme with featured collections grid and responsive CSS
 - Provided Docker setup (MySQL + PHP + Apache) and OMEKA installation guide
 - Package ready for manual OMEKA configuration and CSV import
+
+#### Stage 3b: NYS Archives Local Records Collection (2025-01-17)
+
+- Created third collection: "NYS Archives Local District Records" from Series A4645, B0594, A4456
+- Created `scripts/generate_nys_local_records_collection.py` for collection markdown generation
+- Created `scripts/process_amityville.py` for separate processing of 665-page Amityville PDF
+- Updated `scripts/generate_omeka_csv.py` to include new collection (355 total items)
+- Generated `output/collections/nys-local-records.md` with 106 pages from South-Kortright Roll and District Notecards
+- Amityville-Records.pdf pending OCR processing (run `python scripts/process_amityville.py`)
