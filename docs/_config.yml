@@ -8,8 +8,8 @@ description: >-
   A digital archive of handwritten documents, typed records, statistical charts,
   and administrative correspondence from New York State's Common School system.
 url: "https://zmuhls.github.io"
-baseurl: "/csa"
-repository: "zmuhls/csa"
+baseurl: "/cs-archive"
+repository: "zmuhls/cs-archive"
 
 # Theme
 remote_theme: mmistakes/minimal-mistakes@4.26.2

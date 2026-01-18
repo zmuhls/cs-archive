@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Collections"
     url: /collections/
+  - title: "Map"
+    url: /map/
   - title: "Browse"
     url: /browse/
   - title: "Search"
@@ -19,6 +21,8 @@ archive:
         url: /collections/district-consolidation/
       - title: "NYS Teachers' Association"
         url: /collections/nys-teachers/
+      - title: "NYS Local Records"
+        url: /collections/nys-local-records/
 
   - title: "Browse By"
     children:
