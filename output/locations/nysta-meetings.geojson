@@ -1,0 +1,231 @@
+{
+  "type": "FeatureCollection",
+  "name": "NYS Teachers' Association Meeting Locations",
+  "description": "Conference and proceeding locations from the NYSTA collection (1845-1940s)",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Albany",
+        "type": "administrative",
+        "years": ["1927"],
+        "description": "Publisher location, statewide administration",
+        "sources": ["IMG_0654"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.7562, 42.6526]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brooklyn",
+        "type": "meeting",
+        "years": ["1889"],
+        "description": "Annual meeting",
+        "sources": ["IMG_0740", "IMG_3344", "IMG_3345"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9442, 40.6782]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buffalo",
+        "type": "meeting",
+        "years": ["1901"],
+        "description": "Annual meeting",
+        "sources": ["IMG_0672", "IMG_0673", "IMG_0674", "IMG_0675", "IMG_0676"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.8784, 42.8864]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cliff Haven",
+        "type": "venue",
+        "years": [],
+        "description": "Summer school/retreat location",
+        "sources": ["IMG_0680"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.4279, 44.8789]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elizabethtown",
+        "type": "meeting",
+        "years": ["1887"],
+        "description": "Annual meeting at Essex County courthouse",
+        "sources": ["IMG_0729", "IMG_0730"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5907, 44.2156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Elmira",
+        "type": "meeting",
+        "years": ["1884"],
+        "description": "Baldwin Street location",
+        "sources": ["IMG_0727"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.8077, 42.0898]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Edward",
+        "type": "venue",
+        "years": [],
+        "description": "Fort William Henry Hotel conference venue",
+        "sources": ["IMG_0726"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.5882, 43.2670]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New York City",
+        "type": "meeting",
+        "years": ["1896", "1897", "1911"],
+        "description": "Annual meetings",
+        "sources": ["IMG_3363", "IMG_3362", "IMG_3374", "IMG_3388"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0060, 40.7128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rochester",
+        "type": "meeting",
+        "years": ["1897", "1898"],
+        "description": "Annual meetings",
+        "sources": ["IMG_0795", "IMG_0809", "IMG_0627"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.6109, 43.1566]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saratoga",
+        "type": "meeting",
+        "years": ["1881", "1902"],
+        "description": "Annual meetings",
+        "sources": ["IMG_0694", "IMG_0677"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.7854, 43.0831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saratoga Springs",
+        "type": "meeting",
+        "years": ["1890", "1891", "1894"],
+        "description": "Annual meetings",
+        "sources": ["IMG_0741", "IMG_0774", "IMG_0776", "IMG_3357"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.7854, 43.0831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Syracuse",
+        "type": "meeting",
+        "years": ["1895", "1905", "1906"],
+        "description": "Annual meetings",
+        "sources": ["IMG_0792", "IMG_0684", "IMG_0692"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.1474, 43.0481]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thousand Islands",
+        "type": "meeting",
+        "years": ["1900"],
+        "description": "Summer meeting",
+        "sources": ["IMG_0671"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.9180, 44.3500]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Utica",
+        "type": "meeting",
+        "years": ["1927"],
+        "description": "Event location",
+        "sources": ["IMG_0654"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.2327, 43.1009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Watkins Glen",
+        "type": "meeting",
+        "years": ["1888"],
+        "description": "Annual meeting (listed as Watkins)",
+        "sources": ["IMG_0739"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.8733, 42.3806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yonkers",
+        "type": "meeting",
+        "years": ["1882"],
+        "description": "Annual meeting",
+        "sources": ["IMG_0707"]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.8987, 40.9312]
+      }
+    }
+  ]
+}

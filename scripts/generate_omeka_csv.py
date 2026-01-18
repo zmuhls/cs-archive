@@ -145,6 +145,67 @@ def parse_district_consolidation() -> List[Dict]:
     return items
 
 
+def parse_nys_local_records() -> List[Dict]:
+    """Parse NYS Local Records collection from PDF OCR outputs."""
+    items = []
+
+    # Define the series we're including
+    nys_series = {
+        'South-Kortright-Roll-13': {
+            'series': 'A4645',
+            'title': 'South-Kortright Roll',
+            'location': 'Delaware County',
+        },
+        'District-Notecard-Records': {
+            'series': 'B0594',
+            'title': 'District Notecard Records',
+            'location': None,
+        },
+        'Amityville-Records': {
+            'series': 'A4456',
+            'title': 'Amityville Records',
+            'location': 'Suffolk County',
+        },
+    }
+
+    ocr_text_dir = PROJECT_ROOT / "output" / "ocr" / "text"
+
+    for pdf_name, info in nys_series.items():
+        # Find all page files for this PDF
+        pattern = f"{pdf_name}_page_*.txt"
+        page_files = sorted(ocr_text_dir.glob(pattern))
+
+        for page_file in page_files:
+            # Extract page number
+            match = re.search(r'_page_(\d+)\.txt$', page_file.name)
+            page_num = int(match.group(1)) if match else 0
+
+            # Read transcription for description
+            try:
+                text = page_file.read_text(encoding='utf-8')[:500]
+            except:
+                text = ""
+
+            # Extract date from text if possible
+            date_match = re.search(r'\b(18\d{2}|19[0-4]\d)\b', text)
+            date = date_match.group(1) if date_match else None
+
+            items.append({
+                'filename': page_file.name.replace('.txt', '.jpg'),
+                'pdf_name': pdf_name,
+                'page_number': page_num,
+                'title': f"{info['title']} - Page {page_num}",
+                'collection': "NYS Archives Local District Records",
+                'date': date,
+                'location': info['location'],
+                'series': info['series'],
+                'description': text.replace('\n', ' ').strip(),
+                'is_pdf_page': True,
+            })
+
+    return items
+
+
 def parse_nys_teachers() -> List[Dict]:
     """Parse NYS Teachers' Association markdown file."""
     items = []
@@ -256,6 +317,35 @@ def generate_csv_row(item: Dict, inventory: Dict, artifact_metadata: Optional[Di
             'file': get_github_raw_url(filename, is_table=True),
         }
 
+    # Handle PDF page items (NYS Local Records)
+    is_pdf_page = item.get('is_pdf_page', False)
+    if is_pdf_page:
+        series = item.get('series', '')
+        pdf_name = item.get('pdf_name', '')
+        page_num = item.get('page_number', 0)
+
+        # Build subject tags
+        subjects = ['Local School Records', f'NYS Archives Series {series}']
+        if item.get('location'):
+            subjects.append(item.get('location'))
+        date = item.get('date')
+        if date:
+            decade = (int(date) // 10) * 10
+            subjects.append(f'{decade}s')
+
+        return {
+            'collection': collection,
+            'title': item.get('title', filename),
+            'date': item.get('date') or '',
+            'description': item.get('description', '')[:500],
+            'type': 'Text',
+            'spatial': item.get('location') or '',
+            'subject': '; '.join(subjects),
+            'source': f'NYS Archives Series {series}',
+            'identifier': f'{pdf_name}_page_{page_num}',
+            'file': f'https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/text/{pdf_name}_page_{page_num}.txt',
+        }
+
     # Handle regular image items (Teachers' Association)
     # Find artifact for this image
     artifact_id = find_artifact_for_image(filename, inventory)
@@ -338,14 +428,17 @@ def main():
 
     print("\nParsing collection markdown files...")
 
-    # Parse both collections
+    # Parse all three collections
     dc_items = parse_district_consolidation()
     print(f"  District Consolidation: {len(dc_items)} items")
 
     teachers_items = parse_nys_teachers()
     print(f"  NYS Teachers' Association: {len(teachers_items)} items")
 
-    total_items = len(dc_items) + len(teachers_items)
+    local_records_items = parse_nys_local_records()
+    print(f"  NYS Local Records: {len(local_records_items)} items")
+
+    total_items = len(dc_items) + len(teachers_items) + len(local_records_items)
     print(f"  Total: {total_items} items")
 
     # Generate CSV rows
@@ -353,7 +446,7 @@ def main():
     csv_rows = []
     skipped = 0
 
-    for item_list in [dc_items, teachers_items]:
+    for item_list in [dc_items, teachers_items, local_records_items]:
         for item in item_list:
             row = generate_csv_row(item, inventory, all_metadata)
             if row:
