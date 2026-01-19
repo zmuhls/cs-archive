@@ -223,7 +223,7 @@ You can create additional pages to provide historical context:
 
 **Solution**:
 1. Verify GitHub repo is public
-2. Test URL in browser: `https://raw.githubusercontent.com/zmuhls/csa/main/raw/scans/img/IMG_0625.jpeg`
+2. Test URL in browser: `https://raw.githubusercontent.com/zmuhls/cs-archive/main/raw/scans/img/IMG_0625.jpeg`
 3. If working, check OMEKA file settings
 4. Consider uploading images locally instead of using GitHub CDN
 

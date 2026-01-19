@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:18:40.586931
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_24.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_24.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_24.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_24.jpg)
 
 ---
 
 ## Source Document
 
-![Chenango County - Town School Units - Page 24](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_24.jpg)
+![Chenango County - Town School Units - Page 24](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_24.jpg)
 
 ---
 

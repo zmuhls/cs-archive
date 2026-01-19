@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:30:51.415082
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_51.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_51.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_51.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_51.jpg)
 
 ---
 
 ## Source Document
 
-![Erie County - Consolidated Districts - Page 51](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_51.jpg)
+![Erie County - Consolidated Districts - Page 51](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_51.jpg)
 
 ---
 

@@ -98,6 +98,21 @@ Environment setup:
 pip install -r requirements.txt
 ```
 
+Start the Jekyll site locally:
+
+```bash
+# Navigate to the docs directory where Jekyll files are located
+cd docs
+
+# Install Jekyll dependencies (first time only)
+bundle install
+
+# Start the Jekyll development server
+bundle exec jekyll serve
+
+# The site will be available at http://localhost:4000
+```
+
 Key commands:
 
 ```bash

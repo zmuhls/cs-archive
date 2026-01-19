@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:42:54.145362
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_80.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_80.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_80.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_80.jpg)
 
 ---
 
 ## Source Document
 
-![Jefferson County - Central Rural Schools - Page 80](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_80.jpg)
+![Jefferson County - Central Rural Schools - Page 80](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_80.jpg)
 
 ---
 

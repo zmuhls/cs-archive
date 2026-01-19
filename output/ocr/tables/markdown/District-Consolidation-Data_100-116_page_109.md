@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:56:45.467914
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_109.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_109.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_109.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_109.jpg)
 
 ---
 
 ## Source Document
 
-![Oneida County - Consolidated Districts - Page 109](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_109.jpg)
+![Oneida County - Consolidated Districts - Page 109](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_109.jpg)
 
 ---
 

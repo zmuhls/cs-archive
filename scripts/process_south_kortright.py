@@ -16,6 +16,7 @@ import sys
 import time
 from pathlib import Path
 from datetime import datetime, timedelta
+from typing import Optional
 import json
 
 # Add parent directory to path for imports
@@ -64,22 +65,28 @@ def estimate_remaining(elapsed: float, completed: int, total: int) -> str:
     return format_duration(remaining_seconds)
 
 
-async def process_south_kortright():
-    """Process South-Kortright-Roll-13.pdf with verbose logging."""
+async def process_south_kortright(run_id: Optional[str] = None):
+    """Process South-Kortright-Roll-13.pdf with verbose logging.
+
+    Args:
+        run_id: Optional run identifier for versioning. If not provided, uses timestamp.
+    """
 
     print("=" * 70)
     print("SOUTH KORTRIGHT ROLL 13 PROCESSING")
-    print("Model: qwen/qwen-vl-plus (handwritten cursive + preprocessing)")
+    print("Model: qwen/qwen-vl-plus (handwritten meeting minutes)")
     print("=" * 70)
     print()
 
-    # Initialize OCR and override model
-    ocr = QwenVLOCR(config_path="ocr_config.yaml")
-    ocr.model = "qwen/qwen-vl-plus"  # Use plus model with stamp filtering
+    # Initialize OCR with run_id for versioning
+    # Enable stamp filtering - this is a microfilm scan
+    ocr = QwenVLOCR(config_path="ocr_config.yaml", run_id=run_id, enable_stamp_filtering=True)
+    ocr.model = "qwen/qwen-vl-plus"
     logger.info(f"Initialized OCR with model: {ocr.model}")
-    logger.info("Document type: HANDWRITTEN (19th century cursive)")
-    logger.info("Preprocessing enabled: contrast enhancement for washed-out pages")
-    logger.info("Stamp noise filtering enabled - duplicate microfilm stamps will be removed")
+    logger.info(f"Run ID: {ocr.run_id}")
+    logger.info("Document type: MEETING MINUTES (19th century school district meetings)")
+    logger.info("Preprocessing disabled: degrades OCR quality for this document")
+    logger.info("Stamp noise filtering: ENABLED (microfilm scan with duplicate stamps)")
 
     pdf_path = Path("raw/scans/NYS Archives/A4645/South-Kortright-Roll-13.pdf")
 
@@ -153,7 +160,7 @@ async def process_south_kortright():
 
                     result = await ocr.process_image(
                         temp_path,
-                        document_type="handwritten",
+                        document_type="meeting_minutes",  # Use specialized meeting minutes prompt
                         enhance_handwritten=False  # Preprocessing degrades OCR quality
                     )
                     result["page_number"] = page_num
@@ -284,4 +291,15 @@ async def process_south_kortright():
 
 
 if __name__ == "__main__":
-    asyncio.run(process_south_kortright())
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Process South Kortright Roll 13 PDF")
+    parser.add_argument(
+        "--run-id",
+        type=str,
+        default=None,
+        help="Run identifier for versioning (prevents overwriting). If not provided, uses timestamp."
+    )
+
+    args = parser.parse_args()
+    asyncio.run(process_south_kortright(run_id=args.run_id))

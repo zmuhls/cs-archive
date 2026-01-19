@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:36:12.438189
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_64.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_64.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_64.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_64.jpg)
 
 ---
 
 ## Source Document
 
-![Genesee County - Consolidated Districts - Page 64](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_64.jpg)
+![Genesee County - Consolidated Districts - Page 64](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_64.jpg)
 
 ---
 

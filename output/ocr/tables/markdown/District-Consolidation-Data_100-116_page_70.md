@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:37:52.235285
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_70.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_70.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_70.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_70.jpg)
 
 ---
 
 ## Source Document
 
-![Hamilton County - Consolidated Districts - Page 70](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_70.jpg)
+![Hamilton County - Consolidated Districts - Page 70](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_70.jpg)
 
 ---
 

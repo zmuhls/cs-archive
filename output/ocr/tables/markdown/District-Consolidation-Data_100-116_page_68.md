@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:37:16.049666
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_68.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_68.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_68.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_68.jpg)
 
 ---
 
 ## Source Document
 
-![Greene County - Central Rural Schools - Page 68](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_68.jpg)
+![Greene County - Central Rural Schools - Page 68](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_68.jpg)
 
 ---
 

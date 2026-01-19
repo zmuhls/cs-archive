@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:11:58.035451
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_11.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_11.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_11.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_11.jpg)
 
 ---
 
 ## Source Document
 
-![Cayuga County - Union Free Schools - Page 11](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_11.jpg)
+![Cayuga County - Union Free Schools - Page 11](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_11.jpg)
 
 ---
 

@@ -63,7 +63,7 @@ This directory contains all assets and configuration needed to integrate the Com
 
 ### Total Items: 249
 
-- File URLs: GitHub CDN (https://raw.githubusercontent.com/zmuhls/csa/...)
+- File URLs: GitHub CDN (https://raw.githubusercontent.com/zmuhls/cs-archive/...)
 - Metadata: Dublin Core elements
 - Types: Text, Dataset, Images
 - Item Types: document_page, letter, form, photograph, meeting_minutes, etc.
@@ -88,12 +88,12 @@ This directory contains all assets and configuration needed to integrate the Com
 
 **Sample Row** (District Consolidation):
 ```
-District Consolidation Records,"Page 3 - Consolidated Districts","","Extracted table showing...",Dataset,"","District Consolidation; Tables","NYS Archives District Consolidation Data","table_page_3","https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_3.jpg"
+District Consolidation Records,"Page 3 - Consolidated Districts","","Extracted table showing...",Dataset,"","District Consolidation; Tables","NYS Archives District Consolidation Data","table_page_3","https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_3.jpg"
 ```
 
 **Sample Row** (Teachers' Association):
 ```
-NYS Teachers' Association,"1900 — Thousand Islands, N.Y.","1900","Annual meeting proceedings from the NYS Teachers' Association, held in Thousand Islands, NY.",Text,"Thousand Islands, New York","1900s; NYS Teachers' Association; Annual Meeting","NYS Teachers' Association Proceedings","S0045_01","https://raw.githubusercontent.com/zmuhls/csa/main/raw/scans/img/IMG_0671.jpeg"
+NYS Teachers' Association,"1900 — Thousand Islands, N.Y.","1900","Annual meeting proceedings from the NYS Teachers' Association, held in Thousand Islands, NY.",Text,"Thousand Islands, New York","1900s; NYS Teachers' Association; Annual Meeting","NYS Teachers' Association Proceedings","S0045_01","https://raw.githubusercontent.com/zmuhls/cs-archive/main/raw/scans/img/IMG_0671.jpeg"
 ```
 
 ---

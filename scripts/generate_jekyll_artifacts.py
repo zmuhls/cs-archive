@@ -20,7 +20,7 @@ INVENTORY_PATH = PROJECT_ROOT / "csv" / "images_inventory_labeled.csv"
 ARTIFACTS_OUTPUT = PROJECT_ROOT / "docs" / "_artifacts"
 
 # GitHub CDN base URLs
-GITHUB_RAW_BASE = "https://raw.githubusercontent.com/zmuhls/csa/main"
+GITHUB_RAW_BASE = "https://raw.githubusercontent.com/zmuhls/cs-archive/main"
 THUMB_PATH = f"{GITHUB_RAW_BASE}/derived/thumbs"
 FULL_PATH = f"{GITHUB_RAW_BASE}/raw/scans/img"
 

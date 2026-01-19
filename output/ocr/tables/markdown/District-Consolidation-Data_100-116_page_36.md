@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:25:19.090599
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_36.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_36.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_36.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_36.jpg)
 
 ---
 
 ## Source Document
 
-![Columbia County - Consolidated Districts - Page 36](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_36.jpg)
+![Columbia County - Consolidated Districts - Page 36](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_36.jpg)
 
 ---
 

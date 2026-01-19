@@ -9,7 +9,7 @@ import re
 from pathlib import Path
 
 COLLECTIONS_DIR = Path('output/collections')
-GITHUB_REPO = "zmuhls/csa"
+GITHUB_REPO = "zmuhls/cs-archive"
 BRANCH = "main"
 
 def convert_relative_to_media_url(relative_path: str) -> str:
@@ -18,7 +18,7 @@ def convert_relative_to_media_url(relative_path: str) -> str:
 
     Example:
         ../../raw/scans/img/IMG_0625.jpeg
-        → https://media.githubusercontent.com/media/zmuhls/csa/main/raw/scans/img/IMG_0625.jpeg
+        → https://media.githubusercontent.com/media/zmuhls/cs-archive/main/raw/scans/img/IMG_0625.jpeg
     """
     # Remove leading ../../ or similar
     clean_path = relative_path.replace('../', '')

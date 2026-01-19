@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:16:55.301134
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_19.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_19.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_19.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_19.jpg)
 
 ---
 
 ## Source Document
 
-![Chautauqua County - Central Rural Schools - Page 19](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_19.jpg)
+![Chautauqua County - Central Rural Schools - Page 19](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_19.jpg)
 
 ---
 

@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:22:46.633591
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_29.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_29.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_29.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_29.jpg)
 
 ---
 
 ## Source Document
 
-![Clinton County - Union Free Schools - Page 29](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_29.jpg)
+![Clinton County - Union Free Schools - Page 29](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_29.jpg)
 
 ---
 

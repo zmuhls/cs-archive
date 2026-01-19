@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:30:13.806481
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_49.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_49.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_49.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_49.jpg)
 
 ---
 
 ## Source Document
 
-![Dutchess County - Central Rural Schools - Page 49](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_49.jpg)
+![Dutchess County - Central Rural Schools - Page 49](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_49.jpg)
 
 ---
 

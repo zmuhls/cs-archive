@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:06:59.356281
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_3.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_3.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_3.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_3.jpg)
 
 ---
 
 ## Source Document
 
-![Broome County - Consolidated Districts - Page 3](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_3.jpg)
+![Broome County - Consolidated Districts - Page 3](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_3.jpg)
 
 ---
 

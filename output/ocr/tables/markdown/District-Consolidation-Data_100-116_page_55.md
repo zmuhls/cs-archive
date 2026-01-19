@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:31:31.657634
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_55.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_55.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_55.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_55.jpg)
 
 ---
 
 ## Source Document
 
-![Essex County - Union Free Schools - Page 55](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_55.jpg)
+![Essex County - Union Free Schools - Page 55](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_55.jpg)
 
 ---
 

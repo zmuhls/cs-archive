@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:17:04.512655
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_20.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_20.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_20.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_20.jpg)
 
 ---
 
 ## Source Document
 
-![Chemung County - Union Free Schools - Page 20](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_20.jpg)
+![Chemung County - Union Free Schools - Page 20](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_20.jpg)
 
 ---
 

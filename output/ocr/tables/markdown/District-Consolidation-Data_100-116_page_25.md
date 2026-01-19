@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:20:00.931758
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_25.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_25.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_25.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_25.jpg)
 
 ---
 
 ## Source Document
 
-![Chenango County - Consolidated Districts - Page 25](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_25.jpg)
+![Chenango County - Consolidated Districts - Page 25](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_25.jpg)
 
 ---
 

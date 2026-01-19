@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:18:15.833679
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_22.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_22.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_22.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_22.jpg)
 
 ---
 
 ## Source Document
 
-![Chemung County - Unknown - Page 22](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_22.jpg)
+![Chemung County - Unknown - Page 22](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_22.jpg)
 
 ---
 

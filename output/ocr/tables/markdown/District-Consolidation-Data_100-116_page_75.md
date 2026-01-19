@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:40:10.239163
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_75.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_75.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_75.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_75.jpg)
 
 ---
 
 ## Source Document
 
-![County County - Central Rural Schools - Page 75](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_75.jpg)
+![County County - Central Rural Schools - Page 75](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_75.jpg)
 
 ---
 

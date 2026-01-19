@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:46:43.387557
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_87.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_87.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_87.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_87.jpg)
 
 ---
 
 ## Source Document
 
-![Livingston County - Central Rural Schools - Page 87](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_87.jpg)
+![Livingston County - Central Rural Schools - Page 87](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_87.jpg)
 
 ---
 

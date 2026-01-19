@@ -69,7 +69,7 @@ This site is built with:
 - **GitHub Pages** - Hosting
 - **GitHub LFS** - Large file storage for images
 
-Source code and data available at [github.com/zmuhls/csa](https://github.com/zmuhls/csa)
+Source code and data available at [github.com/zmuhls/cs-archive](https://github.com/zmuhls/cs-archive)
 
 ## Contact
 

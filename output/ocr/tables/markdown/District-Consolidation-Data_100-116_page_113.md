@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:59:43.062708
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_113.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_113.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_113.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_113.jpg)
 
 ---
 
 ## Source Document
 
-![Onondaga County - Town School Units - Page 113](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_113.jpg)
+![Onondaga County - Town School Units - Page 113](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_113.jpg)
 
 ---
 

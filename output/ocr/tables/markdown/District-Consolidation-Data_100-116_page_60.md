@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:33:14.148830
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_60.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_60.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_60.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_60.jpg)
 
 ---
 
 ## Source Document
 
-![Franklin County - Consolidated Districts - Page 60](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_60.jpg)
+![Franklin County - Consolidated Districts - Page 60](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_60.jpg)
 
 ---
 

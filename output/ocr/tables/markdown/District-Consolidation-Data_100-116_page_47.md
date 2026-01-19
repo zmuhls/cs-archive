@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:29:23.241332
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_47.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_47.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_47.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_47.jpg)
 
 ---
 
 ## Source Document
 
-![Dutchess County - Town School Units - Page 47](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_47.jpg)
+![Dutchess County - Town School Units - Page 47](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_47.jpg)
 
 ---
 

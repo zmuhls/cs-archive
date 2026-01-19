@@ -93,7 +93,7 @@ def load_artifact_transcription(artifact_id: str) -> str:
 
 def extract_image_filename(url: str) -> str:
     """Extract filename from GitHub URL."""
-    # e.g., https://github.com/zmuhls/csa/blob/main/raw/scans/img/IMG_0625.jpeg -> IMG_0625.jpeg
+    # e.g., https://github.com/zmuhls/cs-archive/blob/main/raw/scans/img/IMG_0625.jpeg -> IMG_0625.jpeg
     parts = url.split('/')
     if parts:
         return parts[-1]
@@ -123,7 +123,7 @@ def parse_district_consolidation() -> List[Dict]:
         url = match.group(3)
 
         # Convert markdown file reference to table thumbnail filename
-        # URL is like: https://github.com/zmuhls/csa/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_3.md
+        # URL is like: https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_3.md
         # We want: District-Consolidation-Data_100-116_page_3.jpg
         if "District-Consolidation-Data" in url:
             # Extract page number from URL
@@ -269,10 +269,10 @@ def get_github_raw_url(filename: str, is_table: bool = False) -> str:
     """Generate GitHub raw content URL for an image or table."""
     if is_table:
         # Table thumbnail images are in output/ocr/tables/thumbs/
-        return f"https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/{filename}"
+        return f"https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/{filename}"
     else:
         # Regular images are in raw/scans/img/
-        return f"https://raw.githubusercontent.com/zmuhls/csa/main/raw/scans/img/{filename}"
+        return f"https://raw.githubusercontent.com/zmuhls/cs-archive/main/raw/scans/img/{filename}"
 
 
 def extract_decade(date_str: Optional[str]) -> Optional[str]:
@@ -343,7 +343,7 @@ def generate_csv_row(item: Dict, inventory: Dict, artifact_metadata: Optional[Di
             'subject': '; '.join(subjects),
             'source': f'NYS Archives Series {series}',
             'identifier': f'{pdf_name}_page_{page_num}',
-            'file': f'https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/text/{pdf_name}_page_{page_num}.txt',
+            'file': f'https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/{pdf_name}_page_{page_num}.txt',
         }
 
     # Handle regular image items (Teachers' Association)

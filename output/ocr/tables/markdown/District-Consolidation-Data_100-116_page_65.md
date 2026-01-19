@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:36:21.858635
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_65.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_65.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_65.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_65.jpg)
 
 ---
 
 ## Source Document
 
-![Greene County - Union Free Schools - Page 65](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_65.jpg)
+![Greene County - Union Free Schools - Page 65](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_65.jpg)
 
 ---
 

@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:08:14.517170
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_4.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_4.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_4.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_4.jpg)
 
 ---
 
 ## Source Document
 
-![Broome County - Central Rural Schools - Page 4](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_4.jpg)
+![Broome County - Central Rural Schools - Page 4](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_4.jpg)
 
 ---
 

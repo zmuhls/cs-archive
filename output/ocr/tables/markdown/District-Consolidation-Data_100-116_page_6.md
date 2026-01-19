@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:09:05.390014
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_6.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_6.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_6.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_6.jpg)
 
 ---
 
 ## Source Document
 
-![Cattaraugus County - Union Free Schools - Page 6](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_6.jpg)
+![Cattaraugus County - Union Free Schools - Page 6](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_6.jpg)
 
 ---
 

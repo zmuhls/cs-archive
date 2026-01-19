@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:53:39.045870
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_105.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_105.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_105.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_105.jpg)
 
 ---
 
 ## Source Document
 
-![Niagara County - Union Free Schools - Page 105](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_105.jpg)
+![Niagara County - Union Free Schools - Page 105](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_105.jpg)
 
 ---
 

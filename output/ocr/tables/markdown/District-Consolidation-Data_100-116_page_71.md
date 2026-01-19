@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:38:05.606322
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_71.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_71.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_71.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_71.jpg)
 
 ---
 
 ## Source Document
 
-![Herkimer County - Union Free Schools - Page 71](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_71.jpg)
+![Herkimer County - Union Free Schools - Page 71](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_71.jpg)
 
 ---
 

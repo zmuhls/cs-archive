@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:43:11.510201
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_82.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_82.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_82.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_82.jpg)
 
 ---
 
 ## Source Document
 
-![Lewis County - Town School Units - Page 82](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_82.jpg)
+![Lewis County - Town School Units - Page 82](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_82.jpg)
 
 ---
 

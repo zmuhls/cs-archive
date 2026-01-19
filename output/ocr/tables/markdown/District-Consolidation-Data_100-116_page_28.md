@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:22:34.711430
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_28.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_28.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_28.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_28.jpg)
 
 ---
 
 ## Source Document
 
-![Chenango County - Central Rural Schools - Page 28](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_28.jpg)
+![Chenango County - Central Rural Schools - Page 28](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_28.jpg)
 
 ---
 

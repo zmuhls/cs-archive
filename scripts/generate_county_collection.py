@@ -14,7 +14,7 @@ from typing import Dict, List, Tuple
 # Configuration
 MARKDOWN_DIR = Path('output/ocr/tables/markdown')
 OUTPUT_PATH = Path('output/collections/district-consolidation-by-county.md')
-GITHUB_REPO = "zmuhls/csa"
+GITHUB_REPO = "zmuhls/cs-archive"
 BRANCH = "main"
 
 

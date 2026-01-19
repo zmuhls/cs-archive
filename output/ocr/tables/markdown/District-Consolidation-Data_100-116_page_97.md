@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:51:27.908678
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_97.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_97.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_97.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_97.jpg)
 
 ---
 
 ## Source Document
 
-![Monroe County - Central Rural Schools - Page 97](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_97.jpg)
+![Monroe County - Central Rural Schools - Page 97](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_97.jpg)
 
 ---
 

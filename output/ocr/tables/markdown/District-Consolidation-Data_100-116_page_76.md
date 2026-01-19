@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:40:19.707813
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_76.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_76.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_76.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_76.jpg)
 
 ---
 
 ## Source Document
 
-![Jefferson County - Union Free Schools - Page 76](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_76.jpg)
+![Jefferson County - Union Free Schools - Page 76](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_76.jpg)
 
 ---
 

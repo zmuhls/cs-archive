@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:25:25.607925
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_37.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_37.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_37.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_37.jpg)
 
 ---
 
 ## Source Document
 
-![Cortland County - Union Free Schools - Page 37](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_37.jpg)
+![Cortland County - Union Free Schools - Page 37](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_37.jpg)
 
 ---
 

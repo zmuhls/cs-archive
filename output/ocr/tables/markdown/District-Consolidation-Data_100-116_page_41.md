@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:27:12.169796
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_41.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_41.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_41.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_41.jpg)
 
 ---
 
 ## Source Document
 
-![Delaware County - Town School Units - Page 41](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_41.jpg)
+![Delaware County - Town School Units - Page 41](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_41.jpg)
 
 ---
 

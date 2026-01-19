@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:54:48.454180
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_108.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_108.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_108.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_108.jpg)
 
 ---
 
 ## Source Document
 
-![Oneida County - Town School Units - Page 108](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_108.jpg)
+![Oneida County - Town School Units - Page 108](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_108.jpg)
 
 ---
 

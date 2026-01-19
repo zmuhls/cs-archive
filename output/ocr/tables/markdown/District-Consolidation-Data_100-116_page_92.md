@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:49:17.742743
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_92.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_92.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_92.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_92.jpg)
 
 ---
 
 ## Source Document
 
-![Madison County - Central Rural Schools - Page 92](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_92.jpg)
+![Madison County - Central Rural Schools - Page 92](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_92.jpg)
 
 ---
 

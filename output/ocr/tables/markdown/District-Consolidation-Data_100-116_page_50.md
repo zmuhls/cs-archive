@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:30:25.595374
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_50.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_50.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_50.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_50.jpg)
 
 ---
 
 ## Source Document
 
-![Erie County - Union Free Schools - Page 50](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_50.jpg)
+![Erie County - Union Free Schools - Page 50](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_50.jpg)
 
 ---
 

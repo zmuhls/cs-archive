@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:59:01.342826
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_111.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_111.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_111.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_111.jpg)
 
 ---
 
 ## Source Document
 
-![Oneida County - Central Rural Schools - Page 111](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_111.jpg)
+![Oneida County - Central Rural Schools - Page 111](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_111.jpg)
 
 ---
 

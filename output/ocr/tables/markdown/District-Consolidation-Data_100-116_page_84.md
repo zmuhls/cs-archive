@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:45:13.614711
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_84.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_84.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_84.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_84.jpg)
 
 ---
 
 ## Source Document
 
-![Lewis County - Unknown - Page 84](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_84.jpg)
+![Lewis County - Unknown - Page 84](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_84.jpg)
 
 ---
 

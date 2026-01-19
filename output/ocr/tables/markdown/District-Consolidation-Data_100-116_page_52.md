@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:31:09.127995
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_52.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_52.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_52.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_52.jpg)
 
 ---
 
 ## Source Document
 
-![Erie County - Central Rural Schools - Page 52](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_52.jpg)
+![Erie County - Central Rural Schools - Page 52](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_52.jpg)
 
 ---
 

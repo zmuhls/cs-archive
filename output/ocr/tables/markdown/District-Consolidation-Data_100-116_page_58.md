@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:32:36.675781
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_58.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_58.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_58.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_58.jpg)
 
 ---
 
 ## Source Document
 
-![Franklin County - Union Free Schools - Page 58](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_58.jpg)
+![Franklin County - Union Free Schools - Page 58](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_58.jpg)
 
 ---
 

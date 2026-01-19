@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:11:15.557057
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_9.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_9.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_9.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_9.jpg)
 
 ---
 
 ## Source Document
 
-![Cattaraugus County - Central Rural Schools - Page 9](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_9.jpg)
+![Cattaraugus County - Central Rural Schools - Page 9](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_9.jpg)
 
 ---
 

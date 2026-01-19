@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:36:54.044599
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_67.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_67.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_67.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_67.jpg)
 
 ---
 
 ## Source Document
 
-![Greene County - Consolidated Districts - Page 67](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_67.jpg)
+![Greene County - Consolidated Districts - Page 67](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_67.jpg)
 
 ---
 

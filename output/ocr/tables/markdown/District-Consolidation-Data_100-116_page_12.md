@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:12:06.788660
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_12.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_12.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_12.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_12.jpg)
 
 ---
 
 ## Source Document
 
-![Cayuga County - Town School Units - Page 12](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_12.jpg)
+![Cayuga County - Town School Units - Page 12](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_12.jpg)
 
 ---
 

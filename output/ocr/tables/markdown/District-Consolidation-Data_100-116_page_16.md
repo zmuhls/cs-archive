@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:13:57.661760
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_16.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_16.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_16.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_16.jpg)
 
 ---
 
 ## Source Document
 
-![Chautauqua County - Town School Units - Page 16](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_16.jpg)
+![Chautauqua County - Town School Units - Page 16](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_16.jpg)
 
 ---
 

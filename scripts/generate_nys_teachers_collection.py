@@ -22,7 +22,7 @@ CSV_PATH = Path('csv/images_inventory_labeled.csv')
 OCR_TEXT_DIR = Path('output/ocr/text')
 OCR_METADATA_DIR = Path('output/ocr/metadata')
 OUTPUT_PATH = Path('output/collections/nys-teachers-association.md')
-GITHUB_REPO = "zmuhls/csa"
+GITHUB_REPO = "zmuhls/cs-archive"
 BRANCH = "main"
 
 

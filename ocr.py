@@ -26,30 +26,39 @@ load_dotenv()
 
 class QwenVLOCR:
     """Qwen VL Plus OCR processor for historical documents"""
-    
-    def __init__(self, config_path: str = "ocr_config.yaml"):
+
+    def __init__(self, config_path: str = "ocr_config.yaml", run_id: Optional[str] = None,
+                 enable_stamp_filtering: bool = True):
         self.api_key = os.getenv("OPENROUTER_KEY")
         if not self.api_key:
             raise ValueError("OPENROUTER_KEY not found in environment variables")
-        
+
         self.base_url = "https://openrouter.ai/api/v1/chat/completions"
         self.model = "qwen/qwen-vl-plus"
-        
+
         # Load configuration
         self.config = self._load_config(config_path)
-        
+
+        # Set run_id for versioning (prevents overwriting previous runs)
+        self.run_id = run_id or datetime.now().strftime('%Y%m%d_%H%M%S')
+
+        # Stamp filtering control (for microfilm scans vs direct photographs)
+        self.enable_stamp_filtering = enable_stamp_filtering
+
         # Setup output directories
         self.output_dir = Path(self.config.get("output_dir", "./output/ocr"))
         self.output_dir.mkdir(parents=True, exist_ok=True)
-        
+
         # Create subdirectories
         (self.output_dir / "text").mkdir(exist_ok=True)
         (self.output_dir / "metadata").mkdir(exist_ok=True)
         (self.output_dir / "logs").mkdir(exist_ok=True)
-        
+
         # Setup logging
-        log_file = self.output_dir / "logs" / f"ocr_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
+        log_file = self.output_dir / "logs" / f"ocr_{self.run_id}.log"
         logger.add(log_file, rotation="10 MB")
+        logger.info(f"Initialized OCR processor with run_id: {self.run_id}")
+        logger.info(f"Stamp filtering: {'enabled' if self.enable_stamp_filtering else 'disabled'}")
         
     def _load_config(self, config_path: str) -> dict:
         """Load configuration from YAML file"""
@@ -72,6 +81,7 @@ class QwenVLOCR:
             "prompts": {
                 "historical_document": self._get_historical_prompt(),
                 "handwritten": self._get_handwritten_prompt(),
+                "meeting_minutes": self._get_meeting_minutes_prompt(),
                 "typed": self._get_typed_prompt(),
                 "mixed": self._get_mixed_prompt(),
                 "notecard": self._get_notecard_prompt()
@@ -111,6 +121,39 @@ Transcribe this handwritten document with special attention to:
 
 Focus on accuracy over interpretation. Transcribe exactly what is written:"""
 
+    def _get_meeting_minutes_prompt(self) -> str:
+        """Prompt specifically for handwritten meeting minutes from school districts"""
+        return """You are an expert at reading 19th century American handwriting, particularly school district meeting minutes.
+
+DOCUMENT TYPE: School district meeting minutes (1800s-1900s)
+
+TYPICAL STRUCTURE:
+- Opening: "At a meeting of the inhabitants/freeholders of School District No. X..."
+- Date and location
+- Series of votes or resolutions (Vote 1st, Vote 2, etc.)
+- Decisions about: trustees, teachers, wages, school terms, wood/fuel, taxes, district boundaries
+- Adjournment notice
+
+TRANSCRIPTION RULES:
+1. Preserve archaic spellings exactly: "frecholders" (freeholders), "auth" (authorized), "inst." (instant/current month)
+2. Common terms: trustees, selectmen, freeholders, district, common school, teacher wages
+3. Maintain vote numbering format: "Vote 1st", "Vote 2", "Vote 3rd", etc.
+4. Use [?] for uncertain words or characters
+5. Use [illegible] for completely unreadable sections
+6. Note corrections, insertions, or strikethroughs: [correction: ...]
+7. Identify different handwriting if multiple scribes: [different hand:]
+8. Preserve line breaks between votes and sections
+
+COMMON CONTENT:
+- Teacher hiring and wages (e.g., "hire a Teacher for six months", "give such wages as they think fit")
+- School term lengths (e.g., "six months", "winter term", "summer term")
+- Fuel provisions (e.g., "Wood delivered and cut fit for fire shall be one dollar & fifty cents per cord")
+- Trustee powers and duties
+- Tax/money collection procedures
+- District consolidation or boundary changes
+
+Focus on accuracy over interpretation. Transcribe exactly what is written:"""
+
     def _get_typed_prompt(self) -> str:
         """Prompt for typewritten documents"""
         return """Transcribe this typewritten historical document exactly as it appears.
@@ -144,27 +187,45 @@ Transcribe all visible text:"""
         return """Transcribe these administrative index cards from the NYS Common School system archives.
 
 DOCUMENT FORMAT:
-- Each page shows 1-2 index cards photographed against a dark background
-- Each card contains a SCHOOL/DISTRICT NAME at the top, followed by a chronological timeline of administrative events
+- Each page shows EXACTLY 2 index cards positioned slightly to the right on a dark background
+- Each card has a HEADER with school/district name AND county, then a bulleted timeline below
+
+CRITICAL HEADER REQUIREMENTS:
+- Every card MUST have both: (1) School/District Name AND (2) County Location
+- Header format is typically: "School Name (County Co.)" or separate lines with name then address/county
+- Common counties: Erie, Wyoming, Monroe, Albany, etc.
+- If county is not visible but school name is clear, note as [county unclear]
+
+CARD STRUCTURE:
+1. HEADER LINE(S): School/district name + County (e.g., "Bethlehem Central Jr. High School" / "352 Kenwood Ave. Delmar" / "Albany Co.")
+2. TIMELINE ENTRIES: Bulleted chronological events (e.g., "4/30-5/1/59 adm as a junior h.s. (JHS)")
+3. Each timeline entry is a separate line with date + event description
 
 TRANSCRIPTION RULES:
-1. Separate multiple cards on the same page with a horizontal rule: ---
-2. For each card, start with the HEADER (school/district name and location)
-3. Then transcribe the TIMELINE entries in chronological order, one per line
-4. Preserve date formats exactly as shown (e.g., "4 F. 1923", "1 May 1923", "R 9 Jan 1880")
-5. For typed text: transcribe exactly, preserving abbreviations
-6. For handwritten text: transcribe carefully, mark uncertain words with [?]
-7. Indicate text type when switching: [typed:] or [handwritten:]
-8. Mark illegible sections as [illegible]
-9. Note any stamps or annotations as [stamp: ...]
+1. Always separate the TWO cards on each page with: ---
+2. Start each card with the complete HEADER (name + county)
+3. Transcribe timeline entries in order, preserving exact date formats
+4. Common date abbreviations: D (December), Ju (June), F (February), N (November), etc.
+5. Mark typed vs handwritten sections: [typed:] or [handwritten:]
+6. Use [?] for uncertain text, [illegible] for completely unreadable sections
+7. Preserve abbreviations: "adm" (admitted), "Re-reg" (re-registered), "M-1" (grade level), "JHS" (junior high school)
+8. Note stamps/annotations: [stamp: ...]
 
-STRUCTURE EXAMPLE:
-Allen Dale and Columbia School of Rochester (Monroe Co.)
-[typed:] R 19 May 1834 (ch. 297) Alexander Classical School
-[typed:] 5 Feb. 1859 - admitted
-[handwritten:] 4/30-5/1/69 name changed to...
+EXAMPLE OUTPUT:
+Deaser Union School (Albany Co.)
+19 July 1926 - application for admission
+4 Nov. 1926 - admitted M-1
+15 Jan 1927 - appli. adv. M-1 to M-P
+31 Mar 1927 - advanced M-1 to M-2
 
-Transcribe all visible text from the card(s):"""
+---
+
+Bethlehem Central Jr. High School (Albany Co.)
+352 Kenwood Ave. Delmar
+4/30-5/1/59 adm. as a junior h.s. (JHS) on five year provisional basis beginning Sept. 1958
+1/27-28/65 Re-reg. as a junior high school for a 5 yr. period as of Sept. 1, 1963
+
+Transcribe all visible text from BOTH cards on this page:"""
 
     async def process_image(self, image_path: Path, document_type: str = "historical_document",
                            enhance_handwritten: bool = False) -> Dict:
@@ -409,37 +470,97 @@ Transcribe all visible text from the card(s):"""
 
         return filtered_text
 
+    def _consolidate_illegible_output(self, text: str) -> str:
+        """
+        Consolidate consecutive [illegible] markers to reduce noise.
+
+        Replaces 3+ consecutive [illegible] lines with a single summary marker.
+        Preserves 1-2 consecutive markers (legitimate illegible words/phrases).
+
+        Args:
+            text: OCR output text
+
+        Returns:
+            Text with consolidated illegible markers
+        """
+        lines = text.split('\n')
+        cleaned_lines = []
+        consecutive_count = 0
+        blocks_consolidated = 0
+
+        for line in lines:
+            stripped = line.strip()
+
+            # Check if line is just [illegible] marker
+            if stripped == '[illegible]':
+                consecutive_count += 1
+            else:
+                # If we had 3+ consecutive markers, consolidate
+                if consecutive_count >= 3:
+                    cleaned_lines.append(f'[illegible - {consecutive_count} consecutive lines unreadable]')
+                    blocks_consolidated += 1
+                elif consecutive_count > 0:
+                    # Keep 1-2 markers as-is (legitimate illegible words)
+                    cleaned_lines.extend(['[illegible]'] * consecutive_count)
+
+                consecutive_count = 0
+                cleaned_lines.append(line)
+
+        # Handle trailing illegible markers
+        if consecutive_count >= 3:
+            cleaned_lines.append(f'[illegible - {consecutive_count} consecutive lines unreadable]')
+            blocks_consolidated += 1
+        elif consecutive_count > 0:
+            cleaned_lines.extend(['[illegible]'] * consecutive_count)
+
+        # Log consolidation if it occurred
+        if blocks_consolidated > 0:
+            logger.debug(f"Illegible consolidation: {blocks_consolidated} blocks consolidated")
+
+        return '\n'.join(cleaned_lines)
+
     def _save_results(self, source_path: Path, result: Dict) -> Path:
-        """Save OCR results to file with stamp noise filtering"""
-        # Create output filename based on source
+        """Save OCR results to file with optional stamp filtering and illegible consolidation"""
+        # Create output filename based on source with run_id for versioning
         stem = source_path.stem
 
-        # Apply stamp noise filtering
+        # Apply filters conditionally
         original_text = result["text"]
-        filtered_text = self._filter_stamp_noise(original_text)
 
-        # Save filtered text
-        text_path = self.output_dir / "text" / f"{stem}.txt"
+        # Stamp filtering only for microfilm scans (not for photographed cards)
+        if self.enable_stamp_filtering:
+            filtered_text = self._filter_stamp_noise(original_text)
+        else:
+            filtered_text = original_text
+
+        # Always apply illegible consolidation
+        consolidated_text = self._consolidate_illegible_output(filtered_text)
+
+        # Save consolidated text with run_id in filename
+        text_path = self.output_dir / "text" / f"{stem}_{self.run_id}.txt"
         with open(text_path, 'w', encoding='utf-8') as f:
-            f.write(filtered_text)
+            f.write(consolidated_text)
 
-        # Save metadata with both original and filtered stats
+        # Save metadata with processing stats
         metadata = {
             "source_file": str(source_path),
             "processed_at": datetime.now().isoformat(),
+            "run_id": self.run_id,
             "model": result["model"],
             "usage": result.get("usage", {}),
             "confidence": result.get("confidence"),
             "text_length_original": len(original_text),
             "text_length_filtered": len(filtered_text),
-            "stamp_filtering_applied": True,
+            "text_length_final": len(consolidated_text),
+            "stamp_filtering_applied": self.enable_stamp_filtering,
+            "illegible_consolidation_applied": True,
             "checksum": self._calculate_checksum(source_path)
         }
 
-        metadata_path = self.output_dir / "metadata" / f"{stem}.json"
+        metadata_path = self.output_dir / "metadata" / f"{stem}_{self.run_id}.json"
         with open(metadata_path, 'w', encoding='utf-8') as f:
             json.dump(metadata, f, indent=2)
-        
+
         return text_path
     
     def _calculate_checksum(self, file_path: Path) -> str:
@@ -480,15 +601,16 @@ Transcribe all visible text from the card(s):"""
         return results
     
     def _combine_pdf_results(self, pdf_path: Path, results: List[Dict]):
-        """Combine OCR results from all pages of a PDF"""
+        """Combine OCR results from all pages of a PDF with run_id for versioning"""
         combined_text = []
         combined_metadata = {
             "source_pdf": str(pdf_path),
             "processed_at": datetime.now().isoformat(),
+            "run_id": self.run_id,
             "total_pages": len(results),
             "pages": []
         }
-        
+
         for result in results:
             if result["status"] == "success":
                 # Read the text file
@@ -498,23 +620,23 @@ Transcribe all visible text from the card(s):"""
                         page_text = f.read()
                         combined_text.append(f"\n--- Page {result['page_number']} ---\n")
                         combined_text.append(page_text)
-                
+
                 combined_metadata["pages"].append({
                     "page": result["page_number"],
                     "status": result["status"],
                     "confidence": result.get("confidence"),
                     "text_length": result.get("text_length")
                 })
-        
-        # Save combined results
-        combined_text_path = self.output_dir / "text" / f"{pdf_path.stem}_complete.txt"
+
+        # Save combined results with run_id for versioning
+        combined_text_path = self.output_dir / "text" / f"{pdf_path.stem}_{self.run_id}_complete.txt"
         with open(combined_text_path, 'w', encoding='utf-8') as f:
             f.write('\n'.join(combined_text))
-        
-        combined_metadata_path = self.output_dir / "metadata" / f"{pdf_path.stem}_complete.json"
+
+        combined_metadata_path = self.output_dir / "metadata" / f"{pdf_path.stem}_{self.run_id}_complete.json"
         with open(combined_metadata_path, 'w', encoding='utf-8') as f:
             json.dump(combined_metadata, f, indent=2)
-        
+
         logger.info(f"Combined PDF results saved to {combined_text_path}")
     
     async def process_batch(self, file_paths: List[Path], document_type: str = "historical_document"):

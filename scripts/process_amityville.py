@@ -15,6 +15,7 @@ import sys
 import time
 from pathlib import Path
 from datetime import datetime, timedelta
+from typing import Optional
 import json
 
 # Add parent directory to path for imports
@@ -63,20 +64,27 @@ def estimate_remaining(elapsed: float, completed: int, total: int) -> str:
     return format_duration(remaining_seconds)
 
 
-async def process_amityville():
-    """Process Amityville-Records.pdf with verbose logging."""
+async def process_amityville(run_id: Optional[str] = None):
+    """Process Amityville-Records.pdf with verbose logging.
+
+    Args:
+        run_id: Optional run identifier for versioning. If not provided, uses timestamp.
+    """
 
     print("=" * 70)
     print("AMITYVILLE RECORDS PROCESSING")
-    print("Model: qwen/qwen-vl-plus (with stamp noise filtering)")
+    print("Model: qwen/qwen-vl-plus (historical documents with stamp filtering)")
     print("=" * 70)
     print()
 
-    # Initialize OCR and override model
-    ocr = QwenVLOCR(config_path="ocr_config.yaml")
-    ocr.model = "qwen/qwen-vl-plus"  # Use plus model with stamp filtering
+    # Initialize OCR with run_id for versioning
+    # Enable stamp filtering - this is a microfilm scan
+    ocr = QwenVLOCR(config_path="ocr_config.yaml", run_id=run_id, enable_stamp_filtering=True)
+    ocr.model = "qwen/qwen-vl-plus"
     logger.info(f"Initialized OCR with model: {ocr.model}")
-    logger.info("Stamp noise filtering enabled - duplicate microfilm stamps will be removed")
+    logger.info(f"Run ID: {ocr.run_id}")
+    logger.info("Document type: HISTORICAL DOCUMENT (mixed administrative records)")
+    logger.info("Stamp noise filtering: ENABLED (microfilm scan with duplicate stamps)")
 
     pdf_path = Path("raw/scans/NYS Archives/A4456/Amityville-Records.pdf")
 
@@ -273,4 +281,15 @@ async def process_amityville():
 
 
 if __name__ == "__main__":
-    asyncio.run(process_amityville())
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Process Amityville Records PDF")
+    parser.add_argument(
+        "--run-id",
+        type=str,
+        default=None,
+        help="Run identifier for versioning (prevents overwriting). If not provided, uses timestamp."
+    )
+
+    args = parser.parse_args()
+    asyncio.run(process_amityville(run_id=args.run_id))

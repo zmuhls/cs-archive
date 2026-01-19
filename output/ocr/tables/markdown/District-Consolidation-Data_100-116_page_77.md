@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:40:30.352315
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_77.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_77.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_77.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_77.jpg)
 
 ---
 
 ## Source Document
 
-![Jefferson County - Town School Units - Page 77](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_77.jpg)
+![Jefferson County - Town School Units - Page 77](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_77.jpg)
 
 ---
 

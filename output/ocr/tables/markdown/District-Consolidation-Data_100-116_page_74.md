@@ -8,13 +8,13 @@
 
 **Processed:** 2026-01-01T22:40:01.735778
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_74.jpg](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_74.jpg)
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_74.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_74.jpg)
 
 ---
 
 ## Source Document
 
-![Herkimer County - Central Rural Schools - Page 74](https://raw.githubusercontent.com/zmuhls/csa/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_74.jpg)
+![Herkimer County - Central Rural Schools - Page 74](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_74.jpg)
 
 ---
 
