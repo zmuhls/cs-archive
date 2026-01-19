@@ -1,8 +1,14 @@
 <article class="artifact-card">
   <a href="{{ include.artifact.url | relative_url }}" class="card-link">
     {% if include.artifact.source_images.size > 0 %}
+    {% assign first_img = include.artifact.source_images[0] %}
+    {% if first_img.filename %}
+    {% assign thumb_src = '/derived/thumbs/' | append: first_img.filename | relative_url %}
+    {% else %}
+    {% assign thumb_src = first_img.thumbnail %}
+    {% endif %}
     <div class="card-image">
-      <img src="{{ include.artifact.source_images[0].thumbnail }}"
+      <img src="{{ thumb_src }}"
            alt="{{ include.artifact.title }}"
            loading="lazy">
     </div>

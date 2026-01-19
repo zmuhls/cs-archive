@@ -100,3 +100,49 @@ The root README was minimal and lacked cross-links to the curated collections, b
 
 ### Next Steps
 - Optional: add link-check CI or a lightweight script under `scripts/` to verify README links remain valid as files move.
+
+---
+
+## 2026-01-19: Jekyll link audit, card images, and 3-collection alignment
+
+### Context
+Internal links broke under GitHub Pages due to missing `baseurl` handling, and item/collection cards rendered without images. The collections model has been updated to three buckets that needed consistent naming across pages.
+
+### Changes Made
+- _config.yml: Added `include: [derived/thumbs]` so thumbnail assets are published with the site.
+- _includes/artifact-card.html: Use local thumbnails via `derived/thumbs/{{ filename }}` when available, falling back to the remote `thumbnail` field.
+- _layouts/artifact.html: Same local-first thumbnail logic for the gallery image sources; keep `image.full` as external link target.
+- index.md:
+  - Converted all internal links to `{{ '...path...' | relative_url }}` for GitHub Pages compatibility.
+  - Added representative images to the three collection cards (derived thumbs) and styling for a top-of-card image.
+  - Standardized the label to “NYS Teachers’ Association”.
+- browse/index.md: Switched to `relative_url` links and updated the Collections section to reflect the three-collection model (Local District Governance, Administrative Data & Statistics, NYS Teachers’ Association).
+- collections/index.md: Switched internal links to `relative_url`; standardized naming and map links.
+- collections/district-consolidation.md: Fixed county browse link to use `relative_url`.
+- _data/navigation.yml: Standardized the collection label to “NYS Teachers’ Association”.
+
+### Decisions
+- Prefer locally published thumbnails under `derived/thumbs/` to avoid external hotlinking and CORS/content-type surprises; publish only thumbs (not full images) to keep the site light.
+- Use Liquid’s `relative_url` consistently in content pages to respect `baseurl` on GitHub Pages.
+- Keep `image.full` links as GitHub-hosted raw URLs to avoid shipping large binaries in the site build.
+
+### Next Steps
+- Add a quick link-check step (optional script under `scripts/`) to scan for absolute `/...` links and suggest `relative_url` replacements.
+- Confirm card images work across a handful of random artifacts; if any are missing `filename`, ensure the remote `thumbnail` fallback renders.
+- Consider a homepage hero collage or header overlay using a few curated thumbnails with more descriptive `alt` text.
+- Decide whether to remove or update the legacy `docs/` Jekyll copy to reduce confusion (root build is canonical via Actions).
+
+## 2026-01-19: Mark legacy docs/ copy
+
+### Context
+Two Jekyll copies existed (root and `docs/`). The root site is the only deployed source via GitHub Actions. We marked `docs/` as legacy to prevent confusion while ensuring the live site remains unaffected.
+
+### Changes Made
+- Added `docs/README.md` explaining deprecation and pointing to the canonical site.
+- Updated `docs/index.md` with a clear notice and link to https://zmuhls.github.io/cs-archive/.
+
+### Decisions
+- Keep `docs/` in-repo for now (marked as legacy); root `_config.yml` already excludes it from the build, so production is unaffected.
+
+### Next Steps
+- Optional: Remove `docs/` after confirming no scripts or workflows still rely on it.

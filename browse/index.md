@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Browse the Archive
-description: Explore 314 artifacts from the Common School Archive
+description: Explore artifacts from the Common School Archive
 permalink: /browse/
 ---
 
@@ -39,14 +39,6 @@ Index cards and county consolidation tables for quantitative research on distric
 Proceedings and related materials tracing NYSTA’s history from origin into the early 20th century.
 
 </div>
-
-## Quick Stats
-
-- **314** total artifacts
-- **295** primary documents
-- **19** research materials
-- **168,845** words transcribed
-- **376** source images
 
 <style>
 .browse-options, .collection-links {

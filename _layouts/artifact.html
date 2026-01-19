@@ -23,11 +23,13 @@ layout: default
           {% for image in page.source_images %}
           {% if image.filename %}
           {% assign thumb_src = '/derived/thumbs/' | append: image.filename | relative_url %}
+          {% assign full_src = '/derived/thumbs/' | append: image.filename | relative_url %}
           {% else %}
           {% assign thumb_src = image.thumbnail %}
+          {% assign full_src = image.full %}
           {% endif %}
           <figure class="gallery-item">
-            <a href="{{ image.full }}" target="_blank" title="View full image">
+            <a href="{{ full_src }}" target="_blank" title="View full image">
               <img src="{{ thumb_src }}" alt="{{ page.title }} - {{ image.id }}" loading="lazy">
             </a>
             <figcaption>{{ image.id }}</figcaption>

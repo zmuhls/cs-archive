@@ -26,7 +26,7 @@ The consolidation records include several types of data tables:
 
 ## Browse by County
 
-Select a county below to view its consolidation records, or use the [county browse page](/browse/by-county/) for the full listing.
+Select a county below to view its consolidation records, or use the [county browse page]({{ '/browse/by-county/' | relative_url }}) for the full listing.
 
 {% assign county_artifacts = site.artifacts | where_exp: "item", "item.county != nil" | group_by: "county" | sort: "name" %}
 

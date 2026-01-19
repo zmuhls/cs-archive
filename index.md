@@ -43,13 +43,13 @@ Primary sources from New York State's common school system (1810s–1940s): from
 
 ## Search
 
-Use the [search page]({{ '/search/' | relative_url }}) to find specific documents by keyword across 168,845 words of transcribed text.
+Use the [search page]({{ '/search/' | relative_url }}) to find specific documents by keyword.
 
 ---
 
 ## About This Archive
 
-**1,000+ pages** from **376 source images** yielding **168,845 words** of transcribed text. Documents have been digitized from NYS Archives series (A4645, B0594, B0494) and other repositories, then processed using multimodal AI (Qwen VL Plus) for transcription, classification, and metadata extraction.
+Documents have been digitized from NYS Archives series (A4645, B0594, B0494) and other repositories, then processed using multimodal AI (Qwen VL Plus) for transcription, classification, and metadata extraction.
 
 [Learn more about the project]({{ '/about/' | relative_url }})
 

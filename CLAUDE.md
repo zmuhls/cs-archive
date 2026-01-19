@@ -8,7 +8,22 @@ Digital humanities archive for the Common School system of New York State (1800s
 
 ## Development Commands
 
-### Full Pipeline (in order)
+### Jekyll Site (Local Development)
+
+```bash
+# Install Ruby dependencies (requires Ruby 3.3.4 via RVM)
+bundle install
+
+# Start local development server at http://localhost:4000/cs-archive/
+bundle exec jekyll serve
+
+# Build only (no server)
+bundle exec jekyll build
+```
+
+Site deploys via GitHub Actions (`.github/workflows/jekyll-gh-pages.yml`) to GitHub Pages on push to main.
+
+### Full OCR Pipeline (in order)
 
 ```bash
 # 1. Ingest images and build inventory
@@ -51,7 +66,7 @@ python process_archive.py --collection nys      # NYS Archives PDFs
 ### Processing Pipeline
 
 ```text
-raw/scans/img/     →  build_images_inventory.py  →  csv/images_inventory.csv
+raw/scans/Kheel Center/img/     →  build_images_inventory.py  →  csv/images_inventory.csv
                    →  generate_thumbnails.py     →  derived/thumbs/
                    →  prepare_image_label_requests.py → prompts/images_label_requests.jsonl
                    →  batch_label_images.py      →  prompts/images_label_responses.jsonl
@@ -79,6 +94,137 @@ raw/scans/img/     →  build_images_inventory.py  →  csv/images_inventory.csv
    - Merges sequential pages, culls duplicates (>85% text similarity)
    - Routes research notes to `output/archive/research/`
 
+### Jekyll Site Structure
+
+```text
+_config.yml          # Site config (theme: minimal-mistakes-jekyll, remote_theme for GH Pages)
+_data/navigation.yml # Sidebar and header nav
+_layouts/            # Custom layouts (artifact.html, browse.html)
+_includes/           # Reusable components (artifact-card.html)
+assets/maps/         # Leaflet map JS
+collections/         # Collection overview pages
+browse/              # Browse by decade/type/county/location
+index.md, about.md, map.md, search.md  # Top-level pages
+derived/thumbs/      # Thumbnails served via `include:` in _config.yml
+```
+
+### Image Storage & Git LFS
+
+**CRITICAL: All images are stored with Git LFS.** This affects how images can be accessed.
+
+#### Directory Structure
+
+| Directory | Contents | Git LFS |
+| --- | --- | --- |
+| `raw/scans/Kheel Center/img/` | Original high-res scans (JPEG) | Yes |
+| `derived/thumbs/` | 512px thumbnails for web display | Yes |
+
+#### Git LFS Configuration (`.gitattributes`)
+
+```text
+raw/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+derived/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+```
+
+#### Correct Image URL Patterns
+
+**For Jekyll templates** (`_layouts/`, `_includes/`, `*.md` with Liquid):
+
+```liquid
+{{ '/derived/thumbs/IMG_0625.jpeg' | relative_url }}
+```
+
+This generates `/cs-archive/derived/thumbs/IMG_0625.jpeg` which Jekyll serves correctly.
+
+**For artifact frontmatter** (`_artifacts/*.md`):
+
+```yaml
+source_images:
+  - filename: "IMG_0625.jpeg"  # Preferred - used by templates
+    thumbnail: "https://..."    # Fallback only
+    full: "https://..."         # For lightbox/full-size view
+```
+
+The `_includes/artifact-card.html` template checks for `filename` first:
+
+```liquid
+{% if first_img.filename %}
+  {% assign thumb_src = '/derived/thumbs/' | append: first_img.filename | relative_url %}
+{% else %}
+  {% assign thumb_src = first_img.thumbnail %}
+{% endif %}
+```
+
+#### URLs That DO NOT Work for Git LFS Files
+
+**NEVER use `raw.githubusercontent.com` for LFS files:**
+
+```text
+# BROKEN - Returns LFS pointer text, not image binary
+https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0625.jpeg
+```
+
+This returns:
+
+```text
+version https://git-lfs.github.com/spec/v1
+oid sha256:211b289311d44c2c9398b679f07ead7b85d1a4efb8be0dd2c8371e5d21f10e9f
+size 72037
+```
+
+#### URLs That Work for Git LFS Files
+
+1. **GitHub Pages (preferred for Jekyll site):**
+
+   ```text
+   https://zmuhls.github.io/cs-archive/derived/thumbs/IMG_0625.jpeg
+   ```
+
+   Requires `derived/thumbs` to be included in Jekyll build (see `_config.yml`).
+
+2. **GitHub Media URL (for external references):**
+
+   ```text
+   https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0625.jpeg
+   ```
+
+   This endpoint serves actual LFS file content.
+
+3. **GitHub blob with ?raw=true (redirects to media URL):**
+
+   ```text
+   https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0625.jpeg?raw=true
+   ```
+
+#### Jekyll Config for Images
+
+In `_config.yml`:
+
+```yaml
+exclude:
+  - derived/        # Exclude parent directory
+include:
+  - derived/thumbs  # But include thumbs subdirectory
+```
+
+**Note:** The `include` directive overrides `exclude` for specified paths. GitHub Actions workflow has `lfs: true` to checkout actual files during build.
+
+#### When Generating Collection Pages
+
+Scripts that generate collection markdown (e.g., `scripts/generate_nys_teachers_collection.py`) should use:
+
+1. **For Jekyll-rendered pages:** Use `relative_url` filter with local paths
+2. **For static markdown:** Use GitHub Media URLs, NOT raw.githubusercontent.com
+
+Example fix for collection generation scripts:
+```python
+# WRONG - LFS pointer returned
+thumbnail_url = f"https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/{filename}"
+
+# CORRECT - Actual image served
+thumbnail_url = f"https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/{filename}"
+```
+
 ### Key Data Files
 
 | File | Purpose |
@@ -88,6 +234,7 @@ raw/scans/img/     →  build_images_inventory.py  →  csv/images_inventory.csv
 | `prompts/images_label_requests.jsonl` | LLM labeling requests |
 | `prompts/images_label_responses.jsonl` | LLM labeling responses |
 | `output/archive/manifest.json` | Final artifact catalog |
+| `_data/manifest.json` | Jekyll-accessible artifact catalog |
 | `DEVLOG.md` | Chronological development history |
 | `AGENTS.md` | Instructions for AI agents |
 
@@ -238,37 +385,53 @@ Leaflet map at `dev/leaflet/archive-map.html` displays both NYSTA meetings (red 
 - Add consensus scoring to metadata schema
 - Test ensemble on 10 challenging documents
 
+#### Site Maintenance
+
+- Evaluate and deprecate/merge the legacy `docs/` Jekyll copy in favor of root build (Actions-driven). [Partially done: marked legacy, added README/notice]
+- Commit `_artifacts/` directory to git (currently untracked, causing 404s on live site).
+- Fix collection page image URLs to use `media.githubusercontent.com` instead of `raw.githubusercontent.com`.
+
 ---
 
 ### Done
 
-- 2026-01-18 — README overhaul and link hub (added collection overviews, cross-links to browse/search/map, outputs, inventories, prompts, and developer docs)
+#### 2026-01-18 — Link Audit & Image Documentation
 
-### Done
+- Created `scripts/link_audit.py` for automated link pattern detection and live site validation
+- Documented Git LFS image handling in CLAUDE.md (critical for future sessions)
+- Identified critical issues: `_artifacts/` untracked, LFS images not rendering via `raw.githubusercontent.com`
+- Generated `output/link_audit_report.csv` (1,062 issues) and `output/LINK_AUDIT_SUMMARY.md`
 
-#### Stage 1: Artifact Collation (2024-12-24)
+#### 2026-01-19 — Jekyll Site & GitHub Pages
 
-- Added new columns to inventory CSV schema (artifact_link_type, artifact_confidence, needs_review, parent_artifact_id)
-- Created `scripts/refine_artifact_groups.py` for text-similarity-based grouping
-- Created `scripts/migrate_inventory_schema.py` for existing data migration
-- Updated `consolidate_artifacts.py` to handle different link types
-- Tested on sample session S0026 (19 items)
-- Generated `csv/artifact_review_queue.csv` with 14 items for review
+- Add Jekyll site with Minimal Mistakes theme to project root
+- Configure GitHub Actions deployment (`.github/workflows/jekyll-gh-pages.yml`)
+- Publish `derived/thumbs` via `_config.yml` include; use local thumbs in cards/galleries
+- Convert internal links to `relative_url` in index/browse/collections pages
+- Add homepage collection images; standardize "NYS Teachers' Association" naming
+- Integrate map page with theme layout (remove standalone W3.CSS styling)
 
-#### Stage 3: OMEKA Integration (2025-01-16)
+#### 2026-01-19 — Mark legacy `docs/` copy
+
+- Added `docs/README.md` with deprecation notice and canonical site link
+- Updated `docs/index.md` title and banner to point to https://zmuhls.github.io/cs-archive/
+
+#### 2026-01-18 — README Overhaul
+
+- Added collection overviews, cross-links to browse/search/map, outputs, inventories, prompts, and developer docs
+
+#### 2025-01-17 — NYS Archives Local Records Collection
+
+- Created third collection from Series A4645, B0594, A4456
+- Created `scripts/generate_nys_local_records_collection.py` and `scripts/process_amityville.py`
+- Updated `scripts/generate_omeka_csv.py` to include new collection (355 total items)
+
+#### 2025-01-16 — OMEKA Integration
 
 - Created `scripts/generate_omeka_csv.py` for CSV import preparation (249 items)
-- Generated Dublin Core metadata mapping (collection, title, date, description, type, spatial, subject, source, identifier, file)
-- Created collection introductions and about page content
-- Modified "Thanks, Roy" theme with featured collections grid and responsive CSS
-- Provided Docker setup (MySQL + PHP + Apache) and OMEKA installation guide
-- Package ready for manual OMEKA configuration and CSV import
+- Generated Dublin Core metadata mapping; modified "Thanks, Roy" theme
 
-#### Stage 3b: NYS Archives Local Records Collection (2025-01-17)
+#### 2024-12-24 — Artifact Collation
 
-- Created third collection: "NYS Archives Local District Records" from Series A4645, B0594, A4456
-- Created `scripts/generate_nys_local_records_collection.py` for collection markdown generation
-- Created `scripts/process_amityville.py` for separate processing of 665-page Amityville PDF
-- Updated `scripts/generate_omeka_csv.py` to include new collection (355 total items)
-- Generated `output/collections/nys-local-records.md` with 106 pages from South-Kortright Roll and District Notecards
-- Amityville-Records.pdf pending OCR processing (run `python scripts/process_amityville.py`)
+- Added artifact_link_type, artifact_confidence, needs_review columns to inventory
+- Created `scripts/refine_artifact_groups.py` for text-similarity-based grouping
