@@ -24,7 +24,7 @@ Interactive map showing locations from two collections: **NYSTA annual meeting s
 
 <div id="nysta" class="tab-content active">
 
-**16 meeting locations** from the [NYS Teachers' Association collection]({{ '/collections/nys-teachers-association/' | relative_url }}).
+<p class="location-note"><strong>16 meeting locations</strong> from the <a href="{{ '/collections/nys-teachers-association/' | relative_url }}">NYS Teachers' Association collection</a>.</p>
 
 <ul class="location-list" id="nysta-list"></ul>
 
@@ -32,7 +32,7 @@ Interactive map showing locations from two collections: **NYSTA annual meeting s
 
 <div id="counties" class="tab-content">
 
-**29 counties** with school district consolidation records from [District Administrative Data]({{ '/collections/administrative-data/' | relative_url }}).
+<p class="location-note"><strong>29 counties</strong> with school district consolidation records from <a href="{{ '/collections/administrative-data/' | relative_url }}">District Administrative Data</a>.</p>
 
 <ul class="location-list" id="county-list"></ul>
 
@@ -43,11 +43,17 @@ Interactive map showing locations from two collections: **NYSTA annual meeting s
 <style>
 #map {
   width: 100%;
-  height: 450px;
+  height: 70vh;
+  min-height: 420px;
+  max-height: 800px;
+  display: block;
+  position: relative;
   border-radius: 8px;
   border: 1px solid #e1e1e1;
   margin-bottom: 1.5rem;
 }
+
+.leaflet-container img { max-width: none !important; }
 
 .location-tabs {
   display: flex;
@@ -138,9 +144,17 @@ Interactive map showing locations from two collections: **NYSTA annual meeting s
   margin-bottom: 6px;
 }
 
+/* Subtle note under tabs to avoid visual bleed */
+.location-note {
+  color: #555;
+  margin: 0.25rem 0 0.5rem 0;
+  font-size: 0.95rem;
+}
+
 @media (max-width: 767px) {
   #map {
-    height: 300px;
+    height: 55vh;
+    min-height: 300px;
   }
   .location-list {
     grid-template-columns: 1fr;
