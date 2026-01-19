@@ -5,11 +5,11 @@ description: Curated collections from the Common School Archive
 permalink: /collections/
 ---
 
-The Common School Archive contains three thematically organized collections documenting the history of public education in New York State, spanning from the early 1800s through the 1940s.
+Three thematically organized collections spanning the 1810s through 1940s. Materials range from handwritten meeting minutes and typed proceedings to notecard indexes and county consolidation tables—organized to support both qualitative and quantitative research on New York State's common school system.
 
 ---
 
-## [NYS Teachers Association](/collections/nys-teachers-association/)
+## [NYS Teachers' Association]({{ '/collections/nys-teachers-association/' | relative_url }})
 
 **83 items spanning 1845-1940s**
 
@@ -20,11 +20,11 @@ Historical records from the New York State Teachers' Association documenting the
 - Legislative advocacy documents
 - Publications and periodicals
 
-[Browse Collection](/collections/nys-teachers-association/) | [View Meeting Locations](/map/)
+[Browse Collection]({{ '/collections/nys-teachers-association/' | relative_url }}) | [View Meeting Locations]({{ '/map/' | relative_url }})
 
 ---
 
-## [Local District Governance Records](/collections/local-district-governance/)
+## [Local District Governance Records]({{ '/collections/local-district-governance/' | relative_url }})
 
 **708 pages from 1810s-1930s**
 
@@ -44,11 +44,11 @@ Board meeting minutes and governance documents showing decision-making processes
 
 **Research Value:** Compare rural (South-Kortright 1810s) vs. suburban (Amityville 1930s) governance, track bureaucratic modernization, study Depression-era school finance.
 
-[Browse Collection](/collections/local-district-governance/)
+[Browse Collection]({{ '/collections/local-district-governance/' | relative_url }})
 
 ---
 
-## [District Administrative Data & Statistics](/collections/administrative-data/)
+## [District Administrative Data & Statistics]({{ '/collections/administrative-data/' | relative_url }})
 
 **179 pages of reference materials**
 
@@ -68,7 +68,7 @@ Statistical data, registries, and reference materials for quantitative and geogr
 
 **Research Value:** Spatial analysis of consolidation patterns, quantitative research on district mergers, geographic visualization of education reform.
 
-[Browse Collection](/collections/administrative-data/) | [View on Map](/map/)
+[Browse Collection]({{ '/collections/administrative-data/' | relative_url }}) | [View on Map]({{ '/map/' | relative_url }})
 
 ---
 

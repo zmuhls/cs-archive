@@ -113,3 +113,7 @@ exclude:
   - requirements.txt
   - dev/
   - .env
+
+# Explicitly include thumbnail assets for use in cards/galleries
+include:
+  - derived/thumbs

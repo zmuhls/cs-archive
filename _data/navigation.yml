@@ -17,7 +17,7 @@ main:
 archive:
   - title: "Collections"
     children:
-      - title: "NYS Teachers Association"
+      - title: "NYS Teachers' Association"
         url: /collections/nys-teachers-association/
       - title: "Local District Governance"
         url: /collections/local-district-governance/

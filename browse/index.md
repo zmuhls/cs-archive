@@ -5,22 +5,22 @@ description: Explore 314 artifacts from the Common School Archive
 permalink: /browse/
 ---
 
-Browse the archive by different categories to discover historical documents from New York State's education system.
+Explore primary sources by decade, document type, county, or location. Materials include handwritten meeting minutes, typed proceedings, notecard indexes, and county consolidation tables from the 1810s through 1940s.
 
 ## Browse By
 
 <div class="browse-options">
 
-### [By Decade](/browse/by-decade/)
+### [By Decade]({{ '/browse/by-decade/' | relative_url }})
 Explore documents organized by time period, from the 1840s through the 1940s.
 
-### [By Document Type](/browse/by-type/)
+### [By Document Type]({{ '/browse/by-type/' | relative_url }})
 Filter by document type: letters, reports, meeting minutes, maps, and more.
 
-### [By County](/browse/by-county/)
+### [By County]({{ '/browse/by-county/' | relative_url }})
 View records organized by New York State county.
 
-### [By Location](/browse/by-location/)
+### [By Location]({{ '/browse/by-location/' | relative_url }})
 Browse documents by the locations mentioned within them.
 
 </div>
@@ -29,11 +29,14 @@ Browse documents by the locations mentioned within them.
 
 <div class="collection-links">
 
-### [District Consolidation Records](/collections/district-consolidation/)
-29 counties of school district consolidation data from NYS Archives Series A4456.
+### [Local District Governance Records]({{ '/collections/local-district-governance/' | relative_url }})
+Board meeting minutes from rural and suburban districts (1810s–1930s). Compare South-Kortright (1810s) and Amityville (1930s) governance.
 
-### [NYS Teachers' Association](/collections/nys-teachers/)
-Proceedings, membership materials, and advocacy documents from the NYS Teachers' Association (1845-1940s).
+### [District Administrative Data & Statistics]({{ '/collections/administrative-data/' | relative_url }})
+Index cards and county consolidation tables for quantitative research on district evolution (Series B0594 and B0494).
+
+### [NYS Teachers' Association]({{ '/collections/nys-teachers-association/' | relative_url }})
+Proceedings and related materials tracing NYSTA’s history from origin into the early 20th century.
 
 </div>
 

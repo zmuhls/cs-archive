@@ -4,54 +4,46 @@ title: Common School Archive
 description: Digital Humanities Archive of New York State Education (1800s-1900s)
 ---
 
-# Common School Archive
-
-A digital archive of handwritten documents, typed records, statistical charts, and administrative correspondence from New York State's Common School system.
-
-<div class="hero-stats">
-  <div class="stat">
-    <span class="stat-number">1,000+</span>
-    <span class="stat-label">Pages</span>
-  </div>
-  <div class="stat">
-    <span class="stat-number">3</span>
-    <span class="stat-label">Collections</span>
-  </div>
-  <div class="stat">
-    <span class="stat-number">168K</span>
-    <span class="stat-label">Words Transcribed</span>
-  </div>
-</div>
+Primary sources from New York State's common school system (1810s–1940s): from the proceedings of everyday school committees and their meeting minutes to district administrative data and notecard records of local schools by county across New York State.
 
 ## Explore the Collections
 
 <div class="collection-cards">
-  <a href="/collections/nys-teachers-association/" class="collection-card">
-    <h3>NYS Teachers Association</h3>
-    <p>Proceedings, membership materials, and advocacy documents from 1845-1940s. Documents the professionalization of teaching in New York State.</p>
+  <a href="{{ '/collections/nys-teachers-association/' | relative_url }}" class="collection-card">
+    <div class="collection-card-thumb">
+      <img src="{{ '/derived/thumbs/IMG_0635.jpeg' | relative_url }}" alt="NYS Teachers' Association" loading="lazy">
+    </div>
+    <h3>NYS Teachers' Association</h3>
+    <p>Annual meeting proceedings, membership rolls, and advocacy materials (1845–1940s) documenting the professionalization of teaching across 16 meeting locations statewide.</p>
   </a>
 
-  <a href="/collections/local-district-governance/" class="collection-card">
-    <h3>Local District Governance Records</h3>
-    <p>Board meeting minutes from rural and suburban districts (1810s-1930s). Compare rural one-room school governance with Depression-era administration.</p>
+  <a href="{{ '/collections/local-district-governance/' | relative_url }}" class="collection-card">
+    <div class="collection-card-thumb">
+      <img src="{{ '/derived/thumbs/IMG_3863.jpeg' | relative_url }}" alt="Local District Governance" loading="lazy">
+    </div>
+    <h3>Local District Governance</h3>
+    <p>Handwritten meeting minutes from rural one-room schools (1810s) through suburban consolidated districts (1930s). Board debates, committee reports, and votes.</p>
   </a>
 
-  <a href="/collections/administrative-data/" class="collection-card">
-    <h3>District Administrative Data</h3>
-    <p>Index cards, registries, and consolidation statistics. Quantitative data for spatial and temporal analysis of district evolution.</p>
+  <a href="{{ '/collections/administrative-data/' | relative_url }}" class="collection-card">
+    <div class="collection-card-thumb">
+      <img src="{{ '/derived/thumbs/IMG_3419.jpeg' | relative_url }}" alt="District Administrative Data" loading="lazy">
+    </div>
+    <h3>Administrative Data</h3>
+    <p>Notecard indexes, typed registries, and county consolidation tables from 29 counties. Reference materials for spatial and quantitative analysis.</p>
   </a>
 </div>
 
 ## Browse the Archive
 
-- [By Decade](/browse/by-decade/) - Documents from 1810s through 1940s
-- [By Document Type](/browse/by-type/) - Letters, reports, meeting minutes, maps, and more
-- [By County](/browse/by-county/) - Records organized by New York State county
-- [By Location](/browse/by-location/) - Documents by geographic location
+- [By Decade]({{ '/browse/by-decade/' | relative_url }}) - Documents from 1810s through 1940s
+- [By Document Type]({{ '/browse/by-type/' | relative_url }}) - Letters, reports, meeting minutes, maps, and more
+- [By County]({{ '/browse/by-county/' | relative_url }}) - Records organized by New York State county
+- [By Location]({{ '/browse/by-location/' | relative_url }}) - Documents by geographic location
 
 ## Search
 
-Use the [search page](/search/) to find specific documents by keyword across 168,845 words of transcribed text.
+Use the [search page]({{ '/search/' | relative_url }}) to find specific documents by keyword across 168,845 words of transcribed text.
 
 ---
 
@@ -59,7 +51,7 @@ Use the [search page](/search/) to find specific documents by keyword across 168
 
 This digital humanities project preserves and provides access to historical documents from New York State's Common School system. Documents have been digitized and processed using multimodal AI for transcription, classification, and metadata extraction.
 
-[Learn more about the project](/about/)
+[Learn more about the project]({{ '/about/' | relative_url }})
 
 <style>
 .hero-stats {
@@ -111,6 +103,20 @@ This digital humanities project preserves and provides access to historical docu
 .collection-card:hover {
   background: #333;
   color: white;
+}
+
+.collection-card-thumb {
+  aspect-ratio: 4/3;
+  overflow: hidden;
+  border-radius: 6px;
+  margin-bottom: 0.75rem;
+  background: #f0f0f0;
+}
+.collection-card-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 
 .collection-card h3 {
