@@ -49,39 +49,11 @@ Use the [search page]({{ '/search/' | relative_url }}) to find specific document
 
 ## About This Archive
 
-This digital humanities project preserves and provides access to historical documents from New York State's Common School system. Documents have been digitized and processed using multimodal AI for transcription, classification, and metadata extraction.
+**1,000+ pages** from **376 source images** yielding **168,845 words** of transcribed text. Documents have been digitized from NYS Archives series (A4645, B0594, B0494) and other repositories, then processed using multimodal AI (Qwen VL Plus) for transcription, classification, and metadata extraction.
 
 [Learn more about the project]({{ '/about/' | relative_url }})
 
 <style>
-.hero-stats {
-  display: flex;
-  justify-content: center;
-  gap: 3rem;
-  margin: 2rem 0;
-  padding: 1.5rem;
-  background: #f8f8f8;
-  border-radius: 8px;
-}
-
-.stat {
-  text-align: center;
-}
-
-.stat-number {
-  display: block;
-  font-size: 2.5rem;
-  font-weight: bold;
-  color: #333;
-}
-
-.stat-label {
-  font-size: 0.9rem;
-  color: #666;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
 .collection-cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -127,12 +99,5 @@ This digital humanities project preserves and provides access to historical docu
   margin: 0;
   font-size: 0.9rem;
   opacity: 0.8;
-}
-
-@media (max-width: 600px) {
-  .hero-stats {
-    flex-direction: column;
-    gap: 1rem;
-  }
 }
 </style>

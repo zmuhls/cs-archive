@@ -23,11 +23,11 @@ A digital archive of handwritten documents, typed records, statistical charts, a
 ## Explore the Collections
 
 <div class="collection-cards">
-  <a href="/csa/collections/district-consolidation/" class="collection-card">
+  <a href="/cs-archive/collections/district-consolidation/" class="collection-card">
     <h3>District Consolidation Records</h3>
     <p>School district consolidation tables from 29 New York counties (NYS Archives Series A4456)</p>
   </a>
-  <a href="/csa/collections/nys-teachers/" class="collection-card">
+  <a href="/cs-archive/collections/nys-teachers/" class="collection-card">
     <h3>NYS Teachers' Association</h3>
     <p>Proceedings, membership materials, and advocacy documents (1845-1940s)</p>
   </a>
@@ -35,14 +35,14 @@ A digital archive of handwritten documents, typed records, statistical charts, a
 
 ## Browse the Archive
 
-- [By Decade](/csa/browse/by-decade/) - Documents from 1840s through 1940s
-- [By Document Type](/csa/browse/by-type/) - Letters, reports, meeting minutes, maps, and more
-- [By County](/csa/browse/by-county/) - Records organized by New York State county
-- [By Location](/csa/browse/by-location/) - Documents by geographic location
+- [By Decade](/cs-archive/browse/by-decade/) - Documents from 1840s through 1940s
+- [By Document Type](/cs-archive/browse/by-type/) - Letters, reports, meeting minutes, maps, and more
+- [By County](/cs-archive/browse/by-county/) - Records organized by New York State county
+- [By Location](/cs-archive/browse/by-location/) - Documents by geographic location
 
 ## Search
 
-Use the [search page](/csa/search/) to find specific documents by keyword across 168,845 words of transcribed text.
+Use the [search page](/cs-archive/search/) to find specific documents by keyword across 168,845 words of transcribed text.
 
 ---
 
@@ -50,7 +50,7 @@ Use the [search page](/csa/search/) to find specific documents by keyword across
 
 This digital humanities project preserves and provides access to historical documents from New York State's Common School system. Documents have been digitized and processed using multimodal AI for transcription, classification, and metadata extraction.
 
-[Learn more about the project](/csa/about/)
+[Learn more about the project](/cs-archive/about/)
 
 <style>
 .hero-stats {

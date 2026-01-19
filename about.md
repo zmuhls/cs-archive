@@ -5,9 +5,7 @@ description: About the Common School Archive project
 permalink: /about/
 ---
 
-# About the Common School Archive
-
-The Common School Archive is a digital humanities project dedicated to preserving and providing access to historical documents from New York State's Common School system during the 19th and early 20th centuries.
+A digital humanities project preserving primary sources from New York State's common school system. The archive spans the 1810s through 1940s, documenting the everyday work of local school governance, teacher professionalization, and district administration across the state.
 
 ## Project Overview
 
