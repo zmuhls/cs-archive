@@ -3,9 +3,6 @@ layout: home
 title: Common School Archive
 description: Digital Humanities Archive of New York State Education (1800s-1900s)
 ---
-
-# Common School Archive
-
 A digital archive of handwritten documents, typed records, statistical charts, and administrative correspondence from New York State's Common School system.
 
 <div class="hero-stats">
