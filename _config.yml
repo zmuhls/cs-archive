@@ -98,7 +98,6 @@ exclude:
   - scripts/
   - output/
   - raw/
-  - derived/
   - csv/
   - prompts/
   - logs/
@@ -116,4 +115,4 @@ exclude:
 
 # Explicitly include thumbnail assets for use in cards/galleries
 include:
-  - derived/thumbs
+  - derived/thumbs/

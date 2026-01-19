@@ -43,14 +43,21 @@ Interactive map showing locations from two collections: **NYSTA annual meeting s
 <style>
 #map {
   width: 100%;
-  height: 70vh;
-  min-height: 420px;
-  max-height: 800px;
+  height: 80vh;
+  min-height: 500px;
+  max-height: 1000px;
   display: block;
   position: relative;
   border-radius: 8px;
   border: 1px solid #e1e1e1;
   margin-bottom: 1.5rem;
+  box-sizing: border-box;
+}
+
+/* Leaflet container resilience */
+.leaflet-container {
+  width: 100% !important;
+  height: 100% !important;
 }
 
 .leaflet-container img { max-width: none !important; }
@@ -153,8 +160,9 @@ Interactive map showing locations from two collections: **NYSTA annual meeting s
 
 @media (max-width: 767px) {
   #map {
-    height: 55vh;
-    min-height: 300px;
+    height: 60vh;
+    min-height: 350px;
+    max-height: 600px;
   }
   .location-list {
     grid-template-columns: 1fr;

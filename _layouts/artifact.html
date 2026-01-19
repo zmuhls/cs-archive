@@ -323,7 +323,11 @@ ${comment ? `**Details:**\n${comment}` : ''}
   font-family: Georgia, serif;
   line-height: 1.7;
   white-space: pre-wrap;
-  overflow-x: auto;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 /* Sidebar */
