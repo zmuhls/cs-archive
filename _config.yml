@@ -1,0 +1,115 @@
+# Common School Archive - Jekyll Configuration
+# Deployed via GitHub Actions to GitHub Pages from main branch root
+# See: .github/workflows/jekyll-gh-pages.yml
+
+# Site Settings
+title: Common School Archive
+subtitle: "Digital Humanities Archive of New York State Education (1800s-1900s)"
+description: >-
+  A digital archive of handwritten documents, typed records, statistical charts,
+  and administrative correspondence from New York State's Common School system.
+url: "https://zmuhls.github.io"
+baseurl: "/cs-archive"  # GitHub Actions workflow overrides this during build
+repository: "zmuhls/cs-archive"
+
+# Theme
+# Use gem locally, remote_theme on GitHub Pages
+theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.26.2
+minimal_mistakes_skin: "default"
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:collection/:name/
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+# Collections
+collections:
+  artifacts:
+    output: true
+    permalink: /artifacts/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: artifacts
+    values:
+      layout: artifact
+      sidebar:
+        nav: "archive"
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: "archive"
+
+# Pagination
+paginate: 24
+paginate_path: /page:num/
+
+# Search
+search: true
+search_full_content: true
+
+# Analytics (optional - configure later)
+# analytics:
+#   provider: "google"
+#   google:
+#     tracking_id: ""
+
+# Site Author
+author:
+  name: "Zachary Muhlbauer"
+  bio: "Digital humanities researcher"
+  location: "New York"
+
+# Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zmuhls/cs-archive"
+
+# Navigation
+header:
+  overlay_color: "#5e616c"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - README.md
+  - docs/
+  - scripts/
+  - output/
+  - raw/
+  - derived/
+  - csv/
+  - prompts/
+  - logs/
+  - __pycache__/
+  - "*.py"
+  - "*.yaml"
+  - CLAUDE.md
+  - AGENTS.md
+  - DEVLOG.md
+  - TODO.md
+  - Dockerfile
+  - requirements.txt
+  - dev/
+  - .env

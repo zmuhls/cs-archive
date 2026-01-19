@@ -1,0 +1,45 @@
+# Main navigation
+main:
+  - title: "Home"
+    url: /
+  - title: "Collections"
+    url: /collections/
+  - title: "Map"
+    url: /map/
+  - title: "Browse"
+    url: /browse/
+  - title: "Search"
+    url: /search/
+  - title: "About"
+    url: /about/
+
+# Sidebar navigation
+archive:
+  - title: "Collections"
+    children:
+      - title: "NYS Teachers Association"
+        url: /collections/nys-teachers-association/
+      - title: "Local District Governance"
+        url: /collections/local-district-governance/
+      - title: "Administrative Data"
+        url: /collections/administrative-data/
+
+  - title: "Browse By"
+    children:
+      - title: "Decade"
+        url: /browse/by-decade/
+      - title: "County"
+        url: /browse/by-county/
+      - title: "Document Type"
+        url: /browse/by-type/
+      - title: "Location"
+        url: /browse/by-location/
+
+  - title: "Archive Info"
+    children:
+      - title: "About"
+        url: /about/
+      - title: "Search"
+        url: /search/
+      - title: "Map"
+        url: /map/

@@ -1,0 +1,102 @@
+---
+layout: default
+---
+
+<div class="browse-page">
+  <header class="browse-header">
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}
+    <p class="browse-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
+
+  {{ content }}
+
+  {% if page.filter_by %}
+  <!-- Filtered view based on frontmatter -->
+  <div class="artifact-grid">
+    {% assign filtered = site.artifacts | where: page.filter_by, page.filter_value %}
+    {% for artifact in filtered %}
+    {% include artifact-card.html artifact=artifact %}
+    {% endfor %}
+  </div>
+  {% elsif page.group_by %}
+  <!-- Grouped view -->
+  {% assign grouped = site.artifacts | group_by: page.group_by %}
+  {% for group in grouped %}
+  {% if group.name and group.name != "" %}
+  <section class="artifact-group">
+    <h2 class="group-title">{{ group.name }}</h2>
+    <div class="artifact-grid">
+      {% for artifact in group.items limit: 50 %}
+      {% include artifact-card.html artifact=artifact %}
+      {% endfor %}
+      {% if group.items.size > 50 %}
+      <p class="more-items">+ {{ group.items.size | minus: 50 }} more items</p>
+      {% endif %}
+    </div>
+  </section>
+  {% endif %}
+  {% endfor %}
+  {% else %}
+  <!-- Default: show all -->
+  <div class="artifact-grid">
+    {% for artifact in site.artifacts limit: 100 %}
+    {% include artifact-card.html artifact=artifact %}
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+
+<style>
+.browse-page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.browse-header {
+  margin-bottom: 2rem;
+}
+
+.browse-header h1 {
+  margin-bottom: 0.5rem;
+}
+
+.browse-description {
+  color: #666;
+  font-size: 1.1rem;
+}
+
+.artifact-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.artifact-group {
+  margin-bottom: 3rem;
+}
+
+.group-title {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #333;
+}
+
+.more-items {
+  grid-column: 1 / -1;
+  text-align: center;
+  color: #666;
+  font-style: italic;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .artifact-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
