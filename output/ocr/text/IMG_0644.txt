@@ -1,0 +1,81 @@
+```
+Freeport Grammar Schools, J. W. Dodd, Supt.
+Friendship High School, Robert E. Witter, Principal
+Genoa High School, L. W. Chester, Principal
+Germantown High School, Harry B. Ostrander, Principal
+Gilbertsville High School, Raymond V. Seaman, Principal
+Gorham High School, E. G. Soper, Dist. Supt., Seneca Castle
+Gowanda High School and Public Schools, R. E. Baldwin, Principal
+Great Bend School, F. Gilbert Adderley, Principal
+Greene High School, Arthur E. Warren, Principal
+Greenlawn Grammar School, Warren D. Kenyon, Principal
+Greenport Grammar School, H. A. Lacey, Principal
+Greenport High School, E. J. Franklin, Principal
+Greenport Primary School, Miss H. M. Cummings, Principal
+Greenwich High School, Ezra W. Benedict, Supervising Principal
+Greenwood Union School, Clayton Brown, Principal
+Greigsville High School, Retsof, R. A. Richardson, Principal
+Griffith Institute and Springville High School, L. G. Palmer, Principal
+Groveland High School, Harry Chamberlain, Principal
+Hammondsport High School, H. S. Sirrine, Principal
+Hampton Bays High School, Frank A. Wongle, Principal
+Harriman Union School, Bayard Mathew, Principal
+Hauppauge Grammar School, Stewart Tuttle, Principal
+Haverstraw High School, John T. Kaemmerlen, Principal
+Hemlock High School, Neal D. Mills, Principal
+Henrietta High School, Irene Quinn, Principal
+Herrington School, Howard Mosher, Principal
+Hilton, Fred W. Hill, Dist. Supt., Spencerport
+Hinsdale High School, Gilbert Farwell, Dist. Supt., Hinsdale
+Holland High School, Harold Brumsted, Principal
+Holley High School, F. W. Pearce, Principal
+Homer Academy, Homer, J. A. Walker, Principal
+Interlaken High School, Gordon B. Springer, Principal
+Irondquoit High School, Maude West, Principal
+Irvring Union School, M. E. Hubbard, Dist. Supt., South Dayton
+Islip High School, Earl B. Robinson, Principal
+Jamesville High School, E. K. Veeder, Principal
+Jefferson High School, Edward Smith, Principal
+Jeffersonville High School, Edward V. McDermott, Principal
+
+Jerusalem Corners Union School, Emma J. Schuman, Principal
+Katamah High School, Charles B. Carruthers, Principal
+Kendall High School, S. D. Atz., Principal
+Kenwood Park Grammar School, Sherrill, E. A. McAllister, Principal
+Kinderhook High School, Paul Patchen, Principal
+King Ferry High School, G. A. Blanchard, Principal
+Kings Park Grammar School, Ralph Osgood, Principal
+Knowlesville, G. Raymond Harrold, Principal
+LaFayette High School, George Howe, Principal
+Lake Ronkonkoma Grammar School, Charles W. Hawkins, Principal
+Lakewood High School, Lee R. Mathewson, Principal
+Laurens Union School and Morris High School, G. G. Preston, Dist. Supt., New Berlin
+Leicester and Cuyerville Schools, John P. Magee, Dist. Supt., Geneseo
+Liberty Public Schools, M. D. Merring, Principal
+Lima High School, Mark C. Calkins, Principal
+Lima Union School, Mark C. Calkins, Principal
+Lindenhurst High School, E. W. Bower, Principal
+Lisle High School, H. N. Welley, Principal
+Little Valley High School, G. Harold Carl, Principal
+Livingston Manor High School, Allen S. Davis, Principal
+Livonia High School, Fred E. Sleight, Principal
+Locke High School, W. T. Jones, Principal
+Lodi Union School, H. C. Thomas, Principal
+Long Eddy Union School, Harvey D. English, Principal
+Lower Melville Grammar School, Cecil F. Spencer, Principal
+Lower Mills School, Mrs. A. M. Worden, Principal
+Lyndonville, L. A. Webber, Principal
+Macedon High School, H. W. Olney, Principal
+Mahopac High School, Ward E. Witlse, Principal
+Malverne Public Schools, Lynbrook, H. G. Berry, Supervising Principal
+Manchester High School, Elmer T. Koster, Principal
+Manlius High School, Robert MacDonald, Principal
+Marathon High School, Lester E. Tucker, Principal
+Marion High School, Ray V. Shaver, Principal
+Mayfield Union School, C. Smith Ferguson, Principal
+Mayville High School, Charles B. Persell, Principal
+Medford Grammar School, Harry A. Reeve, Principal
+Melville Grammar School, Edward Nessler, Principal
+Middlesex High School, L. S. Neely, Principal
+Millsboro High School, R. C. Geiselman, Principal
+```

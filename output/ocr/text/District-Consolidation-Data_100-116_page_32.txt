@@ -1,0 +1,71 @@
+Below is the transcription of the tabular data from the document, preserving the structure and formatting as requested:
+
+```
+Clinton County
+Consolidated Districts
+
+| No. of the | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANISING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS | No. new dist. |
+|------------|--------------|---------------------------------------------|--------------------------------------------------|---------|---------------|
+| 5,7914     | Chazy        | 17 October 1913                             | 5 August 1915                                    | 5 Chazy   |               |
+| 8413       | Altona       | 14 August 1915                              | 8 August 1915                                    | 8 Altona  |               |
+| 12,23,9,12,159 | Chazy & Champlain | 6 January 1916 | 7 January 1916 | 1 Chazy & Champlain |               |
+| 6,7,1241   | Moers        | 20 July 1916                                | 21 July 1916                                     | 8 Moers   |               |
+| 8,9,11     | Ellegburg    | 30 July 1921                                | 1 August 1921                                    | 1 Ellegburg |               |
+| 10,5       | Peru         | 16 October 1923                             | 10 October 1923                                  | 1 Peru    |               |
+|            |              |                                             |                                                  |           |               |
+|            |              | Boundaries of 11 Peru altered by taking them from all the lands formerly contained in what was prior to Oct. 6, 1923, sch. dist. No. 5 Peru. 31 Aug. 1927. New dist. No. 5 Peru created. |           |               |
+| C.R.S.     |              | 20 December 1929                            | 29 December 1929                                 | 1 Saranac |               |
+|            |              |                                             |                                                  |           |               |
+|            |              | District Saranac was split up; part being annexed to the C.R.S. 1 Saranac and remaining part (formerly new district 21 Saranac) formed new district 21 Saranac. (In 1929 30 March, 1930, Saranac was taken from C.R.S. 1 Saranac and 21 Saranac.) |           |               |
+| C.R.S.     |              | 13 May 1931                                 | 13 August 1931                                   | 1 Altoma  |               |
+|            |              |                                             |                                                  | 1 Beckmantown |               |
+|            |              |                                             |                                                  | 1 Chesterfield |               |
+|            |              |                                             |                                                  | 1 Ellegburg |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Peru    |               |
+|            |              |                                             |                                                  | 1 Saranac |               |
+|            |              |                                             |                                                  | 1 Schuyler Falls |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |               |
+|            |              |                                             |                                                  | 1 Chazy   |               |
+|            |              |                                             |                                                  | 1 Moers   |

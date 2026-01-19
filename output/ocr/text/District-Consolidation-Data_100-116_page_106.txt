@@ -1,0 +1,50 @@
+Below is the transcription of the tabular data from the document, preserving the structure and formatting as requested:
+
+---
+
+**Niagara County**
+
+**Consolidated Districts**
+
+| No. of the District | NAME OF TOWN | DATE OF ORGANIZING MEETING | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS | No. new dist. |
+|---------------------|--------------|-----------------------------|--------------------------------------------------|---------|---------------|
+|                     |              | Day Month Year              | Day Month Year                                   |         |               |
+| 14-2                | W. Porter    | 7 September 1917            | New papers rec'd 1 Aug. 1918                     | 429,560 acres, Z. 127635 | 1 Porter      |
+| 4-5                 | Niagara      | 14 August 1925              | 1,295,222, 10,866, 754, 2262                     | 4 Niagara     |               |
+|                     | Vill. of Lasalle annexed to Niagara Falls | 6 May 1927 | L. 1927 Ch. 530                                  | C.R.S. 1 Somermet Harlandland |               |
+|                     |              |                             | Sand out 10 June 1931                            | Niagara Co. Yale & Ridgeway (Unions Co.) |               |
+|                     |              |                             | Meeting held 26 June 1937                        | C.R.S. 1 Wilson, Newfane, Porter + Cambria |               |
+|                     |              |                             | Designation of dist. 3 July 1937                 |               |               |
+|                     |              |                             | Laid out 11 June 1941                            |               |               |
+|                     |              |                             | Meeting held 24 June 1941                        | Designating dist. 19 July 1941                 |               |
+|                     |              |                             | Laid out 12 June 1941                            | C.R.S. 1 Newfane + Wilson                      |               |
+|                     |              |                             | Meeting held 25 June 1941                        | Designation of dist. 19 July 1941              |               |
+|                     |              |                             | 23 March 1942 to take effect 1 July 1942        | 1 Porter                                       |               |
+| 1                   | Wilson       |                             |                                                  | C.R.S. 1 Royalton, Harlandland                 |               |
+| 2,3,4,5,6,7,8,9,10,11,12,14 Wilson | | | | Shell & Ridgeway Genesee Co. |               |
+| 3-4                 | Wilson + Newfane | | | |               |
+| 9                   | Wilson + Porter | | | |               |
+| 10                  | Wilson + Cambria | | | |               |
+| 12                  | Newfane      |                             |                                                  | C.R.S. 1 Newfane + Wilson                      |               |
+| 1,2,3,4,5,6,7,8,9,10,11,12,14 Newfane + Wilson | | | | |               |
+| 11                  | Porter       |                             |                                                  | C.R.S. 1 Porter                                |               |
+|                     |              |                             |                                                  |                                                |               |
+| 18                  | Royalton + Harland | | | | C.R.S. 1 Royalton, Harlandland |
+|                     |              |                             | Laid out & designated 7 June 1944                | Shell & Ridgeway Genesee Co. |               |
+|                     |              |                             | Meeting held 29 June 1944                        | C.R.S. 1 Newfane                               |               |
+|                     |              |                             | Effective September 1, 1945                      | C.R.S. 1 Newfane                               |               |
+|                     |              |                             | Effective September 1, 1945                      | C.R.S. 1 Newfane                               |               |
+|                     |              |                             | Laid out May 1, 1947                             | C.R.S. 1 Amherst               |               |
+|                     |              |                             | Meeting held May 27, 1947                        |                                                |               |
+| 6                   | Wheatfield   | Consolidated with City of North Tonawanda effective July 1, 1951 | | |               |
+| 9,12                | Lockport     | Consolidated with City School district of the City of Lockport effective July 1, 1953 | | |               |
+
+---
+
+**Notes:**
+
+- Pre-printed text is indicated where visible in the original document.
+- Handwritten entries are transcribed as they appear, including dates, names, and remarks.
+- Blank fields are marked as `[blank]` where no information is present.
+- The table structure is maintained with clear column separation using `|`.
+- Alignment is preserved where meaningful, such as dates and remarks.

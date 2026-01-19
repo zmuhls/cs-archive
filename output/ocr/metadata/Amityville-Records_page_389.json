@@ -1,0 +1,31 @@
+{
+  "source_file": "output/ocr/temp/Amityville-Records_page_389.jpg",
+  "processed_at": "2026-01-17T22:54:00.648423",
+  "model": "qwen/qwen-vl-plus",
+  "usage": {
+    "prompt_tokens": 1772,
+    "completion_tokens": 470,
+    "total_tokens": 2242,
+    "cost": 0.00066822,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": null,
+      "upstream_inference_prompt_cost": 0.00037212,
+      "upstream_inference_completions_cost": 0.0002961
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0
+    }
+  },
+  "confidence": 1.0,
+  "text_length_original": 1712,
+  "text_length_filtered": 1713,
+  "stamp_filtering_applied": true,
+  "checksum": "1e35a2ba1ef721c2143ff68d0476bddf85b4af5475096b1ff46332cefd48270b"
+}

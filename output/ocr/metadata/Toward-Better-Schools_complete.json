@@ -1,0 +1,253 @@
+{
+  "source_pdf": "raw/scans/Kheel Center/Toward-Better-Schools.pdf",
+  "processed_at": "2025-12-19T01:02:50.183885",
+  "total_pages": 41,
+  "pages": [
+    {
+      "page": 1,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 120
+    },
+    {
+      "page": 2,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 147
+    },
+    {
+      "page": 3,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1844
+    },
+    {
+      "page": 4,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2536
+    },
+    {
+      "page": 5,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3042
+    },
+    {
+      "page": 6,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 4339
+    },
+    {
+      "page": 7,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 4018
+    },
+    {
+      "page": 8,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3011
+    },
+    {
+      "page": 9,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 4699
+    },
+    {
+      "page": 10,
+      "status": "success",
+      "confidence": 0.93,
+      "text_length": 3812
+    },
+    {
+      "page": 11,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1996
+    },
+    {
+      "page": 12,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1528
+    },
+    {
+      "page": 13,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2523
+    },
+    {
+      "page": 14,
+      "status": "success",
+      "confidence": 0.984,
+      "text_length": 4201
+    },
+    {
+      "page": 15,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 4518
+    },
+    {
+      "page": 16,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3050
+    },
+    {
+      "page": 17,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2988
+    },
+    {
+      "page": 18,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3783
+    },
+    {
+      "page": 19,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2587
+    },
+    {
+      "page": 20,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2173
+    },
+    {
+      "page": 21,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2063
+    },
+    {
+      "page": 22,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3397
+    },
+    {
+      "page": 23,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 5301
+    },
+    {
+      "page": 24,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 5343
+    },
+    {
+      "page": 25,
+      "status": "success",
+      "confidence": 0.719,
+      "text_length": 2556
+    },
+    {
+      "page": 26,
+      "status": "success",
+      "confidence": 0.984,
+      "text_length": 4061
+    },
+    {
+      "page": 27,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3988
+    },
+    {
+      "page": 28,
+      "status": "success",
+      "confidence": 0.986,
+      "text_length": 4713
+    },
+    {
+      "page": 29,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3756
+    },
+    {
+      "page": 30,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2375
+    },
+    {
+      "page": 31,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2908
+    },
+    {
+      "page": 32,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1655
+    },
+    {
+      "page": 33,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 4874
+    },
+    {
+      "page": 34,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 4979
+    },
+    {
+      "page": 35,
+      "status": "success",
+      "confidence": 0.99,
+      "text_length": 5941
+    },
+    {
+      "page": 36,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 5991
+    },
+    {
+      "page": 37,
+      "status": "success",
+      "confidence": 0.988,
+      "text_length": 5012
+    },
+    {
+      "page": 38,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 4779
+    },
+    {
+      "page": 39,
+      "status": "success",
+      "confidence": 0.928,
+      "text_length": 2858
+    },
+    {
+      "page": 40,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3743
+    },
+    {
+      "page": 41,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1493
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "collection": "Kheel Center",
+  "processed_at": "2025-12-19T01:02:50.242375",
+  "total_files": 1,
+  "total_pages": 41,
+  "successful_pages": 41,
+  "failed_pages": 0,
+  "success_rate": 1.0,
+  "average_confidence": 0.9880243902439024,
+  "total_text_length": 138701,
+  "average_text_per_page": 3382.951219512195,
+  "files": {
+    "raw/scans/Kheel Center/Toward-Better-Schools.pdf": {
+      "total_pages": 41,
+      "successful_pages": 41,
+      "failed_pages": 0,
+      "text_length": 138701,
+      "average_confidence": 0.9880243902439024
+    }
+  },
+  "errors": []
+}

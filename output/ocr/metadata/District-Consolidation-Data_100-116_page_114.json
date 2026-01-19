@@ -1,0 +1,29 @@
+{
+  "source_file": "output/ocr/temp/District-Consolidation-Data_100-116_page_114.jpg",
+  "processed_at": "2025-12-19T01:53:35.314296",
+  "model": "qwen/qwen-vl-plus",
+  "usage": {
+    "prompt_tokens": 1644,
+    "completion_tokens": 2078,
+    "total_tokens": 3722,
+    "cost": 0.00165438,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": null,
+      "upstream_inference_prompt_cost": 0.00034524,
+      "upstream_inference_completions_cost": 0.00130914
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0
+    }
+  },
+  "confidence": 1.0,
+  "text_length": 8124,
+  "checksum": "1d9fa6c22e2336e616730621a152c9d5a0f1bf845d8a10ec564126a80adf70d7"
+}

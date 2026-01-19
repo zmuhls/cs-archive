@@ -1,0 +1,49 @@
+Below is the transcription of the tabular data from the document, preserving the structure and formatting as requested:
+
+```
+Madison County
+Page 173
+
+| No. of District | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING-DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of new dist |
+|-----------------|--------------|---------------------------------------------|--------------------------------------------------|-----------------|
+| CRS             | Eaton        | 15 April 1935                               | 15 April 1935                                    | 1 Eaton         |
+|                 | Nelson       |                                             |                                                  | 1 Nelson        |
+|                 | Eaton & Lebanon | 15 April 1935                             | 2 May 1935                                       | 1 Lebanon       |
+|                 | Nelson, Eaton, Smithfield | 15 April 1935                     | 18 June 1935                                     | 1 Smithfield    |
+|                 | Eaton & Stockbridge | 15 April 1935                      |                                                  | 1 Stockbridge   |
+| 2.56            | Brookfield   | 15 July 1935                                | 15 October 1935                                  | CRS 9 Brookfield|
+| 4               | Cazenovia    | 19 September 1935                           | 31 December 1935                                 | CRS 9 Cazenovia |
+| 24              | Hamilton     | 10 May 1937                                 | 14 August 1937                                   | 1 Hamilton      |
+|                 | Hamilton     | 5 May 1937                                  | 10 August 1937                                   | 2 Hamilton      |
+|                 | Hamilton     | 13 May 1937                                 | 1 August 1937                                    |                 |
+|                 | Hamilton     | 28 August 1937                              | 28 November 1937                                 |                 |
+|                 | Brookfield   | 1 July 1937                                 | 1 October 1937                                   |                 |
+| 8               | Sherburne (Cheney) | 27 April 1937                        | 21 July 1937                                     | CRS 9 Sherburne |
+|                 | Hamilton     | 16 May 1938                                 | 1 September 1938                                 |                 |
+|                 | Eaton        | 11 June 1938                                | 10 September 1938                                | 1 Eaton         |
+|                 | Smithfield   | 3 June 1938                                 | 20 September 1938                                |                 |
+| Part of 5 Brookfield or CRS 9 Brookfield | 1 August 1938 to take effect 5 November 1938 | 9 May 1939 to take effect 2 September 1939 | 30 November 1939 | CRS 9 Brookfield |
+| 9               | Sangerfield  | 3 June 1940                                 | 30 September 1940                                | CRS 9 Sangerfield|
+|                 | Brookfield   | 24 June 1940                                | 30 November 1940                                 | CRS 9 Brookfield |
+|                 | Cazenovia    | 27 August 1940                              | 30 November 1940                                 | CRS 9 Cazenovia |
+|                 | Hamilton     | 27 August 1940                              | 13 September 1941                                | CRS 9 Hamilton  |
+|                 | Cazenovia    | 12 June 1941                                | 13 September 1941                                | CRS 9 Cazenovia |
+|                 | Cazenovia    | 12 June 1941                                | 13 September 1941                                | CRS 9 Cazenovia |
+|                 | Cazenovia    | 15 May 1941                                 | 30 August 1941                                   |                 |
+|                 | Stockbridge  | 11 January 1941                             | 10 July 1941                                     |                 |
+|                 | Madison      | 28 August 1941                              | 1 December 1941                                  | CRS 9 Madison   |
+|                 | Nelson & Georgetown | 36 August 1941                  | 15 December 1941                                 | CRS 9 Georgetown|
+|                 | Cazenovia    | 1 April 1943                                | 5 July 1943                                      | CRS 9 Cazenovia |
+|                 | Stockbridge  | 6 May 1943                                  | 9 August 1943                                    | CRS 9 Stockbridge|
+|                 | Cazenovia    | 31 March 1944                               | 1 July 1944                                      | CRS 9 Cazenovia |
+|                 | Cazenovia    | 15 March 1944                               | 1 July 1944                                      |                 |
+|                 | Smithfield   | 15 March 1944                               | 1 September 1944                                 | 1 Smithfield    |
+|                 | Stockbridge  | 15 March 1944                               | 1 September 1944                                 | 1 Stockbridge   |
+|                 | Smithfield   | 15 March 1944                               | 1 September 1944                                 | 1 Smithfield    |
+|                 | Stockbridge  | 15 March 1944                               | 1 September 1944                                 | 1 Stockbridge   |
+|                 | Smithfield   | 15 March 1944                               | 1 September 1944                                 | 1 Smithfield    |
+|                 | Stockbridge  | 15 March 1944                               | 1 September 1944                                 | 1 Stockbridge   |
+|                 | Smithfield   | 15 March 1944                               | 1 September 1944                                 | 1 Smithfield    |
+|                 | Stockbridge  | 15 March 1944                               | 1 September 1944                                 | 1 Stockbridge   |
+|                 | Smithfield   | 15 March 1944                               | 1 September 1944                                 | 1 Smithfield    |
+|                 | Stockbridge  | 15 March 1944                               |

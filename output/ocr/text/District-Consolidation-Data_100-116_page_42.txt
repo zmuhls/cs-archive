@@ -1,0 +1,41 @@
+Below is the transcription of the tabular data from the document, preserving the structure and formatting as requested:
+
+---
+
+**Delaware County**
+
+**Consolidated Districts**
+
+| No. of | NAME OF TOWN | DATE OF SCHOOL-MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of new dist. | REMARKS |
+|--------|--------------|--------------------------------------------|--------------------------------------------------|------------------|---------|
+|        |              | Day   Month   Year                         | Day   Month   Year                               |                  |         |
+| 13415  | Harpersfield | 23    May     1914                             | 13    11          1914                             | 15                | Harpersfield |
+| 2      | Kortright    | 31    August  1914                             | 2     12          1914                             | 3                 | Harpersfield |
+| 14     | Kortright    | 17    (?)     (?)                              | 13    10          1913                             | 1                 | Kortright    |
+| 142    | Tompkins     | 11    June    1913                             | 2     9           1913                             | 1                 | Tompkins     |
+| 4723   | Tompkins     | 1     September 1914                             | 14    10          1914                             | 4                 | Tompkins     |
+| 15     | Middletown   | 29    September 1914                             | 18    10          1914                             | 15                | Middletown   |
+| 3414   | Davenport    | 4     September 1915                             | 13    12          1915                             | 3                 | Davenport    |
+| 2410   | Masonville   | 12    May     1917                             | 15    10          1917                             | 2                 | Masonville   |
+| 1416   | Harpersfield | 15    September 1916                             | 16    11          1916                             | 1                 | Harpersfield |
+| 5423   | Walton       | 4     January   1919                             | 17    12          1918                             | 5                 | Walton       |
+| 2410   | Hamden       | 24    October   1918                             | 29    12          1918                             | 2                 | Hamden       |
+| 62325  | Middletown   | 30    December  1918                             | 1     1           1919                             | 2.5               | Middletown   |
+| 62325  | Masonville   | 1     August    1919                             | 10    5           1920                             | 12                | Deposit      |
+| 62325  | Masonville   | 10    May       1920                             | 34    4           1920                             | 6                 | Masonville   |
+| 62325  | Sidney       | 8     August    1920                             | 19    1           1921                             | 1                 | Sidney       |
+| 116    | Kortright    | 9     February  1922                             | 18    2           1922                             | 1                 | Kortright    |
+| 9      | Stamford     | 9     February  1922                             | 18    2           1922                             | 4                 | Davenport    |
+| 4716   | Colchester   | 30    December  1922                             | 8     8           1923                             | 4                 | Colchester   |
+| 8412   | Davenport    | 15    January   1926                             | 18    9           1926                             | 8                 | Davenport    |
+| 162123 | Franklin     | 9     October   1926                             | 18    10          1926                             | 16                | Franklin     |
+| 586    | Meredith     | 14    January   1926                             | 18    10          1926                             | 8                 | Meredith     |
+| 1414   | Franklin     | 14    January   1926                             | 18    10          1926                             | 8                 | Franklin     |
+| 14     | Hancock      | 7     July      1927                             | 29    5           1927                             | 20                | Hancock      |
+| 9610   | Sidney       | 6     September 1927                             | 18    9           1927                             | 9                 | Sidney       |
+| 1424   | Tompkins     | 6     September 1927                             | 18    9           1927                             | 19                | Tompkins     |
+| 27     | Harpersfield | 6     September 1927                             | 18    9           1927                             | 2                 | Harpersfield |
+| 1121   | Walton       | 20    April     1927                             | 1     5           1927                             | 21                | Walton       |
+| 28     | Colchester   | 27    August    1928                             | 25    5           1929                             | 17                | Colchester   |
+| 9      | Franklin     | 25    May       1929                             | 2     4           1929                             | 13                | Franklin + Sidney |
+| 5.17   | Sidney + Franklin | 2     4           1929                             | 2     4           1929

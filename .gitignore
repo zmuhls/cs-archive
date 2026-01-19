@@ -48,17 +48,11 @@ ehthumbs.db
 *.log
 logs/
 
-# Output directories (keep structure, ignore contents)
-output/ocr/text/*
-output/ocr/metadata/*
+# Output directories (keep structure, ignore temp/logs)
 output/ocr/logs/*
 output/ocr/temp/*
-output/ocr/reports/*
-!output/ocr/text/.gitkeep
-!output/ocr/metadata/.gitkeep
 !output/ocr/logs/.gitkeep
 !output/ocr/temp/.gitkeep
-!output/ocr/reports/.gitkeep
 
 # Development directories
 dev/

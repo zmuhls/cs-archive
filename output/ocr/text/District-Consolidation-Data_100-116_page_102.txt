@@ -1,0 +1,54 @@
+```
+Nassau County
+
+Union Free Schools
+
+| No. of District | NAME OF TOWN       | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS |
+|-----------------|--------------------|--------------------------------------------|--------------------------------------------------|---------|
+|                 |                    | Day   Month   Year                         | Day   Month   Year                               |         |
+| 9               | Hempstead          | 7     October 1890                           |                                                  | 5       |
+| 10              | Hempstead          | 25    January 1893                           |                                                  | 5       |
+| 14              | Hempstead          | 5     February 1898                          |                                                  | 5       |
+| 27              | Hempstead          | 9     August 1911                            |                                                  | 5       |
+| 10              | North Hempstead    | 7     June 1899                              |                                                  | 5       |
+| 17              | Oyster Bay         | 6     October 1896                           |                                                  | 5       |
+| 12              | Hempstead          | 20    October 1908                           |                                                  | 5       |
+| 8               | Oyster Bay         | 29    September 1892                         |                                                  |         |
+| 28              | Hempstead          | 21    August 1915                            | 1944 Ch. 535                                     | 5       |
+| 11              | North Hempstead    | 21    August 1916                            |                                                  | 3       |
+| 25              | Hempstead          | 11    May 1922                               |                                                  | 7       |
+| 29              | Hempstead          | 9     June 1922                              |                                                  | 5       |
+| 30              | Hempstead          | 19    June 1923                              |                                                  | 5       |
+| 13              | Hempstead          | 2     October 1923                           |                                                  | 5       |
+| 21              | Oyster Bay         | 24    March 1908                             |                                                  | 3       |
+| 4               | Hempstead          | 2     October 1907                           | (See letters & affidavit filed with)             |         |
+| 16              | Hempstead          | 16    January 1909                           |                                                  |         |
+| 22              | Hempstead          | 11    May 1894                               | (See letters & affidavit filed with)             |         |
+| 18              | Hempstead          | 10    May 1929                               |                                                  | 3       |
+| 6               | Oyster Bay         | 28    July 1846                              |                                                  | 5       |
+| 6               | Hempstead          | 24    March 1893                             |                                                  | 5       |
+| 9               | North Hempstead    | 10    July 1930                              |                                                  | 5       |
+| 15              | "                  | 16    September 1931                         |                                                  | 5       |
+| 4               | Oyster Bay         | Names from Mr. Bunce July 8, 1901           |                                                  |         |
+| 1               | Oyster Bay         | March 1895                                 | 6     April 1875                                   |         |
+| 12              | Oyster Bay         | 14    June 1934                              | 21    June 1934                                    | 5       |
+| 23              | Oyster Bay         | 15    June 1931                              | 23    July 1937                                    | 5       |
+| 3               | Oyster Bay         | 22    October 1907                           | 16    November 1987                                | 3       |
+| 5               | Hempstead          | 8     October 1948                           | 8     October 1948                                 | 5       |
+| 3               | Hempstead          | 28    April 1948                             | 10    May 1948                                     | 1948    |
+| 2               | North Hempstead    | 21    New 1949                                 | 1     West 1949                                    | 1949    |
+| 14              | Oyster Bay         | 10    July 1950                              | 16    August 1950                                  | 1950    |
+| 19              | Oyster Bay         | 26    May 1950                               | 6     June 1950                                    | 1950    |
+| 18              | Oyster Bay         | 7     April 1951                             | 24    December 1951                                | 1951    |
+| 26              | Hempstead          | 21    February 1951                          | 23    February 1951                                | 1951    |
+| 11              | Oyster Bay etc     | 1     July 1952                              | 15    July 1952                                    | 1952    |
+| 13              | Oyster Bay         | 5     December 1952                          | 8     December 1952                                | 1952    |
+```
+
+**Notes:**
+
+* The handwritten entries are transcribed as they appear.
+* Pre-printed text is preserved.
+* Blank fields are indicated as `[blank]`.
+* Handwritten notes such as "(See letters & affidavit filed with)" are included in the "REMARKS" column.
+* The table structure is maintained with `|` to separate columns.

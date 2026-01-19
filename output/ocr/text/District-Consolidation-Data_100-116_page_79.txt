@@ -1,0 +1,64 @@
+Below is the transcription of the tabular data from the document, preserving the structure and formatting as requested:
+
+---
+
+**Jefferson County**
+
+| No. of District | NAME OF TOWN | DATE OF SCHOOL- MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS |
+|-----------------|--------------|---------------------------------------------|--------------------------------------------------|---------|
+|                 |              | Day | Month | Year | Day | Month | Year | No. of new dist. |
+| 1               | Housefield   | Laid out 14 June 1938 | Meeting held 28 June 1938 | Designation of dist. 18 July 1938 | C.R.S. 1. Housefield, Henderson |
+| 2               | Housefield   |  |  |  |  |  |  | 2. Adams, Watertown |
+| 3               | Housefield   |  |  |  |  |  |  | C.R.S. 1. Cape Vincent, Clayton & Lyme |
+| 4               | Cape Vincent |  |  |  |  |  |  |  |
+| 5               | Cape Vincent | Laid out 16 Sept 1938 | Meeting held 21 Sept 1938 | Designation of dist. 23 Sept 1938 | C.R.S. 1. Clayton, Cape Vincent, Brownville, Lyme & Orleans |
+| 6               | Clayton      |  |  |  |  |  |  |  |
+| 7               | Clayton      | Laid out 6 Sept 1938 | Meeting held 22 Sept 1938 | Designation of dist. 23 Sept 1938 | C.R.S. 2. Clayton, Cape Vincent, Brownville, Lyme & Orleans |
+| 8               | Clayton      |  |  |  |  |  |  |  |
+| 9               | Orleans      |  |  |  |  |  |  |  |
+| 10              | Orleans      |  |  |  |  |  |  |  |
+| 11              | Orleans      |  |  |  |  |  |  |  |
+| 12              | Orleans      |  |  |  |  |  |  |  |
+| 13              | Orleans      |  |  |  |  |  |  |  |
+| 14              | Orleans      |  |  |  |  |  |  |  |
+| 15              | Orleans      |  |  |  |  |  |  |  |
+| 16              | Orleans      |  |  |  |  |  |  |  |
+| 17              | Orleans      |  |  |  |  |  |  |  |
+| 18              | Orleans      |  |  |  |  |  |  |  |
+| 19              | Orleans      |  |  |  |  |  |  |  |
+| 20              | Orleans      |  |  |  |  |  |  |  |
+| 21              | Orleans      |  |  |  |  |  |  |  |
+| 22              | Orleans      |  |  |  |  |  |  |  |
+| 23              | Orleans      |  |  |  |  |  |  |  |
+| 24              | Orleans      |  |  |  |  |  |  |  |
+| 25              | Orleans      |  |  |  |  |  |  |  |
+| 26              | Orleans      |  |  |  |  |  |  |  |
+| 27              | Orleans      |  |  |  |  |  |  |  |
+| 28              | Orleans      |  |  |  |  |  |  |  |
+| 29              | Orleans      |  |  |  |  |  |  |  |
+| 30              | Orleans      |  |  |  |  |  |  |  |
+| 31              | Orleans      |  |  |  |  |  |  |  |
+| 32              | Orleans      |  |  |  |  |  |  |  |
+| 33              | Orleans      |  |  |  |  |  |  |  |
+| 34              | Orleans      |  |  |  |  |  |  |  |
+| 35              | Orleans      |  |  |  |  |  |  |  |
+| 36              | Orleans      |  |  |  |  |  |  |  |
+| 37              | Orleans      |  |  |  |  |  |  |  |
+| 38              | Orleans      |  |  |  |  |  |  |  |
+| 39              | Orleans      |  |  |  |  |  |  |  |
+| 40              | Orleans      |  |  |  |  |  |  |  |
+| 41              | Orleans      |  |  |  |  |  |  |  |
+| 42              | Orleans      |  |  |  |  |  |  |  |
+| 43              | Orleans      |  |  |  |  |  |  |  |
+| 44              | Orleans      |  |  |  |  |  |  |  |
+| 45              | Orleans      |  |  |  |  |  |  |  |
+| 46              | Orleans      |  |  |  |  |  |  |  |
+| 47              | Orleans      |  |  |  |  |  |  |  |
+| 48              | Orleans      |  |  |  |  |  |  |  |
+| 49              | Orleans      |  |  |  |  |  |  |  |
+| 50              | Orleans      |  |  |  |  |  |  |  |
+| 51              | Orleans      |  |  |  |  |  |  |  |
+| 52              | Orleans      |  |  |  |  |  |  |  |
+| 53              | Orleans      |  |  |  |  |  |  |  |
+| 54              | Orleans      |  |  |  |  |  |  |  |
+| 55              | Orleans      |  |

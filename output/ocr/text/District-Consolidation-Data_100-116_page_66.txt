@@ -1,0 +1,11 @@
+```
+128                                                                 Greene County
+
+Town School Units
+
+| Unit | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | Nos. of dists. included | DATE OF WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of Board | REMARKS |
+|------|--------------|--------------------------------------------|--------------------------|--------------------------------------------------|--------------|---------|
+|      |              | Dep. Month Year                            |                          | Dep. Month Year                                  |              |         |
+| 1    | Hunter       | U.F.S. 4 and 6, 8 + 10                     |                          |                                                  |              |         |
+| '2   | "            | " 2                                        | 1, 3, 7 + 9              |                                                  |              |         |
+```

@@ -1,0 +1,10 @@
+```
+Cartland County
+Union Free Schools
+
+| No. of District | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT |  |  | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT |  |  | No. of Board of Education Members | REMARKS |
+|-----------------|--------------|---------------------------------------------|----|----|---------------------------------------------------|----|----|-----------------------------|---------|
+|                 |              | Day                                         | Month | Year | Day                                               | Month | Year |                             |         |
+| 1               | Homer        | 25                                          | July | 1873 | 11                                                | February | 1916 | 9                           |         |
+| 2               | Scott        | 4                                           | January | 1916 | 11                                                | February | 1916 | 5                           |         |
+```

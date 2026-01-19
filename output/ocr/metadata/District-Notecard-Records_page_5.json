@@ -1,0 +1,31 @@
+{
+  "source_file": "output/ocr/temp/District-Notecard-Records_page_5.jpg",
+  "processed_at": "2026-01-18T00:12:41.734162",
+  "model": "qwen/qwen-vl-plus",
+  "usage": {
+    "prompt_tokens": 1772,
+    "completion_tokens": 1416,
+    "total_tokens": 3188,
+    "cost": 0.0012642,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": null,
+      "upstream_inference_prompt_cost": 0.00037212,
+      "upstream_inference_completions_cost": 0.00089208
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0
+    }
+  },
+  "confidence": 0.0,
+  "text_length_original": 3955,
+  "text_length_filtered": 3956,
+  "stamp_filtering_applied": true,
+  "checksum": "b40064b9c4556b82195ef65e1898651b4353307348c1f8a7e818673f390e4ffd"
+}

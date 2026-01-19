@@ -1,0 +1,23 @@
+```
+Chautauqua County
+Page 37
+
+Town School Units
+
+| No. of Unit | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS |
+|-------------|--------------|---------------------------------------------|--------------------------------------------------|---------|
+|             |              | Day | Month | Year | Dep. | Month | Year |        |
+| Unit        |              |     |       |      |      |       |      |        |
+| 1           | Stockton     |     |       |      |      |       |      |        |
+|             |              | U.F.S. 3 and 1,2,5,6 and 9 Stockton |                                    |        |
+| 2           | Stockton     |     |       |      |      |       |      |        |
+|             |              | U.F.S. 7 and 4,8,9,10 Stockton |                                    |        |
+| 14          | Hannover     |     |       |      |      |       |      | 5      |
+|             |              | Affidavit Fileder |                                    |        |
+```
+
+**Notes:**
+- The table headers are preserved as per the original document.
+- Handwritten entries are transcribed exactly as they appear.
+- Blank fields are indicated with `[blank]` where no information is present.
+- The layout maintains the alignment and structure of the original form.

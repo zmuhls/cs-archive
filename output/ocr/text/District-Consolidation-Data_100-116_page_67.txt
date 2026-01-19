@@ -1,0 +1,42 @@
+```
+130
+Greene County
+
+Consolidated Districts
+
+| No. of | NAME OF TOWN | DATE OF SCHOOL-MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. new dist. | REMARKS |
+|--------|--------------|---------------------------------------------|--------------------------------------------------|---------------|---------|
+|        |              | Day Month Year                              | Day Month Year                                   |               |         |
+| 247    | Jewett       | 13 May 1914                                 | 2 7 1927                                         | 7 Jewett      |         |
+| 889    | Jewett       | 26 September 1918                           | 8 11 1930                                        | 8 Jewett      |         |
+| 6416   | Greenville   | 17 June 1919                                | 16 20 1921                                       | 6 Greenville  |         |
+| 4913   | New Baltimore| 17 June 1919                                | 4 26 1920                                        | 4 New Baltimore|         |
+| 2      | Fratts ville | 30 July 1919                                | 2 25 1920                                        | 2 Fratts ville|         |
+| 246    | Jewett       | 10 February 1920                            | 12 19 1920                                       | 6 Jewett      |         |
+| 6410   | New Baltimore| 19 July 1920                                | 13 19 1920                                       | 12 New Baltimore|        |
+| 12613  | Durham       | 25 August 1920                              | 9 15 1920                                        | 12 Durham     |         |
+| 9110   | Catskill     | 15 June 1922                                | 10 12 1922                                       | 10 Catskill   |         |
+| 10412  | Catskill     | 24 July 1922                                | 11 13 1922                                       | 10 Catskill   |         |
+
+[Handwritten notes below the table provide additional details about district consolidations and designations, including dates, locations, and specific notes about each consolidation. These notes are not formatted in a tabular structure but are written in cursive handwriting.]
+
+Examples of handwritten notes:
+- "Greenville + Durham = Greenville-Durham"
+- "Designation of district 15 May 1930"
+- "C.R.P.S. laid out 12 June 1930"
+- "Meeting held 10 April 1931"
+- "Designation of district 16 April 1931"
+- "Assessment papers in folder"
+- "C.R.P.S. laid out 28 Oct. 1931"
+- "Meeting held 29 April 1931"
+- "Designation of district 11 July 1931"
+- "Forster"
+- "1 June 1931 to take effect 1 Sept. 1931"
+- "1 March 1937 to take effect 1 July 1937"
+- "1 March 1937 to take effect 1 July 1937"
+```
+
+### Notes:
+- The handwritten notes are not formatted in a tabular structure but are written in cursive handwriting.
+- The table includes pre-printed text for headers and some entries, while the dates, names, and additional remarks are filled in by hand.
+- The handwritten notes provide additional context and details about the consolidation of districts, including specific dates, locations, and notes about each consolidation.

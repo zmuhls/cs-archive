@@ -1,0 +1,29 @@
+{
+  "source_file": "output/ocr/temp/Toward-Better-Schools_page_3.jpg",
+  "processed_at": "2025-12-19T00:54:36.412887",
+  "model": "qwen/qwen-vl-plus",
+  "usage": {
+    "prompt_tokens": 1647,
+    "completion_tokens": 507,
+    "total_tokens": 2154,
+    "cost": 0.00066528,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": null,
+      "upstream_inference_prompt_cost": 0.00034587,
+      "upstream_inference_completions_cost": 0.00031941
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0
+    }
+  },
+  "confidence": 1.0,
+  "text_length": 1844,
+  "checksum": "d9e5683f04b7260344bcca9c8f466346fd5bf7b8236bae9c20f412eb983c62e9"
+}

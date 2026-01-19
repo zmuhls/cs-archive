@@ -1,0 +1,2219 @@
+{
+  "timestamp": "2026-01-18T00:50:44.115236",
+  "threshold": 50,
+  "dry_run": false,
+  "files_scanned": 1307,
+  "files_below_threshold": 1189,
+  "files_processed": 118,
+  "files_cleaned": 81,
+  "total_blocks_consolidated": 296,
+  "total_markers_removed": 29815,
+  "total_size_reduction_bytes": 386688,
+  "results": [
+    {
+      "file": "Amityville-Records_qwen-vl-plus_complete.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_complete.txt",
+      "original_size": 1346183,
+      "cleaned_size": 1173413,
+      "size_reduction": 172770,
+      "stats": {
+        "original_illegible_count": 15490,
+        "blocks_consolidated": 132,
+        "markers_removed": 13293,
+        "markers_remaining": 2197,
+        "original_length": 1346183,
+        "cleaned_length": 1173413,
+        "size_reduction": 172770,
+        "reduction_percentage": 12.83
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_complete.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_104.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_104.txt",
+      "original_size": 4839,
+      "cleaned_size": 2714,
+      "size_reduction": 2125,
+      "stats": {
+        "original_illegible_count": 181,
+        "blocks_consolidated": 1,
+        "markers_removed": 180,
+        "markers_remaining": 1,
+        "original_length": 4839,
+        "cleaned_length": 2714,
+        "size_reduction": 2125,
+        "reduction_percentage": 43.91
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_104.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_117.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_117.txt",
+      "original_size": 4281,
+      "cleaned_size": 1808,
+      "size_reduction": 2473,
+      "stats": {
+        "original_illegible_count": 180,
+        "blocks_consolidated": 1,
+        "markers_removed": 179,
+        "markers_remaining": 1,
+        "original_length": 4281,
+        "cleaned_length": 1808,
+        "size_reduction": 2473,
+        "reduction_percentage": 57.77
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_117.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_15.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_15.txt",
+      "original_size": 4121,
+      "cleaned_size": 3727,
+      "size_reduction": 394,
+      "stats": {
+        "original_illegible_count": 197,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 197,
+        "original_length": 4121,
+        "cleaned_length": 3727,
+        "size_reduction": 394,
+        "reduction_percentage": 9.56
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_159.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_159.txt",
+      "original_size": 4819,
+      "cleaned_size": 2754,
+      "size_reduction": 2065,
+      "stats": {
+        "original_illegible_count": 176,
+        "blocks_consolidated": 1,
+        "markers_removed": 175,
+        "markers_remaining": 1,
+        "original_length": 4819,
+        "cleaned_length": 2754,
+        "size_reduction": 2065,
+        "reduction_percentage": 42.85
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_159.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_163.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_163.txt",
+      "original_size": 3870,
+      "cleaned_size": 665,
+      "size_reduction": 3205,
+      "stats": {
+        "original_illegible_count": 271,
+        "blocks_consolidated": 1,
+        "markers_removed": 270,
+        "markers_remaining": 1,
+        "original_length": 3870,
+        "cleaned_length": 665,
+        "size_reduction": 3205,
+        "reduction_percentage": 82.82
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_163.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_17.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_17.txt",
+      "original_size": 4233,
+      "cleaned_size": 1634,
+      "size_reduction": 2599,
+      "stats": {
+        "original_illegible_count": 189,
+        "blocks_consolidated": 1,
+        "markers_removed": 188,
+        "markers_remaining": 1,
+        "original_length": 4233,
+        "cleaned_length": 1634,
+        "size_reduction": 2599,
+        "reduction_percentage": 61.4
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_17.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_178.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_178.txt",
+      "original_size": 4775,
+      "cleaned_size": 2518,
+      "size_reduction": 2257,
+      "stats": {
+        "original_illegible_count": 192,
+        "blocks_consolidated": 1,
+        "markers_removed": 191,
+        "markers_remaining": 1,
+        "original_length": 4775,
+        "cleaned_length": 2518,
+        "size_reduction": 2257,
+        "reduction_percentage": 47.27
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_178.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_194.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_194.txt",
+      "original_size": 4156,
+      "cleaned_size": 1753,
+      "size_reduction": 2403,
+      "stats": {
+        "original_illegible_count": 175,
+        "blocks_consolidated": 1,
+        "markers_removed": 174,
+        "markers_remaining": 1,
+        "original_length": 4156,
+        "cleaned_length": 1753,
+        "size_reduction": 2403,
+        "reduction_percentage": 57.82
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_194.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_198.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_198.txt",
+      "original_size": 3609,
+      "cleaned_size": 354,
+      "size_reduction": 3255,
+      "stats": {
+        "original_illegible_count": 236,
+        "blocks_consolidated": 1,
+        "markers_removed": 235,
+        "markers_remaining": 1,
+        "original_length": 3609,
+        "cleaned_length": 354,
+        "size_reduction": 3255,
+        "reduction_percentage": 90.19
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_198.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_215.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_215.txt",
+      "original_size": 4367,
+      "cleaned_size": 1978,
+      "size_reduction": 2389,
+      "stats": {
+        "original_illegible_count": 203,
+        "blocks_consolidated": 1,
+        "markers_removed": 202,
+        "markers_remaining": 1,
+        "original_length": 4367,
+        "cleaned_length": 1978,
+        "size_reduction": 2389,
+        "reduction_percentage": 54.71
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_215.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_222.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_222.txt",
+      "original_size": 3817,
+      "cleaned_size": 1236,
+      "size_reduction": 2581,
+      "stats": {
+        "original_illegible_count": 219,
+        "blocks_consolidated": 1,
+        "markers_removed": 218,
+        "markers_remaining": 1,
+        "original_length": 3817,
+        "cleaned_length": 1236,
+        "size_reduction": 2581,
+        "reduction_percentage": 67.62
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_222.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_236.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_236.txt",
+      "original_size": 3875,
+      "cleaned_size": 1678,
+      "size_reduction": 2197,
+      "stats": {
+        "original_illegible_count": 187,
+        "blocks_consolidated": 1,
+        "markers_removed": 186,
+        "markers_remaining": 1,
+        "original_length": 3875,
+        "cleaned_length": 1678,
+        "size_reduction": 2197,
+        "reduction_percentage": 56.7
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_236.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_242.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_242.txt",
+      "original_size": 4641,
+      "cleaned_size": 4641,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 232,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 232,
+        "original_length": 4641,
+        "cleaned_length": 4641,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_248.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_248.txt",
+      "original_size": 4069,
+      "cleaned_size": 1488,
+      "size_reduction": 2581,
+      "stats": {
+        "original_illegible_count": 219,
+        "blocks_consolidated": 1,
+        "markers_removed": 218,
+        "markers_remaining": 1,
+        "original_length": 4069,
+        "cleaned_length": 1488,
+        "size_reduction": 2581,
+        "reduction_percentage": 63.43
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_248.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_259.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_259.txt",
+      "original_size": 4814,
+      "cleaned_size": 2629,
+      "size_reduction": 2185,
+      "stats": {
+        "original_illegible_count": 186,
+        "blocks_consolidated": 1,
+        "markers_removed": 185,
+        "markers_remaining": 1,
+        "original_length": 4814,
+        "cleaned_length": 2629,
+        "size_reduction": 2185,
+        "reduction_percentage": 45.39
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_259.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_27.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_27.txt",
+      "original_size": 4258,
+      "cleaned_size": 2009,
+      "size_reduction": 2249,
+      "stats": {
+        "original_illegible_count": 164,
+        "blocks_consolidated": 1,
+        "markers_removed": 163,
+        "markers_remaining": 1,
+        "original_length": 4258,
+        "cleaned_length": 2009,
+        "size_reduction": 2249,
+        "reduction_percentage": 52.82
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_27.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_288.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_288.txt",
+      "original_size": 4077,
+      "cleaned_size": 2228,
+      "size_reduction": 1849,
+      "stats": {
+        "original_illegible_count": 158,
+        "blocks_consolidated": 1,
+        "markers_removed": 157,
+        "markers_remaining": 1,
+        "original_length": 4077,
+        "cleaned_length": 2228,
+        "size_reduction": 1849,
+        "reduction_percentage": 45.35
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_288.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_289.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_289.txt",
+      "original_size": 3782,
+      "cleaned_size": 805,
+      "size_reduction": 2977,
+      "stats": {
+        "original_illegible_count": 252,
+        "blocks_consolidated": 1,
+        "markers_removed": 251,
+        "markers_remaining": 1,
+        "original_length": 3782,
+        "cleaned_length": 805,
+        "size_reduction": 2977,
+        "reduction_percentage": 78.71
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_289.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_309.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_309.txt",
+      "original_size": 3461,
+      "cleaned_size": 120,
+      "size_reduction": 3341,
+      "stats": {
+        "original_illegible_count": 242,
+        "blocks_consolidated": 1,
+        "markers_removed": 241,
+        "markers_remaining": 1,
+        "original_length": 3461,
+        "cleaned_length": 120,
+        "size_reduction": 3341,
+        "reduction_percentage": 96.53
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_309.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_318.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_318.txt",
+      "original_size": 3607,
+      "cleaned_size": 810,
+      "size_reduction": 2797,
+      "stats": {
+        "original_illegible_count": 204,
+        "blocks_consolidated": 1,
+        "markers_removed": 202,
+        "markers_remaining": 2,
+        "original_length": 3607,
+        "cleaned_length": 810,
+        "size_reduction": 2797,
+        "reduction_percentage": 77.54
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_318.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_320.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_320.txt",
+      "original_size": 3781,
+      "cleaned_size": 636,
+      "size_reduction": 3145,
+      "stats": {
+        "original_illegible_count": 266,
+        "blocks_consolidated": 1,
+        "markers_removed": 265,
+        "markers_remaining": 1,
+        "original_length": 3781,
+        "cleaned_length": 636,
+        "size_reduction": 3145,
+        "reduction_percentage": 83.18
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_320.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_338.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_338.txt",
+      "original_size": 3215,
+      "cleaned_size": 3215,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 1,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 1,
+        "original_length": 3215,
+        "cleaned_length": 3215,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_346.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_346.txt",
+      "original_size": 3649,
+      "cleaned_size": 894,
+      "size_reduction": 2755,
+      "stats": {
+        "original_illegible_count": 201,
+        "blocks_consolidated": 1,
+        "markers_removed": 199,
+        "markers_remaining": 2,
+        "original_length": 3649,
+        "cleaned_length": 894,
+        "size_reduction": 2755,
+        "reduction_percentage": 75.5
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_346.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_347.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_347.txt",
+      "original_size": 3579,
+      "cleaned_size": 964,
+      "size_reduction": 2615,
+      "stats": {
+        "original_illegible_count": 191,
+        "blocks_consolidated": 1,
+        "markers_removed": 189,
+        "markers_remaining": 2,
+        "original_length": 3579,
+        "cleaned_length": 964,
+        "size_reduction": 2615,
+        "reduction_percentage": 73.07
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_347.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_350.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_350.txt",
+      "original_size": 3663,
+      "cleaned_size": 1246,
+      "size_reduction": 2417,
+      "stats": {
+        "original_illegible_count": 177,
+        "blocks_consolidated": 1,
+        "markers_removed": 175,
+        "markers_remaining": 2,
+        "original_length": 3663,
+        "cleaned_length": 1246,
+        "size_reduction": 2417,
+        "reduction_percentage": 65.98
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_350.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_358.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_358.txt",
+      "original_size": 2178,
+      "cleaned_size": 2178,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 0,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 0,
+        "original_length": 2178,
+        "cleaned_length": 2178,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_359.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_359.txt",
+      "original_size": 3574,
+      "cleaned_size": 961,
+      "size_reduction": 2613,
+      "stats": {
+        "original_illegible_count": 190,
+        "blocks_consolidated": 1,
+        "markers_removed": 189,
+        "markers_remaining": 1,
+        "original_length": 3574,
+        "cleaned_length": 961,
+        "size_reduction": 2613,
+        "reduction_percentage": 73.11
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_359.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_360.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_360.txt",
+      "original_size": 3342,
+      "cleaned_size": 965,
+      "size_reduction": 2377,
+      "stats": {
+        "original_illegible_count": 203,
+        "blocks_consolidated": 1,
+        "markers_removed": 201,
+        "markers_remaining": 2,
+        "original_length": 3342,
+        "cleaned_length": 965,
+        "size_reduction": 2377,
+        "reduction_percentage": 71.13
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_360.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_367.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_367.txt",
+      "original_size": 3956,
+      "cleaned_size": 1675,
+      "size_reduction": 2281,
+      "stats": {
+        "original_illegible_count": 194,
+        "blocks_consolidated": 1,
+        "markers_removed": 193,
+        "markers_remaining": 1,
+        "original_length": 3956,
+        "cleaned_length": 1675,
+        "size_reduction": 2281,
+        "reduction_percentage": 57.66
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_367.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_368.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_368.txt",
+      "original_size": 3693,
+      "cleaned_size": 1248,
+      "size_reduction": 2445,
+      "stats": {
+        "original_illegible_count": 178,
+        "blocks_consolidated": 1,
+        "markers_removed": 177,
+        "markers_remaining": 1,
+        "original_length": 3693,
+        "cleaned_length": 1248,
+        "size_reduction": 2445,
+        "reduction_percentage": 66.21
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_368.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_369.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_369.txt",
+      "original_size": 3518,
+      "cleaned_size": 277,
+      "size_reduction": 3241,
+      "stats": {
+        "original_illegible_count": 235,
+        "blocks_consolidated": 1,
+        "markers_removed": 234,
+        "markers_remaining": 1,
+        "original_length": 3518,
+        "cleaned_length": 277,
+        "size_reduction": 3241,
+        "reduction_percentage": 92.13
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_369.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_379.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_379.txt",
+      "original_size": 2768,
+      "cleaned_size": 2768,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 0,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 0,
+        "original_length": 2768,
+        "cleaned_length": 2768,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_380.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_380.txt",
+      "original_size": 3789,
+      "cleaned_size": 3305,
+      "size_reduction": 484,
+      "stats": {
+        "original_illegible_count": 243,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 243,
+        "original_length": 3789,
+        "cleaned_length": 3305,
+        "size_reduction": 484,
+        "reduction_percentage": 12.77
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_381.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_381.txt",
+      "original_size": 3585,
+      "cleaned_size": 1042,
+      "size_reduction": 2543,
+      "stats": {
+        "original_illegible_count": 185,
+        "blocks_consolidated": 1,
+        "markers_removed": 184,
+        "markers_remaining": 1,
+        "original_length": 3585,
+        "cleaned_length": 1042,
+        "size_reduction": 2543,
+        "reduction_percentage": 70.93
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_381.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_387.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_387.txt",
+      "original_size": 3725,
+      "cleaned_size": 1040,
+      "size_reduction": 2685,
+      "stats": {
+        "original_illegible_count": 196,
+        "blocks_consolidated": 1,
+        "markers_removed": 194,
+        "markers_remaining": 2,
+        "original_length": 3725,
+        "cleaned_length": 1040,
+        "size_reduction": 2685,
+        "reduction_percentage": 72.08
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_387.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_394.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_394.txt",
+      "original_size": 4311,
+      "cleaned_size": 1766,
+      "size_reduction": 2545,
+      "stats": {
+        "original_illegible_count": 216,
+        "blocks_consolidated": 1,
+        "markers_removed": 215,
+        "markers_remaining": 1,
+        "original_length": 4311,
+        "cleaned_length": 1766,
+        "size_reduction": 2545,
+        "reduction_percentage": 59.04
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_394.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_408.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_408.txt",
+      "original_size": 3609,
+      "cleaned_size": 366,
+      "size_reduction": 3243,
+      "stats": {
+        "original_illegible_count": 235,
+        "blocks_consolidated": 1,
+        "markers_removed": 234,
+        "markers_remaining": 1,
+        "original_length": 3609,
+        "cleaned_length": 366,
+        "size_reduction": 3243,
+        "reduction_percentage": 89.86
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_408.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_410.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_410.txt",
+      "original_size": 4301,
+      "cleaned_size": 1842,
+      "size_reduction": 2459,
+      "stats": {
+        "original_illegible_count": 179,
+        "blocks_consolidated": 1,
+        "markers_removed": 178,
+        "markers_remaining": 1,
+        "original_length": 4301,
+        "cleaned_length": 1842,
+        "size_reduction": 2459,
+        "reduction_percentage": 57.17
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_410.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_417.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_417.txt",
+      "original_size": 3555,
+      "cleaned_size": 494,
+      "size_reduction": 3061,
+      "stats": {
+        "original_illegible_count": 222,
+        "blocks_consolidated": 1,
+        "markers_removed": 221,
+        "markers_remaining": 1,
+        "original_length": 3555,
+        "cleaned_length": 494,
+        "size_reduction": 3061,
+        "reduction_percentage": 86.1
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_417.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_421.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_421.txt",
+      "original_size": 3628,
+      "cleaned_size": 693,
+      "size_reduction": 2935,
+      "stats": {
+        "original_illegible_count": 213,
+        "blocks_consolidated": 1,
+        "markers_removed": 212,
+        "markers_remaining": 1,
+        "original_length": 3628,
+        "cleaned_length": 693,
+        "size_reduction": 2935,
+        "reduction_percentage": 80.9
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_421.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_427.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_427.txt",
+      "original_size": 3732,
+      "cleaned_size": 853,
+      "size_reduction": 2879,
+      "stats": {
+        "original_illegible_count": 209,
+        "blocks_consolidated": 1,
+        "markers_removed": 208,
+        "markers_remaining": 1,
+        "original_length": 3732,
+        "cleaned_length": 853,
+        "size_reduction": 2879,
+        "reduction_percentage": 77.14
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_427.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_429.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_429.txt",
+      "original_size": 4087,
+      "cleaned_size": 1518,
+      "size_reduction": 2569,
+      "stats": {
+        "original_illegible_count": 218,
+        "blocks_consolidated": 1,
+        "markers_removed": 217,
+        "markers_remaining": 1,
+        "original_length": 4087,
+        "cleaned_length": 1518,
+        "size_reduction": 2569,
+        "reduction_percentage": 62.86
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_429.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_431.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_431.txt",
+      "original_size": 3734,
+      "cleaned_size": 729,
+      "size_reduction": 3005,
+      "stats": {
+        "original_illegible_count": 218,
+        "blocks_consolidated": 1,
+        "markers_removed": 217,
+        "markers_remaining": 1,
+        "original_length": 3734,
+        "cleaned_length": 729,
+        "size_reduction": 3005,
+        "reduction_percentage": 80.48
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_431.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_436.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_436.txt",
+      "original_size": 3490,
+      "cleaned_size": 695,
+      "size_reduction": 2795,
+      "stats": {
+        "original_illegible_count": 203,
+        "blocks_consolidated": 1,
+        "markers_removed": 202,
+        "markers_remaining": 1,
+        "original_length": 3490,
+        "cleaned_length": 695,
+        "size_reduction": 2795,
+        "reduction_percentage": 80.09
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_436.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_440.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_440.txt",
+      "original_size": 3519,
+      "cleaned_size": 234,
+      "size_reduction": 3285,
+      "stats": {
+        "original_illegible_count": 238,
+        "blocks_consolidated": 1,
+        "markers_removed": 237,
+        "markers_remaining": 1,
+        "original_length": 3519,
+        "cleaned_length": 234,
+        "size_reduction": 3285,
+        "reduction_percentage": 93.35
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_440.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_441.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_441.txt",
+      "original_size": 3578,
+      "cleaned_size": 405,
+      "size_reduction": 3173,
+      "stats": {
+        "original_illegible_count": 230,
+        "blocks_consolidated": 1,
+        "markers_removed": 229,
+        "markers_remaining": 1,
+        "original_length": 3578,
+        "cleaned_length": 405,
+        "size_reduction": 3173,
+        "reduction_percentage": 88.68
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_441.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_445.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_445.txt",
+      "original_size": 3635,
+      "cleaned_size": 3834,
+      "size_reduction": -199,
+      "stats": {
+        "original_illegible_count": 202,
+        "blocks_consolidated": 67,
+        "markers_removed": 134,
+        "markers_remaining": 68,
+        "original_length": 3635,
+        "cleaned_length": 3834,
+        "size_reduction": -199,
+        "reduction_percentage": -5.47
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_445.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_448.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_448.txt",
+      "original_size": 4067,
+      "cleaned_size": 1582,
+      "size_reduction": 2485,
+      "stats": {
+        "original_illegible_count": 181,
+        "blocks_consolidated": 1,
+        "markers_removed": 180,
+        "markers_remaining": 1,
+        "original_length": 4067,
+        "cleaned_length": 1582,
+        "size_reduction": 2485,
+        "reduction_percentage": 61.1
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_448.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_455.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_455.txt",
+      "original_size": 4009,
+      "cleaned_size": 1354,
+      "size_reduction": 2655,
+      "stats": {
+        "original_illegible_count": 193,
+        "blocks_consolidated": 1,
+        "markers_removed": 192,
+        "markers_remaining": 1,
+        "original_length": 4009,
+        "cleaned_length": 1354,
+        "size_reduction": 2655,
+        "reduction_percentage": 66.23
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_455.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_465.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_465.txt",
+      "original_size": 4375,
+      "cleaned_size": 1972,
+      "size_reduction": 2403,
+      "stats": {
+        "original_illegible_count": 175,
+        "blocks_consolidated": 1,
+        "markers_removed": 174,
+        "markers_remaining": 1,
+        "original_length": 4375,
+        "cleaned_length": 1972,
+        "size_reduction": 2403,
+        "reduction_percentage": 54.93
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_465.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_472.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_472.txt",
+      "original_size": 3589,
+      "cleaned_size": 416,
+      "size_reduction": 3173,
+      "stats": {
+        "original_illegible_count": 230,
+        "blocks_consolidated": 1,
+        "markers_removed": 229,
+        "markers_remaining": 1,
+        "original_length": 3589,
+        "cleaned_length": 416,
+        "size_reduction": 3173,
+        "reduction_percentage": 88.41
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_472.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_478.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_478.txt",
+      "original_size": 3753,
+      "cleaned_size": 3371,
+      "size_reduction": 382,
+      "stats": {
+        "original_illegible_count": 192,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 192,
+        "original_length": 3753,
+        "cleaned_length": 3371,
+        "size_reduction": 382,
+        "reduction_percentage": 10.18
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_479.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_479.txt",
+      "original_size": 3550,
+      "cleaned_size": 419,
+      "size_reduction": 3131,
+      "stats": {
+        "original_illegible_count": 227,
+        "blocks_consolidated": 1,
+        "markers_removed": 226,
+        "markers_remaining": 1,
+        "original_length": 3550,
+        "cleaned_length": 419,
+        "size_reduction": 3131,
+        "reduction_percentage": 88.2
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_479.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_483.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_483.txt",
+      "original_size": 2937,
+      "cleaned_size": 2733,
+      "size_reduction": 204,
+      "stats": {
+        "original_illegible_count": 102,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 102,
+        "original_length": 2937,
+        "cleaned_length": 2733,
+        "size_reduction": 204,
+        "reduction_percentage": 6.95
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_484.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_484.txt",
+      "original_size": 3838,
+      "cleaned_size": 3408,
+      "size_reduction": 430,
+      "stats": {
+        "original_illegible_count": 215,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 215,
+        "original_length": 3838,
+        "cleaned_length": 3408,
+        "size_reduction": 430,
+        "reduction_percentage": 11.2
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_491.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_491.txt",
+      "original_size": 3905,
+      "cleaned_size": 1648,
+      "size_reduction": 2257,
+      "stats": {
+        "original_illegible_count": 192,
+        "blocks_consolidated": 1,
+        "markers_removed": 191,
+        "markers_remaining": 1,
+        "original_length": 3905,
+        "cleaned_length": 1648,
+        "size_reduction": 2257,
+        "reduction_percentage": 57.8
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_491.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_501.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_501.txt",
+      "original_size": 3995,
+      "cleaned_size": 3593,
+      "size_reduction": 402,
+      "stats": {
+        "original_illegible_count": 201,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 201,
+        "original_length": 3995,
+        "cleaned_length": 3593,
+        "size_reduction": 402,
+        "reduction_percentage": 10.06
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_506.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_506.txt",
+      "original_size": 3693,
+      "cleaned_size": 584,
+      "size_reduction": 3109,
+      "stats": {
+        "original_illegible_count": 263,
+        "blocks_consolidated": 1,
+        "markers_removed": 262,
+        "markers_remaining": 1,
+        "original_length": 3693,
+        "cleaned_length": 584,
+        "size_reduction": 3109,
+        "reduction_percentage": 84.19
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_506.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_507.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_507.txt",
+      "original_size": 3480,
+      "cleaned_size": 501,
+      "size_reduction": 2979,
+      "stats": {
+        "original_illegible_count": 217,
+        "blocks_consolidated": 1,
+        "markers_removed": 215,
+        "markers_remaining": 2,
+        "original_length": 3480,
+        "cleaned_length": 501,
+        "size_reduction": 2979,
+        "reduction_percentage": 85.6
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_507.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_510.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_510.txt",
+      "original_size": 3645,
+      "cleaned_size": 1508,
+      "size_reduction": 2137,
+      "stats": {
+        "original_illegible_count": 182,
+        "blocks_consolidated": 1,
+        "markers_removed": 181,
+        "markers_remaining": 1,
+        "original_length": 3645,
+        "cleaned_length": 1508,
+        "size_reduction": 2137,
+        "reduction_percentage": 58.63
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_510.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_540.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_540.txt",
+      "original_size": 4234,
+      "cleaned_size": 1989,
+      "size_reduction": 2245,
+      "stats": {
+        "original_illegible_count": 191,
+        "blocks_consolidated": 1,
+        "markers_removed": 190,
+        "markers_remaining": 1,
+        "original_length": 4234,
+        "cleaned_length": 1989,
+        "size_reduction": 2245,
+        "reduction_percentage": 53.02
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_540.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_559.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_559.txt",
+      "original_size": 3667,
+      "cleaned_size": 1556,
+      "size_reduction": 2111,
+      "stats": {
+        "original_illegible_count": 155,
+        "blocks_consolidated": 1,
+        "markers_removed": 153,
+        "markers_remaining": 2,
+        "original_length": 3667,
+        "cleaned_length": 1556,
+        "size_reduction": 2111,
+        "reduction_percentage": 57.57
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_559.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_565.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_565.txt",
+      "original_size": 4759,
+      "cleaned_size": 2406,
+      "size_reduction": 2353,
+      "stats": {
+        "original_illegible_count": 200,
+        "blocks_consolidated": 1,
+        "markers_removed": 199,
+        "markers_remaining": 1,
+        "original_length": 4759,
+        "cleaned_length": 2406,
+        "size_reduction": 2353,
+        "reduction_percentage": 49.44
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_565.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_57.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_57.txt",
+      "original_size": 3892,
+      "cleaned_size": 1041,
+      "size_reduction": 2851,
+      "stats": {
+        "original_illegible_count": 207,
+        "blocks_consolidated": 1,
+        "markers_removed": 206,
+        "markers_remaining": 1,
+        "original_length": 3892,
+        "cleaned_length": 1041,
+        "size_reduction": 2851,
+        "reduction_percentage": 73.25
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_57.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_584.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_584.txt",
+      "original_size": 3897,
+      "cleaned_size": 3897,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 298,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 298,
+        "original_length": 3897,
+        "cleaned_length": 3897,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_586.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_586.txt",
+      "original_size": 3907,
+      "cleaned_size": 3907,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 298,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 298,
+        "original_length": 3907,
+        "cleaned_length": 3907,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_60.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_60.txt",
+      "original_size": 3187,
+      "cleaned_size": 882,
+      "size_reduction": 2305,
+      "stats": {
+        "original_illegible_count": 168,
+        "blocks_consolidated": 1,
+        "markers_removed": 167,
+        "markers_remaining": 1,
+        "original_length": 3187,
+        "cleaned_length": 882,
+        "size_reduction": 2305,
+        "reduction_percentage": 72.33
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_60.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_601.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_601.txt",
+      "original_size": 3823,
+      "cleaned_size": 1074,
+      "size_reduction": 2749,
+      "stats": {
+        "original_illegible_count": 233,
+        "blocks_consolidated": 1,
+        "markers_removed": 232,
+        "markers_remaining": 1,
+        "original_length": 3823,
+        "cleaned_length": 1074,
+        "size_reduction": 2749,
+        "reduction_percentage": 71.91
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_601.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_61.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_61.txt",
+      "original_size": 4300,
+      "cleaned_size": 1491,
+      "size_reduction": 2809,
+      "stats": {
+        "original_illegible_count": 238,
+        "blocks_consolidated": 1,
+        "markers_removed": 237,
+        "markers_remaining": 1,
+        "original_length": 4300,
+        "cleaned_length": 1491,
+        "size_reduction": 2809,
+        "reduction_percentage": 65.33
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_61.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_626.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_626.txt",
+      "original_size": 4202,
+      "cleaned_size": 1429,
+      "size_reduction": 2773,
+      "stats": {
+        "original_illegible_count": 235,
+        "blocks_consolidated": 1,
+        "markers_removed": 234,
+        "markers_remaining": 1,
+        "original_length": 4202,
+        "cleaned_length": 1429,
+        "size_reduction": 2773,
+        "reduction_percentage": 65.99
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_626.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_631.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_631.txt",
+      "original_size": 4270,
+      "cleaned_size": 1909,
+      "size_reduction": 2361,
+      "stats": {
+        "original_illegible_count": 172,
+        "blocks_consolidated": 1,
+        "markers_removed": 171,
+        "markers_remaining": 1,
+        "original_length": 4270,
+        "cleaned_length": 1909,
+        "size_reduction": 2361,
+        "reduction_percentage": 55.29
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_631.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_64.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_64.txt",
+      "original_size": 4106,
+      "cleaned_size": 1649,
+      "size_reduction": 2457,
+      "stats": {
+        "original_illegible_count": 179,
+        "blocks_consolidated": 1,
+        "markers_removed": 178,
+        "markers_remaining": 1,
+        "original_length": 4106,
+        "cleaned_length": 1649,
+        "size_reduction": 2457,
+        "reduction_percentage": 59.84
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_64.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_645.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_645.txt",
+      "original_size": 4694,
+      "cleaned_size": 2569,
+      "size_reduction": 2125,
+      "stats": {
+        "original_illegible_count": 181,
+        "blocks_consolidated": 1,
+        "markers_removed": 180,
+        "markers_remaining": 1,
+        "original_length": 4694,
+        "cleaned_length": 2569,
+        "size_reduction": 2125,
+        "reduction_percentage": 45.27
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_645.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_650.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_650.txt",
+      "original_size": 4499,
+      "cleaned_size": 2326,
+      "size_reduction": 2173,
+      "stats": {
+        "original_illegible_count": 185,
+        "blocks_consolidated": 1,
+        "markers_removed": 184,
+        "markers_remaining": 1,
+        "original_length": 4499,
+        "cleaned_length": 2326,
+        "size_reduction": 2173,
+        "reduction_percentage": 48.3
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_650.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_656.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_656.txt",
+      "original_size": 3843,
+      "cleaned_size": 1358,
+      "size_reduction": 2485,
+      "stats": {
+        "original_illegible_count": 181,
+        "blocks_consolidated": 1,
+        "markers_removed": 180,
+        "markers_remaining": 1,
+        "original_length": 3843,
+        "cleaned_length": 1358,
+        "size_reduction": 2485,
+        "reduction_percentage": 64.66
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_656.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_66.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_66.txt",
+      "original_size": 4455,
+      "cleaned_size": 2270,
+      "size_reduction": 2185,
+      "stats": {
+        "original_illegible_count": 186,
+        "blocks_consolidated": 1,
+        "markers_removed": 185,
+        "markers_remaining": 1,
+        "original_length": 4455,
+        "cleaned_length": 2270,
+        "size_reduction": 2185,
+        "reduction_percentage": 49.05
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_66.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_73.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_73.txt",
+      "original_size": 6468,
+      "cleaned_size": 6468,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 0,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 0,
+        "original_length": 6468,
+        "cleaned_length": 6468,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_95.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_95.txt",
+      "original_size": 3287,
+      "cleaned_size": 562,
+      "size_reduction": 2725,
+      "stats": {
+        "original_illegible_count": 231,
+        "blocks_consolidated": 1,
+        "markers_removed": 230,
+        "markers_remaining": 1,
+        "original_length": 3287,
+        "cleaned_length": 562,
+        "size_reduction": 2725,
+        "reduction_percentage": 82.9
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_95.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "Amityville-Records_qwen-vl-plus_page_99.txt",
+      "full_path": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_99.txt",
+      "original_size": 4678,
+      "cleaned_size": 2337,
+      "size_reduction": 2341,
+      "stats": {
+        "original_illegible_count": 199,
+        "blocks_consolidated": 1,
+        "markers_removed": 198,
+        "markers_remaining": 1,
+        "original_length": 4678,
+        "cleaned_length": 2337,
+        "size_reduction": 2341,
+        "reduction_percentage": 50.04
+      },
+      "backed_up": "output/ocr/text/Amityville-Records_qwen-vl-plus_page_99.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "District-Notecard-Records_qwen-vl-plus_complete.txt",
+      "full_path": "output/ocr/text/District-Notecard-Records_qwen-vl-plus_complete.txt",
+      "original_size": 40633,
+      "cleaned_size": 37184,
+      "size_reduction": 3449,
+      "stats": {
+        "original_illegible_count": 569,
+        "blocks_consolidated": 1,
+        "markers_removed": 244,
+        "markers_remaining": 325,
+        "original_length": 40633,
+        "cleaned_length": 37184,
+        "size_reduction": 3449,
+        "reduction_percentage": 8.49
+      },
+      "backed_up": "output/ocr/text/District-Notecard-Records_qwen-vl-plus_complete.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "District-Notecard-Records_qwen-vl-plus_page_16.txt",
+      "full_path": "output/ocr/text/District-Notecard-Records_qwen-vl-plus_page_16.txt",
+      "original_size": 3516,
+      "cleaned_size": 105,
+      "size_reduction": 3411,
+      "stats": {
+        "original_illegible_count": 247,
+        "blocks_consolidated": 1,
+        "markers_removed": 246,
+        "markers_remaining": 1,
+        "original_length": 3516,
+        "cleaned_length": 105,
+        "size_reduction": 3411,
+        "reduction_percentage": 97.01
+      },
+      "backed_up": "output/ocr/text/District-Notecard-Records_qwen-vl-plus_page_16.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "District-Notecard-Records_qwen-vl-plus_page_32.txt",
+      "full_path": "output/ocr/text/District-Notecard-Records_qwen-vl-plus_page_32.txt",
+      "original_size": 3899,
+      "cleaned_size": 3899,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 300,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 300,
+        "original_length": 3899,
+        "cleaned_length": 3899,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "District-Notecard-Records_qwen-vl-plus_page_37.txt",
+      "full_path": "output/ocr/text/District-Notecard-Records_qwen-vl-plus_page_37.txt",
+      "original_size": 3686,
+      "cleaned_size": 3686,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 0,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 0,
+        "original_length": 3686,
+        "cleaned_length": 3686,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "District-Notecard-Records_qwen-vl-plus_page_46.txt",
+      "full_path": "output/ocr/text/District-Notecard-Records_qwen-vl-plus_page_46.txt",
+      "original_size": 3899,
+      "cleaned_size": 3899,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 300,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 300,
+        "original_length": 3899,
+        "cleaned_length": 3899,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "District-Notecard-Records_qwen-vl-plus_page_5.txt",
+      "full_path": "output/ocr/text/District-Notecard-Records_qwen-vl-plus_page_5.txt",
+      "original_size": 3956,
+      "cleaned_size": 3956,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 277,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 277,
+        "original_length": 3956,
+        "cleaned_length": 3956,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "District-Notecard-Records_qwen-vl-plus_page_51.txt",
+      "full_path": "output/ocr/text/District-Notecard-Records_qwen-vl-plus_page_51.txt",
+      "original_size": 3899,
+      "cleaned_size": 3899,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 300,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 300,
+        "original_length": 3899,
+        "cleaned_length": 3899,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "District-Notecard-Records_qwen-vl-plus_page_54.txt",
+      "full_path": "output/ocr/text/District-Notecard-Records_qwen-vl-plus_page_54.txt",
+      "original_size": 3908,
+      "cleaned_size": 3908,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 297,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 297,
+        "original_length": 3908,
+        "cleaned_length": 3908,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "District-Notecard-Records_qwen-vl-plus_page_55.txt",
+      "full_path": "output/ocr/text/District-Notecard-Records_qwen-vl-plus_page_55.txt",
+      "original_size": 3512,
+      "cleaned_size": 87,
+      "size_reduction": 3425,
+      "stats": {
+        "original_illegible_count": 248,
+        "blocks_consolidated": 1,
+        "markers_removed": 247,
+        "markers_remaining": 1,
+        "original_length": 3512,
+        "cleaned_length": 87,
+        "size_reduction": 3425,
+        "reduction_percentage": 97.52
+      },
+      "backed_up": "output/ocr/text/District-Notecard-Records_qwen-vl-plus_page_55.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "District-Notecard-Records_qwen-vl-plus_page_56.txt",
+      "full_path": "output/ocr/text/District-Notecard-Records_qwen-vl-plus_page_56.txt",
+      "original_size": 3899,
+      "cleaned_size": 3899,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 300,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 300,
+        "original_length": 3899,
+        "cleaned_length": 3899,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "District-Notecard-Records_qwen-vl-plus_page_59.txt",
+      "full_path": "output/ocr/text/District-Notecard-Records_qwen-vl-plus_page_59.txt",
+      "original_size": 3899,
+      "cleaned_size": 3899,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 300,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 300,
+        "original_length": 3899,
+        "cleaned_length": 3899,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "District-Notecard-Records_qwen-vl-plus_page_62.txt",
+      "full_path": "output/ocr/text/District-Notecard-Records_qwen-vl-plus_page_62.txt",
+      "original_size": 3498,
+      "cleaned_size": 115,
+      "size_reduction": 3383,
+      "stats": {
+        "original_illegible_count": 246,
+        "blocks_consolidated": 1,
+        "markers_removed": 244,
+        "markers_remaining": 2,
+        "original_length": 3498,
+        "cleaned_length": 115,
+        "size_reduction": 3383,
+        "reduction_percentage": 96.71
+      },
+      "backed_up": "output/ocr/text/District-Notecard-Records_qwen-vl-plus_page_62.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "District-Notecard-Records_qwen-vl-plus_page_9.txt",
+      "full_path": "output/ocr/text/District-Notecard-Records_qwen-vl-plus_page_9.txt",
+      "original_size": 3899,
+      "cleaned_size": 3899,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 300,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 300,
+        "original_length": 3899,
+        "cleaned_length": 3899,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "IMG_0657.txt",
+      "full_path": "output/ocr/text/IMG_0657.txt",
+      "original_size": 5488,
+      "cleaned_size": 5488,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 0,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 0,
+        "original_length": 5488,
+        "cleaned_length": 5488,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "IMG_0670.txt",
+      "full_path": "output/ocr/text/IMG_0670.txt",
+      "original_size": 6623,
+      "cleaned_size": 6623,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 0,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 0,
+        "original_length": 6623,
+        "cleaned_length": 6623,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "IMG_0705.txt",
+      "full_path": "output/ocr/text/IMG_0705.txt",
+      "original_size": 5171,
+      "cleaned_size": 3260,
+      "size_reduction": 1911,
+      "stats": {
+        "original_illegible_count": 140,
+        "blocks_consolidated": 1,
+        "markers_removed": 139,
+        "markers_remaining": 1,
+        "original_length": 5171,
+        "cleaned_length": 3260,
+        "size_reduction": 1911,
+        "reduction_percentage": 36.96
+      },
+      "backed_up": "output/ocr/text/IMG_0705.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "IMG_0718.txt",
+      "full_path": "output/ocr/text/IMG_0718.txt",
+      "original_size": 3507,
+      "cleaned_size": 96,
+      "size_reduction": 3411,
+      "stats": {
+        "original_illegible_count": 247,
+        "blocks_consolidated": 1,
+        "markers_removed": 246,
+        "markers_remaining": 1,
+        "original_length": 3507,
+        "cleaned_length": 96,
+        "size_reduction": 3411,
+        "reduction_percentage": 97.26
+      },
+      "backed_up": "output/ocr/text/IMG_0718.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "IMG_3326.txt",
+      "full_path": "output/ocr/text/IMG_3326.txt",
+      "original_size": 4283,
+      "cleaned_size": 2684,
+      "size_reduction": 1599,
+      "stats": {
+        "original_illegible_count": 208,
+        "blocks_consolidated": 19,
+        "markers_removed": 187,
+        "markers_remaining": 21,
+        "original_length": 4283,
+        "cleaned_length": 2684,
+        "size_reduction": 1599,
+        "reduction_percentage": 37.33
+      },
+      "backed_up": "output/ocr/text/IMG_3326.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "IMG_3327.txt",
+      "full_path": "output/ocr/text/IMG_3327.txt",
+      "original_size": 3950,
+      "cleaned_size": 3950,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 293,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 293,
+        "original_length": 3950,
+        "cleaned_length": 3950,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "IMG_3328.txt",
+      "full_path": "output/ocr/text/IMG_3328.txt",
+      "original_size": 4016,
+      "cleaned_size": 1387,
+      "size_reduction": 2629,
+      "stats": {
+        "original_illegible_count": 223,
+        "blocks_consolidated": 1,
+        "markers_removed": 222,
+        "markers_remaining": 1,
+        "original_length": 4016,
+        "cleaned_length": 1387,
+        "size_reduction": 2629,
+        "reduction_percentage": 65.46
+      },
+      "backed_up": "output/ocr/text/IMG_3328.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "IMG_3330.txt",
+      "full_path": "output/ocr/text/IMG_3330.txt",
+      "original_size": 4096,
+      "cleaned_size": 1587,
+      "size_reduction": 2509,
+      "stats": {
+        "original_illegible_count": 213,
+        "blocks_consolidated": 1,
+        "markers_removed": 212,
+        "markers_remaining": 1,
+        "original_length": 4096,
+        "cleaned_length": 1587,
+        "size_reduction": 2509,
+        "reduction_percentage": 61.25
+      },
+      "backed_up": "output/ocr/text/IMG_3330.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "IMG_3396.txt",
+      "full_path": "output/ocr/text/IMG_3396.txt",
+      "original_size": 5210,
+      "cleaned_size": 5210,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 69,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 69,
+        "original_length": 5210,
+        "cleaned_length": 5210,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "IMG_3435.txt",
+      "full_path": "output/ocr/text/IMG_3435.txt",
+      "original_size": 3737,
+      "cleaned_size": 316,
+      "size_reduction": 3421,
+      "stats": {
+        "original_illegible_count": 289,
+        "blocks_consolidated": 1,
+        "markers_removed": 288,
+        "markers_remaining": 1,
+        "original_length": 3737,
+        "cleaned_length": 316,
+        "size_reduction": 3421,
+        "reduction_percentage": 91.54
+      },
+      "backed_up": "output/ocr/text/IMG_3435.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "IMG_3461.txt",
+      "full_path": "output/ocr/text/IMG_3461.txt",
+      "original_size": 3986,
+      "cleaned_size": 3986,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 290,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 290,
+        "original_length": 3986,
+        "cleaned_length": 3986,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "IMG_3462.txt",
+      "full_path": "output/ocr/text/IMG_3462.txt",
+      "original_size": 3624,
+      "cleaned_size": 379,
+      "size_reduction": 3245,
+      "stats": {
+        "original_illegible_count": 236,
+        "blocks_consolidated": 1,
+        "markers_removed": 234,
+        "markers_remaining": 2,
+        "original_length": 3624,
+        "cleaned_length": 379,
+        "size_reduction": 3245,
+        "reduction_percentage": 89.54
+      },
+      "backed_up": "output/ocr/text/IMG_3462.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "IMG_3463.txt",
+      "full_path": "output/ocr/text/IMG_3463.txt",
+      "original_size": 3780,
+      "cleaned_size": 621,
+      "size_reduction": 3159,
+      "stats": {
+        "original_illegible_count": 230,
+        "blocks_consolidated": 1,
+        "markers_removed": 228,
+        "markers_remaining": 2,
+        "original_length": 3780,
+        "cleaned_length": 621,
+        "size_reduction": 3159,
+        "reduction_percentage": 83.57
+      },
+      "backed_up": "output/ocr/text/IMG_3463.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "IMG_3465.txt",
+      "full_path": "output/ocr/text/IMG_3465.txt",
+      "original_size": 3900,
+      "cleaned_size": 3900,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 300,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 300,
+        "original_length": 3900,
+        "cleaned_length": 3900,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "IMG_3475.txt",
+      "full_path": "output/ocr/text/IMG_3475.txt",
+      "original_size": 5653,
+      "cleaned_size": 5653,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 165,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 165,
+        "original_length": 5653,
+        "cleaned_length": 5653,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "IMG_3849.txt",
+      "full_path": "output/ocr/text/IMG_3849.txt",
+      "original_size": 4032,
+      "cleaned_size": 4032,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 283,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 283,
+        "original_length": 4032,
+        "cleaned_length": 4032,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "IMG_3851.txt",
+      "full_path": "output/ocr/text/IMG_3851.txt",
+      "original_size": 3610,
+      "cleaned_size": 273,
+      "size_reduction": 3337,
+      "stats": {
+        "original_illegible_count": 282,
+        "blocks_consolidated": 1,
+        "markers_removed": 281,
+        "markers_remaining": 1,
+        "original_length": 3610,
+        "cleaned_length": 273,
+        "size_reduction": 3337,
+        "reduction_percentage": 92.44
+      },
+      "backed_up": "output/ocr/text/IMG_3851.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "IMG_3853.txt",
+      "full_path": "output/ocr/text/IMG_3853.txt",
+      "original_size": 4216,
+      "cleaned_size": 4216,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 249,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 249,
+        "original_length": 4216,
+        "cleaned_length": 4216,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "IMG_3860.txt",
+      "full_path": "output/ocr/text/IMG_3860.txt",
+      "original_size": 4100,
+      "cleaned_size": 4100,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 267,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 267,
+        "original_length": 4100,
+        "cleaned_length": 4100,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "IMG_3868.txt",
+      "full_path": "output/ocr/text/IMG_3868.txt",
+      "original_size": 3868,
+      "cleaned_size": 3868,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 292,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 292,
+        "original_length": 3868,
+        "cleaned_length": 3868,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "IMG_3876.txt",
+      "full_path": "output/ocr/text/IMG_3876.txt",
+      "original_size": 3908,
+      "cleaned_size": 989,
+      "size_reduction": 2919,
+      "stats": {
+        "original_illegible_count": 212,
+        "blocks_consolidated": 1,
+        "markers_removed": 211,
+        "markers_remaining": 1,
+        "original_length": 3908,
+        "cleaned_length": 989,
+        "size_reduction": 2919,
+        "reduction_percentage": 74.69
+      },
+      "backed_up": "output/ocr/text/IMG_3876.txt.backup",
+      "action": "cleaned"
+    },
+    {
+      "file": "IMG_8541.txt",
+      "full_path": "output/ocr/text/IMG_8541.txt",
+      "original_size": 4496,
+      "cleaned_size": 4496,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 216,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 216,
+        "original_length": 4496,
+        "cleaned_length": 4496,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "South-Kortright-Roll-13_qwen-vl-plus_complete.txt",
+      "full_path": "output/ocr/text/South-Kortright-Roll-13_qwen-vl-plus_complete.txt",
+      "original_size": 89116,
+      "cleaned_size": 89074,
+      "size_reduction": 42,
+      "stats": {
+        "original_illegible_count": 0,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 0,
+        "original_length": 89116,
+        "cleaned_length": 89074,
+        "size_reduction": 42,
+        "reduction_percentage": 0.05
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "South-Kortright-Roll-13_qwen-vl-plus_page_30.txt",
+      "full_path": "output/ocr/text/South-Kortright-Roll-13_qwen-vl-plus_page_30.txt",
+      "original_size": 5891,
+      "cleaned_size": 5891,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 0,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 0,
+        "original_length": 5891,
+        "cleaned_length": 5891,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    },
+    {
+      "file": "South-Kortright-Roll-13_qwen-vl-plus_page_36.txt",
+      "full_path": "output/ocr/text/South-Kortright-Roll-13_qwen-vl-plus_page_36.txt",
+      "original_size": 3762,
+      "cleaned_size": 3762,
+      "size_reduction": 0,
+      "stats": {
+        "original_illegible_count": 0,
+        "blocks_consolidated": 0,
+        "markers_removed": 0,
+        "markers_remaining": 0,
+        "original_length": 3762,
+        "cleaned_length": 3762,
+        "size_reduction": 0,
+        "reduction_percentage": 0.0
+      },
+      "action": "skipped"
+    }
+  ]
+}

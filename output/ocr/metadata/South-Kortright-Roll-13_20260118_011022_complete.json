@@ -1,0 +1,266 @@
+{
+  "source_pdf": "raw/scans/NYS Archives/A4645/South-Kortright-Roll-13.pdf",
+  "processed_at": "2026-01-18T01:18:44.974564",
+  "run_id": "20260118_011022",
+  "total_pages": 43,
+  "pages": [
+    {
+      "page": 1,
+      "status": "success",
+      "confidence": 0.697,
+      "text_length": 722
+    },
+    {
+      "page": 2,
+      "status": "success",
+      "confidence": 0.859,
+      "text_length": 757
+    },
+    {
+      "page": 3,
+      "status": "success",
+      "confidence": 0.825,
+      "text_length": 932
+    },
+    {
+      "page": 4,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3900
+    },
+    {
+      "page": 5,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3900
+    },
+    {
+      "page": 6,
+      "status": "success",
+      "confidence": 0.674,
+      "text_length": 558
+    },
+    {
+      "page": 7,
+      "status": "success",
+      "confidence": 0.935,
+      "text_length": 871
+    },
+    {
+      "page": 8,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 938
+    },
+    {
+      "page": 9,
+      "status": "success",
+      "confidence": 0.255,
+      "text_length": 1021
+    },
+    {
+      "page": 10,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3893
+    },
+    {
+      "page": 11,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3900
+    },
+    {
+      "page": 12,
+      "status": "success",
+      "confidence": 0.938,
+      "text_length": 846
+    },
+    {
+      "page": 13,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3944
+    },
+    {
+      "page": 14,
+      "status": "success",
+      "confidence": 0.67,
+      "text_length": 515
+    },
+    {
+      "page": 15,
+      "status": "success",
+      "confidence": 0.789,
+      "text_length": 858
+    },
+    {
+      "page": 16,
+      "status": "success",
+      "confidence": 0.76,
+      "text_length": 917
+    },
+    {
+      "page": 17,
+      "status": "success",
+      "confidence": 0.708,
+      "text_length": 791
+    },
+    {
+      "page": 18,
+      "status": "success",
+      "confidence": 0.929,
+      "text_length": 746
+    },
+    {
+      "page": 19,
+      "status": "success",
+      "confidence": 0.916,
+      "text_length": 722
+    },
+    {
+      "page": 20,
+      "status": "success",
+      "confidence": 0.908,
+      "text_length": 615
+    },
+    {
+      "page": 21,
+      "status": "success",
+      "confidence": 0.253,
+      "text_length": 1551
+    },
+    {
+      "page": 22,
+      "status": "success",
+      "confidence": 0.88,
+      "text_length": 477
+    },
+    {
+      "page": 23,
+      "status": "success",
+      "confidence": 0.548,
+      "text_length": 1128
+    },
+    {
+      "page": 24,
+      "status": "success",
+      "confidence": 0.211,
+      "text_length": 1085
+    },
+    {
+      "page": 25,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 4066
+    },
+    {
+      "page": 26,
+      "status": "success",
+      "confidence": 0.792,
+      "text_length": 586
+    },
+    {
+      "page": 27,
+      "status": "success",
+      "confidence": 0.697,
+      "text_length": 1120
+    },
+    {
+      "page": 28,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3739
+    },
+    {
+      "page": 29,
+      "status": "success",
+      "confidence": 0.85,
+      "text_length": 1117
+    },
+    {
+      "page": 30,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3900
+    },
+    {
+      "page": 31,
+      "status": "success",
+      "confidence": 0.195,
+      "text_length": 948
+    },
+    {
+      "page": 32,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 583
+    },
+    {
+      "page": 33,
+      "status": "success",
+      "confidence": 0.178,
+      "text_length": 1302
+    },
+    {
+      "page": 34,
+      "status": "success",
+      "confidence": 0.76,
+      "text_length": 870
+    },
+    {
+      "page": 35,
+      "status": "success",
+      "confidence": 0.932,
+      "text_length": 812
+    },
+    {
+      "page": 36,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3665
+    },
+    {
+      "page": 37,
+      "status": "success",
+      "confidence": 0.938,
+      "text_length": 921
+    },
+    {
+      "page": 38,
+      "status": "success",
+      "confidence": 0.894,
+      "text_length": 1040
+    },
+    {
+      "page": 39,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 556
+    },
+    {
+      "page": 40,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 623
+    },
+    {
+      "page": 41,
+      "status": "success",
+      "confidence": 0.613,
+      "text_length": 907
+    },
+    {
+      "page": 42,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 569
+    },
+    {
+      "page": 43,
+      "status": "success",
+      "confidence": 0.919,
+      "text_length": 729
+    }
+  ]
+}

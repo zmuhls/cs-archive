@@ -1,0 +1,50 @@
+Below is the transcription of the tabular data from the document, preserving the structure and formatting as requested:
+
+---
+
+**Chenango County**
+
+**Consolidated Districts**
+
+| No. of Dist. | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS | No. new dist |
+|--------------|--------------|---------------------------------------------|--------------------------------------------------|---------|--------------|
+| 16           | Norwich & Guilford | 9 July 1913 | 16 August 1913 | 24,450 | 8 Guilford |
+| 8            | Norwich & New Berlin | 25 April 1914 | 21 April 1914 | 21,710 | 6 Norwich |
+| 7            | Columbus & New Berlin | 31 August 1914 | 12 August 1914 | 29,213 | 7 Columbus |
+| 54           | Norwich | 8 August 1913 | 12 August 1913 | 36,000 | 5 Norwich |
+| 77           | North Norwich | 10 March 1914 | 12 March 1914 | 43,070 | 2 North Norwich |
+| 16           | Otselic | 29 July 1914 | 12 July 1914 | 16,711 | 1 Otselic |
+| 16           | Oxford & Greene | 3 February 1914 | 12 February 1914 | 16,848 | 16 Greene |
+| 6            | Sherburne | 26 January 1914 | 12 January 1914 | 6,419 | 6 Sherburne |
+| 14           | Sherburne | 26 January 1914 | 12 January 1914 | 2 new sch. dists. formed from | 12 Sherburne |
+| 6            | McDonough | 7 October 1916 | 12 October 1916 | 4,900 | 12 Sherburne |
+| 14           | Pharsalia | 8 September 1915 | 12 September 1915 | 41,000 | 14 Greene |
+| 7            | Greene | 28 May 1915 | 12 May 1915 | 28,650 | 7 Greene |
+| 3            | North Norwich | 24 August 1917 | 12 August 1917 | (New papers 3 Aug. 1918) | 3 North Norwich |
+| 9            | Norwich | 1 February 1919 | 12 February 1919 | 9,415 | 9 Norwich |
+| 3            | North Norwich | 15 August 1919 | 12 August 1919 | 15,800 | 3 North Norwich |
+| 7            | Sherburne | 21 August 1919 | 12 August 1919 | 7,110 | 7 Sherburne |
+| 6            | Pharsalia | 14 October 1919 | 12 October 1919 | 6,711 | 4 Pharsalia |
+| 2            | Smyrna | 11 September 1919 | 12 September 1919 | 2,930 | 2 Smyrna |
+| 9            | Lincklaen | 10 September 1920 | 12 September 1920 | 9,360 | 6 Pitcher |
+| 10           | North Norwich | 6 September 1921 | 12 September 1921 | (Renum.) | 10 Plymouth |
+| 10           | Plymouth | 1 August 1922 | 12 August 1922 | 10,380 | 1 Smithville |
+| 19           | Smithville | 21 April 1923 | 12 April 1923 | to take effect 1 Aug. 1923 | 2 Plymouth |
+| 24           | Plymouth | 22 May 1924 | 12 May 1924 | 12,850 | 2 Pharsalia |
+| 24           | Pharsalia | 10 July 1924 | 12 July 1924 | 7,110 | 5 New Berlin |
+| 14           | Part of New Berlin & New Berlin | 2 August 1926 | 12 August 1926 | 71,100 | 13 New Berlin |
+| 14           | Pharsalia | 22 July 1927 | 12 July 1927 | 22,700 | 1 Pharsalia |
+| 14           | Part of Pharsalia & Pharsalia | 22 July 1927 | 12 July 1927 | 71,100 | 15 Preston |
+| 2            | Plymouth | 23 July 1928 | 12 July 1928 | 31,900 | 2 Plymouth |
+| 54           | Lincklaen | 1st July 1928 | 12 July 1928 | 23,625 | 8 Lincklaen |
+| 15           | Guilford | 1st September 1928 | 12 September 1928 | 14,800 | 14 Guilford |
+| 3            | McDonough | 6 September 1929 | 12 September 1929 | to take effect 1 Aug. 1928 | 9 Pharsalia |
+| 4            | McDonough | 28 August 1929 | 12 August 1929 | 10,480 | 7 McDonough |
+
+---
+
+**Notes:**
+
+- Pre-printed text is in a lighter font, while handwritten entries are in a darker, cursive style.
+- Blank fields are indicated as `[blank]`.
+- The document includes handwritten

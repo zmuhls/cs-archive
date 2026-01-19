@@ -1,0 +1,13 @@
+{
+  "source": "raw/scans/NYS Archives/B0594/District-Notecard-Records.pdf",
+  "model": "qwen/qwen-vl-plus",
+  "document_type": "administrative_notecard",
+  "total_pages": 63,
+  "successful_pages": 63,
+  "failed_pages": 0,
+  "total_characters": 82721,
+  "average_confidence": 0.687,
+  "processing_time_seconds": 811.9,
+  "avg_seconds_per_page": 12.89,
+  "timestamp": "2026-01-18T01:26:43.636527"
+}

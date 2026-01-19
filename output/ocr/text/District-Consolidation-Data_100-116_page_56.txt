@@ -1,0 +1,58 @@
+Below is the transcription of the tabular data from the document, preserving the structure and formatting as requested:
+
+```
+102
+Essex County
+
+Consolidated Districts
+
+| No. of | NAME OF TOWN | DATE OF SCHOOL MEETING-ORGANIZING-DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. new dist. |
+|--------|--------------|--------------------------------------------|--------------------------------------------------|---------------|
+|        |              | Day Month Year                             | Day Month Year                                   |               |
+| 11     | Minerva, Essex Co. | 21 August 1915 to take effect 28 Aug. | 1915                                             | 5 Indian Lake |
+| 5      | Indian Lake, Ham.G. | 21 August 1915 to take effect 28 Aug. | 1915                                             | 1 Schroon     |
+| 14     | X Schroon        | 29 April 1916                              | 2 1916                                           | 2 Westport    |
+| 24     | 8                | 20 October 1917                             | New Papers                                       | 11 Lewis      |
+| 14     | 10               | 20 November 1917                             | 5-27-17 to 10-17-17                              | 5 Lewis       |
+| 54     | 6                | 8 September 1917                             | New papers 23 Dec. 1917                          | 2 Lewis       |
+| 24     | 4                | 24 December 1917                             |                                                  | 1 Moriah      |
+| 14     | 10               | 30 December 1918                             | 10 1918                                          | 13 Crown Point|
+| 13     | 14               | 16 September 1918                            | Made Cent. Rar.                                  | 16 Crown Point|
+| 16     |                  | 16 September 1918                            |                                                  |               |
+| 1,2,3,4|                  | 16 April 1919                                | 1919                                             | 3 Crown Point |
+|        |                  |                                              |                                                  | + Lewis       |
+| 10     |                  | 20 January 1919                              | 10 1919                                          | 1 Elizabethtown|
+| 14     | 4                | 15 January 1919                              | 4 1919                                           | 5 Lewis       |
+| 54     | 8                | 30 December 1918                             | 10 1918                                          | 10 Chesterfield|
+| 9      | 10               | 27 August 1919                               | Consol. revoked 27 Oct. 1917                     | 2 Lewis       |
+| 24     | 9                | 8 December 1919                              |                                                  | 12 Moriah     |
+| 6      | 12               | 11 September 1919                            |                                                  |               |
+| Part of 58 Essex and 5 Essex | 2 November 1921 |  |  | 5 Essex       |
+| 14     | 9                | X Minerva                                    | 2 1921                                           | 1 Minerva     |
+| 14     | 10               | X Minerva                                    | 25 July 1923                                     | 1 Minerva     |
+| 24     | 5                | X Minerva                                    | 1 August 1924                                    | 2 Minerva     |
+| 3      | X                | Essex                                        | 30 July 1922                                     | 10 Willsboro  |
+| 3      | X                | Willsboro                                    | 8 September 1925                                 | 1 Schroon     |
+| 13     | 4                | Cent. Rural Sch.                             | 5 May 1926                                       | 2 Newcomb     |
+| 23     | 4                | Sent. Rural Sch.                             | 23 June 1926                                     | 10 Willsboro  |
+| 64     | 10               | Willsboro                                    | 12 August 1927                                   | 1 Keene       |
+| 18     | 2                | Keene                                        | 15 June 1928                                     | 1 Keene       |
+| 14     | 6                | Keene                                        | 16 August 1928                                   | 1 Schroon     |
+| 18     | 5                | X Schroon                                    | 17 September 1928                                | 1 Schroon     |
+| 10     | 1                | X Schroon                                    | 1 August 1929                                    | 1 Keene + Jay |
+| 18     | 3                | Keene                                        | 15 July 1930                                     | 2 The Elba    |
+| 23     | 4                | X Keene                                        | 15 July 1930                                     | 1 Schroon     |
+| 14     | 9                | X Schroon                                    | 15 May 1930 to take effect 15 Aug. 1930          |               |
+| 12     | 3                | X Jay                                        | 20 June 1930                                     | Jay, Xenes    |
+| 7      | Jay              | Chesterfield                                 | 20 June 1930, Metting Ridge                      | Chesterfield  |
+| 14     | Jay              | Wilmington                                   | 18 July 1930, Designation of district            | Chesterfield  |
+| 23     | 5                | Black Brook                                  | 24 July 1930                                     | Chesterfield  |
+| 11     | Black Brook + Franklin |  |  |               |
+```
+
+### Notes:
+- **Pre-printed vs. Filled-in Text**: Pre-printed text is in a lighter, more uniform font, while filled-in text is handwritten and varies in style and clarity.
+- **Blank Fields**: Represented as `[blank]` where no data is present.
+- **Alignment**: Columns are aligned to maintain readability and structure, with clear separation using vertical bars (`|`).
+- **Headers**: All headers are preserved as they appear in the original document.
+- **Formatting**: Handwritten notes and corrections are transcribed as they

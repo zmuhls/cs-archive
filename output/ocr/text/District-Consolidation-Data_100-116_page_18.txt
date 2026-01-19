@@ -1,0 +1,55 @@
+```
+40
+Chautauqua
+County
+
+Consolidated and Central Districts
+
+| No. of Unit | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING-DISSOLVING | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No of new dist. | REMARKS |
+|-------------|--------------|-----------------------------------------------|--------------------------------------------------|-----------------|---------|
+|             |              | Day Month Year                                | Day Month Year                                   |                 |         |
+| C.R.S.      | Charlotte & Gerry | 13 Aug. 1938                                | 15 Sept. 1938                                    | 1 Charlotte, Gerry, Stockton, Arknight, Pemount, Ellery, Cherry Creek, Ellbert, and Ellington, Chautauqua Co. |         |
+|             | Gerry        |                                               |                                                  |                 |         |
+|             | Stockton     |                                               |                                                  |                 |         |
+|             | Charlotte    |                                               |                                                  |                 |         |
+|             | Arknight     |                                               |                                                  |                 |         |
+|             | Pemount      |                                               |                                                  |                 |         |
+|             | Ellery       |                                               |                                                  |                 |         |
+|             | Cherry Creek |                                               |                                                  |                 |         |
+|             | Ellbert      |                                               |                                                  |                 |         |
+|             | Ellington    |                                               |                                                  |                 |         |
+|             | Chautauqua   |                                               |                                                  |                 |         |
+|             |              | Laid out 13 Aug. 1938                         |                                                  |                 |         |
+|             |              | Meeting held 15 Sept. 1938                    |                                                  |                 |         |
+|             |              | Designation of dist. 10 Sept. 1938            |                                                  |                 |         |
+| C.R.S.      | Hanover & Sheridan | 20 Sept. 1938                             | 19 Oct. 1938                                     | 3 Hanover, Sheridan, Arknight, Villenova, Chaut Co., Parrsburg, Catt. Co. |         |
+|             | Hanover      |                                               |                                                  |                 |         |
+|             | Sheridan     |                                               |                                                  |                 |         |
+|             | Arknight     |                                               |                                                  |                 |         |
+|             | Villenova    |                                               |                                                  |                 |         |
+|             | Chaut Co.    |                                               |                                                  |                 |         |
+|             | Parrsburg    |                                               |                                                  |                 |         |
+|             | Catt. Co.    |                                               |                                                  |                 |         |
+|             |              | Laid out 20 Sept. 1938                        |                                                  |                 |         |
+|             |              | Meeting held 19 Oct. 1938                     |                                                  |                 |         |
+|             |              | Designation of dist. 14 Nov. 1938             |                                                  |                 |         |
+| E.R.S.      | Ripley       | 20 Sept. 1938                                 | 13 Oct. 1938                                     | 1 Ripley        |         |
+|             |              | Laid out 20 Sept. 1938                        |                                                  |                 |         |
+|             |              | Meeting held 10 Oct. 1938                     |                                                  |                 |         |
+|             |              | Designation of dist. 13 Oct. 1938             |                                                  |                 |         |
+| C.R.S.      | Chautauqua   | 17 April 1939 to take effect 18 July 1939      | 1 Aug. 1939                                      | 2 Chautauqua    |         |
+|             |              | 1 May 1939 to take effect 1 Aug. 1939         |                                                  |                 |         |
+|             |              | 17 July 1939 to take effect 17 Oct. 1939      |                                                  |                 |         |
+| E.R.S.      | Herman       | 3 July 1940                                   | 5 Oct. 1940                                      | 1 Herman        |         |
+|             |              | 5 May 1941 to take effect 9 Aug. 1941         |                                                  |                 |         |
+|             |              | 6 June 1941 to take effect 9 Sept. 1941       |                                                  |                 |         |
+|             |              | 2 Aug. 1941 to take effect 4 Mar. 1941        |                                                  |                 |         |
+| C.R.S.      | Clymer       | 24 Dec. 1941                                  | 21 Mar. 1941                                     | 1 Clymer        |         |
+|             |              | 24 Dec. 1941                                  |                                                  |                 |         |
+|             |              | 3 July 1942                                   | 3 Oct. 1942                                      |                 |         |
+|             |              | 11 Sept. 1942                                 | 11 Dec. 1942                                     |                 |         |
+|             |              | 15 July 1943                                  | 20 Oct. 1943                                     |                 |         |
+| C.R.S.      | Carroll      | Laid out 15 Dec. 1949                         | 24 April 1948                                    | 1 Carroll       |         |
+|             |              | Meeting held                                  |                                                  |                 |         |
+|             |              |                                               |                                                  |                 |         |
+```

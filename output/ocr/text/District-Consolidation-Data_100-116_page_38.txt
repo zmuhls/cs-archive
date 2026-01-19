@@ -1,0 +1,66 @@
+Below is the transcription of the document, preserving the table structure and formatting as requested:
+
+---
+
+**Cortland County**  
+**Consolidated Districts**
+
+| No. of dist. | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. new dist. |
+|--------------|--------------|---------------------------------------------|--------------------------------------------------|---------------|
+|              |              | Day Month Year                              | Day Month Year                                   |               |
+| 27 13        | Cuyler       | 3 December 1914                             | 6 December 1915                                  | 1 Cuyler      |
+| 2 5 899      | Scott        | 22 April 1915                               | 18 August 1916                                   | 5 Cuyler      |
+|              | Homer        |                                             |                                                  | 2 Scott       |
+| 3 4 5        | Cuyler       |                                             |                                                  | (Scott)       |
+| 12 3 5 6 48  | Freetown     | 27 April 1917                               | Appealed + Suspended (Letter Supplied)           | 10 Freetown   |
+| 74 10        | Virgil       | 23 May 1919                                 | 13-14 Month                                      | 3 Virgil      |
+| 3 6          | Virgil       | 20 September 1923                           | 3 Month                                          |               |
+| 34 8         | Lapeer       | 9 September 1926                             | 8 Month                                          | 3 Lapeer      |
+| 84 9         | Taylor       | 30 July 1927                                 | 12 Month                                         | 8 Taylor      |
+|              | Cuyler       | 30 July 1927                                 | 12 Month                                         | 1 Cuyler      |
+|              | Part of 4 Cuyler + 1 Cuyler "11" "12"        |                                             | 24 Month                                         | 12 [blank]    |
+|              | Truxton + 2 Truxton "11" "12"                |                                             | 4 Month                                          | 2 Truxton     |
+| 4 5          | Solon        | 3 August 1929                               | 2 Month                                          | 5 Solon       |
+| 14 4 4       | Truxton      | 24 October 1929                              | 7 Month                                          | 4 Truxton     |
+| 23 18 14     | Virgil       | Laid out 21 April 1930                      | Meeting held 20 May 1930                         | 1 Freetown    |
+|              | Harford      |                                             | 22 May 1930                                      | 2 Angel, Harford |
+|              | Lapeer + Cordlandville                       |                                             |                                                  |               |
+| 78 4 9       | Marathon     |                                             | 4 Month                                          | 1 Marathon    |
+|              | Millett      |                                             | 6 Month                                          |               |
+|              | Lapeer       |                                             | 8 Month                                          |               |
+| 1 2 3 4 6    | Freetown     |                                             | 10 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 12 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 14 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 16 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 18 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 20 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 22 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 24 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 26 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 28 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 30 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 32 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 34 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 36 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 38 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 40 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 42 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 44 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 46 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 48 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 50 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 52 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 54 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 56 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 58 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 60 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 62 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 64 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 66 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 68 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 70 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 72 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 74 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 76 Month                                         |               |
+|              | Virgil + Lapeer                              |                                             | 78 Month                                         |               |
+|              | Virgil + Lapeer                             

@@ -1,0 +1,6 @@
+```
+| No. of district | NAME OF TOWN     | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of cert. | REMARKS              |
+|-----------------|------------------|--------------------------------------------|--------------------------------------------------|--------------|----------------------|
+|                 |                  | Day   Month   Year                         | Day   Month   Year                               |              |                      |
+| 2               | Bleecker Mayfield| One with dist                              | Bleecker Caroga                                  | 155          | Effective 9/25/53    |
+```

@@ -1,0 +1,563 @@
+{
+  "collection": "Loose Images",
+  "processed_at": "2025-12-23T22:46:54.244430",
+  "total_files": 71,
+  "total_pages": 71,
+  "successful_pages": 61,
+  "failed_pages": 10,
+  "success_rate": 0.8591549295774648,
+  "average_confidence": 0.9433863636363636,
+  "total_text_length": 192467,
+  "average_text_per_page": 3155.1967213114754,
+  "files": {
+    "raw/scans/img/IMG_0766.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 0,
+      "failed_pages": 1,
+      "text_length": 0,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3460.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 7655,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3461.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 3986,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3462.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 3624,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3463.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 3780,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3464.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 223,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3465.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 3900,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3466.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 3635,
+      "average_confidence": 0.983
+    },
+    "raw/scans/img/IMG_3467.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 0,
+      "failed_pages": 1,
+      "text_length": 0,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3468.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 7293,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3469.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 8058,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3472.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 2265,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3473.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 1034,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3474.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 1188,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3475.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 5653,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3476.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 6526,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3477.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 7775,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3478.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 7552,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3479.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 0,
+      "failed_pages": 1,
+      "text_length": 0,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3480.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 7656,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3481.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 7461,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3482.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 5670,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3483.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 61,
+      "average_confidence": 0.545
+    },
+    "raw/scans/img/IMG_3484.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 87,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3485.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 185,
+      "average_confidence": 0.688
+    },
+    "raw/scans/img/IMG_3486.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 11,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3487.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 11,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3488.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 397,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3489.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 2733,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3490.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 3465,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3491.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 74,
+      "average_confidence": 0.091
+    },
+    "raw/scans/img/IMG_3492.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 7366,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3493.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 7335,
+      "average_confidence": 0.992
+    },
+    "raw/scans/img/IMG_3847.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 183,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3848.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 228,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3849.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 4032,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3850.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 0,
+      "failed_pages": 1,
+      "text_length": 0,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3851.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 3610,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3852.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 0,
+      "failed_pages": 1,
+      "text_length": 0,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3853.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 4216,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3854.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 630,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3855.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 733,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3856.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 3823,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3857.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 1283,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3858.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 625,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3859.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 1960,
+      "average_confidence": 0.764
+    },
+    "raw/scans/img/IMG_3860.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 4100,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3861.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 1308,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3862.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 1428,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3863.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 1771,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3864.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 7465,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3865.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 1863,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3866.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 2137,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3867.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 3733,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3868.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 3868,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3869.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 0,
+      "failed_pages": 1,
+      "text_length": 0,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3870.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 0,
+      "failed_pages": 1,
+      "text_length": 0,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3871.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 0,
+      "failed_pages": 1,
+      "text_length": 0,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3872.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 0,
+      "failed_pages": 1,
+      "text_length": 0,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3873.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 0,
+      "failed_pages": 1,
+      "text_length": 0,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3874.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 1169,
+      "average_confidence": 0.814
+    },
+    "raw/scans/img/IMG_3875.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 1866,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3876.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 3908,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3877.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 3787,
+      "average_confidence": 0
+    },
+    "raw/scans/img/IMG_3878.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 1704,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3879.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 1650,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3880.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 5722,
+      "average_confidence": 0.955
+    },
+    "raw/scans/img/IMG_3881.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 208,
+      "average_confidence": 0.677
+    },
+    "raw/scans/img/IMG_3882.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 341,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_3883.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 1961,
+      "average_confidence": 1.0
+    },
+    "raw/scans/img/IMG_8541.jpeg": {
+      "total_pages": 1,
+      "successful_pages": 1,
+      "failed_pages": 0,
+      "text_length": 4496,
+      "average_confidence": 0
+    }
+  },
+  "errors": [
+    {
+      "source": "raw/scans/img/IMG_0766.jpeg",
+      "error": "Failed to get OCR response after all retries",
+      "page": null
+    },
+    {
+      "source": "raw/scans/img/IMG_3467.jpeg",
+      "error": "Failed to get OCR response after all retries",
+      "page": null
+    },
+    {
+      "source": "raw/scans/img/IMG_3479.jpeg",
+      "error": "Failed to get OCR response after all retries",
+      "page": null
+    },
+    {
+      "source": "raw/scans/img/IMG_3850.jpeg",
+      "error": "Failed to get OCR response after all retries",
+      "page": null
+    },
+    {
+      "source": "raw/scans/img/IMG_3852.jpeg",
+      "error": "Failed to get OCR response after all retries",
+      "page": null
+    },
+    {
+      "source": "raw/scans/img/IMG_3869.jpeg",
+      "error": "Failed to get OCR response after all retries",
+      "page": null
+    },
+    {
+      "source": "raw/scans/img/IMG_3870.jpeg",
+      "error": "Failed to get OCR response after all retries",
+      "page": null
+    },
+    {
+      "source": "raw/scans/img/IMG_3871.jpeg",
+      "error": "Failed to get OCR response after all retries",
+      "page": null
+    },
+    {
+      "source": "raw/scans/img/IMG_3872.jpeg",
+      "error": "Failed to get OCR response after all retries",
+      "page": null
+    },
+    {
+      "source": "raw/scans/img/IMG_3873.jpeg",
+      "error": "Failed to get OCR response after all retries",
+      "page": null
+    }
+  ]
+}

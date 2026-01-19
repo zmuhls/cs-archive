@@ -1,0 +1,50 @@
+Below is the transcription of the tabular data from the document, preserving the structure and formatting as requested:
+
+---
+
+**Jefferson County**
+
+**Consolidated Districts**
+
+| No. of District | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS |
+|-----------------|--------------|---------------------------------------------|--------------------------------------------------|---------|
+| 9 + 10          | Wilna        | 30 October 1913                             | 9-18 1914                                        | 9 Wilna |
+| 9 + 10          | Philadelphia | 2 September 1915                              | 10-16 1915                                       | 9 Philadelphia |
+| 10 + 16         | X-Lyme       | 1 August 1914                                 | 10-16 1914                                       | 10 Lyme |
+| *Part of 2 Wilna + 3 Wilna (5) | [blank] | 9 March 1923                                  | 9-23 1923                                        | 3 Wilna |
+| 124,67,89,10 Adams + more | [blank] | 24 March 1924                                 | 24-3 1924                                        | Adams & Rodman |
+| 1 + 6 Rodman    | [blank]      | 8 December 1925                               | 12-21 1925                                       | [blank] |
+| 6 + 8           | Antwerp      | 8 July 1926                                   | 8-7-1926                                         | 6 Antwerp |
+| {4,2,6,7,23}    | [blank]      | 27 May 1929                                   | 27-5-1929                                        | Central Sch. Dist. No. 1 of the Towns of Ellsburg and Lorraine |
+| 6               | Lorraine & Ellsburg | [blank] | 27 June 1929                                | Designation of district 27 June 1929 |
+| 24 + 15         | Kaye Vincent | 16 September 1930                             | 16-9-1930                                        | 15 Kaye Vincent |
+| 56,7,8          | Henderson    | 6 June 1930                                   | 6-6-1930                                         | 5 Henderson |
+| 1 + 2           | Henderson + Ellsburg | 24 April 1931                             | 24-4-1931                                        | Ellsburg |
+| 9,10,14,15,18,21,24,26 | Ellsburg (C.R.S.) | 24 April 1931                             | 24-4-1931                                        | Designation of district 24 April 1931 |
+| 12              | Ellsburg + Adams | 30 April 1931                             | 30-4-1931                                        | Designation of district 3 June 1931 |
+| X               | Adams + Unorganized | 20 June 1931                             | 20-6-1931                                        | 15 Adams-Rodman |
+| 5 + 3           | Henderson + Adams | 15 June 1931                             | 15-6-1931                                        | 5 Henderson |
+| 1 + 4           | Ellsburg       | 14 October 1931                               | 16-10-1931                                       | 4 Ellsburg |
+| 14              | Rodman         | 29 January 1932                               | 29-1-1932                                        | 10 Rodman |
+| 3               | Rutland        | 6 May 1933                                    | 10 July 1933                                     | 7 Rutland |
+| 3 + Part of Watertown + 15 Hanoverfield | [blank] | 15 February 1933                             | 15-2-1933                                        | 15 Hanoverfield |
+| 8               | Rodman         | 15 October 1933                               | 15-1-1934                                        | 8 Rodman |
+| 9               | Ellsburg       | 4 September 1935                              | 4-12-1935                                        | 4 Ellsburg |
+| 2               | Ellsburg       | 28 May 1936                                   | 31 August 1936                                   | 2 Ellsburg |
+| 27              | Ellsburg + Adams | 27 June 1936                                | 25 September 1936                                | 2 Ellsburg |
+| 1 + 2           | Ellsburg + Adams | 27 June 1936                                | 25 September 1936                                | 2 Ellsburg |
+| 1 + 2           | Adams          | 22 July 1937                                  | 1 August 1937                                    | 4 Adams |
+| 11              | Adams          | 22 July 1937                                  | 22 October 1937                                  | 4 Adams |
+| 11              | Adams          | 1 September 1937                              | 5 December 1937                                  | 4 Adams |
+| 11              | Adams          | 11 June 1937                                  | 10 September 1937                                | 4 Adams |
+
+---
+
+### Notes:
+- **Pre-printed Text:** The column headers and some labels (e.g., "DATE OF SCHOOL MEETING ORGANIZING DISTRICT") are pre-printed and appear in a consistent font.
+- **Filled-in Text:** Handwritten entries are used for the actual data, including dates, names of towns, and remarks.
+- **Blank Fields:** Where no information is provided, the field is left blank as indicated by `[blank]`.
+- **Alignment:** The table is aligned to ensure readability, with each column clearly separated by vertical lines (`|`).
+- **Remarks Column:** Contains additional notes or observations related to the consolidation of districts, often referencing other districts or specific designations.
+
+This transcription maintains the original structure and formatting of the document while ensuring clarity and readability.

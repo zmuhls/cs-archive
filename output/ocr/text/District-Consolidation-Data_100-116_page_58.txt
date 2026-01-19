@@ -1,0 +1,22 @@
+```
+106
+Franklin County
+
+Union Free Schools
+
+| No. of district | NAME OF TOWN     | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS |
+|-----------------|------------------|---------------------------------------------|--------------------------------------------------|---------|
+|                 |                  | Day    | Month | Year | Day    | Month | Year |         |         |
+| 8               | Dickinson        | 23     | July  | 1907 |        |       |      | 3       |         |
+| 1               | Fort Covington   | 3      | October | 1864 |        |       |      | 9       |         |
+| 1               | Harrietstown     | 20     | January | 1890 |        |       |      | 5       |         |
+| 16              | Burke            |        |       |      |        |       |      |         | In papers |
+```
+
+**Notes:**
+
+* The table is structured with columns for district number, town name, meeting date, approval date, and remarks.
+* Handwritten entries are preserved as-is.
+* Blank fields are indicated with `[blank]` where applicable.
+* The document header and footer are included for context.
+* The table is aligned according to the original layout.

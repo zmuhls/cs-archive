@@ -1,0 +1,703 @@
+{
+  "source_pdf": "raw/scans/NYS Archives/B0494/District-Consolidation-Data_100-116.pdf",
+  "processed_at": "2025-12-19T01:54:05.705239",
+  "total_pages": 116,
+  "pages": [
+    {
+      "page": 1,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 4180
+    },
+    {
+      "page": 2,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 477
+    },
+    {
+      "page": 3,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 5621
+    },
+    {
+      "page": 4,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 11552
+    },
+    {
+      "page": 5,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 14010
+    },
+    {
+      "page": 6,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1530
+    },
+    {
+      "page": 7,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1174
+    },
+    {
+      "page": 8,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3065
+    },
+    {
+      "page": 9,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 5383
+    },
+    {
+      "page": 10,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2207
+    },
+    {
+      "page": 11,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3092
+    },
+    {
+      "page": 12,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 706
+    },
+    {
+      "page": 13,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 5398
+    },
+    {
+      "page": 14,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 10326
+    },
+    {
+      "page": 15,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1867
+    },
+    {
+      "page": 16,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1353
+    },
+    {
+      "page": 17,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 10712
+    },
+    {
+      "page": 18,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 7648
+    },
+    {
+      "page": 19,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 4669
+    },
+    {
+      "page": 20,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1429
+    },
+    {
+      "page": 21,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 16446
+    },
+    {
+      "page": 22,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 4845
+    },
+    {
+      "page": 23,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 553
+    },
+    {
+      "page": 24,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1207
+    },
+    {
+      "page": 25,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3578
+    },
+    {
+      "page": 26,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3827
+    },
+    {
+      "page": 27,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 10023
+    },
+    {
+      "page": 28,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2564
+    },
+    {
+      "page": 29,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1802
+    },
+    {
+      "page": 30,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1305
+    },
+    {
+      "page": 31,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 21421
+    },
+    {
+      "page": 32,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 10430
+    },
+    {
+      "page": 33,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3103
+    },
+    {
+      "page": 34,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1895
+    },
+    {
+      "page": 35,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1521
+    },
+    {
+      "page": 36,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 8932
+    },
+    {
+      "page": 37,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1041
+    },
+    {
+      "page": 38,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 9821
+    },
+    {
+      "page": 39,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 6230
+    },
+    {
+      "page": 40,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1382
+    },
+    {
+      "page": 41,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1418
+    },
+    {
+      "page": 42,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 5514
+    },
+    {
+      "page": 43,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 6940
+    },
+    {
+      "page": 44,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 4092
+    },
+    {
+      "page": 45,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2872
+    },
+    {
+      "page": 46,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1370
+    },
+    {
+      "page": 47,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1144
+    },
+    {
+      "page": 48,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 4790
+    },
+    {
+      "page": 49,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1968
+    },
+    {
+      "page": 50,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3746
+    },
+    {
+      "page": 51,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 11711
+    },
+    {
+      "page": 52,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3485
+    },
+    {
+      "page": 53,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1421
+    },
+    {
+      "page": 54,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1304
+    },
+    {
+      "page": 55,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1370
+    },
+    {
+      "page": 56,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 6561
+    },
+    {
+      "page": 57,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2880
+    },
+    {
+      "page": 58,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1227
+    },
+    {
+      "page": 59,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 839
+    },
+    {
+      "page": 60,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 4920
+    },
+    {
+      "page": 61,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3516
+    },
+    {
+      "page": 62,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 309
+    },
+    {
+      "page": 63,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 699
+    },
+    {
+      "page": 64,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 7490
+    },
+    {
+      "page": 65,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1983
+    },
+    {
+      "page": 66,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 968
+    },
+    {
+      "page": 67,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3202
+    },
+    {
+      "page": 68,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1669
+    },
+    {
+      "page": 69,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1183
+    },
+    {
+      "page": 70,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2852
+    },
+    {
+      "page": 71,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2685
+    },
+    {
+      "page": 72,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1275
+    },
+    {
+      "page": 73,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 9673
+    },
+    {
+      "page": 74,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 6402
+    },
+    {
+      "page": 75,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 869
+    },
+    {
+      "page": 76,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1319
+    },
+    {
+      "page": 77,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1956
+    },
+    {
+      "page": 78,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 5691
+    },
+    {
+      "page": 79,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 4004
+    },
+    {
+      "page": 80,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 17463
+    },
+    {
+      "page": 81,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1832
+    },
+    {
+      "page": 82,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 761
+    },
+    {
+      "page": 83,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 8057
+    },
+    {
+      "page": 84,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3037
+    },
+    {
+      "page": 85,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1984
+    },
+    {
+      "page": 86,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 919
+    },
+    {
+      "page": 87,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2821
+    },
+    {
+      "page": 88,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 9583
+    },
+    {
+      "page": 89,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1666
+    },
+    {
+      "page": 90,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1315
+    },
+    {
+      "page": 91,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 5883
+    },
+    {
+      "page": 92,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 5994
+    },
+    {
+      "page": 93,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 6553
+    },
+    {
+      "page": 94,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2070
+    },
+    {
+      "page": 95,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3162
+    },
+    {
+      "page": 96,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 12583
+    },
+    {
+      "page": 97,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1434
+    },
+    {
+      "page": 98,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1861
+    },
+    {
+      "page": 99,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1786
+    },
+    {
+      "page": 100,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 4080
+    },
+    {
+      "page": 101,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3862
+    },
+    {
+      "page": 102,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 6339
+    },
+    {
+      "page": 103,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 6406
+    },
+    {
+      "page": 104,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3505
+    },
+    {
+      "page": 105,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2174
+    },
+    {
+      "page": 106,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 5441
+    },
+    {
+      "page": 107,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3063
+    },
+    {
+      "page": 108,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1729
+    },
+    {
+      "page": 109,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 4925
+    },
+    {
+      "page": 110,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 9068
+    },
+    {
+      "page": 111,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 17802
+    },
+    {
+      "page": 112,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3119
+    },
+    {
+      "page": 113,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1957
+    },
+    {
+      "page": 114,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 8124
+    },
+    {
+      "page": 115,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 6177
+    },
+    {
+      "page": 116,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1883
+    }
+  ]
+}

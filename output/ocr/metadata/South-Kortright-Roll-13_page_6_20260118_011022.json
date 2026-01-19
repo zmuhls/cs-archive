@@ -1,0 +1,34 @@
+{
+  "source_file": "output/ocr/temp/South-Kortright-Roll-13_page_6.jpg",
+  "processed_at": "2026-01-18T01:11:48.047408",
+  "run_id": "20260118_011022",
+  "model": "qwen/qwen-vl-plus",
+  "usage": {
+    "prompt_tokens": 1772,
+    "completion_tokens": 156,
+    "total_tokens": 1928,
+    "cost": 0.0004704,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": null,
+      "upstream_inference_prompt_cost": 0.00037212,
+      "upstream_inference_completions_cost": 9.828e-05
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0
+    }
+  },
+  "confidence": 0.674,
+  "text_length_original": 558,
+  "text_length_filtered": 527,
+  "text_length_final": 527,
+  "stamp_filtering_applied": true,
+  "illegible_consolidation_applied": true,
+  "checksum": "e95267d04db1e48049ed3d1378ce29968d0e2090ba1b4d617b92e99b11dec6ee"
+}

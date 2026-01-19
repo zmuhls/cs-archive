@@ -1,0 +1,26 @@
+```
+154
+Lewis County
+
+Union Free Schools
+
+| No. of District | NAME OF TOWN   | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of Members of Board | REMARKS |
+|-----------------|----------------|---------------------------------------------|--------------------------------------------------|-------------------------|---------|
+|                 |                | Day    | Month   | Year   | Day    | Month   | Year   |                         |         |
+| 2               | Lowville       | 5      | July    | 1905   |        |         |        | 5                       |         |
+| 7               | New Bremen     | 13     | September| 1909  |        |         |        | 3                       |         |
+| 6               | Osceola        | 24     | March   | 1920   |        |         |        | 5                       |         |
+| 10              | Lewis          | 10     | April   | 1923   |        |         |        | 3                       |         |
+| 16              | Denmark        | 2      | June    | 1924   |        |         |        | 3                       |         |
+```
+
+**Notes:**
+
+* The "No. of District" column contains numbers for each entry.
+* The "NAME OF TOWN" column lists the names of towns.
+* The "DATE OF SCHOOL MEETING ORGANIZING DISTRICT" column is split into "Day," "Month," and "Year."
+* The "DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT" column is also split into "Day," "Month," and "Year," but these fields are blank for all entries.
+* The "No. of Members of Board" column contains numbers for each entry.
+* The "REMARKS" column is blank for all entries.
+* The handwritten entries are preserved as they appear in the original document.
+* The form is structured with clear column headers and aligned data for easy reading.

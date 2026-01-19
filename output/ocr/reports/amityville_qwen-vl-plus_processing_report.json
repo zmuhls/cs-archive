@@ -1,0 +1,12 @@
+{
+  "source": "raw/scans/NYS Archives/A4456/Amityville-Records.pdf",
+  "model": "qwen/qwen-vl-plus",
+  "total_pages": 665,
+  "successful_pages": 665,
+  "failed_pages": 0,
+  "total_characters": 1383552,
+  "average_confidence": 0.866,
+  "processing_time_seconds": 7833.8,
+  "avg_seconds_per_page": 11.78,
+  "timestamp": "2026-01-17T23:51:22.388044"
+}

@@ -1,0 +1,16 @@
+```
+Cattaraugus County
+Town School Units
+
+| No. of Unit | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | Nos. of dists included | DATE OF WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of pupils | REMARKS |
+|-------------|--------------|--------------------------------------------|------------------------|--------------------------------------------------|---------------|---------|
+| 1           | Dayton       |                                            | U.F.S. 2 and 3,4,7 + 10 Dayton        |                                                  |               |         |
+| 2           | Dayton       |                                            | U.F.S. 9 and 1,5,6,8 Dayton           |                                                  |               |         |
+```
+
+**Notes:**
+- The "DATE OF SCHOOL MEETING ORGANIZING DISTRICT" and "DATE OF WHICH PAPERS WERE APPROVED AT DEPARTMENT" columns are blank in the provided image.
+- The "No. of pupils" column is also blank.
+- The "REMARKS" column is blank.
+- The handwritten entries for "Nos. of dists included" are preserved as-is.
+- The page number "23" is visible in the top right corner of the document.

@@ -1,0 +1,11 @@
+```
+Coding System:
+
+R = Incorporated by Regents.
+L = By special act of Legislature.
+CL = By filing articles under general laws, date of receipt of filing in the Secretary of State's Office.
+AD = by admission to the University through Regents act.
+E = Established under charter authority.
+HS = High School
+US = Union School
+```

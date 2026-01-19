@@ -1,0 +1,49 @@
+Below is the transcription of the tabular data from the document, preserving the structure and formatting as requested:
+
+---
+
+**Cattaragus County**
+
+**Consolidated Districts**
+
+| No. of Dist. | NAME OF TOWN | DATE OF SCHOOL-MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. new dist. |
+|--------------|--------------|---------------------------------------------|--------------------------------------------------|---------------|
+|              |              | Day Month Year                              | Day Month Year                                   |               |
+| 1,2.(part of 1) | East Otto | 5 May 1914 | 10 1913-14 | 1 East Otto |
+| 5. (part of 1) | Machias | 30 September 1913 | 11 1913-14 | 5 Machias |
+| 11+14 | Machias | 8 October 1919 | 12 1913-14 | 8 Franklinville |
+| 24 | Freedom | 12 September 1919 | 13 1913-14 | 2 Freedom |
+| * Part of Humphrey + 1 Humphrey | 1 December 1921 | 14 1913-14 | Humphrey New Lake |
+| * " 2 Humphrey | 15 September 1923 | 15 1913-14 | Humphrey Great Valley |
+| 24 10 | Dayton | 4 November 1924 | 16 1913-14 | Dayton |
+| * Part of Lyndon + 1 Lyndon | 24 November 1924 | 17 1913-14 | Lyndon |
+| 6 | Ischua | 23 April 1925 | 18 1913-14 | Red House |
+| 1,2,3,4,6 | Red House | 30 July 1927 | 19 1913-14 | 3 Napoli |
+| 5 | Napoli | 20 January 1928 | 20 1913-14 | 20 Otto |
+| 1,2,3,4,6 | Kotto | 9 January 1929 | 21 1913-14 | 2 Salamance |
+| 4,5,6 | Almond | 3 September 1929 | 22 1913-14 | 3 Coldepring |
+| 6+3 | Coldepring | 29 July 1929 | 23 1913-14 | 1 Randolph |
+| 1,3,6,10 | Poland | 17 January 1931 | 24 1913-14 | 1 Poland |
+| 1,2,3,4,5,6 | Coldepring | 5th | 25 1913-14 | 1 Coldepring |
+| 1,2,3,4,5,6 | Coldepring | 24 June 1931 | 26 1913-14 | 1 Coldepring |
+| 1,2,3,4,5,6 | Coldepring | 10 June 1934 | 27 1913-14 | 1 East Otto |
+| 1,2,3,4,5,6 | Coldepring | 18 June 1934 | 28 1913-14 | 1 Catt Co |
+| 1,2,3,4,5,6 | Coldepring | 29 June 1934 | 29 1913-14 | 1 Catt Co |
+| 1,2,3,4,5,6 | Coldepring | 25 April 1935 | 30 1913-14 | 1 Great Valley |
+| 1,2,3,4,5,6 | Coldepring | 7 May 1935 | 31 1913-14 | 1 Great Valley |
+| 1,2,3,4,5,6 | Coldepring | 25 June 1935 | 32 1913-14 | 1 Great Valley |
+| 1,2,3,4,5,6 | Coldepring | 28 August 1936 | 33 1913-14 | 1 Great Valley |
+| 1,2,3,4,5,6 | Coldepring | 20 January 1937 | 34 1913-14 | 1 Great Valley |
+
+---
+
+**Notes:**
+
+- Pre-printed text includes headers such as "No. of Dist.", "NAME OF TOWN", "DATE OF SCHOOL-MEETING ORGANIZING DISTRICT", "DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT", and "No. new dist."
+- Filled-in text includes dates, names of towns, and other details handwritten in ink.
+- Blank fields are indicated as `[blank]` where no information is provided.
+- The document appears to be a historical record of district consolidations in Cattaragus County, with handwritten entries detailing the dates and names of towns involved in each consolidation.
+
+--- 
+
+This transcription maintains the structure and alignment of the original document, ensuring that all headers, labels, and data are accurately represented.

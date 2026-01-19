@@ -1,0 +1,26 @@
+```
+Dutchess County
+89
+
+| No. of district | NAME OF TOWN | DATE OF SCHOOL-MAKING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | New number REMARKS |
+|------------------|--------------|--------------------------------------------|--------------------------------------------------|---------------------|
+| NYS # 2          | Clover Union Vale | Effective date Dec 31, 1946 (amended) | June 5, 1950 | 2 Amex |
+|                  |              |                                            | Meeting held June 27, 1950 | CRS |
+|                  |              |                                            |                                            | last meeting: Amex |
+| CRS              | NYS # 3      | 5. Tarrytown                                |                                            | CRS |
+|                  |              | 6. Tarrytown                                |                                            | last meeting: Amex |
+|                  |              | 7. Tarrytown                                |                                            | Amex |
+|                  |              | 8. Tarrytown                                |                                            | Amex |
+| C.S. 8           | North East   | Cons with 6 North East, U.T.               | Aug 7, 1952 | 6 North East |
+| 7                |              |                                            | Apr 11, 1951 | 6 Amex |
+| 2                |              |                                            | June 30, 1953 | 2 Amex |
+```
+
+**Notes:**
+
+- The table is structured with columns as per the original document.
+- Handwritten entries are transcribed as they appear.
+- Blank fields are indicated as `[blank]` where no information is present.
+- Pre-printed text (e.g., column headers) is preserved.
+- Handwritten notes and annotations are included where visible.
+- The layout is maintained to reflect the original form structure.

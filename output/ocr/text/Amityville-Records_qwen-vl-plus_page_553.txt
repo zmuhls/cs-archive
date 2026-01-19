@@ -1,0 +1,51 @@
+```
+192
+
+Vedder Van Dyok                      $ 116.25
+Henry Holt & Co.                      15.63
+The Knocmillan Co.                     7.39
+The Cable Company                     11.82
+Hall & McCready Company                2.69
+Dinn & Co.                           81.63
+Churchill Grindell Co.               10.57
+Webster Publishing Company             2.61
+The John C Winston Co.                80.47
+The Hospital Supply Company           29.48
+E. S. Von Nostrand                    7.70
+Edelman's Dept. Store                18.25
+Waldaus Print Shop                     7.50
+Benjamin Weinberg                     14.00
+Clement Pharmacy                      5.69
+Remington Rand Business Service, Inc. 280.00
+The Pruce Publishing Co.               3.00
+R. A. Pipe Corp.                      35.61
+Goldsmith Bros.                        0.25
+Benj. F. Davis                         2.00
+Heaton & Co.                           2.70
+Charles H. Ditson & Co.                3.72
+Stevenson & Marsters, Inc.           557.60
+Leona E. Carroll                      35.56
+World Book Co.                         1.47
+Alex Smith                             2.00
+W. M. Welch Mfg. Co.                 35.88
+D. W. Field                           95.25
+A. B. Dick Co.                        26.61
+Chris Gribel                          26.61
+Amityville Printing House             3.59
+The Amityville Record                 37.18
+The Libien Press                       7.00
+Emmanuel Hirsh                        10.00
+W. Powell & Sons                      10.25
+New York Telephone Company            20.84
+Howard Wanner                          55.90
+Central Scientific Co.                11.47
+F. J. Hienburg & Son                  85.40
+Arthur W. Ruff                         48.70
+James S. Brown                         16.74
+Esther H. Funnell                     64.29
+
+There being no further business the meeting therupon
+adjoined.
+
+[signature]
+Clerk.

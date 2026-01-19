@@ -1,0 +1,13 @@
+```
+Franklin County
+Page 107
+
+Town School Units
+
+| Unit | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | Nos. of dists included | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of School Board Members | REMARKS |
+|------|--------------|---------------------------------------------|------------------------|---------------------------------------------------|-----------------------------|---------|
+|      |              | Day | Month | Year | Day | Month | Year |        |        |        |
+| 1    | Moira        |     |       |      |     |       |      |        |        |        |
+|      |              | U.F.S. 1 and 3, 4, 9, 10 |        |        |        |        |        |        |        |
+| 2    |              | U.F.S. 2 |        |        | 5, 6, 7, 8, 11 |        |        |        |        |        |
+```

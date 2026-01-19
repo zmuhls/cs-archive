@@ -1,0 +1,6 @@
+```
+|No. of District|NAME OF TOWN|DATE OF SCHOOL MEETING ORGANIZING DISTRICT|DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT|No. of Members Organized|REMARKS|
+|---|---|---|---|---|---|
+| | |Day|Month|Year|Day|Month|Year| | |
+|2|Bleeker Mayfield Cons with dist|4|Bleeker George|7/53|effective 7/25/53| | |
+```

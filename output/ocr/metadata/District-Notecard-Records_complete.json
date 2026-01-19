@@ -1,0 +1,385 @@
+{
+  "source_pdf": "raw/scans/NYS Archives/B0594/District-Notecard-Records.pdf",
+  "processed_at": "2026-01-18T00:25:15.774319",
+  "total_pages": 63,
+  "pages": [
+    {
+      "page": 1,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 752
+    },
+    {
+      "page": 2,
+      "status": "success",
+      "confidence": 0.844,
+      "text_length": 359
+    },
+    {
+      "page": 3,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 489
+    },
+    {
+      "page": 4,
+      "status": "success",
+      "confidence": 0.898,
+      "text_length": 567
+    },
+    {
+      "page": 5,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3955
+    },
+    {
+      "page": 6,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 327
+    },
+    {
+      "page": 7,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 641
+    },
+    {
+      "page": 8,
+      "status": "success",
+      "confidence": 0.758,
+      "text_length": 829
+    },
+    {
+      "page": 9,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3900
+    },
+    {
+      "page": 10,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 608
+    },
+    {
+      "page": 11,
+      "status": "success",
+      "confidence": 0.412,
+      "text_length": 549
+    },
+    {
+      "page": 12,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 914
+    },
+    {
+      "page": 13,
+      "status": "success",
+      "confidence": 0.125,
+      "text_length": 493
+    },
+    {
+      "page": 14,
+      "status": "success",
+      "confidence": 0.487,
+      "text_length": 540
+    },
+    {
+      "page": 15,
+      "status": "success",
+      "confidence": 0.919,
+      "text_length": 586
+    },
+    {
+      "page": 16,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3515
+    },
+    {
+      "page": 17,
+      "status": "success",
+      "confidence": 0.934,
+      "text_length": 720
+    },
+    {
+      "page": 18,
+      "status": "success",
+      "confidence": 0.881,
+      "text_length": 487
+    },
+    {
+      "page": 19,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1045
+    },
+    {
+      "page": 20,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 853
+    },
+    {
+      "page": 21,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 606
+    },
+    {
+      "page": 22,
+      "status": "success",
+      "confidence": 0.914,
+      "text_length": 752
+    },
+    {
+      "page": 23,
+      "status": "success",
+      "confidence": 0.893,
+      "text_length": 1102
+    },
+    {
+      "page": 24,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 712
+    },
+    {
+      "page": 25,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 426
+    },
+    {
+      "page": 26,
+      "status": "success",
+      "confidence": 0.841,
+      "text_length": 429
+    },
+    {
+      "page": 27,
+      "status": "success",
+      "confidence": 0.882,
+      "text_length": 539
+    },
+    {
+      "page": 28,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 538
+    },
+    {
+      "page": 29,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 606
+    },
+    {
+      "page": 30,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 344
+    },
+    {
+      "page": 31,
+      "status": "success",
+      "confidence": 0.474,
+      "text_length": 883
+    },
+    {
+      "page": 32,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3900
+    },
+    {
+      "page": 33,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 329
+    },
+    {
+      "page": 34,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 350
+    },
+    {
+      "page": 35,
+      "status": "success",
+      "confidence": 0.836,
+      "text_length": 385
+    },
+    {
+      "page": 36,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 493
+    },
+    {
+      "page": 37,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3685
+    },
+    {
+      "page": 38,
+      "status": "success",
+      "confidence": 0.769,
+      "text_length": 733
+    },
+    {
+      "page": 39,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 836
+    },
+    {
+      "page": 40,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1055
+    },
+    {
+      "page": 41,
+      "status": "success",
+      "confidence": 0.915,
+      "text_length": 674
+    },
+    {
+      "page": 42,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 830
+    },
+    {
+      "page": 43,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 635
+    },
+    {
+      "page": 44,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 380
+    },
+    {
+      "page": 45,
+      "status": "success",
+      "confidence": 0.931,
+      "text_length": 829
+    },
+    {
+      "page": 46,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3900
+    },
+    {
+      "page": 47,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 886
+    },
+    {
+      "page": 48,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 695
+    },
+    {
+      "page": 49,
+      "status": "success",
+      "confidence": 0.359,
+      "text_length": 466
+    },
+    {
+      "page": 50,
+      "status": "success",
+      "confidence": 0.25,
+      "text_length": 513
+    },
+    {
+      "page": 51,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3900
+    },
+    {
+      "page": 52,
+      "status": "success",
+      "confidence": 0.922,
+      "text_length": 696
+    },
+    {
+      "page": 53,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 1003
+    },
+    {
+      "page": 54,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3907
+    },
+    {
+      "page": 55,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3511
+    },
+    {
+      "page": 56,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3900
+    },
+    {
+      "page": 57,
+      "status": "success",
+      "confidence": 0.922,
+      "text_length": 669
+    },
+    {
+      "page": 58,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 461
+    },
+    {
+      "page": 59,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3900
+    },
+    {
+      "page": 60,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 414
+    },
+    {
+      "page": 61,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 817
+    },
+    {
+      "page": 62,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3497
+    },
+    {
+      "page": 63,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 326
+    }
+  ]
+}

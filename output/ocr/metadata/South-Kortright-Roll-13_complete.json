@@ -1,0 +1,265 @@
+{
+  "source_pdf": "raw/scans/NYS Archives/A4645/South-Kortright-Roll-13.pdf",
+  "processed_at": "2026-01-17T22:50:21.973674",
+  "total_pages": 43,
+  "pages": [
+    {
+      "page": 1,
+      "status": "success",
+      "confidence": 0.915,
+      "text_length": 1373
+    },
+    {
+      "page": 2,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1293
+    },
+    {
+      "page": 3,
+      "status": "success",
+      "confidence": 0.972,
+      "text_length": 2223
+    },
+    {
+      "page": 4,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 2657
+    },
+    {
+      "page": 5,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 2239
+    },
+    {
+      "page": 6,
+      "status": "success",
+      "confidence": 0.851,
+      "text_length": 2254
+    },
+    {
+      "page": 7,
+      "status": "success",
+      "confidence": 0.969,
+      "text_length": 2094
+    },
+    {
+      "page": 8,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 914
+    },
+    {
+      "page": 9,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1669
+    },
+    {
+      "page": 10,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1445
+    },
+    {
+      "page": 11,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3524
+    },
+    {
+      "page": 12,
+      "status": "success",
+      "confidence": 0.867,
+      "text_length": 2221
+    },
+    {
+      "page": 13,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1589
+    },
+    {
+      "page": 14,
+      "status": "success",
+      "confidence": 0.963,
+      "text_length": 1707
+    },
+    {
+      "page": 15,
+      "status": "success",
+      "confidence": 0.9,
+      "text_length": 1923
+    },
+    {
+      "page": 16,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1649
+    },
+    {
+      "page": 17,
+      "status": "success",
+      "confidence": 0.422,
+      "text_length": 1388
+    },
+    {
+      "page": 18,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1571
+    },
+    {
+      "page": 19,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 714
+    },
+    {
+      "page": 20,
+      "status": "success",
+      "confidence": 0.65,
+      "text_length": 1108
+    },
+    {
+      "page": 21,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1942
+    },
+    {
+      "page": 22,
+      "status": "success",
+      "confidence": 0.644,
+      "text_length": 1957
+    },
+    {
+      "page": 23,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2079
+    },
+    {
+      "page": 24,
+      "status": "success",
+      "confidence": 0.785,
+      "text_length": 2032
+    },
+    {
+      "page": 25,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3304
+    },
+    {
+      "page": 26,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 2089
+    },
+    {
+      "page": 27,
+      "status": "success",
+      "confidence": 0.433,
+      "text_length": 1950
+    },
+    {
+      "page": 28,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3243
+    },
+    {
+      "page": 29,
+      "status": "success",
+      "confidence": 0.973,
+      "text_length": 2370
+    },
+    {
+      "page": 30,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 5890
+    },
+    {
+      "page": 31,
+      "status": "success",
+      "confidence": 0.262,
+      "text_length": 1526
+    },
+    {
+      "page": 32,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1262
+    },
+    {
+      "page": 33,
+      "status": "success",
+      "confidence": 0.519,
+      "text_length": 2418
+    },
+    {
+      "page": 34,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 3523
+    },
+    {
+      "page": 35,
+      "status": "success",
+      "confidence": 0.959,
+      "text_length": 1482
+    },
+    {
+      "page": 36,
+      "status": "success",
+      "confidence": 0.0,
+      "text_length": 3761
+    },
+    {
+      "page": 37,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 907
+    },
+    {
+      "page": 38,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 4548
+    },
+    {
+      "page": 39,
+      "status": "success",
+      "confidence": 0.942,
+      "text_length": 1185
+    },
+    {
+      "page": 40,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 1481
+    },
+    {
+      "page": 41,
+      "status": "success",
+      "confidence": 0.679,
+      "text_length": 1720
+    },
+    {
+      "page": 42,
+      "status": "success",
+      "confidence": 1.0,
+      "text_length": 607
+    },
+    {
+      "page": 43,
+      "status": "success",
+      "confidence": 0.648,
+      "text_length": 1435
+    }
+  ]
+}

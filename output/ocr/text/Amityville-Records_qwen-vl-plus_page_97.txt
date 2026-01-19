@@ -1,0 +1,132 @@
+```
+MICROCOPY RESOLUTION TEST CHART
+MICROCOPY RESOLUTION TEST CHART
+
+GENERAL CONSTRUCTION
+
+BIDDER
+DAVID B. ROBERTS
+JOHN H. FRENCH
+ZEBRA CONCT. CO.
+
+BASE BID
+150000.00
+153288.
+155500.
+
+Estimated Additional Excavation
+100C YDS @ 100C CUFT. INST 5424.
+100C YDS @ 90C CUFT. INST 5424.
+100C YDS @ 50C CUFT. INST 1850.
+
+Recommended Additional Concrete
++ 700.
++ 411.
++ 550.
+
+Alternate Recommended Additional Concrete
++ 100.
++ 111.
++ 550.
+
+Alternate Not Recommended
+16700
+18410
+19576
+
+TOTALS
+157344.
+152254.60
+152420.10
+
+HEATING AND VENTILATING
+
+Recommended
+James McCullagh
+Pierre S. Olsen
+John E. Curley
+Merchlp Bros.
+
+27747.
+28125.
+28986.
+29000.
+
+Alternate No. 2
+Simple Boiler
+- 785.00
++ 140.
++ 180.
++ 310.
+
+Alternate No. 3
+Means' Unit
+- 91.
++ 225.
++ 310.
+
+Alternate No. 4
+Means' Unit
++ 225.
++ 145.
++ 185.
+
+PLUMBING
+
+Recommended
+James McCullagh
+Pierre S. Olsen
+John E. Curley
+
+14700.
+14947.
+15498.
+
+Alternate No. 1
+Macour System
++ 473.
++ 842.
++ 310.
+
+Alternate No. 2
+Means' System
++ 225.
++ 145.
++ 185.
+
+ELECTRICAL
+
+Recommended
+Merker Electric Co.
+Verther
+Jandous
+
+9285.
+1709.
+1770.
+
+Alternate No. 1
+Pul Control
+750.
+1146.
+775.
+
+Not Recommended
+Distressless
+-
+-
+-
+
+TOTAL
+10235.
+10858.
+10565.
+
+LOW BIDDERS
+
+JOHN H. FRENCH GEN 154259CO
+JAMES McCULLAGH HILL 26900
+PIERRE S. OSLEN P 15998
+MERKER ELECTRIC E 10235
+
+Total Low. 206786.60

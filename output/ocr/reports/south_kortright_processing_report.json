@@ -1,0 +1,13 @@
+{
+  "source": "raw/scans/NYS Archives/A4645/South-Kortright-Roll-13.pdf",
+  "model": "qwen/qwen-vl-plus",
+  "document_type": "handwritten_cursive",
+  "total_pages": 43,
+  "successful_pages": 43,
+  "failed_pages": 0,
+  "total_characters": 63640,
+  "average_confidence": 0.57,
+  "processing_time_seconds": 500.0,
+  "avg_seconds_per_page": 11.63,
+  "timestamp": "2026-01-18T01:18:44.983984"
+}

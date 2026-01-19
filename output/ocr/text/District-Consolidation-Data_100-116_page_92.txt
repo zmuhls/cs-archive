@@ -1,0 +1,43 @@
+Below is the transcription of the tabular data from the document, preserving the structure and formatting as requested:
+
+---
+
+**Madison County**
+
+| No. of Dist. | NAME OF TOWN | DATE OF SCHOOL-MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of New Dist. | TERRITORIES |
+|--------------|--------------|---------------------------------------------|--------------------------------------------------|------------------|-------------|
+| 1            | C.R.S.       | C.R.S. laid out 5 June 1929                 | C.R.S. (out 5 June 1929 meeting held 25 June 1929) | Central Sch. dist. No. 1 | Fennimore, Nelson |
+| 2            | Smyrna       | 24 June 1929                                | Designating dist. 31 July 1929                   | Hamilton         |             |
+| 3            | Lebanon      | [blank]                                     | [blank]                                          | [blank]          | [blank]     |
+| 4            | Hamilton     | 19 October 1927                             | Brookfield reestablished April 30, 1927          | Hamilton         |             |
+| 5            | Hamilton     | 22 May 1930 to take effect 15 Sept. 1930    | 1 September 1930                                 | Hamilton         |             |
+| 6            | Stockbridge  | 15 June 1930                                | 10 December 1930                                 | Stockbridge      |             |
+| 7            | Stockbridge  | 30 September 1930                           | 15 January 1931                                  | Stockbridge      |             |
+| 8            | Brookfield   | 15 October 1930                             | 9 November 1930                                  | Hamilton         |             |
+| 9            | De Ruyter    | 4 December 1930                             | 1 April 1931                                     | De Ruyter        |             |
+| 10           | De Ruyter    | 20 December 1930                            | 1 April 1931                                     | De Ruyter        |             |
+| 11           | Madison      | 30 December 1930                            | Designation of dist. 15 January 1931             | Hamilton         |             |
+| 12           | Hamilton     | 15 May 1931                                 | 20 August 1931                                   | Hamilton         |             |
+| 13           | Cazenovia    | 27 May 1931                                 | 31 August 1931                                   | Cazenovia        |             |
+| 14           | Brookfield   | 20 June 1931                                | 25 September 1931                                | Brookfield       |             |
+| 15           | Plainfield   | 27 January 1931                             | Designation of dist. 15 January 1931             | Plainfield       |             |
+| 16           | De Ruyter    | 17 July 1931                                | Designation of dist. 15 January 1931             | De Ruyter        |             |
+| 17           | Cazenovia    | 17 July 1931                                | Designation of dist. 15 January 1931             | Cazenovia        |             |
+| 18           | Hamilton     | 15 May 1931                                 | 1 December 1931                                  | Hamilton         |             |
+| 19           | Hamilton     | 1 September 1931                            | 1 December 1931                                  | Hamilton         |             |
+| 20           | Brookfield   | 25 September 1931                           | 25 January 1932                                  | Brookfield       |             |
+| 21           | Cazenovia    | 16 July 1931                                | 15 October 1931                                  | Cazenovia        |             |
+| 22           | Cazenovia    | 15 May 1933                                 | 15 August 1933                                   | Cazenovia        |             |
+| 23           | Cazenovia    | 10 July 1933                                | 15 October 1933                                  | Cazenovia        |             |
+| 24           | Cazenovia    | 15 July 1933                                | 15 October 1933                                  | Cazenovia        |             |
+| 25           | Cazenovia    | 15 July 1933                                | 15 October 1933                                  | Cazenovia        |             |
+| 26           | Cazenovia    | 15 July 1933                                | 15 October 1933                                  | Cazenovia        |             |
+| 27           | Cazenovia    | 15 July 1933                                | 15 October 1933                                  | Cazenovia        |             |
+| 28           | Cazenovia    | 15 July 1933                                | 15 October 1933                                  | Cazenovia        |             |
+| 29           | Cazenovia    | 15 July 1933                                | 15 October 1933                                  | Cazenovia        |             |
+| 30           | Cazenovia    | 15 July 1933                                | 15 October 1933                                  | Cazenovia        |             |
+| 31           | Cazenovia    | 15 July 1933                                | 15 October 1933                                  | Cazenovia        |             |
+| 32           | Cazenovia    | 15 July 1933                                | 15 October 1933                                  | Cazenovia        |             |
+| 33           | Cazenovia    | 15 July 1933                                | 15 October 1933                                  | Cazenovia        |             |
+| 34           | Cazenovia    | 15 July 1933                                | 15 October 1933                                  | Cazenovia        |             |
+|

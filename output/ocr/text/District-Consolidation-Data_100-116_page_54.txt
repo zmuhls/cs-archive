@@ -1,0 +1,12 @@
+```
+Essex County
+Union Free Schools
+
+| No. of district | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT |  |  | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT |  |  | No. of hours | REMARKS |
+|-----------------|--------------|--------------------------------------------|----|----|---------------------------------------------------|----|----|--------------|---------|
+|                 |              | Day                                        | Month | Year | Day                                               | Month | Year |              |         |
+| 1               | Schroon      | 3                                          | April | 1891 |                                                   |     |    | 3            |         |
+| 1               | Keene        | 1                                          | May   | 1916 |                                                   |     |    | 5            |         |
+| 2               | Moriah       | 26                                         | June  | 1920 |                                                   |     |    | 5            |         |
+| 1               | Minerva      | 18                                         | July  | 1922 |                                                   |     |    | 3            |         |
+```

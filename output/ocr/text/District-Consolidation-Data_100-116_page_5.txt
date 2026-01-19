@@ -1,0 +1,94 @@
+Below is the transcription of the tabular data from the document, preserving the structure and formatting as requested:
+
+```
+20
+
+Browne
+County
+
+| No. of dist. | NAME OF TOWN | DATE OF SCHOOL MEETING (ORGANIZING DISTRICT) | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of new dist. | REMARKS |
+|--------------|--------------|-----------------------------------------------|---------------------------------------------------|------------------|---------|
+|              |              | Day Month Year                                | Day Month Year                                    |                  |         |
+| 5            | Windsor      | 13 Nov. 1941                                  | 20 Aug. 1942                                      | CRS              | Windsor |
+| 17           | Richwood     | 20 May 1942                                   | 21 Aug. 1942                                      | CRS              | Windsor |
+| 14           | Windsor      | 21 May 1942                                   | 1 July 1942                                       | CRS              | Windsor |
+| 15           | Windsor      | 24 March 1942                                 | 1 Nov. 1943                                       | CRS              | Windsor |
+| 24           | Windsor-Sanford | 2 Aug. 1943                                | 13 Oct. 1943                                      | CRS              | Triangle |
+| 7            | Windsor-Richford | 7 July 1943                              | 11 Oct. 1943                                      | CRS              | Triangle |
+| 8            | Triangle     |                                               | 9 Oct. 1943                                       | CRS              | Triangle |
+| 10           | Circle       |                                               |                                                   | CRS              | Triangle |
+| 11           | Circle       |                                               |                                                   | CRS              | Triangle |
+| 11           | Circle       |                                               |                                                   | CRS              | Triangle |
+| 3            | Chippewa     |                                               |                                                   | CRS              | Chippewa |
+| 6            | Chippewa     |                                               |                                                   | CRS              | Chippewa |
+| 8            | Union (Browne Co.) | 3 May 1947                                | 13 Aug. 1950                                      | CRS              | Brightenton |
+|              |              | Effective July 5, 1947                        |                                                   |                  |         |
+|              |              | Effective August 22, 1947                     |                                                   |                  | Union, Barnet |
+|              |              | Effective October 1, 1945                     |                                                   |                  | Union, Barnet |
+|              |              | Laid out June 5, 1950                         |                                                   |                  |         |
+|              |              | Meeting held June 26, 1950                    |                                                   |                  |         |
+|              |              | Laid out June 5, 1950                         |                                                   |                  |         |
+|              |              | Meeting held June 28, 1950                    |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |         |
+|              |              |                                               |                                                   |                  |        

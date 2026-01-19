@@ -1,0 +1,29 @@
+{
+  "source_file": "raw/scans/img/70914219871__BEDDB5B6-1764-47A2-B5DA-D1C8D21CF5D9 2.jpeg",
+  "processed_at": "2025-12-23T20:34:56.348130",
+  "model": "qwen/qwen-vl-plus",
+  "usage": {
+    "prompt_tokens": 1772,
+    "completion_tokens": 911,
+    "total_tokens": 2683,
+    "cost": 0.00094605,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": null,
+      "upstream_inference_prompt_cost": 0.00037212,
+      "upstream_inference_completions_cost": 0.00057393
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0
+    }
+  },
+  "confidence": 1.0,
+  "text_length": 3536,
+  "checksum": "84d5e456cbbfc43d5904d39ee474ce5c60951ba335c33f1c1c6f5fbedc3dac9c"
+}

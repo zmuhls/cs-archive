@@ -1,0 +1,14 @@
+```
+162
+Livingston County
+
+Town School Units
+
+| Unit | NAME OF TOWN | DATE OF SCHOOL-MEETING ORGANIZING-DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | Nos. of dists. included | REMARKS |
+|------|--------------|--------------------------------------------|--------------------------------------------------|------------------------|---------|
+|      |              | Day | Month | Year | Day | Month | Year |                      |         |
+| 1    | Livonia      |     |       |      |     |       |      | U.F.S. 9 and 3, 5, 7, 8, 10 & 11     |         |
+| 2    |              |     |       |      | 4   |       | 13   |                                      |         |
+| 1    | Nunda        |     |       |      |     |       |      | U.F.S. 1, 2, 4, 8, 9, 10 & 11        |         |
+| 2    |              |     |       |      | 12  |       | 7    | 3, 5, 6 & 7                          |         |
+```
