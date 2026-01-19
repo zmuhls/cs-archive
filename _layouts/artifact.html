@@ -49,53 +49,68 @@ layout: default
     </div>
 
     <aside class="artifact-sidebar">
-      <!-- Metadata -->
-      <section class="metadata-panel">
-        <h3>Document Information</h3>
-        <dl class="metadata-list">
-          <dt>Artifact ID</dt>
-          <dd>{{ page.artifact_id }}</dd>
+      <!-- Metadata Panel with Mobile Toggle -->
+      <section class="metadata-panel" id="metadata-panel">
+        <!-- Mobile Toggle Button (hidden on desktop) -->
+        <button class="metadata-toggle" id="metadata-toggle" aria-expanded="false" aria-controls="metadata-details">
+          <span class="metadata-summary">
+            <span class="summary-id">{{ page.artifact_id }}</span>
+            <span class="summary-type">{{ page.item_type | replace: "_", " " | capitalize }}</span>
+          </span>
+          <span class="toggle-right">
+            <span class="toggle-label">Show details</span>
+            <span class="toggle-icon" aria-hidden="true"></span>
+          </span>
+        </button>
 
-          <dt>Document Type</dt>
-          <dd>{{ page.item_type | replace: "_", " " | capitalize }}</dd>
+        <!-- Collapsible Details -->
+        <div class="metadata-details" id="metadata-details">
+          <h3 class="metadata-heading">Document Information</h3>
+          <dl class="metadata-list">
+            <dt>Artifact ID</dt>
+            <dd>{{ page.artifact_id }}</dd>
 
-          <dt>Collection</dt>
-          <dd>{{ page.collection | capitalize }}</dd>
+            <dt>Document Type</dt>
+            <dd>{{ page.item_type | replace: "_", " " | capitalize }}</dd>
 
-          {% if page.location and page.location != "" %}
-          <dt>Location</dt>
-          <dd>{{ page.location }}</dd>
+            <dt>Collection</dt>
+            <dd>{{ page.collection | capitalize }}</dd>
+
+            {% if page.location and page.location != "" %}
+            <dt>Location</dt>
+            <dd>{{ page.location }}</dd>
+            {% endif %}
+
+            {% if page.decade %}
+            <dt>Decade</dt>
+            <dd>{{ page.decade }}</dd>
+            {% endif %}
+
+            {% if page.county %}
+            <dt>County</dt>
+            <dd>{{ page.county }}</dd>
+            {% endif %}
+
+            <dt>Word Count</dt>
+            <dd>{{ page.word_count | default: 0 }}</dd>
+
+            <dt>OCR Confidence</dt>
+            <dd>{{ page.confidence | times: 100 | round }}%</dd>
+
+            <dt>Source Images</dt>
+            <dd>{{ page.source_images.size }} image{% if page.source_images.size != 1 %}s{% endif %}</dd>
+
+            {% if page.is_research %}
+            <dt>Classification</dt>
+            <dd>Research Material</dd>
+            {% endif %}
+          </dl>
+
+          {% if page.notes and page.notes != "" %}
+          <h3>Notes</h3>
+          <p class="artifact-notes">{{ page.notes }}</p>
           {% endif %}
-
-          {% if page.decade %}
-          <dt>Decade</dt>
-          <dd>{{ page.decade }}</dd>
-          {% endif %}
-
-          {% if page.county %}
-          <dt>County</dt>
-          <dd>{{ page.county }}</dd>
-          {% endif %}
-
-          <dt>Word Count</dt>
-          <dd>{{ page.word_count | default: 0 }}</dd>
-
-          <dt>OCR Confidence</dt>
-          <dd>{{ page.confidence | times: 100 | round }}%</dd>
-
-          <dt>Source Images</dt>
-          <dd>{{ page.source_images.size }} image{% if page.source_images.size != 1 %}s{% endif %}</dd>
-
-          {% if page.is_research %}
-          <dt>Classification</dt>
-          <dd>Research Material</dd>
-          {% endif %}
-        </dl>
-
-        {% if page.notes and page.notes != "" %}
-        <h3>Notes</h3>
-        <p class="artifact-notes">{{ page.notes }}</p>
-        {% endif %}
+        </div>
       </section>
 
       <!-- Navigation -->
@@ -111,6 +126,7 @@ layout: default
 <!-- Flag for Review Modal -->
 <div id="flag-modal" class="flag-modal">
   <div class="flag-modal-content">
+    <button class="modal-close" id="modal-close-btn" aria-label="Close modal">&times;</button>
     <h3>🔁 Request Re-processing</h3>
     <p class="flag-artifact-info">{{ page.artifact_id }}</p>
 
@@ -205,6 +221,12 @@ ${comment ? `**Details:**\n${comment}` : ''}
   cancelBtn.addEventListener('click', closeModal);
   submitBtn.addEventListener('click', submitFlag);
 
+  // Close button (X) listener
+  const modalCloseBtn = document.getElementById('modal-close-btn');
+  if (modalCloseBtn) {
+    modalCloseBtn.addEventListener('click', closeModal);
+  }
+
   // Close on backdrop click
   modal.addEventListener('click', function(e) {
     if (e.target === modal) closeModal();
@@ -216,6 +238,26 @@ ${comment ? `**Details:**\n${comment}` : ''}
       closeModal();
     }
   });
+})();
+
+// Collapsible metadata panel on mobile
+(function() {
+  const toggle = document.getElementById('metadata-toggle');
+  const details = document.getElementById('metadata-details');
+
+  if (toggle && details) {
+    toggle.addEventListener('click', function() {
+      const expanded = this.getAttribute('aria-expanded') === 'true';
+      this.setAttribute('aria-expanded', !expanded);
+      details.classList.toggle('expanded');
+
+      // Update toggle label
+      const label = this.querySelector('.toggle-label');
+      if (label) {
+        label.textContent = expanded ? 'Show details' : 'Hide details';
+      }
+    });
+  }
 })();
 </script>
 
@@ -255,6 +297,48 @@ ${comment ? `**Details:**\n${comment}` : ''}
   background: #e8e8e8 !important;
 }
 
+/* Responsive Typography */
+@media (max-width: 768px) {
+  .artifact-title {
+    font-size: 1.5rem;
+  }
+
+  .artifact-main h2 {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .artifact-page {
+    padding: 0.75rem;
+  }
+
+  .artifact-title {
+    font-size: 1.25rem;
+    line-height: 1.3;
+  }
+
+  .artifact-header {
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.75rem;
+  }
+
+  .artifact-meta span {
+    padding: 0.2rem 0.5rem;
+    font-size: 0.75rem;
+  }
+
+  .artifact-main h2 {
+    font-size: 1rem;
+  }
+
+  .transcription-content {
+    padding: 1rem;
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+}
+
 .artifact-content {
   display: grid;
   grid-template-columns: 1fr 300px;
@@ -292,9 +376,15 @@ ${comment ? `**Details:**\n${comment}` : ''}
   margin: 0;
 }
 
+.gallery-item a {
+  display: block;
+  min-height: 44px;
+  min-width: 44px;
+}
+
 .gallery-item img {
   width: 100%;
-  height: 150px;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
   border-radius: 4px;
   border: 1px solid #ddd;
@@ -312,6 +402,24 @@ ${comment ? `**Details:**\n${comment}` : ''}
   text-align: center;
   margin-top: 0.25rem;
   font-family: monospace;
+}
+
+/* Gallery Responsive */
+@media (max-width: 600px) {
+  .gallery-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75rem;
+  }
+
+  .gallery-item figcaption {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .gallery-grid {
+    gap: 0.5rem;
+  }
 }
 
 /* Transcription */
@@ -344,11 +452,128 @@ ${comment ? `**Details:**\n${comment}` : ''}
   margin-bottom: 1rem;
 }
 
-.metadata-panel h3 {
+.metadata-panel h3,
+.metadata-heading {
   font-size: 1rem;
   margin-bottom: 1rem;
   padding-bottom: 0.5rem;
   border-bottom: 1px solid #ddd;
+}
+
+/* Metadata Toggle (hidden on desktop) */
+.metadata-toggle {
+  display: none;
+}
+
+/* Mobile Collapsible Metadata */
+@media (max-width: 768px) {
+  .artifact-sidebar {
+    position: static;
+    order: 0;
+    margin-bottom: 1.5rem;
+  }
+
+  .metadata-panel {
+    padding: 0;
+    background: transparent;
+  }
+
+  .metadata-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 1rem;
+    background: #f8f8f8;
+    border: 1px solid #e1e1e1;
+    border-radius: 8px;
+    cursor: pointer;
+    font-family: inherit;
+    min-height: 56px;
+    text-align: left;
+  }
+
+  .metadata-toggle:focus {
+    outline: 2px solid #333;
+    outline-offset: 2px;
+  }
+
+  .metadata-summary {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .summary-id {
+    font-family: monospace;
+    font-size: 0.8rem;
+    background: #e8e8e8;
+    padding: 0.25rem 0.5rem;
+    border-radius: 3px;
+  }
+
+  .summary-type {
+    font-size: 0.75rem;
+    background: #333;
+    color: white;
+    padding: 0.25rem 0.5rem;
+    border-radius: 3px;
+    text-transform: capitalize;
+  }
+
+  .toggle-right {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-shrink: 0;
+  }
+
+  .toggle-label {
+    font-size: 0.8rem;
+    color: #666;
+  }
+
+  .toggle-icon::after {
+    content: '\25BC';
+    font-size: 0.65rem;
+    color: #666;
+    transition: transform 0.2s;
+    display: inline-block;
+  }
+
+  .metadata-toggle[aria-expanded="true"] .toggle-icon::after {
+    transform: rotate(180deg);
+  }
+
+  .metadata-details {
+    display: none;
+    padding: 1rem;
+    background: #f8f8f8;
+    border: 1px solid #e1e1e1;
+    border-top: none;
+    border-radius: 0 0 8px 8px;
+  }
+
+  .metadata-details.expanded {
+    display: block;
+    animation: expandDown 0.2s ease-out;
+  }
+
+  .metadata-details .metadata-heading {
+    margin-top: 0;
+  }
+}
+
+@keyframes expandDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .metadata-list {
@@ -385,18 +610,39 @@ ${comment ? `**Details:**\n${comment}` : ''}
 }
 
 .artifact-nav .btn {
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   text-align: center;
-  padding: 0.75rem 1rem;
+  padding: 0.875rem 1rem;
+  min-height: 48px;
   background: #333;
   color: white;
   text-decoration: none;
   border-radius: 4px;
-  font-size: 0.875rem;
+  font-size: 0.9rem;
+  transition: background 0.2s;
 }
 
-.artifact-nav .btn:hover {
+.artifact-nav .btn:hover,
+.artifact-nav .btn:focus {
   background: #555;
+}
+
+.artifact-nav .btn:focus-visible {
+  outline: 2px solid #0066cc;
+  outline-offset: 2px;
+}
+
+@media (max-width: 480px) {
+  .artifact-nav {
+    gap: 0.75rem;
+  }
+
+  .artifact-nav .btn {
+    padding: 1rem;
+    font-size: 1rem;
+  }
 }
 
 /* Flag for Review Button */
@@ -506,5 +752,92 @@ ${comment ? `**Details:**\n${comment}` : ''}
 }
 .flag-buttons .btn-submit:hover {
   background: #c0392b;
+}
+
+/* Modal Close Button */
+.modal-close {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  width: 44px;
+  height: 44px;
+  border: none;
+  background: transparent;
+  font-size: 1.75rem;
+  color: #666;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: background 0.2s, color 0.2s;
+  line-height: 1;
+}
+.modal-close:hover,
+.modal-close:focus {
+  background: #f0f0f0;
+  color: #333;
+}
+.flag-modal-content {
+  position: relative;
+}
+
+/* Mobile Modal - Bottom Sheet Pattern */
+@media (max-width: 600px) {
+  .flag-modal {
+    align-items: flex-end;
+    padding: 0;
+  }
+
+  .flag-modal-content {
+    max-width: 100%;
+    max-height: 85vh;
+    padding: 1.25rem;
+    padding-top: 3rem;
+    border-radius: 16px 16px 0 0;
+    animation: slideUp 0.3s ease-out;
+  }
+
+  .flag-modal-content h3 {
+    font-size: 1.1rem;
+  }
+
+  .flag-modal-content select,
+  .flag-modal-content textarea {
+    padding: 0.875rem;
+    font-size: 1rem; /* Prevents iOS zoom on focus */
+    min-height: 48px;
+  }
+
+  .flag-buttons {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .flag-buttons .btn {
+    width: 100%;
+    padding: 1rem;
+    min-height: 48px;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .flag-modal-content {
+    max-height: 80vh;
+    padding: 1rem;
+    padding-top: 3rem;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(100%);
+    opacity: 0.5;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
 }
 </style>
