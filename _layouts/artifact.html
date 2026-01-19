@@ -21,9 +21,14 @@ layout: default
         <h2>Source Images</h2>
         <div class="gallery-grid">
           {% for image in page.source_images %}
+          {% if image.filename %}
+          {% assign thumb_src = '/derived/thumbs/' | append: image.filename | relative_url %}
+          {% else %}
+          {% assign thumb_src = image.thumbnail %}
+          {% endif %}
           <figure class="gallery-item">
             <a href="{{ image.full }}" target="_blank" title="View full image">
-              <img src="{{ image.thumbnail }}" alt="{{ page.title }} - {{ image.id }}" loading="lazy">
+              <img src="{{ thumb_src }}" alt="{{ page.title }} - {{ image.id }}" loading="lazy">
             </a>
             <figcaption>{{ image.id }}</figcaption>
           </figure>
@@ -95,10 +100,122 @@ layout: default
       <nav class="artifact-nav">
         <a href="{{ '/browse/' | relative_url }}" class="btn">Browse All</a>
         <a href="{{ '/search/' | relative_url }}" class="btn">Search Archive</a>
+        <button class="btn btn-flag" id="flag-review-btn">🔁 Re-process</button>
       </nav>
     </aside>
   </div>
 </article>
+
+<!-- Flag for Review Modal -->
+<div id="flag-modal" class="flag-modal">
+  <div class="flag-modal-content">
+    <h3>🔁 Request Re-processing</h3>
+    <p class="flag-artifact-info">{{ page.artifact_id }}</p>
+
+    <label for="flag-reason">Reason</label>
+    <select id="flag-reason" required>
+      <option value="">Select...</option>
+      <option value="quality">Transcription quality</option>
+      <option value="gaps">Missing or unclear sections</option>
+      <option value="errors">Text errors</option>
+      <option value="mismatch">Document mismatch</option>
+      <option value="other">Other</option>
+    </select>
+
+    <label for="flag-comment">Details (optional)</label>
+    <textarea id="flag-comment" placeholder="Any additional context..."></textarea>
+
+    <div class="flag-buttons">
+      <button class="btn btn-cancel" id="flag-cancel">Cancel</button>
+      <button class="btn btn-submit" id="flag-submit">Submit</button>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  const modal = document.getElementById('flag-modal');
+  const openBtn = document.getElementById('flag-review-btn');
+  const cancelBtn = document.getElementById('flag-cancel');
+  const submitBtn = document.getElementById('flag-submit');
+  const reasonSelect = document.getElementById('flag-reason');
+  const commentTextarea = document.getElementById('flag-comment');
+
+  // Artifact metadata from Jekyll
+  const artifactId = '{{ page.artifact_id }}';
+  const itemType = '{{ page.item_type | replace: "_", " " | capitalize }}';
+  const confidence = '{{ page.confidence | times: 100 | round }}';
+  const pageUrl = '{{ page.url | absolute_url }}';
+  const repo = '{{ site.repository | default: "zmuhls/cs-archive" }}';
+
+  const reasonLabels = {
+    'quality': 'Transcription quality',
+    'gaps': 'Missing or unclear sections',
+    'errors': 'Text errors',
+    'mismatch': 'Document mismatch',
+    'other': 'Other'
+  };
+
+  function openModal() {
+    modal.classList.add('active');
+    document.body.style.overflow = 'hidden';
+  }
+
+  function closeModal() {
+    modal.classList.remove('active');
+    document.body.style.overflow = '';
+    reasonSelect.value = '';
+    commentTextarea.value = '';
+  }
+
+  function submitFlag() {
+    const reason = reasonSelect.value;
+    if (!reason) {
+      reasonSelect.focus();
+      return;
+    }
+
+    const reasonText = reasonLabels[reason] || reason;
+    const comment = commentTextarea.value.trim();
+    const today = new Date().toISOString().split('T')[0];
+
+    const title = `Re-process: ${artifactId}`;
+    const body = `**Artifact:** ${artifactId}
+**Type:** ${itemType}
+**Reason:** ${reasonText}
+
+${comment ? `**Details:**\n${comment}` : ''}
+
+---
+[View artifact](${pageUrl})`;
+
+    const issueUrl = `https://github.com/${repo}/issues/new?` +
+      `title=${encodeURIComponent(title)}&` +
+      `body=${encodeURIComponent(body)}&` +
+      `labels=review-flag`;
+
+    window.open(issueUrl, '_blank');
+    closeModal();
+  }
+
+  // Event listeners
+  openBtn.addEventListener('click', openModal);
+  cancelBtn.addEventListener('click', closeModal);
+  submitBtn.addEventListener('click', submitFlag);
+
+  // Close on backdrop click
+  modal.addEventListener('click', function(e) {
+    if (e.target === modal) closeModal();
+  });
+
+  // Close on Escape key
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape' && modal.classList.contains('active')) {
+      closeModal();
+    }
+  });
+})();
+</script>
 
 <style>
 .artifact-page {
@@ -274,5 +391,114 @@ layout: default
 
 .artifact-nav .btn:hover {
   background: #555;
+}
+
+/* Flag for Review Button */
+.btn-flag {
+  background: #e74c3c !important;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+}
+.btn-flag:hover {
+  background: #c0392b !important;
+}
+
+/* Flag Modal */
+.flag-modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.6);
+  z-index: 9999;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+.flag-modal.active {
+  display: flex;
+}
+
+.flag-modal-content {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 500px;
+  width: 100%;
+  max-height: 90vh;
+  overflow-y: auto;
+}
+
+.flag-modal-content h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.25rem;
+}
+
+.flag-artifact-info {
+  margin: 0 0 1.5rem 0;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.flag-modal-content label {
+  display: block;
+  font-weight: 600;
+  font-size: 0.875rem;
+  margin-bottom: 0.5rem;
+  color: #333;
+}
+
+.flag-modal-content select,
+.flag-modal-content textarea {
+  width: 100%;
+  padding: 0.75rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 0.9rem;
+}
+
+.flag-modal-content select:focus,
+.flag-modal-content textarea:focus {
+  outline: none;
+  border-color: #333;
+}
+
+.flag-modal-content textarea {
+  min-height: 100px;
+  resize: vertical;
+}
+
+.flag-buttons {
+  display: flex;
+  gap: 0.75rem;
+  justify-content: flex-end;
+  margin-top: 1rem;
+}
+
+.flag-buttons .btn {
+  padding: 0.75rem 1.25rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.875rem;
+}
+
+.flag-buttons .btn-cancel {
+  background: #e0e0e0;
+  color: #333;
+}
+.flag-buttons .btn-cancel:hover {
+  background: #d0d0d0;
+}
+
+.flag-buttons .btn-submit {
+  background: #e74c3c;
+  color: white;
+}
+.flag-buttons .btn-submit:hover {
+  background: #c0392b;
 }
 </style>
