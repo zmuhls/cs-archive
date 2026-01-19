@@ -27,7 +27,7 @@ Primary sources from New York State's common school system (1810s–1940s): from
 
   <a href="{{ '/collections/administrative-data/' | relative_url }}" class="collection-card">
     <div class="collection-card-thumb">
-      <img src="{{ '/derived/thumbs/IMG_3419.jpeg' | relative_url }}" alt="District Administrative Data" loading="lazy">
+      <img src="{{ '/derived/thumbs/IMG_3428.jpeg' | relative_url }}" alt="District Administrative Data" loading="lazy">
     </div>
     <h3>Administrative Data</h3>
     <p>Notecard indexes, typed registries, and county consolidation tables from 29 counties. Reference materials for spatial and quantitative analysis.</p>
