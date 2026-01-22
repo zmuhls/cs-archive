@@ -9,37 +9,6 @@ permalink: /map/
 <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ==" crossorigin=""></script>
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 
-Interactive map showing locations from two collections: **NYSTA annual meeting sites** (1881-1927) and **county consolidation records** from NYS Archives Series B0494.
-
-<div id="map"></div>
-
----
-
-## Locations
-
-<div class="location-tabs">
-  <button class="tab active" data-tab="nysta">NYSTA Meetings (1881-1927)</button>
-  <button class="tab" data-tab="counties">Consolidation Counties</button>
-</div>
-
-<div id="nysta" class="tab-content active">
-
-<p class="location-note"><strong>16 meeting locations</strong> from the <a href="{{ '/collections/nys-teachers-association/' | relative_url }}">NYS Teachers' Association collection</a>.</p>
-
-<ul class="location-list" id="nysta-list"></ul>
-
-</div>
-
-<div id="counties" class="tab-content">
-
-<p class="location-note"><strong>29 counties</strong> with school district consolidation records from <a href="{{ '/collections/administrative-data/' | relative_url }}">District Administrative Data</a>.</p>
-
-<ul class="location-list" id="county-list"></ul>
-
-</div>
-
-<script src="{{ '/assets/maps/archive-map.js' | relative_url }}"></script>
-
 <style>
 #map {
   width: 100%;
@@ -169,3 +138,34 @@ Interactive map showing locations from two collections: **NYSTA annual meeting s
   }
 }
 </style>
+
+Interactive map showing locations from two collections: **NYSTA annual meeting sites** (1881-1927) and **county consolidation records** from NYS Archives Series B0494.
+
+<div id="map"></div>
+
+---
+
+## Locations
+
+<div class="location-tabs">
+  <button class="tab active" data-tab="nysta">NYSTA Meetings (1881-1927)</button>
+  <button class="tab" data-tab="counties">Consolidation Counties</button>
+</div>
+
+<div id="nysta" class="tab-content active">
+
+<p class="location-note"><strong>16 meeting locations</strong> from the <a href="{{ '/collections/nys-teachers-association/' | relative_url }}">NYS Teachers' Association collection</a>.</p>
+
+<ul class="location-list" id="nysta-list"></ul>
+
+</div>
+
+<div id="counties" class="tab-content">
+
+<p class="location-note"><strong>29 counties</strong> with school district consolidation records from <a href="{{ '/collections/administrative-data/' | relative_url }}">District Administrative Data</a>.</p>
+
+<ul class="location-list" id="county-list"></ul>
+
+</div>
+
+<script src="{{ '/assets/maps/archive-map.js' | relative_url }}"></script>
