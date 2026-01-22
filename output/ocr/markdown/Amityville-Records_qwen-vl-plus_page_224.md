@@ -1,0 +1,75 @@
+# MICROCOPY RESOLUTION TEST CHART
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_224.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.98
+
+**Processed:** 2026-01-17T22:23:21.208416
+
+**Source Image:** [📄 page_224.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_224.png)
+
+---
+
+## Source Document
+
+![MICROCOPY RESOLUTION TEST CHART](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_224.png)
+
+---
+
+## Transcription
+
+```
+MICROCOPY RESOLUTION TEST CHART
+JAN AND NO TEST CHART No. 2
+
+1.0
+1.1
+1.25
+1.4
+1.6
+1.8
+2.0
+2.2
+2.5
+2.8
+3.2
+3.6
+4.0
+4.5
+5.0
+5.6
+6.3
+7.1
+8.0
+9.0
+10.0
+
+FILE COPY OF THE RECORDS OF AMITYVILLE
+DATE FILMED 1-4-04
+
+MICROFILMED BY GOOD SHEPHERD WORK SERVICES
+CINEMA OPERATIONS
+10000 East Main Street
+Binghamton, New York 13904
+
+The Clerk presented letter of Mrs. Arthur Krotz, 211 East Grand Avenue, Bellmore, addressed to the Health Officer, concerning the bill rendered her for X-Ray to her daughter Miss Pauline Krotz and also presented letter of Dr. Reed in reply outlining the facts in connection with the accident.
+
+At this point in the proceedings, Mr. Insole entered and began to take part in the deliberations of the Board.
+
+Mr. Ruff spoke on the accident to Miss Krotz and advised that although it occurred on December 16th he had received no report of it until today when he was handed the two letters read by the Clerk. After a discussion on the matter the Clerk was instructed to file a report of the accident with the insurance broker.
+
+The Teachers Committee reported that the following substitute teachers had taught during January and were entitled to be paid accordingly: Ermina Darling, two days; Mrs. Granville Fisher, three days; Mrs. Merson Hildroth, three days; Mrs. C. A. Harison, one day and Mrs. 'Eve Van Emmerick, one day. Mr. Hartman moved and Mr. Haab seconded the motion that the report be accepted and placed on file and that the substitute teachers he paid accordingly. This motion unanimously carried.
+
+The Teachers Committee reported that Mrs. Nova Van Emmerick had been engaged as a mathem teacher for the in[st] half of the current school year. Mrs. Hartman moved and Mr. Axell seconded the motion that the action of the Teachers Committee in engaging Mrs. Van Emmerick be approved and that her compensation be at her old rate of $2,500.00 per year, less the salary adjustment of 11%. This motion unanimously carried.
+
+The Teachers Committee reported Miss Granat as unexcusably absent for two weeks in December and two days in January. Mrs. Axell moved and Mrs. Kotechek seconded the motion that Miss Granat being absent two weeks and two days that her salary for such period be deducted from her next salary check because of unauthorized absence from schoolwork before and after January 1, 1934. This motion unanimously carried.
+
+The cafeteria[?] report for the month of January was presented showing a profit for the period of $37.60. The report was ordered accepted and filed.
+
+The Building and Grounds Committee recommended that the three transformers in the high school building be purchased from the L. I. Lighting Company for $42.24 as the ownership of this equipment would eliminate a rental charge of $16.68 per month. Mr. Axell moved and Mr. Haab seconded the motion that the transformers be purchased at a cost of $3542.24. This motion unanimously carried.

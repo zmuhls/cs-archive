@@ -1,0 +1,52 @@
+# Amityville Public Schools
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_421.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.0
+
+**Processed:** 2026-01-17T22:59:14.007449
+
+**Source Image:** [📄 page_421.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_421.png)
+
+---
+
+## Source Document
+
+![Amityville Public Schools](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_421.png)
+
+---
+
+## Transcription
+
+Amityville Public Schools  
+AMITYVILLE, N.Y., February 3, 1927  
+
+**Teachers' Absences for January.**  
+
+- **Mr. Vrooman**  
+  Absent January 4,5,5,7- Sick-  
+  Mrs. Ralph Gardiner taught his class  
+
+- **Mr. Pragaw**  
+  Absent January 10,11,12-Out of town -Classes dismissed to attend funeral of his grandfather-  
+
+- **Miss Ryan**  
+  Absent January 12,17 P.V.-Sick-  
+  Mrs. Rapelje taught her class on Jan.13  
+  Miss Bevier taught on Jan. 17 P.K.  
+
+- **Miss Armstrong**  
+  Absent January 24,25,26,27-Sick-  
+  Mrs. Ralph Gardiner taught her class  
+
+- **Miss Baylis**  
+  Absent January 6,7- Sick-  
+
+[stamp: Amityville Public Schools]  
+[illegible - 213 consecutive lines unreadable]

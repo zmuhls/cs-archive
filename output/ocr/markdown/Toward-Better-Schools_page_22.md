@@ -1,0 +1,56 @@
+# III. The Work in Detail
+
+**Document Type:** Document
+
+**Collection:** CS Archive
+
+**Source:** Toward-Better-Schools_page_22.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T00:58:28.341310
+
+---
+
+## Transcription
+
+```
+III. The Work in Detail
+
+The Commission considers its primary function as assisting the localities define and solve their school building problems. During the past year, the Commission has directed nearly all of its work toward that end. It has:
+
+1. Revised and made more effective the procedures for determining local school building needs.
+2. Studied the problem of enlarging city school districts to obtain better utilization of existing facilities and improve local ability to provide for future building needs.
+3. Inventory[ed] existing school facilities outside the City of New York and tentatively developed standards and procedures for determining when schools should be rehabilitated, modernized or replaced.
+4. Launched a study in an area of the City of New York to assist in the improvement of such standards and procedures.
+5. Studied means of attaining economies in school construction and made recommendations available to architects and local school authorities, particularly on conservation of critical materials.
+6. Reviewed existing school lighting standards and enlisted the aid of a committee of technical advisers who are offering recommendations for changes.
+7. Continued its studies of school building finance
+
+Determination of Local Needs
+
+Last year in its second report (Pages 10, 11) the Commission suggested 11 procedures to be followed in determining school building requirements. As a result of its studies during the past year, the Commission has modified the original recommendations into these:
+
+1. Determine what changes, if any, should be made in the attendance area boundaries and define the area to be studied.
+2. Make a complete physical inventory of existing school buildings which could be used to accommodate the pupils living in the area.
+3. Adopt acceptable standards relative to safety, health and usefulness of a school building in the educational program of the community.
+4. Appraise available facilities, according to the standards adopted.
+5. Determine the relative advantages and costs of rehabilitation, modernization or replacement in order to bring substandard facilities up to acceptable standards.
+6. Compute the capacity and potential utilization of the facilities which conform or economically can be made to conform to the standards.
+7. Investigate all available means for making maximum use of these facilities: transportation, transfer of grades to other schools, changes in attendance area boundaries, conversion of space to new uses, revisions in class schedules.
+
+Information obtained by the foregoing procedures will indicate what capital funds are needed to bring existing buildings up to acceptable standards. It will also provide the basis for determining whether additional buildings will be required. However, before making this last determination, a school district also should:
+
+1. Isolate the factors in the area or the community which might affect future enrollment.
+2. Obtain accurate information on the child population of the area and other factors, such as migration, housing developments, age of adult
+
+[handwritten: ...]
+
+[stamp: ...]
+
+21
+```
+
+**Note:** The handwritten addition and stamp are noted as placeholders since no specific content is provided in the image for these elements. If you have additional details about the handwritten content or the stamp, please provide them for a more accurate transcription.

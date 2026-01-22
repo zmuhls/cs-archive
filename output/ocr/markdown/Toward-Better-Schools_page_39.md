@@ -1,0 +1,57 @@
+# 2. Before planning to replace old buildings consider whether modernization will 
+
+**Document Type:** Document
+
+**Collection:** CS Archive
+
+**Source:** Toward-Better-Schools_page_39.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.928
+
+**Processed:** 2025-12-19T01:02:28.685164
+
+---
+
+## Transcription
+
+```
+2. Before planning to replace old buildings consider whether modernization will produce satisfactory facilities at reasonable cost.
+
+3. Determine whether enrollment increases in a district are temporary or permanent before abandoning a school building that is not hazardous.
+
+4. If possible, postpone construction of high schools until increased elementary school enrollments have been housed and high school enrollments begin to rise again.
+
+5. Exercise the utmost economy in school construction, consistent with education values and maintenance costs.
+
+6. Make maximum use of borrowing power through short maturities and special efforts to obtain favorable interest rates, and use reserve funds and current revenues to reduce the amount of borrowing.
+
+---
+
+Elementary School Under Construction at Hyde Park
+
+[Image: Aerial photograph of an elementary school under construction at Hyde Park, showing multiple buildings, a central courtyard, and surrounding greenery.]
+
+---
+
+New York City
+
+The Commission recommends that New York City appropriate approximately $50 million a year during the next four years for construction of new schools and modernization of old ones. About $40 million should be spent each year for 15 to 20 new schools to relieve overcrowding and $10 million each year for 15 to 25 modernization projects. However, this program to substantially eliminate the backlog of school construction and modernization needs in the City cannot be accomplished unless the following steps are taken:
+
+1. The City must appropriate sufficient funds annually to keep its school buildings in repair and the Board of Education must streamline its organization for handling repair work.
+
+2. The Board of Education must put into effect without further delay the recommendations of this Commission, the Management Survey and its own construction coordinator for properly dividing responsibility between the Board and its staff and achieving an effective and efficient staff organization to plan and supervise construction of schools.
+
+3. In cooperation with the City Planning Commission and the Office of the Budget Director, the Board of Education must immediately appraise the condition, capacity and utilization of all schools in the City and determine their place in the overall construction program. Without this information, it is impossible for the Board to establish whether buildings should be replaced or modernized and in what order construction of new buildings or modernization of old should take place.
+
+On the basis of experience gained in its State-wide studies, the Commission believes this physical inventory
+```
+
+**Page Number:** 38  
+**Footer:** [?]  
+**Header:** [?]  
+**Stamps/Seals:** [stamp: ...]  
+**Handwritten Additions:** [handwritten: ...]  
+**Unclear Characters:** [?]  
+**Formatting:** Preserved as in the original document.

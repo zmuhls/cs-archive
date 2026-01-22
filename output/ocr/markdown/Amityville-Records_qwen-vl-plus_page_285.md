@@ -1,0 +1,85 @@
+# building and the tying in of or that building's heating plant with the new Junio
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_285.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:35:06.172913
+
+**Source Image:** [📄 page_285.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_285.png)
+
+---
+
+## Source Document
+
+![building and the tying in of or that building's heating plant with the new Junio](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_285.png)
+
+---
+
+## Transcription
+
+building and the tying in of or that building's heating plant with the new Junior High School heating
+plant; that alternate #1 represented the connecting of the present High School heating
+plant with the boilers in the Junior High School building; alternate #2 the furnishing and
+installation of additional boiler in the Junior High School building and alternate #3,
+the furnishing and installation of automatic control valves
+in the High School building at a later date.
+
+The Architect stated that alternates had been provided
+for in case the cost of the project was more than the District
+had provided for which would have allowed the major work to
+be done at this time and the tying in of the High School
+heating plant at a later date.
+
+Mr. Case moved and Mr. Artell seconded the motion
+that in consideration of all bids being within the
+appropriation voted by the District that the entire project
+be adopted and contract voted accordingly. This motion
+unanimously carried.
+
+Mr. Artell moved and Mr. Case seconded the motion
+that the contract for the extension of the central heating
+plant be awarded to the Johnstom Heating Company in
+accordance with its bid of $21,789.00 and that the President
+and Clerk of the Board be and they are hereby authorized
+and directed to enter into written contract with the said
+Johnston Heating Company. This motion unanimously carried.
+
+Mr. Case moved and Mrs. Hartman seconded the motion
+that the certain checks of the unsuccessful bids be returned.
+This motion unanimously carried.
+
+The minutes of the regular meeting held on Thursday,
+March 7, 1935, were read by the Clerk and no objections
+were declared adopted as read.
+
+The matter of proper heating for the men's room and
+dark room of the High School building was tabled for
+consideration in the full.
+
+Mr. Ruff reported on the question of letting the Junior
+Naval Militia use the Grammar School auditorium stating
+that the scout leaders were of the opinion that the
+organization duplicated the efforts of the scouts and were
+also dubious if sufficient support could be enlisted for
+a success. Mr. Grover addressed the Board on behalf of
+the Junior Naval Militia. After some discussion the
+President ruled that the matter would be tabled until the
+local battalion had been organized and the Board shown
+something more concrete on which to pass
+judgment.
+
+The Clerk submitted letter from Ketcham & Colyer, Inc.,
+advising that the rate of insurance on the two fire-proof
+building had been reduced. Mr. Colyer volunteered to handle
+the securing of endorsements for the various policies and
+return of rebated premium if so elected. Mr.
+Case moved and Mr. Artell seconded the motion that the offer
+be accepted and that the Clerk thank Mr. Colyer for his
+generous offer. This motion unanimously carried.

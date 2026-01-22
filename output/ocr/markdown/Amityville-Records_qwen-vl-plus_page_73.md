@@ -1,0 +1,47 @@
+# Special Meeting of the Board of Education
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_73.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.46
+
+**Processed:** 2026-01-17T21:55:05.576749
+
+**Source Image:** [📄 page_73.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_73.png)
+
+---
+
+## Source Document
+
+![Special Meeting of the Board of Education](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_73.png)
+
+---
+
+## Transcription
+
+Special Meeting of the Board of Education  
+held on Thursday, Sept. 10, 1931, at 8:00 O'clock P. M.,  
+pursuant to notice.
+
+Present:  
+Mr. Clinton Ingle, President.  
+Mrs. Florence Hartman,  
+Grace Burns,  
+Mr. Willet F. Whitmore,  
+Herbert M. Case,  
+Milford H. Ketcham,  
+Theodore Axtell, Trustees.  
+Mr. C. R. Warren, Clerk.  
+R. A. Gardiner, Treasurer.
+
+The President stated that with the approval of the School and Village Health Officers and with the unanimous consent of the Board opening of school had been postponed until Wednesday, Sept. 16th.
+
+The President recommended that steps be taken to secure a select list of contractors to bid on the new garage school and it was proposed that the following notice be published for two weeks in the local newspapers:
+
+[Notice to Bidders]  
+The Board of Education of [illegible] Free School District No. [illegible] of [illegible] County, and [illegible] Town of [illegible], N.Y., will consider bids for the construction of a new Grade School. The Board will receive from contractors bids for the construction of a new Grade School, including all necessary work in making requests for bids plans most suitable to the Board of Education, including plans for the erection of a new school building, the installation of heating, plumbing, and electric wiring systems, and the furnishing of all necessary equipment. The Board reserves the right to reject any or all bids. The Board will also consider letters of recommendation from the Board of Education of [illegible] County. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [illegible] County reserves the right to reject any or all bids. The Board of Education of [

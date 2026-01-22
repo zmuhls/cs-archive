@@ -1,0 +1,70 @@
+# Raymond Shannon                                      $ 114.00
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_100.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T21:59:51.593466
+
+**Source Image:** [📄 page_100.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_100.png)
+
+---
+
+## Source Document
+
+![Raymond Shannon                                      $ 114.00](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_100.png)
+
+---
+
+## Transcription
+
+```
+Raymond Shannon                                      $ 114.00
+Milton Bradley Company                                66.32
+Alex Smith                                             2.00
+Goldsmith Brothers                                     6.95
+Universal Music Instrument Co.                        13.50
+Waldeu's Print Shop                                   28.25
+Arthur W. Ruff                                         6.35
+Rand McNally & Company                               130.90
+The Stanley Bowmar Co.                                 3.10
+C. F. Williams & Son, Inc.                              9.74
+The Iroquois Publishing Co.                           109.43
+Ginn & Company                                         9.74
+D. C. Heath & Co.                                      8.65
+The MacMillan Company                                 10.00
+Mrs. E. Eeleye Dayton                                 26.00
+A. B. Dick Company                                     2.96
+Supremacy Pen & Ink Company                            15.00
+W. Powell & Sons, Inc.                                28.97
+N. Y. Telephone Co.                                   34.65
+South Bay Consolidated Water Co., Inc.                77.01
+West Disinfecting Co.                                 30.55
+A. E. MacAdam & Co., Inc.                            162.25
+Long Island Lighting Co.                             1025.97
+George Harvey                                          12.00
+F. J. Nienburg & Son                                  40.72
+William Batz                                            5.00
+Standard Electric Time Co.                            50.69
+Clincher Cushion Chair Tip Co.                         7.20
+R. A. Fife Corp.                                      48.56
+Unqua Agency                                          10.00
+Albert Pick Barth Co., Inc.                           60.10
+New York Times Company                                 5.00
+Houghton Mifflin Company                               1.72
+Charles H. Ashdown                                     1.26
+Unqua Landires, Inc.                                   4.56
+Athletic Equipment Co., Inc.                          10.10
+H. W. Leigh                                           360.00
+A. G. Spalding & Bros.                                10.55
+Franklin Shops, Inc.                                   3.15
+South-Eastern Publishing Co.                           4.12
+Helmer Petersen                                        2.25
+
+There being no further business the meeting thereupon adjourned.

@@ -1,0 +1,51 @@
+# Later the Planning Commission revised the budget and dropped seven of the school
+
+**Document Type:** Document
+
+**Collection:** CS Archive
+
+**Source:** Toward-Better-Schools_page_18.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T00:57:48.025028
+
+---
+
+## Transcription
+
+Later the Planning Commission revised the budget and dropped seven of the schools. Subsequently, these seven were restored to the 1962 program and one more project added before the capital budget was adopted by the Board of Estimate and certified by the Mayor. Only 11 of these 21 projects finally approved were in the original staff proposals for 1962.
+
+This apparent uncertainty as to which schools should have priority in the capital program is a further indication of the need for carrying through the recommendations for changes in organization and procedures. Construction of the eight schools added by the Planning Commission is contingent upon exclusion of the
+
+Public School 133, Manhattan
+
+[Image: A black-and-white photograph of Public School 133, Manhattan, showing a multi-story building with a flat roof, large windows, and a fenced area in front.]
+
+$25.3 million capital expenditure for them from the City's Constitutional debt limit under terms of the Constitutional amendment approved by the people in November, 1951.
+
+A provision of this amendment, which became effective January 1, 1952, permits the City to exclude school construction debt to the extent that it can be funded by up to $2.5 million of the City's annual education aid. It is estimated this provision permits the exclusion from $80 to $40 million of school construction debt.
+
+Thus, the original proposal of the City Planning Commission to provide funds for 20 schools within the City's debt limit has been converted into a 21-school program which will use a substantial part of the school debt exclusion made available on January 1, 1952.
+
+Although part of this borrowing power outside the debt limit which now is being used will finance higher construction costs on some 1951 projects, the acquisition of more sites and a greater allocation for modernization, it is apparent the remainder is being used to permit non-educational capital programs to be expanded.
+
+In view of the required expenditure of State aid revenue from the Board of Education's expense budget, there is a question whether use at this time of the additional school construction borrowing power is necessary or merely expedient.
+
+Use of Private Architects
+
+In line with the Commission's recommendation, private architects were employed to prepare plans for new school buildings and supplement the work of the Board of Education's Bureau of Design and Construction. Private architects designed 16 of the schools in the 1951 program, while the Bureau completed plans for 12. The City's School Construction Co-ordinator says that
+
+Reorganization of Board and Staff
+
+A year ago the Commission recommended a reorganization of the Board of Education to limit its functions to educational policies and standards, changes which the Board itself recognized as necessary. The Commission also recommended changes within the Board of Education staffs which are connected with school construction. (See First Report of Commission, Page 17.)
+
+These recommendations have been supported in the report of the Education Management Survey and by the School Construction Co-ordinator who has advanced specific proposals.
+
+Prompt action by the Board in carrying out these suggestions can save months in construction time and avoid considerable waste.
+
+However, little more than a start has been made toward accomplishment of these changes. Unless they are soon put into effect, the program now under construction in 1952—23 new schools and 15 to 21 modernization projects costing $70 million—will suffer from a lack of efficiency in planning, supervision of construction and co-ordination of modernization projects with the remainder of the construction program. The City's school construction co-ordinator also has expressed this view.
+
+17

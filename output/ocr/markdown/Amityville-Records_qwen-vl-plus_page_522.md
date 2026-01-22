@@ -1,0 +1,45 @@
+# The Secretary reported that Mr. Harry Paul Fischel would not be able to be prese
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_522.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:17:46.134487
+
+**Source Image:** [📄 page_522.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_522.png)
+
+---
+
+## Source Document
+
+![The Secretary reported that Mr. Harry Paul Fischel would not be able to be prese](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_522.png)
+
+---
+
+## Transcription
+
+The Secretary reported that Mr. Harry Paul Fischel would not be able to be present due to prior engagement. It was decided that if Mr. Fischel could be present on Jun 21st, that a special meeting be called for that time.
+
+Mr. J. F. O'Bare representative of the Johns-Manville Company appeared before the Board and submitted proposition for applying a new roof to the high school building. Mr. Inglee read letter of said company bearing date of June 13, 1928, offering to apply a new roof directly over the present one for the sum of $700.00, which would carry a ten year guarantee from date of completion.
+
+Motion made, duly seconded and carried, that the proposition as outlined in letter of the "ohns-Manville Company to cost $700.00, be accepted.
+
+Motion made, duly seconded and carried, that for the purpose of receiving estimates or bids on the cost of the roof for the grammar school building, that the Board adopt the Johns-Manville Asbestos Shingle as standard and that the Building Committee receive bids using it as a basis.
+
+Motion made, duly seconded and carried, that the High School boys receive the thanks of the Board for the very efficient baseball diamond they succeeded in laying out.
+
+On motion made, duly seconded and carried, it was voted that the Fund of $300.00 placed at the disposal of the Commencement Committee be and is hereby increased to $400.00.
+
+Mr. Van Dyk reported the need of a summer school to last for a period of six weeks and pointed out the benefits that would be secured from it.
+
+Motion made, duly seconded and carried, that the Teachers Committee be and hereby authorized to arrange for a summer school course for the pupils of the 6B, 7B and 8B, who may require it.
+
+At this time the Board went into consultation on the budget for the opening year.
+
+There being no further business, the Board thereupon adjourned.

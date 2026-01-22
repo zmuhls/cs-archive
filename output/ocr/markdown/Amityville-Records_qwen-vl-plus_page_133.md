@@ -1,0 +1,60 @@
+# ANNUAL MEETING of the Board of Education held at the High School on Tuesday, Aug
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_133.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:06:02.378623
+
+**Source Image:** [📄 page_133.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_133.png)
+
+---
+
+## Source Document
+
+![ANNUAL MEETING of the Board of Education held at the High School on Tuesday, Aug](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_133.png)
+
+---
+
+## Transcription
+
+ANNUAL MEETING of the Board of Education held at the High School on Tuesday, August 9, 1933, at 8:00 o'clock P. M., pursuant to notice.
+
+Present:
+Mr. Clinton Inglee,
+" Willat F. Whitcore,
+" Theodore Axioil,
+Mrs. Florence Hartman,
+Grace R. Burns, Trustees.
+Mr. C. R. Warren, District Clerk.
+
+Absent:
+Mr. Wilford H. Ketcham,
+" Herbert M. Ccse, Trustees.
+Mr. Ralph H. Gardiner, Treasurer.
+
+The Meeting was called to order by C. R. Warren, Clerk of the District.
+
+Nominations for the President of the Board of Education were called for.
+
+Mr. Clinton Inglee was nominated and unanimously elected and thereupon took the chair.
+
+Nominations for the Vice President of the Board of Education were declared in order.
+
+Mr. Milford H. Ketcham was nominated and unanimously elected Vice President.
+
+The President announced at this point that the committee assignments would stand as of the previous year.
+
+Clifford R. Warren was nominated and unanimously elected Clerk of the Board of Education at a salary of $700.00 per year.
+
+Ralph A. Gardiner was nominated and unanimously elected Treasurer at a salary of $475.00 per year.
+
+Dr. Theodore D. Reed was nominated and unanimously elected Health Officer at a salary of $1,200.00 per year.
+
+James Fitzpatrick was nominated and unanimously elected Truant Officer at a salary of $300.00 per year.

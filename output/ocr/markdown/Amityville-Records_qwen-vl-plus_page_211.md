@@ -1,0 +1,61 @@
+# Regular Meeting of the Board of Education held at the High School on Thursday, N
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_211.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:20:39.666077
+
+**Source Image:** [📄 page_211.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_211.png)
+
+---
+
+## Source Document
+
+![Regular Meeting of the Board of Education held at the High School on Thursday, N](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_211.png)
+
+---
+
+## Transcription
+
+```
+Regular Meeting of the Board of Education held at the High School on Thursday, November 2, 1933, at 8 o'clock P. M.
+
+The meeting was called to order by Clinton Inclee, President.
+
+Present:
+Mr. Clinton Inclee, President.
+Mr. Christian Haab,
+Mr. Willet F. Whitmore,
+Mr. Milford H. Ketcham,
+Mr. Herbert M. Case,
+Mrs. Florence Hartman, Trustees.
+Mr. C. R. Warren, Clerk.
+Mr. R. A. Gardiner, Treasurer.
+
+Absent:
+Mr. Theodore F. Axtell, Jr. Trustee.
+
+The minutes of the regular meeting held on October 5th and the special meeting held on October 13th were read by the Clerk and no objections being noted the President declared them adopted.
+
+Mr. Ketcham moved and Mr. Haab seconded the motion that the action taken at the special meeting held on October 13th in authorizing Mrs. Hartman to attend the annual meeting of the New York State School Boards Association at Syracuse on October 26-27, be and hereby ratified and confirmed. This motion unanimously carried.
+
+Pursuant to advertisements published in the local newspapers the following bids were received for the furnishing of bus transportation of pupils:
+
+Bidder                      Amount
+Charles H. Woop, Farmingdale, N. Y.  $2,880.00
+Remington Bus Co., Inc., Jamaica, N. Y.  1,898.00
+Henry W. Leigh, Amityville, N. Y.  1,825.00
+
+Mr. Whitmore moved and Mr. Haab seconded the motion that the contract be awarded to the lowest bidder, Henry W. Leigh, and that service start on Monday, November 6th. This motion unanimously carried.
+
+The Clerk reported that following the adoption of the tax rate at the October 10th special meeting a certified copy of the resolution had been sent to each of the supervisors of the townships in which the district is located and that shortly thereafter Supervisor Johnson of the Town of Babylon had
+```
+
+[Note: The last sentence is cut off in the image and cannot be fully transcribed.]

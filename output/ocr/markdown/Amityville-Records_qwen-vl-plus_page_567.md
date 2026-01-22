@@ -1,0 +1,71 @@
+# Special Meeting of the Board of Education held at the
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_567.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:26:00.928571
+
+**Source Image:** [📄 page_567.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_567.png)
+
+---
+
+## Source Document
+
+![Special Meeting of the Board of Education held at the](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_567.png)
+
+---
+
+## Transcription
+
+Special Meeting of the Board of Education held at the  
+High School on Wednesday, February 27, 1929, at 8:00 P.M.,  
+pursuant to the call of the President:
+
+Present:  
+Mr. Clinton Inglee, President.  
+Mr. Louis Vogel,  
+Mr. W. F. Whitmore,  
+Mrs. Grace Burns,  
+Mrs. Florance Hartman, Trustee.  
+Mr. C. R. Warren, Clerk.  
+R. A. Gardiner, Treasurer.
+
+Absent:  
+Mr. John B. Crewell,  
+Louis Vogel, Trustees.
+
+The President stated that the meeting had been called for  
+the following purposes:  
+To fill vacancy on Board.  
+Act on teachers' contracts.  
+Receive report of Mr. Fisher on sites.
+
+Mr. Charles Fisher appeared before the Board and submitted  
+maps of two prospective parcels of land in the northern  
+section of the district. No action was taken.
+
+Teachers Committee recommended that the following teachers  
+be offered contracts at the respective salaries, as stated:
+
+| Name               | Grade | Salary     |
+|--------------------|-------|------------|
+| Mad McGilvary      | Kindergarten | $1,975.00 |
+| Prunice Smith      | 3B    | 1,575.00   |
+| Beatrice Edik      | 1A    | 1,750.00   |
+| Sadie Edelman      | 2A    | 1,950.00   |
+| Natalie Dollard    | 2B    | 1,475.00   |
+| Dorotha Donghues   | 1A & 2A | 1,700.00 |
+| Helen Ferris       | 3A    | 1,875.00   |
+| Katherine-linberry | 4A    | 1,450.00   |
+| Winifred Sarpent   | 5A    | 1,575.00   |
+| Sybil Hutchison    | 5A    | 1,575.00   |
+| Hazel Schilling    | 5B    | 1,775.00   |
+| Emily Gunther      | 6A    | 1,975.00   |
+| Emma Dayton        | 6B    | 1,975.00   |

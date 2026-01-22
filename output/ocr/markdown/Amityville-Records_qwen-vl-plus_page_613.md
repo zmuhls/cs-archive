@@ -1,0 +1,54 @@
+# Charles Scribner's Sons                      $  3.26
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_613.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:39:19.274923
+
+**Source Image:** [📄 page_613.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_613.png)
+
+---
+
+## Source Document
+
+![Charles Scribner's Sons                      $  3.26](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_613.png)
+
+---
+
+## Transcription
+
+Charles Scribner's Sons                      $  3.26
+Bardeen School Supplies                     29.20
+Ginn & Company                             50.65
+Ginn & Company                             9.15
+Newoon & Company                           2.16
+The Bobbs Merrill Company                  7.45
+MacMillan Company                         14.67
+Oxford Book Company Inc                   50.61
+D. C. Heath & Co.                         34.57
+Silver Burdett & Co.                       9.12
+Educational Pub. Company                  35.19
+World Book Company                        63.65
+The John C Winston Company                18.02
+Gaylord Brothers Inc                      10.25
+Houghton Mifflin Company                  12.05
+Allyn & Bacon                             14.59
+American Book Company                     13.78
+Little, Brown & Co.                        3.46
+Hand McNally & Company                    12.28
+Lyons & Curnahan                           .79
+Leonard Education Inc                     16.47
+Iroquois Publishing Co Inc                65.72
+J. L. Hammett Company                     220.40
+
+There being no further business, the meeting was
+thereupon adjourned.
+
+Clerk.

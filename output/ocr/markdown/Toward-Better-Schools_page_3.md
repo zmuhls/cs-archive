@@ -1,0 +1,78 @@
+# Toward Better Schools page 3
+
+**Document Type:** Document
+
+**Collection:** CS Archive
+
+**Source:** Toward-Better-Schools_page_3.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T00:54:36.412887
+
+---
+
+## Transcription
+
+2
+
+LETTER OF TRANSMITTAL
+
+To the Governor and the Legislature of the State of New York:
+
+The Commission on School Buildings, created by Chapter 612 of the Laws of 1950, presents herewith its third report concerning school building problems in New York State.
+
+This report demonstrates that with few exceptions the localities in the State which have had serious school building problems have made significant progress in solving them.
+
+Many communities will be confronted with similar problems for a decade at least, but measures already adopted by the Legislature or being recommended by the Commission, will enable school districts to continue to make outstanding progress in the future, subject, of course, to any restrictions caused by our country's defense needs.
+
+Respectfully submitted,
+
+Frank C. Moore
+Chairman
+
+February 15, 1952
+
+CONTENTS
+
+I. Meeting the Problem
+   - Causes of the Problem
+   - The Commission's Reports
+
+II. Summary of Progress in 1951
+   - New Construction
+   - Modernization or Replacement
+   - Forecast of Needs
+   - Lighting Study
+   - Federal School Building Survey
+   - Problems Created by National Emergency
+   - New York City
+   - The 1951 Program
+   - The 1952 Program
+
+III. The Work in Detail
+   - Determination of Local Needs
+   - Enlarging School Districts
+   - Area Study in New York
+   - Economy in Construction
+   - School Lighting Standards
+   - Standards for Existing Buildings
+
+IV. Local Ability to Finance Schools
+   - City School Districts
+   - Other School Districts
+
+V. Recommendations
+   - State Legislation
+   - Emergency State Advances
+   - Enlarged City School Districts
+   - Contract Districts and Non-Residents
+   - Rapidly Growing Districts
+   - Education Law Amendments
+   - Continue the Commission
+   - Local Action
+   - New York City
+   - Other Cities
+   - Other School Districts

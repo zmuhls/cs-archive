@@ -1,0 +1,50 @@
+# Amityville Records page 228
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_228.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:24:06.321262
+
+**Source Image:** [📄 page_228.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_228.png)
+
+---
+
+## Source Document
+
+![Amityville Records page 228](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_228.png)
+
+---
+
+## Transcription
+
+222
+
+Mr. Ruff reported that on account of the heavy snow storms it had been necessary to close the schools on February 20th, 21st and 26th. Mr. Case moved and Mr. Axtell seconded the motion that the action of Mr. Ruff in closing the schools on February 20th, 21st and 26th be approved. This motion unanimously carried.
+
+At this time a considerable discussion ensued on what effects, if any, the proposed Natick School Bill would have on the amount of state aid money paid to the district, as it would change the present method of allocating such money. Copies of the bill were submitted for study. Mr. Case moved and Mr. Hanb seconded the motion that the matter be referred to the President and Mr. Ruff to formulate an opinion on behalf of the Board and to advise the local state legislators accordingly. This motion unanimously carried.
+
+The President reported that Mr. Holo of the Ford Company had asked for permission to use the High School auditorium on 3r about March 21st and 22nd to show gratis the Ford motion picture named "Thirty Years of Progress". Mr. Hanb moved and Mr. Case seconded the motion that the request be granted subject to approval by Mr. Ruff as to the dates selected. This motion unanimously carried.
+
+Mrs. Hartman moved and Mr. Hanb seconded the motion that three chaparons accompany the group making the Washington trip and that Mr. Ruff be authorized to choose same and that their expenses be paid by the District. This motion unanimously carried.
+
+Mr. Case moved and Mr. Axtell seconded the motion that the Purchasing Committee be authorized to buy additional text books not to exceed $100.00 in value. This motion unanimously carried.
+
+The following bills were read by the Clerk and ordered referred to the Finance Committee for 'n provl and payment if found correct:
+
+Waldou's Print Shop                      $ 15.75
+D. C. Heath & Co.                         90.19
+American Book Company                    142.65
+Ditto, Inc.                               16.64
+Ginn & Co.                               40.45
+Eugene Dietzgen Co., Inc.                 4.08
+The Zeichlin Company                      3.92
+Robert McDerrott                         20.50
+Charles Scribner's Sons                  37.70
+Allyn & Bacon                            23.10

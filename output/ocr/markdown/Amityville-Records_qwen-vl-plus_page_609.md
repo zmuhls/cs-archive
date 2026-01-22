@@ -1,0 +1,74 @@
+# Regular Meeting of the Board of Education held at the
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_609.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:38:21.964642
+
+**Source Image:** [📄 page_609.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_609.png)
+
+---
+
+## Source Document
+
+![Regular Meeting of the Board of Education held at the](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_609.png)
+
+---
+
+## Transcription
+
+Regular Meeting of the Board of Education held at the
+High School on Thursday, November 7, 1929, at 8:00 O'clock
+P. M., pursuant to notice.
+
+Present:
+Clinton Ingles, President.
+Willet F. Whitmore,
+Herbert M. Case,
+Louis Vogel,
+Lawrence S. Colt,
+Florence Hartman,
+Grace Burns, Trustees.
+Clifford R. Warran, Clerk.
+Ralph M. Gardiner, Treasurer.
+
+The minutes of the previous meeting were read and approved.
+
+Mr. Oliver, associate of Harry Paul Pischal, appeared before
+the Board and outlined the work that had been done by
+the Cemetary Commission. He stated that their report was
+in the course of preparation and every effort would be made
+to have it ready for presentation to the Court at the December
+Term. The Clerk read communication dated November 4th from
+Mr. Oliver in regard to the cemetery.
+
+Invoice of Mr. Henry Flock in the amount of $25.00
+for appraising the cemetery plot was referred to the Board.
+The Clerk read correspondence of Mr. Flock and of Mr. Fowler,
+Mr. Flock's attorney, in regard to it. Motion made, duly
+seconded and carried, that the bill of Henry Flock in the amount
+of $25.00 be paid.
+
+The Clerk read communication from Mr. A. L. L. Martin,
+35 South Ireland Place, Amityville, dated October 15, 1929,
+offering his services as architect for the proposed new school
+building. Motion made, duly seconded and carried, that the
+Board engage an architect before receipt of Mr. Martin's
+communication.
+
+The Teachers' Committee reported no inexcusable absences
+for the month of October but that Mrs. Gertrude Rose was entitled
+to seven (7) days salary for substitute teaching. Motion made,
+duly seconded and carried, that the report be accepted and
+placed on file and that the substitute teacher be paid accordingly.
+
+Mrs. Hartman reported on the convention of the Associated
+School Boards and Trustees of the State of New York, held at
+Troy on October 14th and 15th.

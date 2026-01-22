@@ -1,0 +1,75 @@
+# The following bills were read by the Clerk and ordered referred to the Finance C
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_624.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:43:20.142111
+
+**Source Image:** [📄 page_624.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_624.png)
+
+---
+
+## Source Document
+
+![The following bills were read by the Clerk and ordered referred to the Finance C](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_624.png)
+
+---
+
+## Transcription
+
+The following bills were read by the Clerk and ordered referred to the Finance Committee for approval and payment if found correct:
+
+D. W. Field                                      $216.00
+Ginn & Co.                                      210.06
+Benj. H. Senborn & Co.                          24.20
+The John G. Winston Co.                         11.34
+Brdson School Supplies, Inc.                    14.39
+Scott, Foresman & Co.                           16.97
+American Book Company                           13.75
+Alex Taylor & Co., Inc.                          6.90
+A. G. Spalding & Bros.                         15.81
+Alex Smith                                       2.00
+Frank G. Booes, Agent                          183.33
+Ketcham & Colyer, Inc.                         218.23
+Henry W. Leigh                                 700.00
+A. R. Lottman, Jr.                             125.50
+Frank Queckenbush, Trees                        95.00
+Joseph Marengost                                 7.50
+M. Outowitz                                      7.50
+William A. Ketcham                             188.28
+New York Telephone Co.                          43.33
+F. J. Monburg & Son                             25.96
+Webster Publishing Co.                           5.71
+Peckham, Little & Co.                            7.28
+Anqua Laundry, Inc.                              5.69
+R. A. Fife Corporation                           33.75
+American Bottling Company                      398.00
+The R. & R. Dental Supply Co.                   15.25
+American Child Health Association                1.29
+The Erang Co.                                    24.65
+Walnut's Print Shop                              22.00
+Albert Pick Barth Co., Inc.                     40.95
+The Wood Lumber Co.-                            10.94
+Elliott James                                    35.00
+Van Valkenburg                                   6.68
+Charles H. Ashdown                               29.65
+Mina Marguerite Brown                            5.40
+George E. Hole, Inc.                              3.00
+Ester H. Funnell                                90.13
+T. I. Lighting Co.                              151.34
+Jack Werner                                      14.00
+F. B. Powell & Son                               3.75
+W. Powell & Sons, Inc.                          11.84
+The Century Co.                                  2.48
+
+There being no further business the meeting thereupon adjourned.
+
+C. R. Warren
+Clerk

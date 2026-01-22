@@ -1,0 +1,72 @@
+# Moved, duly seconded and carried, that the Building and Grounds Committee locate
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_31.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T21:46:41.087749
+
+**Source Image:** [📄 page_31.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_31.png)
+
+---
+
+## Source Document
+
+![Moved, duly seconded and carried, that the Building and Grounds Committee locate](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_31.png)
+
+---
+
+## Transcription
+
+Moved, duly seconded and carried, that the Building and Grounds Committee locate and secure options on two additional school rooms for the coming school year and report back to the Board.
+
+The following bills were read by the Clerk, ordered referred to the Finance Committee for approval and payment if found correct:
+
+Long Island Lighting Co.                                      $ 46.55
+"                                                              166.61
+The Jurdin Co., Inc.                                           12.60
+G. A. Dolge Co.                                                17.63
+Cotton Products Co.                                            39.79
+George Harvey                                                  102.00
+A. A. Pearsall                                                4,000.95
+Scientifics Equipment Co.                                      39.00
+Lewis Haff                                                     290.00
+J. Wienburg & Son                                              18.60
+William W. Smith                                                03.77
+S. & S. Utility Service                                         5.00
+Unqua Laundries, Inc.                                           4.70
+Junior Literary Guild Inc                                      18.50
+Henry W. Leigh                                                740.00
+Clifford Baxter                                                30.60
+L. G. Smith & Corona                                           195.00
+Typewriters, Inc.                                              1.50
+Underwood Typewriter Co.                                       600.00
+Leseter E. Gardiner                                            183.53
+Ketcham & Colyer, Inc.                                         183.33
+Frang G. Beebe                                                 183.33
+Alex Smith                                                     29.90
+Long Island Sun                                                12.48
+Walden's Print Shop                                            26.00
+W. Powell & Sons, Inc.                                          4.00
+Frank Quaokenbush, Treas.                                      50.00
+N. Y. Telephone Company                                        42.16
+The World Book Company                                         19.29
+Bobbs-Merrill Company                                          25.05
+American Book Company                                          11.59
+Iroquois Publishing Co., Inc.                                  33.25
+Albert Pick-Barth Company                                       8.00
+J. N. Hammett Company                                          18.75
+Florence Hartman                                                5.00
+A. A. Clarke Company                                            6.39
+Amityville Music Shoppe                                         0.60
+Muriel Weed                                                     48.00
+Amity Printing House                                            6.54
+De-Fi Manufacturing Company                                     5.00
+Bacon & Vincent Co., Inc.                                       2.10
+B. H. Jeffers                                                   1.00

@@ -1,0 +1,56 @@
+# A Special Meeting of the Board of Education held at the High School on Monday, J
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_535.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.959
+
+**Processed:** 2026-01-17T23:19:50.907997
+
+**Source Image:** [📄 page_535.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_535.png)
+
+---
+
+## Source Document
+
+![A Special Meeting of the Board of Education held at the High School on Monday, J](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_535.png)
+
+---
+
+## Transcription
+
+A Special Meeting of the Board of Education held at the High School on Monday, July 30, 1928, at 6:00 P. M., pursuant to the call of the President.
+
+Present:
+Mr. Clinton Inglee, President.
+Mr. Louis Vogel, Ed. T. J. Thorn, Trustees.
+Mr. C. R. Warren, R. A. Gardiner, Clerk, Treasurer.
+
+Absent:
+Rev. Vedder Van Dyak,
+Mrs. Brice Bums,
+Florence Hartman, Trustees.
+
+The President stated that the meeting had been called to receive bids and award contract for the repairing of the heating and ventilating system of the grammar school building.
+
+The President called for bids in accordance with advertisement made therefor. Bids were received as follows:
+From Jacobson & Smith of Amityville, New York, $2,840.00. They being the only bidder.
+
+Motion made, duly seconded and carried, that the bid of Jacobson & Smith be accepted and that Charles Peace, Engineer, be authorized to draw up a suitable contract covering the work to be done.
+
+The matter of compensation due Mr. Peace for his work was brought up for discussion and on motion of Mr. Carwell, duly seconded and carried, the Board went into executive session.
+
+On reconvening from executive session the following resolution was entertained by the Board and was duly seconded and carried:
+
+RESOLVED that Mr. Charles Peace he given the regular fee of 5% of contract price, plus the sum of $108.00 for the preparation of the preliminary plans and specifications.
+
+There being no further business, the meeting thereupon adjourned.
+
+[stamp: Clerk]
+
+[illegible]

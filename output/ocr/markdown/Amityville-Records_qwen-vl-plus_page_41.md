@@ -1,0 +1,76 @@
+# Regular Meeting of the Board of Education held at the
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_41.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T21:48:26.195239
+
+**Source Image:** [📄 page_41.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_41.png)
+
+---
+
+## Source Document
+
+![Regular Meeting of the Board of Education held at the](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_41.png)
+
+---
+
+## Transcription
+
+Regular Meeting of the Board of Education held at the
+High School on Thursday, April 2, 1931, at 8:00 o'clock
+P.M., pursuant to notice.
+
+Present:
+Mr. Louis Vogel, Vice-President.
+Mr. Willet F. Whitmore
+Mr. Herbert H. Case,
+Mrs. Florence Hartman, Trustee.
+Mr. C. R. Warren, Clerk.
+Mr. R. A. Gardiner, Treasurer.
+
+Absent:
+Mr. Clinton Inglee, President.
+
+In the absence of the President, Mr. Vogel, Vice
+President presided.
+
+The minutes of the previous regular and special meetings
+read and approved.
+
+Communication of March 24, 1931 from Harry Paul Fishel
+read by the Clerk, informing the Board that affidavits of
+Clifford R. Warren, Benjamin F. Powell and Harry Paul Fishel
+in the matter of "Condemnation of Old Amityville Cemetery"
+had been filed in the Suffolk County Clerk's Office
+and that this not represented the last step in the proceeding
+to show that title has vested to the School District.
+Bill of Arthur H. Lundberg of Riverhead for $50.00 was
+referred to the Board by Mr. Fishel with a recommendation
+that it be approved for payment. On motion made,
+seconded and carried, it was voted that the communication
+be placed on file and that the bill of Arthur H. Lundberg
+of $50.00 be paid.
+
+The Clerk read communication of the "Associated School
+Boards and Trustees of the State of New York" in the matter
+of Sectional Conference to be held at Freeport on
+Thursday, April 9th. The "MERIT" was referred to Mrs.
+Hartman after Mr. Ruff and Mrs. Burns had expressed
+intentions of attending the meeting.
+
+The Building and Grounds Committee announced that
+contract for cement sidewalk in rear of High School to connect
+with the new shower and locker room had not been awarded
+but that plans were under way for the work.
+
+On recommendation of Mr. Ruff it was moved, seconded
+and carried, that the Building and Grounds Committee have
+a locker built in the room used by the Home Economics Department.

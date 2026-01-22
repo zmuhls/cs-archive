@@ -1,0 +1,64 @@
+# The first proposal would have a threefold effect:
+
+**Document Type:** Document
+
+**Collection:** CS Archive
+
+**Source:** Toward-Better-Schools_page_36.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:01:46.896283
+
+---
+
+## Transcription
+
+```
+The first proposal would have a threefold effect:
+A. Districts would be inclined to charge more tuition for instructing pupils from another district.
+B. School districts contracting for the education of all their children and districts which do not operate high schools would have to assume their fair share of the cost of educating their children.
+C. The tax advantage now enjoyed by the districts which send all or some of their children to school in other districts would be reduced and creation of larger school districts in these areas would be encouraged.
+
+The change would not mean a sudden or drastic readjustment in State education aid beginning with the future date selected because a three year average of attendance is used in computing State aid. The full effect, therefore, would not be felt until the third following the effective date.
+
+If the year 1957 were used, the districts affected would have about nine years in which to become part of a central, consolidated or enlarged city school district capable of providing a broader tax base to support a complete educational program and to finance school buildings.
+
+The second proposal would involve gradually raising the minimum tax rate required for apportionment of full State aid to contract districts and districts not operating high schools to a point where the rate would be approximately the same as the average of rates in the districts which do operate high schools.
+
+Contract districts now are required to have one of three minimum tax rates, $4, $5, or $6.20 per $1,000 full valuation, depending upon the particular formula under which they receive State aid. Almost all districts operating high schools must have a $6.20 minimum local tax rate before they can receive full State aid.
+
+As the first step in carrying out the second recommendation the Commission is submitting a bill providing a minimum local tax rate requirement of $6.20 per $1,000 full valuation for all contract districts.
+
+The further steps to be taken will depend upon the result of the state wide study of State equalization rates and the effect of the new rates upon the education aid formula and the local full valuation tax rates.
+
+The Commission's studies indicate that timely construction of high schools needed after 1956 will place greater burdens upon local resources and make it imperative that the real estate tax base supporting the high school include all of the assessed valuation in the territory it serves.
+
+The Commission recommends, therefore, that after a reasonable period of time, (for example, 1960) a school district that does not instruct all of its own high school pupils should become part of a district large enough to operate a high school.
+
+4. Rapidly Growing Districts
+
+The use of a three year average of daily attendance in the formula for apportionment of State education aid has created a lag in payment of aid to rapidly growing districts, unduly increased local tax rates and made it difficult for these districts to finance the volume of school construction required.
+
+Last year, the Commission recommended that relief be afforded districts having an attendance increase of more than 10 per cent in one year. The Legislature authorized a special appropriation to assist the rapidly growing districts, but the application of the statute was limited thereafter to those districts which had an attendance increase of 50 per cent in one year or 90 per cent in two years.
+
+Experience has shown that a very small number of school districts can benefit from the present law and that other suburban districts with much smaller enrollment increases have equally high tax rates resulting from the increases.
+
+A study of districts in Nassau County and other rapidly growing areas of the State has shown that the lag in State aid in some of the rapidly growing school districts has produced tax rate increases of more than $1 on $1,000 full valuation of local real estate.
+
+The effect of the State aid lag on the tax rate in these districts depends upon the wealth of the district as well as the per cent of increase in pupil attendance. The tax rate increase as a result of the State aid lag may be as high in a district where the latest average daily attendance figure is 12 per cent more than the three year average as in a district where the increase is 66 per cent.
+
+Therefore, the Commission is proposing that the present emergency statute for special aid to rapidly growing districts be revised to provide that:
+
+When a school district's average daily attendance figure for the latest year exceeds the three year average by 10 per cent or more, the district's State aid will be computed on the latest year's average daily attendance, less an amount equivalent to a tax of $1 on $1,000 full valuation of local real estate.
+
+Under this proposal, the State and the district will share the cost of providing for rapidly increasing enrollments. The $1 deduction is the tax rate increase which, in the Commission's opinion, the district should reasonably be required to bear before becoming eligible for special State assistance.
+
+For example, take the case of one particular district whose average daily attendance for 1951 is 40 per cent more than the three year average of attendance. If the 1951 attendance figure were used in computing State aid, this district would receive $180,000 more than the State aid apportioned on a three year average of its attendance. However, a local tax increase of $1 on $1,000 full valuation would raise $20,000. Thus the district's special aid, under the Commission's proposal, would amount to $160,000.
+
+35
+```
+
+**Note:** The document appears to be a scanned page from a historical report or legislative document. The transcription preserves the original formatting, including paragraph breaks, indentation, and spacing. There are no handwritten additions or stamps visible in the provided image. The page number "35" is included at the bottom right as per the instructions.

@@ -1,0 +1,75 @@
+# Regular Meeting of the Board of Education held at the
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_87.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T21:57:21.141034
+
+**Source Image:** [📄 page_87.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_87.png)
+
+---
+
+## Source Document
+
+![Regular Meeting of the Board of Education held at the](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_87.png)
+
+---
+
+## Transcription
+
+Regular Meeting of the Board of Education held at the
+High School on Thursday, November 5, 1931, at 8:00 o'clock
+P. M., pursuant to notice.
+
+Present:
+Mr. Clinton Ince, President.
+Mr. Herbert M. Case,
+" Millett F. Whitimore
+" Theodore Axtell
+" Milford H. Ketcham,
+Mrs. Florence Hartman,
+Grace M. Burns, Trustees.
+Mr. C. R. Warren, Clerk.
+" R. A. Gardiner, Treasurer.
+
+The minutes of the previous regular and special meetings
+read and no objections being noted were ordered adopted.
+
+The Architect reported that the plans and specifications
+had been accepted by the State Department of Education and that
+each of the approved contractors had received a copy of the
+plans and specifications. The Architect filed with the Board
+original certificate of approval of the State together with
+a copy of plans and specifications.
+
+The following resolution was offered by Trustee
+Ketcham and seconded by Trustee Hartman, to-wit:
+
+RESOLVED, that the approved contractors be notified that bids
+will be received and opened by the Board on Monday, November 23,
+1931, at 8:00 o'clock P. M., and that in the awarding of the
+contracts consideration shall be given by the Fund that bidders
+will be required to give assurances that local labor will be
+employed insofar as possible and that no discrimination will be
+made between white and colored labor.
+
+FURTHER RESOLVED, that surety bond of the United States
+Fidelity and Guarantee Company be required.
+
+The question of the adoption of the foregoing resolution
+was duly put to a vote which resulted as follows:
+Ayes: Six
+Nones: None
+
+The President thereupon declared the resolution duly
+adopted.
+
+A representative of the Bartlett Tree Expert Company
+appeared before the Board and recommended that the trees be

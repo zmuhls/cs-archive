@@ -1,0 +1,65 @@
+# Mr. Ruff reported that a few of the older high school pupils were causing troubl
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_119.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:03:45.756430
+
+**Source Image:** [📄 page_119.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_119.png)
+
+---
+
+## Source Document
+
+![Mr. Ruff reported that a few of the older high school pupils were causing troubl](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_119.png)
+
+---
+
+## Transcription
+
+Mr. Ruff reported that a few of the older high school pupils were causing trouble and annoyance to the faculty by their tardiness, habitual absence and lack of interest in the work and recommended that they either be compelled to attend regularly; do the work required or that they be dropped.
+
+Moved, seconded and carried, that the Board back the Principal up in his efforts to make boys work who are beyond the compulsory school age law and that all those who refuse to do the required work be asked to withdraw.
+
+It was moved, seconded and carried, that the usual recognition be accorded the members of the basketball team for being champions of Section 8 of the State of New York.
+
+It was moved, seconded and carried, that Mr. Holmer W. Petersen be paid Two hundred ($200.00) Dollars per year for services rendered in connection with his work in the cafeteria.
+
+The following bills were read by the Clerk, ordered referred to the Finance Committee for approval and payment if found correct:
+
+New York Telephone Company                      $ 39.10
+Freeport Music Shop                                4.75
+American Book Company                              2.49
+Scott, Foresman & Co.                             19.58
+Ginn & Co.                                        16.10
+D. C. Heath & Co.                                  9.74
+J. L. Hammett Company                             29.09
+Universal Musical Instru. Co.                    10.73
+The Van Everen Company                           245.20
+Carl Fischer, Inc.                                21.41
+C. A. Gregory Company                              3.24
+Arthur W. Ruff                                    14.58
+Arthur W. Ruff                                   110.40
+Waldau's Print Shop                                5.05
+Mildred L. Babcock                                21.09
+The West Disinfecting Co.                         30.55
+The Western Union Tel. Co.                         9.00
+Long Island Lighting Company                     408.91
+Village of Amitbyville                            240.00
+Alex Smith                                         2.00
+George Harvey                                     21.00
+M. Gutowitz                                      216.00
+George Coetz                                      6.00
+Remington Rand, Inc.                             12.00
+Clifford Baxter                                  15.00
+C. A. Dunham Company                              11.21
+Wood Lumber Company                               15.00
+Ketcham & Colyer, Inc.                            14.91
+Van Valkenburg                                    544.60

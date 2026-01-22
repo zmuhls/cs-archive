@@ -1,0 +1,38 @@
+# CERTIFICATE OF CONVERSION INTO A FULLY REGISTERED BOND.
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_638.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:46:19.693840
+
+**Source Image:** [📄 page_638.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_638.png)
+
+---
+
+## Source Document
+
+![CERTIFICATE OF CONVERSION INTO A FULLY REGISTERED BOND.](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_638.png)
+
+---
+
+## Transcription
+
+```
+CERTIFICATE OF CONVERSION INTO A FULLY REGISTERED BOND.
+
+Upon the written request of the owner of the within bond for its conversion into a fully registered bond, I have this day cut off and destroyed ______ coupons annexed to this bond amounting in the aggregate to ______ Dollars ($______), and the interest on this bond at the rate and on the dates as provided by the coupons as well as the principal thereof will hereafter be paid to ______, legal representatives, successors or assigns, at the place of payment specified therein, or, at the request of the registered owner, the interest will be remitted by mail in New York exchange. This bond hereafter will be transferable on the books of the Clerk of Joint Union Free School District No. 6, Towns of Babylon, Suffolk County, and Oyster Bay, Nassau County, New York, or other Registrar only on presentation of the same with a written assignment duly acknowledged or proved.
+
+Dated ______, 19____.
+
+(Official Title)
+
+Date of Registry: ______________________
+Name of Registered Owner: ______________
+Signature of Registrar: __________________

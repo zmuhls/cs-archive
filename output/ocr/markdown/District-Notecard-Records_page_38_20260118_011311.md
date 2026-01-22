@@ -1,0 +1,46 @@
+# Voorsheesville Union School (Albany Co.)
+
+**Document Type:** Document
+
+**Collection:** CS Archive
+
+**Source:** District-Notecard-Records_page_38.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.769
+
+**Processed:** 2026-01-18T01:20:18.974544
+
+**Source Image:** [📄 page_38.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_38.png)
+
+---
+
+## Source Document
+
+![Voorsheesville Union School (Albany Co.)](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_38.png)
+
+---
+
+## Transcription
+
+Voorsheesville Union School (Albany Co.)
+Mar. 23/31 Admitted as M-1
+8 O 1921 - ack'd app for adv to M-2 (M)
+EE D 1031 - small registration - only just admitted in Mar 1931 - no consideration should be given to advancement
+
+16 Apr. 1943 - Advanced M-H (9-12)
+Name changed to Voorheesville Central School
+
+[illegible]
+
+Glenwood Union School (Jefferson Co.)
+Since 1880 - [illegible] Thousand Islands
+9 Ju 1889 - admitted
+1897 - graded as H
+
+Ap 1926 - rec'd complaint from St Mary's School of Clayton re apparatus
+20 Ap 1926 - requested inspection ack'd 4 May
+17 May 1926 - memo from Dr Skinner re appar needed - he had notified president of board that more appar should be purchased.
+
+[illegible] Name changed to Glenwood Central School

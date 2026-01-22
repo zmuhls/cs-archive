@@ -1,0 +1,53 @@
+# On motion made, duly seconded and carried, it was resolved that the budget as ad
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_660.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:50:36.208675
+
+**Source Image:** [📄 page_660.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_660.png)
+
+---
+
+## Source Document
+
+![On motion made, duly seconded and carried, it was resolved that the budget as ad](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_660.png)
+
+---
+
+## Transcription
+
+On motion made, duly seconded and carried, it was resolved that the budget as adopted by the electors be and hereby is approved by the Board and ratified as the budget for the ensuing school year.
+
+Moved, duly seconded and carried, that the By-Laws as in effect the previous school year be and hereby are adopted as the By-Laws for the ensuing school year.
+
+The President announced that the personnel of the standing committees would be the same as for the previous year.
+
+Mr. Toms recommended that the following extra work be done to properly complete the painting of the high school auditorium:
+
+Paint windows                      cost  $ 38.00
+Aluminum all pipes and radiators    =   32.00
+Paint rail and dado and bottom dado and 14 doors  =  45.00
+Total                              $115.00
+
+On motion made, duly seconded and carried, Mr. Toms was authorized to proceed with the extra work.
+
+On recommendation of Mr. Buff, the Teachers Committee requested that the following be engaged as teachers for the current year:
+
+Mary A. Flanagan                  $ 1,300.00
+Ethel Hendrickson                 1,300.00
+
+Moved, duly seconded and carried, that the report of the Committee be accepted as rendered and that the President and Clerk be authorized to prepare and issue contracts accordingly.
+
+The Teachers Committee reported no unexcused absences for the month of June 1950 but that Mrs. Jarvis was entitled to fifteen days salary for substitute teaching. Moved, duly seconded and carried, that the report be accepted and placed on file and that the substitute teacher be paid accordingly.
+
+Motion made, duly seconded and carried, that the Transportation Committee be authorized to negotiate with Henry W. Leigh for bus service for the current year and enter into contract with him at a figure not to exceed that of the previous year.
+
+The Clerk read letter of Harry Paul Fishel asking that he be paid the balance owed him. Moved, duly seconded and carried, that he be paid $3,000.00 on account.

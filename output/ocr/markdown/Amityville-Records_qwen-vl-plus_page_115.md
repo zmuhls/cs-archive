@@ -1,0 +1,60 @@
+# Special Meeting of the Board of Education held at the High School on Thursday, M
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_115.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:02:41.691743
+
+**Source Image:** [📄 page_115.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_115.png)
+
+---
+
+## Source Document
+
+![Special Meeting of the Board of Education held at the High School on Thursday, M](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_115.png)
+
+---
+
+## Transcription
+
+Special Meeting of the Board of Education held at the High School on Thursday, March 24, 1852, at 9:00 o'clock P. M., pursuant to the call of the President.
+
+Present:
+Mr. Clinton Inglee, President.
+Herbert M. Case,
+Willet Y. Whitmore,
+Theodore Axtei,
+Milford H. Ketcham,
+Mrs. Florence Hartman,
+Grace L. Burns, Trustees.
+Mr. C. R. Warren, Clerk.
+
+Absent:
+Mr. R. A. Gardiner, Treasurer.
+
+The President announced that the meeting had been called to receive and act on report of teachers committee with reference to contracts for coming school year.
+
+The Board thereupon took up the question of teachers contracts for the coming school year; heard the report of the Teachers Committee and after due consideration of it the following resolution was made, duly seconded and unanimously adopted:
+
+RESOLVED, that there be no increase in salaries excepting for those teachers receiving less than fourteen hundred ($1400.00) dollars per annum and that in all such cases the salaries are to be advanced to that rate,
+
+FURTHER RESOLVED, that the Board adopt schedule of salaries submitted by the Teachers Committee and that the teachers be tendered contracts at the following rates:
+
+Maud MacGillivary Kindergarten $2050/
+Priscilla Granat Grade 1 1400/
+Louise Felke " 1 1500/
+Frances Smith " 1 1535/
+Dorothea Donoghue " 2 1800/
+Sadie Edelman " 2 2100/
+Marion Lappine " 2 1500/
+Helen Ferris " 3 1625/
+Azella Wilkinson " 3 1450/
+Mary Flanagan " 3 1400/
+Ethel Hendriksom " 4 1400/

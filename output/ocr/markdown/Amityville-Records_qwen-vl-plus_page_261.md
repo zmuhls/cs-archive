@@ -1,0 +1,69 @@
+# Mr. Burr reported that Mrs. Van Emrick should have been awarded contract at the 
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_261.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:30:50.327963
+
+**Source Image:** [📄 page_261.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_261.png)
+
+---
+
+## Source Document
+
+![Mr. Burr reported that Mrs. Van Emrick should have been awarded contract at the ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_261.png)
+
+---
+
+## Transcription
+
+Mr. Burr reported that Mrs. Van Emrick should have been awarded contract at the rate of $225.00 but that through an oversight on the Teachers Committee report as $2,160.00 and contract prepared accordingly. Mr. Hanb moved and Mr. Ketelam seconded the motion that Mrs. Van Emrick be given a new contract calling for the payment of $2,225.00 for the 1924-35 school year. This motion unanimously carried.
+
+The Clerk submitted the following bills which were ordered referred to the Finance Committee for approval and payment if found correct:
+
+Florence Hartman                                      $  02.50
+Milford H. Ketelam                                      .85
+C. R. Warron                                            .31
+Talbot's Print Shop                                    71.50
+American Book Co.                                     220.30
+Harcourt Brace & Co.                                  120.13
+The MacMillan Co.                                     142.57
+Ginn & Company                                        120.66
+The World Book Co.                                     3.82
+Allyn & Bacon                                         10.03
+D. C. Heath & Co.                                      95.02
+Ditto, Inc.                                            30.02
+J. L. Harmott Company                                  69.60
+The A. M. Palmer Co.                                   2.67
+Tolene School Products, Inc.                           55.70
+Brochajat-Garrett Co.                                 103.66
+The Dobbs-Merrill Co.                                  61.81
+Iroquois Pub. Company                                  60.39
+Little Brown & Co.                                     45.77
+Pookham, Little & Co.                                  27.30
+The Gregg Publishing Co.                               16.98
+South-Western Pub. Co.                                 36.32
+American Education Press                                7.04
+Rand McHally & Co.                                     32.30
+Hewson & Co.                                           1.50
+John C. Winston Co.                                    43.20
+Carl Fischer, Inc.                                      7.80
+Milton Bradley Co.                                     33.95
+Eugene Dietzgen Co., Inc.                              53.13
+Chas. E. Horill Co.                                    20.40
+Amity Gift Shoppe                                      1.00
+Laidlaw Bros.                                         11.71
+Bookley Cardy Company                                   6.11
+Amity Printing House                                   1.68
+Martha Goodhart                                         24.03
+L. I. Lighting Co.                                    122.01
+W. Y. Telephone Co.                                     3.35
+Alex Smith                                              2.00
+So. Bay Consolid'd. Wat. Co.                          18.21

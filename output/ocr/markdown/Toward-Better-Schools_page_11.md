@@ -1,0 +1,41 @@
+# Federal School Building Survey
+
+**Document Type:** Document
+
+**Collection:** CS Archive
+
+**Source:** Toward-Better-Schools_page_11.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T00:56:25.463554
+
+---
+
+## Transcription
+
+```
+Federal School Building Survey
+
+In its second report, the Commission urged adoption of legislation permitting this State to accept on a matching basis up to $233,000 of Federal money for making a survey of school facilities.
+
+The Legislature approved this proposal, but further investigation by the Commission and the State Department of Education indicated that New York would be delaying the solution of school building problems in this State and wasting State and Federal money by complying with the requirements for the Federal survey.
+
+The Commission and the Education Department decided that gathering the statistics required by the Federal government would have duplicated in different form activities already accomplished by the Commission. Other aspects of the Federal plan were equally unsatisfactory both as to expected results and most efficient use of funds.
+
+The Commission and the Education Department further pointed out to the Federal Office of Education that the national summary of the data being sought could be misleading and might easily distort the relative position of New York's school needs and the financial ability of localities and the State to meet them because of wide variances among the states in measurement of local resources, standards of school construction and validity of information furnished. Consequently, New York State declined to participate in the Federal plan at this time.
+
+New High School at Glens Falls
+
+[Image: A black-and-white photograph of a modern high school building with multiple windows, surrounded by trees and a paved area in front.]
+
+Before Modernization
+
+[Image: A black-and-white photograph of old-fashioned wooden desks and chairs, likely from a classroom setting.]
+
+Moveable and functional furniture, as shown in this photo, is used in many modernization projects. This room is in the same public school building as the one shown above. Note the cork tach board, storage units and asphalt tile floor covering.
+```
+
+**Page 10**

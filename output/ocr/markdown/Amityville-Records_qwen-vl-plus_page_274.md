@@ -1,0 +1,59 @@
+# Mr. Ruff submitted letter from A. H. Jones, District Superintendent of Schools, 
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_274.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:33:15.304999
+
+**Source Image:** [📄 page_274.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_274.png)
+
+---
+
+## Source Document
+
+![Mr. Ruff submitted letter from A. H. Jones, District Superintendent of Schools, ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_274.png)
+
+---
+
+## Transcription
+
+Mr. Ruff submitted letter from A. H. Jones, District Superintendent of Schools, in regard to changes in the Secondary School Curriculum and the new type State High School Diplomas. Mr. Ruff reported that under the new regulations it would be possible to set the start of the new school year pupils could either take the regular course prescribed by the State Board of Regents or could elect to take a course more suited to their individual needs.
+
+Mrs. Axteell moved and Mr. Case seconded the motion that the dates for the Teacher vacation be changed to begin on the afternoon of April 18th and continue until Sunday, April 26th. This motion unanimously carried.
+
+The Building and Grounds Committee reported that Oscar Gordon had been employed as a temporary janitor, effective Dec[ember] 26, 1904, at a salary of $100.00 per month.
+
+Mrs. Hartman moved and Mr. Axteell seconded the motion that the High School Building be made available for the use of the Adult Classes for instruction one night per week. This motion unanimously carried.
+
+Mr. Ruff recommended that a course in Applied Music be added to the High School Curriculum. Mrs. Hartman moved and Mr. Case seconded the motion that the curriculum of the High School include a course in Applied Music. This motion unanimously carried.
+
+The Clerk submitted the following bills which were ordered referred to the Finance Committee for approval and payment if found correct:
+
+Arthur W. Ruff                                      $ 35.42
+Herniton Land, Inc.                                   7.70
+Helman's Dept. Store                                 5.16
+Ditto, Inc.                                          5.00
+The MacMillan Co.                                    9.00
+Hilton Bradley Company                              1.35
+Long Island B[illing] Co.                          154.38
+E. S. Van Hostrand                                   3.00
+A. W. Corson                                         9.15
+The Western Union Tel. Co.                          5.75
+George Harvey                                       45.00
+New York Telephone Co.                              50.05
+Clarence E. Matts                                   58.38
+John E. Styles                                      15.95
+Samuel T. Haff                                    44.55
+F. J. Hienburg & Son                                5.00
+Jacobson & Smith                                    3.35
+The Duraflex Co.                                   77.35
+Pickup & Brown, Inc.                               160.00
+Tire Service Shop                                   25.00
+Henry W. Leigh                                     270.00

@@ -1,0 +1,57 @@
+# On motion the Board voted that the ballot be cast expressing a preference that t
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_91.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T21:57:57.810251
+
+**Source Image:** [📄 page_91.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_91.png)
+
+---
+
+## Source Document
+
+![On motion the Board voted that the ballot be cast expressing a preference that t](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_91.png)
+
+---
+
+## Transcription
+
+On motion the Board voted that the ballot be cast expressing a preference that the date be changed to the first Tuesday in June.
+
+The Teachers Committee reported no unexcusable absences for the month of October.
+
+The Teachers Committee read a report of school cafeteria activities for the period October 13th to November 5th inclusive and on motion it was ordered placed on file.
+
+The Building and Grounds Committee recommended that repairs be made to steam trap in boiler room. Moved and carried, that the Building and Grounds Committee be empowered to have steam trap repaired.
+
+The Building and Grounds Committee recommended that repairs be made to ventilating flue and ventilating fan. On motion the matter was referred to the Building and Grounds Committee with full power to act.
+
+Mr. Ruff reported that by the end of the coming term another outside class room would be needed. This matter was referred to the Building and Grounds Committee for action.
+
+It was moved, duly seconded and carried, that the Purchasing Committee be empowered to buy "Scott Tissue" paper towels at a cost of $225.
+
+It was moved, duly seconded and carried, that the Purchasing Committee be empowered to buy six (6) Rand McNally globes for geography study at a cost of $154.
+
+It was moved, seconded and carried, that the Purchasing Committee be empowered to buy miscellaneous cafeteria equipment consisting of dishes, kitchen utensils, etc., at a cost not to exceed $124.28.
+
+On recommendation of Mr. Ruff, the Board approved the appointment of Mr. Vehslage as Faculty treasurer.
+
+The following bills were read by the Clerk and on motion were ordered referred to the Finance Committee for approval and payment if found correct, to-wit:
+
+The Amityville Record $ 12.15
+The Bond Buyer 78.75
+C. F. Williams & Son, Inc. 6.65
+The Macmillan Company 25.27
+Amity Printing House 99.48
+Hand McNally & Co. 84.7
+J. L. Hammett Co. 3.43
+G. Schirmer, Inc. 2.78
+Talens School Products, Inc. 248.92

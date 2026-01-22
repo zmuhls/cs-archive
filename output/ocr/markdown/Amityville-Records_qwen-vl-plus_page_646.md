@@ -1,0 +1,90 @@
+# Rose Mary Elizabeth Cremer
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_646.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.713
+
+**Processed:** 2026-01-17T23:47:57.529877
+
+**Source Image:** [📄 page_646.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_646.png)
+
+---
+
+## Source Document
+
+![Rose Mary Elizabeth Cremer](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_646.png)
+
+---
+
+## Transcription
+
+Rose Mary Elizabeth Cremer
+Janet Marguerite Day
+Lucille Engel
+Ernest Rudolph Fischer
+Denise Coille Gollchet
+Florence Haab
+Ida Kyrtle Holneck
+Isabelle Ingles
+Margaret Faveott Inglees
+Harry Kolchinsky
+Gertrude Kreuder
+Gertrude Roberts Liptrott
+Mildred Angeline Thinks
+Norman William MacLeod
+
+Mary Teresa Scenlan
+Rose Marie Saxton
+Ernest Dean Scott
+Adalaida Gloria Soffort
+Irwin Bernard Slomin
+Dorothy Elizabeth Smith
+Roose Smith
+Dorothy Elizabeth Vogel
+Virginia Carolyn Vogel
+Muriel Herbert Wood
+Dorothy Caroline Werner
+Lawrence Howard Wight
+Elizabeth John Wrench
+William Joseph Horan Jr.
+
+Moved, duly seconded and carried, that the report of the Principal be accepted as rendered and that diplomae awarded accordingly.
+
+The following bills were ordered referred to the Finance Committee for audit and approval and payment if found correct:
+
+Robert E. Erwood                      $ 54.00
+Mrs. Grace Burns                      52.40
+Carl Fischer, Inc.                    14.98
+Hand Equally & Co.                     6.36
+Scott Steerman & Co.                  16.16
+The World Book Company                 6.04
+Premise-Hall, Inc.                    25.64
+Charles Scribner's Sons               15.25
+The Grolier Society                   44.55
+The Eastern Book Company              36.46
+J. L. Hemmett Co.                     35.85
+The G. B. Dolge Co.                    8.61
+James J. Neale, Inc.                   7.13
+Mittag & Mothudy, Inc.                25.00
+V. H. Nienburg & Son                  10.17
+Mittag & Mothudy, Inc.                36.00
+Edvard E. Babb & Co., Inc.             5.18
+Yale Safe & Lock Company             32.75
+S. M. Bliss                            11.39
+H. A. Bliss                            3.71
+Unqua Laundries, Inc.                  1.20
+Ditto, Inc.                            3.14
+John E. Stylesa                        3.20
+Standard Athletic Equipment Co.      28.80
+Alex Taylor & Co., Inc.                2.55
+Wood Lumber Company                   5.50
+E. S. Van Nostrand                    2.10
+Central Scientific Company            44.34
+Henry W. Beigh                         740.00
+G. Schirmer, Inc.                      2.70

@@ -1,0 +1,50 @@
+# [stamp: Union School St. Lawrence]
+
+**Document Type:** Document
+
+**Collection:** CS Archive
+
+**Source:** District-Notecard-Records_page_42.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.93
+
+**Processed:** 2026-01-18T01:21:02.262645
+
+**Source Image:** [📄 page_42.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_42.png)
+
+---
+
+## Source Document
+
+![[stamp: Union School St. Lawrence]](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_42.png)
+
+---
+
+## Transcription
+
+[stamp: Union School St. Lawrence]
+
+17 Dec 19 Application for admission quieted
+suggestion asked
+18 Dec 11 Failing deficient $5.68
+17 June 20 Express meets minimum requirement
+18 Feb 19 K next year
+18 Feb 19 Top Class report favorable out board of
+Education decided to withhold appeal fall fall
+18 Feb 19 Reasonable objection for admission
+
+10 Mar 25 Passed
+2 Mar 26 Name to Dr. Shinnam for inspection
+2 Mar 26 Approved principal that small attendance favorable
+14 May 25 Dr. Shinnam will aid inspectors to Grifin this spring
+10 Oct/28 June 1-4 Course of study
+21 Jan 27 Course of study approved
+21 Mar 67 Another inspection requested
+15 June 27 Appliance for equipment lacking
+18 July 27 Report to District Mayor
+20 Mar 27 als M-1 & to M-2
+28 Apr 57 - Disregard from kind of regulations
+
+[illegible]

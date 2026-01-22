@@ -1,0 +1,61 @@
+# M. Carlton Denk & Company                      $  3.36
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_475.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:08:56.617975
+
+**Source Image:** [📄 page_475.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_475.png)
+
+---
+
+## Source Document
+
+![M. Carlton Denk & Company                      $  3.36](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_475.png)
+
+---
+
+## Transcription
+
+M. Carlton Denk & Company                      $  3.36
+Bruce Publishing Company                        2.00
+Webster Publishing Company                     12.18
+Stratford Embosser Company                      4.00
+Ball Anchor, Inc.                              24.56
+Charles H. Houghtaling                        10.00
+C. F. Williams & Son, Inc.                     1.59
+Evelyn E. Fields                              11.52
+Pro-phy-lax Brush Company                      12.56
+Samuel T. Haff                               657.00
+Joseph Magengast                                5.76
+Wood-Land-Mint Products Co.                   33.95
+W. M. Welch Mfg. Co.                          25.96
+Edward C. Lewreme                               2.50
+Waldau's Print Shop                           21.65
+Long Island Sun                              10.50
+Amityville Record                               1.95
+Rebecca C. Leigh                              160.00
+Alex Smith                                      2.00
+Van Ber Corporation                            4.60
+Edward B. Babb & Co.                           6.46
+Western Union Telegraph Co.                    4.50
+Long Island Lighting Company                  13.60
+H. Hirsch                                       5.00
+F. J. Hienburg & Son                          42.74
+B. S. Van Bostrand                            1.20
+W. H. Chadwick                                92.50
+The Patent Scaffold Co.                       20.40
+Walters Brothers                              828.63
+New York Telephone Company                    14.69
+
+There being no further business, the meeting therupon adjourned.
+
+[signature]
+Secretary

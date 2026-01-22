@@ -1,0 +1,68 @@
+# Motion made by Mr. Greey, seconded and carried, that the eleven o'clock closing 
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_315.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:40:24.986855
+
+**Source Image:** [📄 page_315.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_315.png)
+
+---
+
+## Source Document
+
+![Motion made by Mr. Greey, seconded and carried, that the eleven o'clock closing ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_315.png)
+
+---
+
+## Transcription
+
+Motion made by Mr. Greey, seconded and carried, that the eleven o'clock closing hour for domes and parties in the School be strictly adhered to, the same as heretofore.
+
+Motion made by Dr. Van Dyck, seconded and carried, that the teachers report on September 8, 1925 and the pupils on September 9, 1925, for the fall term.
+
+On motion made by Dr. Van Dyck, seconded and carried, it was resolved that the expulsion of Robert Walker from the School be approved.
+
+Motion made, seconded and carried, that the Building and Grounds Committee be authorized to award a contract for the improvement of the High School grounds, in an amount not to exceed $500.
+
+Bids from the following were received and placed on file:
+
+Robert Renton $ 800.00
+Hick's Nursery 824.75
+Swan River Nursery 1400.00
+
+The following bills were read by the Clerk and ordered to be referred to the Auditing Committee, to be paid if found correct:
+
+J. L. Hammett Company ¥ 15.08
+Tooh Brothers 64.00
+Emil Anchor, Inc. 6.27
+Amityville Water Works Co. 36.50
+Nicholas Cole 36.00
+Richard S. Rulon 26.50
+Ernest F. Hartman 10.00
+Remington Typewriter Co. 3.10
+William Mali 18.48
+World Book Co. 29.02
+Frank Eklorn 3.70
+Hontorn Union Telegraph Co. 133.54
+Long Island Lighting Co. 3.75
+Estham & Colyer, Inc. 49.76
+Henry W. Leigh 409.50
+George A. Brown 57.23
+Joseph Hengenoust 2.90
+Hilton Bradley Co. 8.53
+American Book Co. 1.35
+Baker & Taylor Co. 141.06
+Wood Lumber Co. 26.64
+
+There being no further business, the meeting thereupon adjourned.
+
+Clerk.
+C. R. Warren

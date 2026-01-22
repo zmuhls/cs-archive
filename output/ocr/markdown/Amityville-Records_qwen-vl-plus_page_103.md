@@ -1,0 +1,41 @@
+# The Teachers Committee recommended that Mrs. Beth Mayo be engaged to work in the
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_103.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.978
+
+**Processed:** 2026-01-17T22:00:33.368827
+
+**Source Image:** [📄 page_103.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_103.png)
+
+---
+
+## Source Document
+
+![The Teachers Committee recommended that Mrs. Beth Mayo be engaged to work in the](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_103.png)
+
+---
+
+## Transcription
+
+The Teachers Committee recommended that Mrs. Beth Mayo be engaged to work in the cafateria effective January 4th at a salary of $5.00 per working day. Moved, seconded and carried, that Mrs. Beth Mayo be employed to work in the cafateria at a rate of $5.00 per day in accordance with recommendation of the Teachers Committee.
+
+Teachers Committee submitted report showing a deficit of $8.32 for operating cafateria between October 15th and December 23rd. Mr. Ruff recommended that Mr. Petersen be advanced an additional $75.00, which together with the initial advance of $25.00 would place a net cash fund of $100.00 at his disposal. Moved, seconded and carried, that the cafateria disport be accepted and placed on file and that Mr. Petersen be advanced an additional $75.00.
+
+Mrs. Burns on behalf of the Amityville Garden Club requested that it be granted the use of the High School Auditorium on the following dates:
+
+May 13th or 20th, June 16th and 17th, Sept. 15th and 16th.
+
+It was moved, seconded and carried, that permission be granted the Amityville Garden Club for the use of the High School Auditorium on the dates requested, subject to arrangements being made with Mr. Ruff.
+
+The Clerk read communication received from Mrs. Mayebelle Demarest and on motion it was ordered filed.
+
+Mr. George A. Brown, Supervising Principal Emeritus of the Amityville Public Schools, in a communication dated the 4th day of December 1931, expressed gratitude and appreciation for the many treasured years of cooperation extended him by the Board, the parents, the children and the community and in consideration of same tendered a check of $100.00 to be deposited to the credit of the taxpayers of the public school district of Amityville. Mr. Brown also congratulated the Board on its unselfish and public spirited work. It was suggested that the money be accepted and that an honorarium be established to be known as the "George A. Brown Fund," to be used for some award to be made each year to n [?] for outstanding scholastic work. The President offered to see Mr. Brown and secure his consent to some sort of a proposition. The Clerk was instructed to acknowledge receipt of the communication.
+
+The President read letter received from Mr. Brown, relative to the writing of a school history of Amityville School, District No. 6, who asked that all data and material for the historian's study be made available at Mr. Ruff's office as soon as possible. It was moved, seconded and carried, that Mr. Ruff tender Mr. Brown every possible aid in securing material for the school history.

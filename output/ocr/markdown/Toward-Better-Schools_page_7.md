@@ -1,0 +1,68 @@
+# Toward Better Schools page 7
+
+**Document Type:** Document
+
+**Collection:** CS Archive
+
+**Source:** Toward-Better-Schools_page_7.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T00:55:32.652956
+
+---
+
+## Transcription
+
+### Page 6
+
+The Committee, and offered a broad program of State legislation and local action designed to provide the public schools when and where they were most needed. Details on how these recommendations were carried out are discussed in subsequent pages.
+
+The Commission was gratified that the Governor and the 1951 Legislature concurred in all of its recommendations for legislative action.
+
+Both the first and second reports emphasized that improvements must be made in methods of determining school building requirements and the priority of needs. The Commission pointed out that until these improvements were achieved, it would not be possible to determine with reasonable accuracy the extent of school building needs in the State, or to decide when and where those needs would occur.
+
+Those reports also stressed the fact that the fair appraisal of local resources to finance necessary school construction depended upon improving the estimates of need, achieving all potential economies in construction and financial management, revising real estate assessments, revising State equalization rates, or both, and developing uniform standards for measurement of local resources.
+
+During the past year the Commission has continued to attack these problems and has broadened its line of inquiry, giving special attention to difficulties arising from shortages of building materials, overcrowding in schools, plant replacement or modernization, and housing of non-resident pupils.
+
+This third report will demonstrate that, with few exceptions, the localities in the State which possessed serious school building problems have made significant progress in solving them.
+
+Many communities will be confronted with similar problems for a decade at least, but measures already adopted by the Legislature, or to be recommended by the Commission, will enable school districts to continue to make outstanding progress in the future, subject to any restrictions caused by our country's defense needs.
+
+---
+
+### [Graph: Number of Live Births by Years for New York State 1916–1951]
+
+**BIRTHS IN THOUSANDS**
+
+- 1916-45: 218,000
+- 1946: 285,000
+- 1947: 323,000
+- 1948: 301,000
+- 1949: 301,000
+- 1950: 302,000
+- 1951: 318,000
+- 1948-51: 305,000 (MEAN)
+
+---
+
+### Page 7
+
+**II. Summary of Progress**
+
+**Finance**
+
+The ability of our localities to finance their necessary school building construction was strengthened by the voters of the State when they overwhelmingly approved at the November, 1951, election a Constitutional amendment revising the limitations on borrowing power.
+
+The amendment was proposed by the Moore Committee on Tax and Debt Limits after a long and thorough study of the Constitutional provisions affecting municipal and school district borrowing power. The amendment was designed to relate Constitutional debt limitations more accurately to the localities' ability to pay.
+
+Major provisions of this amendment, effective January 1, 1952, change the debt limit base from assessed valuation to full valuation, create separate debt limits for cities under 125,000 population and school districts in these cities, and expand the borrowing power of New York City.
+
+Meanwhile, through amendment to existing laws, the Legislature has modernized the debt limitations imposed on other school districts in the State and better equipped them to use their own resources in providing the school buildings that are needed, now, or in the future. (See Second Report of the Commission, Pages 82-94, 36)
+
+The 1951 Legislature also continued for another year the program of emergency State advances to school districts which do not have sufficient local resources to pay all the debt service on bonds issued for essential school construction. A resume of the operation of this program is contained in a subsequent section of this report.
+
+The change to full valuation as the debt limit base has placed increased emphasis on the importance of the State equalization rates which are used to compute a locality's full valuation.

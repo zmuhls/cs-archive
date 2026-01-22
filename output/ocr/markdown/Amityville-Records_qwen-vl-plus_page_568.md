@@ -1,0 +1,69 @@
+# Name                      Grade               Salary
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_568.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:26:13.297965
+
+**Source Image:** [📄 page_568.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_568.png)
+
+---
+
+## Source Document
+
+![Name                      Grade               Salary](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_568.png)
+
+---
+
+## Transcription
+
+Name                      Grade               Salary
+Alice Wall                7A                  $2,800.00
+Bila Full                 7B                  2,200.00
+Anna Hedman               5A                  2,200.00
+Barlo Vrooman             Principal Grade School 2,400.00
+Helen Dowker              Special             1,600.00
+Elizabeth Walker          Kindergarten        1,376.00
+Howard A. Elies           H. S.               2,900.00
+G. Hayward Webster        H. S.               2,400.00
+Edward Gage               H. S.               2,300.00
+Hewa Waters               H. S.               2,400.00
+Jeabolle Kenman           H. S.               2,200.00
+Laura Bell                H. S.               2,200.00
+Mae Austin                H. S.               2,150.00
+Edith Leek                H. S.               2,100.00
+Wesley Jackson            H. S.               2,550.00
+Senlye Dayton             Man. Training       2,100.00
+Esther Pannell            Home Economics    2,360.00
+Mary Parsons              Music               2,000.00
+Harriet Port              Horno               2,200.00
+Mary Washburn             Phys. Train.        1,600.00
+Marjorte Taylor           Draw. & Lib.        1,650.00
+Frances Baylie            Clerk to Principal  2,050.00
+
+Motion made, duly seconded and carried, that the report be accepted as read and that contracts be offered accordingly.
+
+Motion made, duly seconded and carried, that a contract be prepared for Miss Marjorie Taylor, Art Teacher, for the current year, effective as of February 1, 1929, at $1,500.00 per year.
+
+Motion made, duly seconded and carried, that contract for the balance of the current year be prepared for Miss Blanch E. Edwards as Librarian and English Teacher at the rate of $1,900.00 per year.
+
+On the recommendation of the Teachers Committee the Board voted that Mr. Clifford Seara be offered a contract for the coming year as Physical Aid Teacher at a salary of $2,800.00.
+
+On motion made, duly seconded and carried, the salary of Mr. Ruff is raised from $6,000.00 to $5,200.00 for the coming school year.
+
+Mr. Ruff proposed that the salary for substitute teachers be fixed at the following rates:
+- Grade School, 1st to 6th Grades Inclusive $6.00 per day.
+- High School and 7th and 8th " of Grade Sch. $9.00
+
+On motion made, duly seconded and carried, the recommendation of Mr. Ruff relative to salary for substitute teachers was adopted.
+
+There being no further business the meeting adjourned.
+
+C. A. Waver

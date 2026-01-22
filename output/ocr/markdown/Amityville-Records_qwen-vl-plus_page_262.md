@@ -1,0 +1,76 @@
+# Henry A. VonEssen                      $  3.75
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_262.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:30:58.959216
+
+**Source Image:** [📄 page_262.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_262.png)
+
+---
+
+## Source Document
+
+![Henry A. VonEssen                      $  3.75](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_262.png)
+
+---
+
+## Transcription
+
+```
+Henry A. VonEssen                      $  3.75
+S. A. Smith                            35.38
+A. W. Corson                             1.50
+Western Union Tel. Co.                   7.35
+A. K. Werner                             3.75
+The Fuller Brush Company                10.56
+John Waitword                           25.95
+S. H. Hillman                             10.00
+E. J. Nienburg & Son                    31.14
+Rudy Luck                               16.50
+Clifford Baxter                        105.55
+John E. Styler                           3.75
+L. I. Adding Mach. & Type Co.           1.00
+Estate of M. Gutowitz                    8.00
+Jacobson & Smith                         .00
+Sam Hendorsky                            2.25
+L. I. Inst. Equip. Co.                  21.80
+The Wood Lumber Co.                     53.64
+Irwin Sonting Company                 1040.00
+Clemat's Pharmacy                       83.12
+Charles E. Houghtaling                 35.99
+Athletic Trainers Supply Co.           15.75
+Crescent Athletic Sup. Inc.            17.11
+Chivers Book Binding Co.              126.48
+Alex. Taylor & Co., Inc.                8.95
+Charles H. Elliott Co.                  37.63
+McGraw Hill Book Co., Inc.              2.10
+Thomas J. Macio                         4.25
+The Baker & Taylor Company              1.60
+Fawcett & Fawcett, Inc.                25.50
+World Letters, Inc.                    19.05
+Amityville Battery & Ignition Service  10.05
+Henry W. Leigh                         325.00
+Emmanuel Hirsch                         25.00
+
+Mr. AxteU moved and Mrs. Hartman seconded the motion that the meeting adjourn. This motion unanimously carried.
+
+The President declared the meeting adjourned.
+
+C. K. Warren
+Clerk
+```
+
+[stamp: Common School District of Amityville]
+[File copy of the records of Amityville]
+[Date filed: 11-4-94]
+[Microfilmed by Good Servings Book Services, Central Provident, Inc., Garden City, N.Y.]
+[Microcopy Resolution Test Chart ANSI and ISO Test Chart No. 7]
+[Applied Image, Inc. 1071 East Main Street, Rochester, New York 14604]

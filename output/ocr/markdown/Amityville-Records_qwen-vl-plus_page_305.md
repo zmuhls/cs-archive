@@ -1,0 +1,85 @@
+# accordingly. This motion unanimously carried.
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_305.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:38:37.991298
+
+**Source Image:** [📄 page_305.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_305.png)
+
+---
+
+## Source Document
+
+![accordingly. This motion unanimously carried.](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_305.png)
+
+---
+
+## Transcription
+
+```
+accordingly. This motion unanimously carried.
+
+Mr. Ruff submitted his annual report for the school year 1934-35
+and recommended that the department of industrial arts be expanded
+to include a course in General Metal Shop and General Electricity
+so that the students can qualify for the New High School Diploma.
+Mr. Case moved and Mr. Haub seconded the motion that the shop
+facilities be expanded to include the additional courses
+recommended by Mr. Ruff. This motion unanimously carried.
+
+Mr. Ruff also recommended that the commercial department be
+expanded to include a course called Secretarial Practice to meet
+the new requirements in the commercial field. Mr. Ketchem moved
+and Mr. Haub seconded the motion that the commercial department
+add a course in Secretarial Practice as recommended by Mr. Ruff.
+This motion unanimously carried.
+
+Mrs. Hurtman moved and Mr. Case seconded the motion that the
+Purchasing Committee buy six cots for the rest room. This motion
+unanimously carried.
+
+The following bills were submitted and approved:
+
+The Amityville Record                      61.94
+Waldou's Print Shop                        33.25
+Long Island Sun                            25.50
+C. R. Warren                                .28
+Simax Stationary Co., Inc.                  .51
+P. R. Powell & Son                         12.00
+The Wood Lumber Company                    15.49
+John Schlosser                               3.00
+James Fitzpatrick                            3.00
+Martha Goodhart                             18.97
+The T. V. Co. Allen Company                127.68
+American Book Company                         1.29
+Ella Bull                                  25.20
+Amity Printing House                      101.93
+F. J. Nieburg & Son                         55.69
+New York Telephone Company                  50.25
+A. W. Gorson                                4.50
+Western Union Telegraph Company              3.75
+South Bay Consolidated Water Co.            1.55
+Alex Smith                                   2.00
+Richard Vists                                5.98
+Long Island Instutional Equip. Co.           1.00
+Underwood Elliott Fisher Co.                3.75
+Abnrsive Products, Inc.                     5.86
+Clifford Baxter                            13.91
+Charles Sharf                               19.86
+William Toms                                 3.26
+John E. Styles                               12.00
+John A. Ketchan                              2.53
+Unqua Agency, Inc.                         41.93
+
+Mr. Ketchem moved and Mr. Haub seconded the motion that the
+meeting adjourn. This motion unanimously carried.
+
+The President thereupon declared the meeting adjourned.

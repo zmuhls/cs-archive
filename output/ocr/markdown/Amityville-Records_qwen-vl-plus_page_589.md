@@ -1,0 +1,45 @@
+# Mr. Ruff stated his intentions of appointing Miss Kennan as head of the English 
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_589.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:30:13.939836
+
+**Source Image:** [📄 page_589.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_589.png)
+
+---
+
+## Source Document
+
+![Mr. Ruff stated his intentions of appointing Miss Kennan as head of the English ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_589.png)
+
+---
+
+## Transcription
+
+Mr. Ruff stated his intentions of appointing Miss Kennan as head of the English Department.
+
+Mr. Ruff recommended that Carl Fuchs of Amityville be engaged as a high school teacher. Moved, seconded and carried, that Carl Fuchs be offered contract for the coming school year at a salary of $2,000.00 per annum, pursuant to the recommendation of Mr. Ruff.
+
+The appointment was discussed but no action taken.
+
+Mr. Ruff reported that Miss Brown, Dental Hygienist, would complete her work on July 14th. Moved, seconded and carried, that the Clerk pay her accordingly.
+
+Mr. Ruff reported that Sterling Kramer, a member of the senior class, was very sick and in view of the fact that he had stood high in all his studies recommended that he be granted his diploma whether or not he is able to take his final examinations. Moved, seconded and carried, that the Board grant the request of Mr. Ruff and that Sterling Kramer be granted his diploma whether or not he completes all his school work.
+
+On motion made, seconded and carried, the Commencement Committee was allotted $300.00 to defray commencement expenses.
+
+The Building and Grounds Committee reported that the Village Board had agreed to concrete the gutter in Park Avenue in front of the High School.
+
+The Building and Grounds Committee reported that the gas heater used to heat water for the showers was total inadequate and recommended that a much larger and more modern one be installed. Moved, seconded and carried, that the Building and Grounds Committee be authorized to increase the facilities for supplying hot water to the shower baths sufficient to meet all requirements.
+
+Moved, seconded and carried, that Mr. Carswell be empowered to select the material needed for the book stage curtain and to place the order for same.
+
+Moved, seconded and carried, that the Board donate to each member of the Track Team a small token such as a shoe with the letter "A" on it, in recognition of their service and hard work and that the necessary arrangements be left in the hands of Mr. Ruff and Mr. Bregaw.

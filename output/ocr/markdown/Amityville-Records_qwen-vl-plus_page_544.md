@@ -1,0 +1,70 @@
+# MICROCOPY RESOLUTION TEST CHART
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_544.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:21:22.893267
+
+**Source Image:** [📄 page_544.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_544.png)
+
+---
+
+## Source Document
+
+![MICROCOPY RESOLUTION TEST CHART](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_544.png)
+
+---
+
+## Transcription
+
+```
+MICROCOPY RESOLUTION TEST CHART
+NATIONAL BUREAU OF STANDARDS -1963
+
+1.0
+12 B22 B25
+
+188
+12 B25 B22
+12 B22
+12 B20
+1.8
+1.4
+1.6
+
+SPECIAL MEETING OF THE BOARD OF EDUCATION HELD AT THE HIGH SCHOOL BUILDING ON TUESDAY, SEPTEMBER 18, 1928, AT 8:00 P. M., PURSUANT TO THE CALL OF THE PRESIDENT.
+
+Present:
+Mr. Clinton Inglen, President.
+Mr. Louis Vogel, Trustee.
+John R. Carwell, Edward P.-J. Thorn, Trustees.
+Mr. C. R. Warren, Secretary.
+
+Absent:
+Rev. Vodder Van Dyck,
+Mrs. Florence Hartman,
+Grace Burns, Trustees.
+Mr. B. A. Gardiner, Treasurer.
+
+The President stated that the meeting had been called to receive bids for transportation of pupils and to audit bills.
+
+The President called for the reading of bids for bus transportation, for which advertisements had been made and the following bids were opened and read by the Secretary:
+
+Bidder
+Henry W. Leigh, Amityville, N. Y. (only bidder)
+
+Route #1 $4.60 per day
+" #2 4.50 " "
+" #3 3.00 " "
+" #4 4.00 " "
+" #5 4.00 " "
+Total $20.00 " "
+
+Motion made, duly seconded and carried, that the bid be accepted and that contract be awarded in accordance with it to Henry W. Leigh of Amityville, New York.

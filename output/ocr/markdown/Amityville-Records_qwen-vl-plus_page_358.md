@@ -1,0 +1,60 @@
+# [stamp: AMITYVILLE COMMON SCHOOL DISTRICT]
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_358.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.0
+
+**Processed:** 2026-01-17T22:48:06.119608
+
+**Source Image:** [📄 page_358.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_358.png)
+
+---
+
+## Source Document
+
+![[stamp: AMITYVILLE COMMON SCHOOL DISTRICT]](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_358.png)
+
+---
+
+## Transcription
+
+[stamp: AMITYVILLE COMMON SCHOOL DISTRICT]
+
+INST. [illegible]
+
+It being informed by Mrs. [illegible], of [illegible] [illegible], that it was looked in her [illegible], the following resolution was adopted:
+
+[illegible], that the [illegible] be and is authorized to keep the [illegible] in [illegible] by Mr. [illegible] and secure the [illegible] as desired.
+
+After a discussion of the matter it was decided that [illegible] would be permitted to give the first year High School subjects in addition to the regular courses required in the [illegible] Grade in English and History.
+
+Mrs. [illegible] [illegible], Mrs. [illegible], Mrs. [illegible] [illegible], and [illegible] [illegible], [illegible] before the Board and [illegible] a [illegible] signed by [illegible] and [illegible] by the Clerk, requesting the Board to use its influence to have the Board of Regents accept the recent [illegible] required by [illegible] [illegible] and [illegible] [illegible] at the [illegible] [illegible] School [illegible].
+
+After a discussion of the matter and reading of [illegible] pertaining thereto, the following resolution was [illegible]:
+
+"Resolved, that Mrs. [illegible] be [illegible] to [illegible] in connection with the [illegible] [illegible] and [illegible] [illegible] [illegible], if possible, the amount of [illegible] to [illegible] by the [illegible] [illegible] obtained by the [illegible] [illegible]."
+
+On motion of Mr. [illegible], seconded and [illegible], it was [illegible], that Mr. [illegible] be [illegible] as Principal of the [illegible] Public School for the year 1896-1897, at a salary of Forty Five ($45.00) Hundred Dollars per year.
+
+The following bills were [illegible] by the Clerk and ordered referred to the Finance Committee to be paid if found correct:
+
+Harrisburg Star Roller Corp. $758.00
+Welder Van Doren 38.95
+The Baker & Taylor Co. 166.75
+The Wood Lumber Co. 83.58
+The Wood Lumber Co. 37.42
+Western Union Telegraph Co. 4.60
+J. Eovaldi & Son, Inc. 23.03
+Alm. Smith 20.00
+Harrinen B. Van Cott. 27.01
+The [illegible] Co. of New York, Inc. 16.00
+Schubert, Little & Co. 1.71
+Charles H. Ditzen Co. 7.63
+
+[signature: A.H. Warren Clark]

@@ -1,0 +1,38 @@
+# rooms, give fire drills, and classify all pupils entering the Grammar School for
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_333.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:43:19.532126
+
+**Source Image:** [📄 page_333.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_333.png)
+
+---
+
+## Source Document
+
+![rooms, give fire drills, and classify all pupils entering the Grammar School for](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_333.png)
+
+---
+
+## Transcription
+
+rooms, give fire drills, and classify all pupils entering the Grammar School for the first time. Also insofar as there is available time he shall exercise such class supervision as may be directed by the Supervising Principal, visit class rooms and acquaint himself with the methods and general work of the teachers and pupils and give such suggestions as his judgement will improve the work.
+
+Motion made by Dr. Van Dyck, seconded and carried, that the Finance Committee look into the matter of revising the present bookkeeping system.
+
+Motion made by Dr. Van Dyck, seconded and carried, that the registration of all new pupils, including kindergarten, be held on September 8th, at the High School, from 1:00 P.M. to 3:00 P.M., and that notice to this effect be published in the local papers.
+
+Motion made by Mr. Vogel, seconded and carried, that the Teachers' Committee look into the proposition as to whether or not competent instructors can be engaged for the manual training and domestic science classes, and if obtained the department be established.
+
+There being no further business, the meeting therupon adjourned.
+
+C. R. Warren
+Clerk

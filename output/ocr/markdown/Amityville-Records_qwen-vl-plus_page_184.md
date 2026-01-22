@@ -1,0 +1,57 @@
+# MICROCOPY RESOLUTION TEST CHART
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_184.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:15:25.902977
+
+**Source Image:** [📄 page_184.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_184.png)
+
+---
+
+## Source Document
+
+![MICROCOPY RESOLUTION TEST CHART](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_184.png)
+
+---
+
+## Transcription
+
+MICROCOPY RESOLUTION TEST CHART
+(AND ISO TEST CHART No. 2)
+
+1.0
+11
+178
+
+Regular Meeting of the Board of Education held at the High School on Thursday, June 1, 1933, at 8 o'clock P. M., pursuant to notice.
+
+The meeting was called to order by Clinton Inglee, President.
+
+Present:
+Mr. Clinton Inglee, President.
+Mr. Herbert M. Case, Trustee.
+Mr. Milford H. Ketchem, Trustee.
+Mr. Willet F. Whitmore, Trustee.
+Mrs. Florence Hartman, Trustee.
+Mrs. Grace R. Burns, Trustee.
+Mr. C. R. Warren, Clerk.
+
+Absent:
+Mr. Theodore Axtell, Trustee.
+Mr. R. A. Gardiner, Treasurer.
+
+Mr. Whitmore moved and Mr. Ketchem seconded the motion that the minutes of the regular meeting held on May 4, 1933, be and the same are approved as read. This motion unanimously carried.
+
+The Clerk read letter of Mr. Harry Paul Fishel, dated May 26th, advising that the United States Supreme Court had decided that State banks are not entitled to a refund of the 1923-26 taxes and stated that the action brought against the District had been discontinued. The communication was ordered accepted and placed on file.
+
+The Clerk read letter of Mrs. George S. Jervis of Copiague, who on behalf of the Sewing Bureau Committee of the Suffolk County Emergency Work Relief Committee, requested permission to continue to use the room set aside for them in the old Grammar School. Mrs. Hartman moved and Mr. Cano seconded the motion that the Sewing Bureau be permitted to continue to use the facilities of the Grammar School as heretofore. This motion unanimously carried.
+
+The President read application of Mr. George A. Brown for the appointment of school census taker for the year 1933-34. Mr. Case moved and Mrs. Hartman seconded the motion that the appointment be offered Mr. Brown at a salary of $200.00. Motion carried.

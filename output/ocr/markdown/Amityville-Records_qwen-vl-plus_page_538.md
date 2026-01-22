@@ -1,0 +1,65 @@
+# The Clerk read the budget of expenses for the school year 1828-29, as adopted by
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_538.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.97
+
+**Processed:** 2026-01-17T23:20:16.360335
+
+**Source Image:** [📄 page_538.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_538.png)
+
+---
+
+## Source Document
+
+![The Clerk read the budget of expenses for the school year 1828-29, as adopted by](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_538.png)
+
+---
+
+## Transcription
+
+The Clerk read the budget of expenses for the school year 1828-29, as adopted by the electors at the annual meeting, totaling $102,880.00.
+
+On motion made, duly seconded and carried, it was resolved that the budget as adopted by the electors be and hereby is approved by the Board and ratified as the budget for the ensuing school year.
+
+The Clerk read communication from the Board of Assessors of the Town of Oyster Bay, dated August 3, 1928, certifying the valuation of the School District No. 6, as the same appears upon the Assessment Roll of the Town of Oyster Bay for the year 1828-29, as follows:
+
+Real Property $ 1,211,490.00
+Special Franchise Property 6,000.00
+Total $ 1,217,490.00
+
+The following bills were read by the Clerk:
+
+Samuel T. Haff $ 1,708.00
+Holbrook Bros. 25.19
+The Libbian Press 4.20
+H. W. Leigh 1.25
+Patterson Brothers 1.90
+Wilford H. Ketcham 12.80
+Amity Printing House 21.72
+Alex Smith 8.66
+E. S. Van Nostrand 9.93
+Long Island Sun & South Shore Post 25.40
+Frank G. Bobbe 123.33
+New York Telephone Co. 19.08
+
+The President appointed Mrs. Hartman, Mr. Carewoll and Mr. Thom a temporary committee to audit the bills, as read by the Clerk, in order that payment of them could be effected.
+
+On motion made, duly seconded and carried, the Clerk was directed to draw checks of $97.50 each, to Earle C. Vrooman and George H. Webster, for taking the census.
+
+On motion made, duly seconded and carried, the Clerk was directed to draw checks of $100.00 each, to Earle C. Vrooman and George H. Webster, for teaching the summer school.
+
+The Clerk read letter of the Johns-Manville Company advising the Board that the work of putting a new roof on the main part of the high school building had been completed and that the final examination of it had been made on July 20th.
+
+There being no further business, the meeting thereupon adjourned.
+
+[illegible]
+
+C. H. Wann
+Clerk

@@ -1,0 +1,93 @@
+# The John H. French Company have estimated
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_122.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:04:15.573687
+
+**Source Image:** [📄 page_122.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_122.png)
+
+---
+
+## Source Document
+
+![The John H. French Company have estimated](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_122.png)
+
+---
+
+## Transcription
+
+The John H. French Company have estimated  
+One hundred fifty-two ($152.00) Dollars  
+for the installation of same.  
+
+It was moved, duly seconded and carried,  
+that in accordance with the recommendation of the  
+Architect, the area may be omitted at a saving of  
+$200.00.  
+
+It was moved, duly seconded and carried,  
+that in accordance with the recommendation of the  
+Architect, that 2" tile furring be substituted for the  
+wood furring provided for in the contract at a cost of  
+$152.00.  
+
+Mr. Ruff spoke on furniture requirements for the  
+new school building and reported that it was his  
+intention, subject to approval of the Board, to equip  
+four of the rooms with furniture now in use in the  
+Masonic Temple and purchase new furniture for  
+four other rooms, leaving four rooms to be equip  
+as they are required.  
+
+Mr. Ruff reported that the dental hygienist had  
+completed her services on April 29th and read report  
+submitted by her.  
+
+Mr. Ruff reported that an exhibition, band concert  
+and operetta would be held at the school May 25th,  
+with a view of raising sufficient money to purchase  
+uniforms for the band.  
+
+Mr. Ruff reported that heretofore the money paid  
+by the state to the district had passed through the  
+hands of the town supervisor but that under a new  
+state law recently enacted the County Treasurer would  
+pay public money direct to the school treasurer.  
+
+Mr. Ruff reported that throughout the state there  
+was more or less agitation for insurance to cover the  
+pupils while participating in athletic contests or  
+games and recommended that the Board give some  
+thought to the matter.  
+
+Mr. Ruff submitted to the Board three samples of  
+book diplomas. After a general discussion on the  
+matter it was moved, seconded and carried, that the  
+matter of purchasing new diplomas be left up to the  
+Teachers Committee provided that the price is not in  
+excess of diplomas purchased in prior years.  
+
+The question of approving bill of John Styles was  
+referred to the Board as it contained certain items of  
+which the Building and Grounds Committee were not  
+familiar. Mr. Ketcham volunteered to check over the  
+bill with Mr. Styles and on motion it was voted that  
+if bill of John Styles for $216.00 meets with the  
+approval of Mr. Ketcham, that the Clerk be empowered  
+to pay same.  
+
+[stamp: Approved by the Trustees]  
+
+[FULL COPY OF THE RECORDS OF AMITYVILLE]  
+[DATE FILLED 1-14-94]  
+
+[APPLIED IMAGE, INC.]  
+[113 East New York Avenue, Flushing, New York 11354]

@@ -1,0 +1,62 @@
+# The Annual Meeting of the Board of Education was held at the High School on Tues
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_455.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.0
+
+**Processed:** 2026-01-17T23:05:35.047989
+
+**Source Image:** [📄 page_455.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_455.png)
+
+---
+
+## Source Document
+
+![The Annual Meeting of the Board of Education was held at the High School on Tues](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_455.png)
+
+---
+
+## Transcription
+
+The Annual Meeting of the Board of Education was held at the High School on Tuesday, August 9, 1927, at 8:00 P.M., pursuant to notice.
+
+Present:
+Mrs. Florenee Hartman,  
+Grace Burns,  
+Rev. Vadder Van Dijk,  
+Mr. Clinton Ingles,  
+Louis Vogel, Trustee.  
+Mr. C. R. Warren, District Clerk.  
+R. J. Cardiner, Treasurer.
+
+Absent:
+Mr. John B. Garwell, Ed. P. J. Thom, Trustees.
+
+The meeting was called to order by C. R. Warren, Clerk of the District.
+
+Nominations for the President of the Board of Education were declared in order.
+
+Mr. Clinton Ingles, was nominated and unanimously elected President of the Board and thereupon took the chair.
+
+Nominations for Vice President were called for.
+
+Mr. Van Dyck was nominated but declined the nomination.  
+Mr. Vogel was nominated but declined the nomination.  
+Mrs. Burns was nominated but declined the nomination.
+
+Mr. Vogel consented to accept the office and was unanimously elected Vice President of the Board.
+
+C. R. Warren was unanimously elected Clerk at a salary of $500. per year.  
+R. A. Cardiner was unanimously elected Treasurer at a salary of $250. per year.  
+J. J. Purdy was unanimously elected Trustee Officer at a salary of $500. per year.  
+Dr. Reed was unanimously elected Medical Officer at a salary of $300. per year.
+
+[stamp: ANN-IVILLE]  
+[illegible - 193 consecutive lines unreadable]
+[il

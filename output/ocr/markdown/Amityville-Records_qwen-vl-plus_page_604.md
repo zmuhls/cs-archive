@@ -1,0 +1,58 @@
+# MICROCOPY RESOLUTION TEST CHART
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_604.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:36:54.574348
+
+**Source Image:** [📄 page_604.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_604.png)
+
+---
+
+## Source Document
+
+![MICROCOPY RESOLUTION TEST CHART](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_604.png)
+
+---
+
+## Transcription
+
+```
+MICROCOPY RESOLUTION TEST CHART
+JAPAN AND U.S. TEST CHART No. 2
+
+237
+
+Regular Meeting of the Board of Education held at the High School on Thursday, October 3, 1929, at 8:00 P. M., pursuant to notice.
+
+Present:
+Mr. Clinton Ingles, President.
+L. S. Coit,
+W. F. Whitmore,
+H. E. Case,
+Mrs. Florence Hartman, Trustees.
+Grace Burns,
+Mr. G. R. Warren, Clerk.
+
+Absent:
+Mr. R. A. Gardiner, Treasurer.
+Louis Vogel, Trustee.
+
+The minutes of the previous meeting were read and approved.
+
+Request of the Blue Triangle Club of the Y. W. C. A. of Amityville for the use of the lunch room in the High School on Tuesday evenings, read by the Clerk, Noved, duly seconded and carried, that the request be granted.
+
+Request of the Amityville Women's Club for the use of the High School Auditorium on Tuesday evening, November 26th, read by the Clerk. On motion made, seconded and carried, the request was approved.
+
+The Clerk read communication dated September 10, 1929, from the Board of Trustees of the Village of Amityville, proposing a joint meeting of both Boards for the purpose of discussing traffic measures in the vicinity of the schools.
+
+On motion made, duly seconded and carried, it was resolved, that the President appoint a Committee of two to meet with the Board of Trustees to inform them that it is the desire of the Board of Education that Ireland Place be continued as a one-way street during school hours; that a stop-light be installed at the intersection of Ireland Place and Park Avenue and that concrete sidewalks be laid on Park Place near the High School.
+
+Mr. Coit and Mr. Ingles were appointed as the Committee.

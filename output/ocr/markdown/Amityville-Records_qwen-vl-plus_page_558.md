@@ -1,0 +1,70 @@
+# Regular Meeting of the Board of Education held at the High School
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_558.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:23:45.786055
+
+**Source Image:** [📄 page_558.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_558.png)
+
+---
+
+## Source Document
+
+![Regular Meeting of the Board of Education held at the High School](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_558.png)
+
+---
+
+## Transcription
+
+Regular Meeting of the Board of Education held at the High School
+on January 3, 1929, at 01:00 P. M., pursuant to notice.
+
+Present:
+Mr. Clinton Inglee, President.
+Louis Vogel,
+John B. Carvall,
+Edward F. J. Thorn,
+Vodder Van Dyk,
+Mrs. Florence Hartman,
+Grace Burns, Trustees.
+Mr. C. H. Warren, Clerk.
+H. A. Gardiner, Treasurer.
+
+The minutes of the previous meeting were read and approved.
+
+Mr. Jacobson of Jacobson & Smith appeared before the Board and
+reported that the heating system in the Grammar School was operating
+O. K. On motion made, duly seconded and carried, it was voted that
+the total bill of Jacobson & Smith in the amount of $703.70, plus
+an additional $25.00 for engineering services, be paid.
+
+The Teachers' Committee reported no inexcusable absences for the
+month of December and that Mrs. George Jarvis was entitled to one
+day's pay for substitute teaching. On motion made, duly seconded
+and carried, it was resolved that the report be placed on file and
+that the substitute teacher be paid accordingly.
+
+The Report of the School Nurse for the month of December was read
+by Mrs. Hartman.
+
+Mr. Ruff reported that due to lack of interest and small attendance
+that the night school had been discontinued.
+
+Mr. Ruff reported on the need of a stenographer to assist him in the
+handling of the routine work of the office. On motion made, duly
+seconded and carried, it was resolved that the matter of engaging a
+stenographer for Mr. Ruff be placed in his hands for final action.
+
+Mr. Samuel T. Huff appeared before the Board and submitted a drawing
+of the proposed vestibules for the side entrances of the Grammar
+School and stated that the work would cost approximately $395.00.
+On motion made, duly seconded and carried, it was resolved that the
+matter be left in the hands of the Building Committee for final action.

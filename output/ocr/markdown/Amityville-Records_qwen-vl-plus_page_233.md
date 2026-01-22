@@ -1,0 +1,59 @@
+# Eugene Dietzken Co.                      $  1.25
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_233.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.934
+
+**Processed:** 2026-01-17T22:25:00.592359
+
+**Source Image:** [📄 page_233.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_233.png)
+
+---
+
+## Source Document
+
+![Eugene Dietzken Co.                      $  1.25](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_233.png)
+
+---
+
+## Transcription
+
+Eugene Dietzken Co.                      $  1.25
+Martha Goodheart                          36.88
+New York Telephone Co.                    62.03
+Long Island Lighting Co.                 179.56
+E. S. Van Nostrand                        1.00
+Alex Smith                                2.00
+South Bay Consolidated Water Co.         38.77
+Van Bay Corporation                       8.25
+A. E. MacAdam & Co., Inc.                 8.25
+Clifford Harvey                          10.00
+John E. Styles                            14.70
+The Wood Lumber Company                  95.30
+Unqua Laundry, Inc.                       1.50
+The Baker & Taylor Co.                   82.90
+Henry W. Leiph                           21.55
+D. Appleton Century Co., Inc.           262.50
+Athletic Trainers Supply Co.              1.45
+Gaylord Bros., Inc.                     12.00
+F. A. Owen Publishing Co.               32.40
+Charles H. Woon                           70.00
+Dr. H. W. Hurt                             4.75
+Amityville Battery & Illuminating Co.     0.65
+The American News Co., Inc.              97.69
+A. W. Corson                              12.00
+
+There being no further business, Mrs. Harman moved and
+Mr. Whitmore seconded the motion that the meeting adjourn.
+This motion unanimously carried.
+
+The President thereupon declared the meeting adjourned.
+
+[stamp: Common School District Records]
+[illegible]

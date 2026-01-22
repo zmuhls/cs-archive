@@ -1,0 +1,52 @@
+# Regular Meeting of the Board of Education held at the High School on Thursday, M
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_227.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:23:55.416617
+
+**Source Image:** [📄 page_227.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_227.png)
+
+---
+
+## Source Document
+
+![Regular Meeting of the Board of Education held at the High School on Thursday, M](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_227.png)
+
+---
+
+## Transcription
+
+Regular Meeting of the Board of Education held at the High School on Thursday, March 1, 1934, at 6:00 o'clock P. M., pursuant to notice.
+
+The meeting was called to order by Clinton Ingle, Pres.
+
+Present:
+Mr. Clinton Ingle, President.
+Mr. Herbert H. Cane,
+Mr. Christian Hanb,
+Mr. Theodore F. Aztell, Jr.,
+Mrs. Florence Hartman, Trustees.
+Mr. C. R. Warren, Clerk.
+Mr. R. A. Gardiner, Treasurer.
+
+Absent:
+Mr. Willet F. Whitmore,
+Mr. Milford H. Kotchan, Trustees.
+
+The minutes of the regular meeting held on February 1st, inst., were read by the Clerk and no objections being noted the President ordered them adopted as read.
+
+The Clerk submitted letter of Alice V. Wall, 8th Grade Teacher, requesting that she be granted a leave of absence from March 3, 1934, to the end of the current school year. Mrs. Hartman moved and Mr. Haeb seconded the motion that Miss Wall be granted a leave of absence effective March 3, 1934, without pay, as requested. This motion unanimously carried.
+
+The Teachers Committee reported no unexcusable absences for the month of February, inst., but that Mrs. Pieson Hilaeth was entitled to one day pay for substitute teaching and Mrs. Emma Dayton to six days pay. Mrs. Hartman moved and Mr. Caga seconded the motion that the report be accepted and that the substitute teachers' be paid accordingly.
+
+Mrs. Hartman submitted letter from Dr. Theodore D. Reed, dated Jan. 6, 1933, advising that an examination had been made to Miss Emily Gunther and that her condition had so improved that she could resume her school work. The communication was ordered accepted and placed on file.
+
+Statement of school cafeteria was submitted showing a profit for the month of February of $91.31. It was ordered received and placed on file.

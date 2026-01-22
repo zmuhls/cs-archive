@@ -1,0 +1,55 @@
+# Bill of Mrs. Emma Regelmann in the amount of $100.00 for rental of "Regelemann's
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_150.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:09:03.363166
+
+**Source Image:** [📄 page_150.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_150.png)
+
+---
+
+## Source Document
+
+![Bill of Mrs. Emma Regelmann in the amount of $100.00 for rental of "Regelemann's](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_150.png)
+
+---
+
+## Transcription
+
+Bill of Mrs. Emma Regelmann in the amount of $100.00 for rental of "Regelemann's Field" for the use of the baseball and foot-ball teams for the season of 1932-1933 was referred to the Board. The Clerk reported that rental for the prior year was $60.00 and the Clerk was instructed to take the matter up with Mrs. Regelmann to find out the reason for the increase, etc.
+
+The Purchase Committee recommended the purchase of the following supplies and equipment:
+
+Towels: 25 cases $16 at $4.70 per case and 25 cases $15 at $3.90 per case.
+
+Liquid Soap: one 55 gal. drum and two 30 gal. drums.
+
+Floor Brushes: 1 doz. 14" at $24.00 per dozen.
+
+Typewriters: Exchange three remington machines at a net-cost of $127.50. Purchase one long carriage machine at a cost of $101.50.
+
+Chairs: One doz. bentwood to match those in lunch room. Cost about $35. per doz.
+
+Flag: New flags for high school building.
+
+Benches: Supply sufficient for boys locker room.
+
+Light Bulbs: Sufficient supply add 75 and 150 watt bulbs.
+
+Moved, seconded and carried, that the Purchasing Committee be authorized to contract for and purchase the supplies and equipment as recommended.
+
+Moved, seconded and carried, that school be closed October 28, 1932, to permit the faculty to attend teachers conference in New York City.
+
+It was moved, seconded and carried, that tuition fee for non-resident post graduates be fixed at $100.00 per school year.
+
+Moved, seconded and carried, that where library books are not returned within the time allowed, that a penalty of two cents per day be assessed against the offending pupil.
+
+Moved, seconded and carried, that due to the contingency existing with respect to the Boy Scouts of the Simpson M. E. Church that they be permitted to meet in the auditorium of the old grade school building.

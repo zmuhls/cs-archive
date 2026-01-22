@@ -1,0 +1,50 @@
+# Moved, duly seconded and carried, that bid of Lester E. Gardiner in the amount o
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_12.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T21:42:54.720560
+
+**Source Image:** [📄 page_12.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_12.png)
+
+---
+
+## Source Document
+
+![Moved, duly seconded and carried, that bid of Lester E. Gardiner in the amount o](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_12.png)
+
+---
+
+## Transcription
+
+Moved, duly seconded and carried, that bid of Lester E. Gardiner in the amount of $115.00 be accepted and that the Architect have contract drawn accordingly.
+
+Mr. Ruff reported that he had inspected the buses; gone over the situation with Mr. Leigh and felt confident that the matter was under control. and therefore recommended that no action be taken at this time.
+
+The Teachers Committee reported no excusable absences for the month of October but that the following were entitled to compensation for substitute teaching:
+
+Mrs. Osborne 2 days
+Mrs. DuBois 14 *
+Mrs. Bates 13 *
+Mrs. Jarvis 3 *
+
+Moved, duly seconded and carried, that the report be accepted and placed on file and that the substitute teachers be paid accordingly.
+
+The Teachers Committee reported that Mrs. Pearl Coit had been employed as a teacher effective October 20, 1930, at a salary of $1,800. per annum and Miss Grace Sheeley on October 6th at a salary of $1,800. per annum.
+
+Motion made, duly seconded and carried, that the report be accepted and that the President and Clerk be authorized to prepare and issue contracts accordingly.
+
+Motion made, duly seconded and carried, that a loudspeaker be installed in the lunch room of the High School building.
+
+The President reported that the radiation in the High School auditorium was not sufficient to properly heat it in cold weather and recommended that additional radiation be installed. Moved, duly seconded and carried, that the matter be referred to the Building and Grounds Committee with full power to act.
+
+Motion made, duly seconded and carried, that the Board approve the purchase of football equipment costing $163.60 as ordered on authority of Mr. Ruff.
+
+Moved, duly seconded and carried, that forty-one teachers be reimbursed for carfare to New York to attend conference.

@@ -1,0 +1,83 @@
+# Mr. Whitmore moved and Mr. Ketcham seconded the motion
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_191.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:16:39.965415
+
+**Source Image:** [📄 page_191.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_191.png)
+
+---
+
+## Source Document
+
+![Mr. Whitmore moved and Mr. Ketcham seconded the motion](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_191.png)
+
+---
+
+## Transcription
+
+Mr. Whitmore moved and Mr. Ketcham seconded the motion
+that contracts be offered the following teachers for the
+current school year:
+
+Ethel Norton                      High School     $1,800.00
+William Holman                    High School     1,800.00
+Courtney Wilcox                   Music           1,900.00
+Louis Hirsh                       Grade School    1,200.00
+F. A. Mornweck                    High School     1,800.00
+
+This motion unanimously carried.
+
+The Clerk read cafeteria report for the period of
+May 29 - June 26th, showing a profit of $137.95. The
+report was ordered accepted and placed on file.
+
+Mr. Ruff reported that there was a balance of $1,828.93
+standing to the credit of the cafeteria fund in the bank,
+awaiting the pleasure of the Board as to its disposal.
+
+Mr. Ketcham moved and Mr. Case seconded the motion that
+the cash balance of $1,828.93 standing to the credit of the
+cafeteria fund be transferred to the general fund of the
+district. This motion unanimously carried.
+
+Mrs. Burns moved and Mr. Axtell seconded the motion
+that the Building and Grounds Committee be authorized
+to proceed with the building of the tennis courts. This
+motion carried.
+
+Mr. Case moved and Mr. Ketcham seconded the motion
+that the science laboratory be enlarged by the removal of
+a partition separating it from the storage room. This
+motion unanimously carried.
+
+Mr. Whitmore moved and Mr. Axtell seconded the motion
+that the Board approve the suggestion of Mr. Ruff to
+establish a complete four year course in science, as
+recommended by Warren W. Knox, Supervisor of Science of
+the State Education Department. This motion unanimously
+carried.
+
+Mr. Whitmore moved and Mrs. Burns seconded the motion
+that not more than $1,000.00 be spent in 1933-34 for dental
+work and that the services of some dental hygienist be
+obtained to serve for a period of six months for this sum.
+This motion unanimously carried.
+
+Messrs. Koepchen and Marsland appeared before the Board
+on behalf of St. Paul's Lutheran Church of Amityville
+requesting permission to use the high school auditorium on
+one afternoon in November for a service commemorating the
+450th anniversary of Martin Luther at which no admission
+would be charged and the affair open to the general public.
+The President read a communication from the Legal Division
+of the State Education Department on the use of a school
+building by

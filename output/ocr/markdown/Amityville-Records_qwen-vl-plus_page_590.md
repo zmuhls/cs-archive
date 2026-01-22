@@ -1,0 +1,56 @@
+# Regular Meeting of the Board of Education held at the High School on Thursday, J
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_590.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:30:20.650596
+
+**Source Image:** [📄 page_590.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_590.png)
+
+---
+
+## Source Document
+
+![Regular Meeting of the Board of Education held at the High School on Thursday, J](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_590.png)
+
+---
+
+## Transcription
+
+Regular Meeting of the Board of Education held at the High School on Thursday, July 11, 1929, pursuant to notice:
+
+Present:
+Mr. Clinton Inglee, President.
+Mr. Lodis Vogel,
+Mr. Edward B. J. Thorn,
+Mr. John B. Germsell,
+Mr. W. F. Whitmore,
+Mrs. Florene Hartnee, Trustee.
+Mr. C. R. Warner, Clerk.
+Mr. R. A. Gardiner, Treasurer.
+
+Absent:
+Mrs. Grace Burns, Trustee.
+
+The minutes of the previous meeting read and approved.
+
+The Teachers Committee reported no inaxonable absences for the month of June and that Carl Fuchs was entitled to one and one half days for substitute teaching. Moved, seconded, that the report be accepted and placed on file and that the substitute teacher be paid accordingly.
+
+The Building and Grounds Committee presented recommendations to improve the school plant as follows:
+
+Erection of a portico on the south side of the Grammar School, similar to the one on the north side at an estimated cost of $564.00.
+
+Repair roof in the northeast corner of the Grammar School to stop leak at an estimated cost of $135.00.
+
+The installation of a new stage in the Grammar School auditorium at an estimated cost of $600.00.
+
+New floor in the Grammar School auditorium at an estimated cost of $765.00.
+
+New flooring in two of the class rooms on the first floor of the Grammar School at an estimated cost of $542.00.

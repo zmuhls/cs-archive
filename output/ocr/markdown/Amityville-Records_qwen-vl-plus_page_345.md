@@ -1,0 +1,52 @@
+# to supervise the crossing of pupils at the following hours:
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_345.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:45:28.624219
+
+**Source Image:** [📄 page_345.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_345.png)
+
+---
+
+## Source Document
+
+![to supervise the crossing of pupils at the following hours:](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_345.png)
+
+---
+
+## Transcription
+
+to supervise the crossing of pupils at the following hours:
+9:45 A.M. to 9:00 A.M.
+11:30 A.M. to 11:40 A.M.
+12:00 P.M. to 12:10 P.M.
+12:45 P.M. to 1:00 P.M.
+3:00 P.M. to 3:20 P.M.
+
+Motion made by Dr. Van Dyck, seconded and carried, that the hours in the afternoon be from 1:00 P.M. to 3:00 P.M. for the first, second and third grades and from 1:00 P.M. to 3:15 P.M. for all other grades, including the high school and that this charge be effect as of Monday, November 9, 1925.
+
+Motion made by Dr. Van Dyck, seconded and carried, that the shelves necessary to equip the library be ordered from Swenson & Marsters, Inc., 373 Fulton Street, Brooklyn, New York, at the price of $177.59, as quoted.
+
+Motion made by Dr. Van Dyck, seconded and carried, that the bid of R. A. Fife & Company for three library tables, #321, at a price of $46.36 each, F.O.B. Amityville, be accepted.
+
+Motion made by Dr. Van Dyck, seconded and carried, that the bid of R. A. Fife & Company for eighteen library chairs at a price of $5.75 be accepted.
+
+Motion made by Dr. Van Dyck, seconded and carried, that Mr. Arthur R. Hurn be engaged as school auditor at a salary of $100.00 per year.
+
+Motion made by Dr. Van Dyck, seconded and carried, that the hurna start running Monday, November 9, 1925.
+
+Motion made by Mr. Greay, seconded and carried, that there be some one in the office of the Supervising Principal at all times during the school hours to take care of the switchboard.
+
+Motion made by Dr. Van Dyck, seconded and carried, that the District subscribe to the "American School Board Journal."
+
+Motion duly made, seconded and carried, that Mrs. Hartman represent the District at the meeting of the Associated School Boards and Trustees to be held at Glen Falls, New York, December 4th and 5th.
+
+Motion duly made, seconded and carried, that the two Aero view pictures of Amityville left at the school by the Metropolitan Aero View Company, 505 Fifth Avenue, New York City, be purchased.

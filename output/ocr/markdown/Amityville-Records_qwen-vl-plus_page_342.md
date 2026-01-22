@@ -1,0 +1,61 @@
+# Holbrook Brothers, Inc.     Text Books     $31.40
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_342.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:44:56.859364
+
+**Source Image:** [📄 page_342.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_342.png)
+
+---
+
+## Source Document
+
+![Holbrook Brothers, Inc.     Text Books     $31.40](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_342.png)
+
+---
+
+## Transcription
+
+```
+Holbrook Brothers, Inc.     Text Books     $31.40
+W. Powell & Sons, Inc.      Moving         20.82
+The Lavy Company            Bus. Supplies  9.90
+
+There being no further business, the meeting thereupon adjourned.
+
+Regular meeting of the Board of Education held at the
+High School on Thursday, November 6, 1925 at 8:00 P.M.
+
+Present:
+Mrs. Florence Hartman,     President.
+Mrs. Grace Burns,
+Rev. Vedder Van Dyck,
+Dr. C. L. Martham,
+Mr. George Greay,
+Mr. Louis Vogel,            Trustees.
+Mr. C. R. Warren,           Clerk.
+R. A. Gardiner,             Treasurer.
+
+Absent:
+Mr. Clinton Inglee,         Trustee.
+
+Minutes of the last meeting read and approved.
+Treasurer's report read and approved.
+
+Motion made by Mr. Greay, seconded and carried, that the
+President and Clerk be authorized to borrow the sum of Ten Thousand
+($10,000) Dollars or any part thereof, from the Bank of Amityville,
+and in consideration thereof to give the demand note of the
+District. This to be used to defray current expenses and salaries.
+
+Mr. Hilton C. Hammond of Valley Stream, L. I., appeared before
+the Board in reference to the presentation of the Eastern to the
+District, by the K. K. K.

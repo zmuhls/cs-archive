@@ -1,0 +1,61 @@
+# The following bills were read by the Clerk and ordered
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_651.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:48:56.776373
+
+**Source Image:** [📄 page_651.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_651.png)
+
+---
+
+## Source Document
+
+![The following bills were read by the Clerk and ordered](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_651.png)
+
+---
+
+## Transcription
+
+The following bills were read by the Clerk and ordered
+referred to the Finance Committee for approval and payment if
+found correct:
+
+Lucille H. Robinson                      $ 41.73
+Unqua Agency, Inc.                        43.60
+Ginn & Co.                               156.84
+The Amityville Record                    10.08
+Amityville Printing House               113.88
+Waldau's Print Shop                     29.50
+Florence Hartman                         5.50
+Eleanor Davis                            5.00
+Amity Gift Shoppe                        3.14
+James I. Gallien                        40.00
+F. J. Hionburg & Son                     3.25
+The Western Union Telegraph Company      4.50
+Alex Smith                               2.00
+L. I. Lighting Co.                      59.32
+Albert Werner                            5.00
+L. I. Lighting Co.                      179.40
+Ethan H. Funnell                        21.98
+A. B. Dick Company                       7.12
+Wood Lumber Company                     15.10
+John E. Styles                           32.23
+John Schlosser                           5.00
+Roger Smith                              5.00
+Charles H. Ashdown                      35.85
+Robert Dickie-Dickie & Kelly, Inc.      190.00
+Bignie Velser                            46.32
+
+There being no further business the meeting thereupon
+adjourned.
+
+C. R. Warren
+Clerk

@@ -1,0 +1,41 @@
+# and that the Clerk of the Board of Education be directed to cause publication to
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_245.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:27:18.705356
+
+**Source Image:** [📄 page_245.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_245.png)
+
+---
+
+## Source Document
+
+![and that the Clerk of the Board of Education be directed to cause publication to](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_245.png)
+
+---
+
+## Transcription
+
+and that the Clerk of the Board of Education be directed to cause publication to be made of the notice of such meeting according to law. This motion unanimously adopted.
+
+The question of purchasing new shades and repairing and fixing loams about windows of High School Building brought up but ordered laid on the table until the August meeting.
+
+At this point in the deliberations Mrs. John K. Heinley appeared and informed the Board that the bid of John K. Heinley for supplying coal had been misinterpreted and that the figures quoted in the bid had not did not subject to a 25% discount. Mr. Whitmore moved and Mr. Case seconded the motion that part of the resolution on Page No. 236 awarding contract to John K. Heinley for supplying 175 gross tons of egg coal at $12.58 be rescinded on account of error in reading bid and that the contract for supplying the 175 gross tons of egg coal be awarded to the Dependable Fuel Corporation at $12.60 per ton. This motion unanimously adopted.
+
+The matter of designating James Ferguson as First Head Assistant Janitor was deliberated on but ordered laid on the table until the August meeting.
+
+Mr. Case reported that 3G windows had been broken in the past ten or fifteen days and recommended that drastic action be taken to curb the malicious destruction of the property district. Mr. Case moved and Mr. Ketcham seconded the motion that a reward of $25.00 be offered for any information which would lead to the arrest and conviction of the person or persons responsible for the damage to the public school property and that a number of posters be displayed throughout the district advertising this fact. This motion unanimously adopted.
+
+The Teachers Committee reported no unexcusable absences for the month of June but that Mrs. Jennie Francis had substituted for two days; Mrs. Emma Dayton for five days; Miss Katherine Fisher for three days and Mrs. Catherine Powell for fifteen days and that they were entitled to the usual compensation for substitute teaching. Mrs. Hartman moved and Mr. Arxell seconded the motion that the report be accepted and placed on file and that the substitute teachers be paid accordingly. This motion unanimously carried.
+
+Mrs. Hartman submitted the cafeteria report for the month of June. It was ordered accepted and placed on file.
+
+Mr. Inglee in a brief address stated that this would probably be the last time he would officiate at a Board meeting as he was retiring as a school trustee and in closing expressed appreciated [sic] of the faithfulness, loyalty and high quality of service being rendered by Mr. Ruff.

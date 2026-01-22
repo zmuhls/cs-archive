@@ -1,0 +1,56 @@
+# MICROCOPY RESOLUTION TEST CHART
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_111.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:01:59.774792
+
+**Source Image:** [📄 page_111.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_111.png)
+
+---
+
+## Source Document
+
+![MICROCOPY RESOLUTION TEST CHART](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_111.png)
+
+---
+
+## Transcription
+
+MICROCOPY RESOLUTION TEST CHART
+ANSI and ISO TEST CHART No. 2
+
+104
+
+Examinations and Inspections Division of the University of the State of New York, and Mr. Leonard J. Smith, District Superintendent of Schools, which communications were read by the President.
+
+Statistion of the University of the State of New York showed that for the past five years the average for the Amityville High School had been well above the average for the State, figures following:
+
+Year     State Average   A. H. S. Average
+1928     79.5            85.8
+1929     79.5            83.6
+1930     86.5            90.00
+1931     81.5            88.00
+
+A delegation representing the Amityville Post, American Legion, headed by Mr. Aler, Jr., Commander, together with others, appeared before the Board on behalf of the local unemployed, Mr. Aler's reported that at the present time twelve bricklayers were working on the school, only one resident of the village; ten laborers, only three residents of Amityville.
+
+Mr. Aler's solicited information as to whether or not the contract did not specify that local labor was to be employed in the construction of the school at all time. A general discussion ensued, during which the building contract was produced and clause pertaining to the employment of local labor was read. Mr. Unger, President, asked Mr. Aler's to furnish him with a list of names of all local men who had applied for work and been refused in order to refer same to The John H. French Company, general contractor, to find out why. Mr. Aler's promised to have such a list prepared by the next day.
+
+Representatives of the Nassau Engineering Corporation of Hempstead, local agents for the Iron Fireman Company of Cleveland, appeared before the Board with reference to the installation of such equipment.
+
+The Teachers Committee reported no unexcusable absences for the month of February, but that Mrs. F. Tyler Bates was entitled to two days pay for substitute teaching; Mrs. E. Seelye Dayton to eight days pay for substitute teaching; Miss Shirley Robinson to ten days pay. It was moved, seconded and carried, that the teachers report be paid accordingly and that the substitute teachers be paid accordingly.
+
+The Teachers Committee submitted report showing that the cafeteria had made a net profit of $58.39 for the month of February.
+
+The Building and Grounds Committee read proposal of John Styles for the installing of a ventilating fan in the boiler room at a cost of $179. It was moved, seconded and carried, that the proposal be accepted and subject to checking of price, that the Building and Grounds Committee be empowered to have the fan installed.
+
+[stamp: Amityville Common School District]
+[FULL COPY OF THE RECORDS OF AMITYVILLE]
+[DATE FILLED: 4-14-09]

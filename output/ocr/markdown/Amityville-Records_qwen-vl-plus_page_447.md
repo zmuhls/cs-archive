@@ -1,0 +1,55 @@
+# Motion made, duly seconded and carried, that the recommendation be accepted and 
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_447.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.97
+
+**Processed:** 2026-01-17T23:04:17.741474
+
+**Source Image:** [📄 page_447.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_447.png)
+
+---
+
+## Source Document
+
+![Motion made, duly seconded and carried, that the recommendation be accepted and ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_447.png)
+
+---
+
+## Transcription
+
+Motion made, duly seconded and carried, that the recommendation be accepted and that contracts be issued accordingly.
+
+Motion made, duly seconded and carried, that Mr. George A. Brown be appointed "Payer of the Census" for the current year at a salary of $175.
+
+Question of contract for Nurse brought up. Mr. Thorn stated that as yet the State Department had not issued Mrs. Fields a permanent license as Public Health Nurse.
+
+Motion made, duly seconded and carried, that the following telegram be sent to the State Department relative to the School Nurse and that the Clerk write to Mr. Smith requesting that he use his best efforts to persuade the State Department to issue the necessary certificate.
+
+Telegram - "Because of the very efficient work done by Mrs. Fields as School Nurse, this Board is anxious to re-engage her. Can you not decide to issue her the necessary certificate. Understanding that there is a scarcity of nurses, we hope for early motion."
+
+Treasurer's report read and approved.
+
+The question of acquiring land for future school sites was brought up. Mr. Thorn reported that Columbia University maintained a Bureau who make a specialty of surveying a city or town and reporting as to its needs, etc.
+
+Motion made, seconded and carried, that the Clerk write to Columbia University, requesting information as to the cost of such a survey.
+
+Motion made, seconded and carried, that after the Finance Committee have approved bills for planting trees, that they be forwarded to the Clerk for payment.
+
+Motion made, seconded and carried, that the Purchasing Committee be authorized to buy a cabinet file for the Principal's Office, after Mr. Huff has made his selection.
+
+Motion made, seconded and carried, that the congratulations of the Board be extended to Mr. Steinhauser and the Track Team for their accomplishment in winning the County Championship and in winning the Class B prize.
+
+There being no further business, the meeting thereupon adjourned.
+
+Respectfully submitted
+
+[illegible]
+
+Clerk

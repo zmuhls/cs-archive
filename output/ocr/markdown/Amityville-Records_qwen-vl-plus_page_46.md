@@ -1,0 +1,73 @@
+# Moved, duly seconded and carried, that the report of the Teachers Committee be a
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_46.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T21:49:25.269060
+
+**Source Image:** [📄 page_46.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_46.png)
+
+---
+
+## Source Document
+
+![Moved, duly seconded and carried, that the report of the Teachers Committee be a](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_46.png)
+
+---
+
+## Transcription
+
+```
+Moved, duly seconded and carried, that the report of the Teachers Committee be accepted as rendered and that the President and Clerk be authorized to prepare and execute contracts accordingly.
+
+The following bills were read by the Clerk, referred to the Finance Committee for approval and payment if found correct:
+
+John E. Styles                      $ 90.44
+Stanley & Patterson, Inc.            60.00
+L. I. Lighting Company             110.94
+National Dairy Council, Inc.         2.51
+W. Powell & Sons, Inc.             10.50
+Unqua Laundries, Inc.               9.93
+Arthur W. Ruff                      21.95
+Waldau's Print Shop                 31.00
+A. B. Dick Company                  19.06
+Alex Taylor & Co.                    2.28
+George H. Webster                   30.50
+Laura G. Ebell                      59.50
+Morrell L. Vehslage                 63.00
+Muriel Weed                          48.00
+Baker & Taylor Co.                   4.15
+F. J. Nienburg & Son                22.91
+Van Valkenburg                     619.17
+Wood Lumber Company                  4.40
+R. A. Fire Corporation              573.00
+A. G. Spalding & Bros., Inc.        4.39
+Athletic Trainers Supply Co.         7.38
+A. G. Spalding & Bros.               4.83
+Alex Taylor & Co., Inc.             21.91
+Universal Musical Instrumtment       9.90
+George Schley                        2.00
+J. L. Hammett Company               13.65
+American Rattan & Reed Mfg.Co.       2.34
+Q.R.S.-DeVry Corporation             4.00
+Amityville Music Shoppe              1.75
+Rand McNally & Company             101.60
+Time, Incorporated                   5.00
+Atlantio Monthly Company             4.00
+Houghton Mifflin Company            10.14
+Doubleday, Doran & Co., Inc.         8.13
+Mitchell & Moss                      4.25
+Henry Jackson                        7.65
+C. R. Warren                         .30
+Amityville Record                   16.48
+New York Telephone Company          38.00
+William Torns                       80.00
+
+There being no further business the meeting thereupon adjourned.

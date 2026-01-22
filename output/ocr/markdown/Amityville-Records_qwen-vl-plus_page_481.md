@@ -1,0 +1,73 @@
+# Special Meeting of the Board of Education held at the High School on
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_481.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.963
+
+**Processed:** 2026-01-17T23:10:16.902606
+
+**Source Image:** [📄 page_481.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_481.png)
+
+---
+
+## Source Document
+
+![Special Meeting of the Board of Education held at the High School on](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_481.png)
+
+---
+
+## Transcription
+
+Special Meeting of the Board of Education held at the High School on  
+Wednesday, November 16, 1927, at 9:00 P. M., pursuant to the call of the  
+Vice-President.
+
+Present:  
+Mr. Louis Vogel, Vice President.  
+John B. Carwell,  
+Edward F. J. Thorn,  
+Rev. Vedder Van Dyke,  
+Mrs. Grace Burns,  
+Florence Hartman, Trustee.  
+Mr. O. R. Warren, Secretary.
+
+Absent:  
+Mr. Clinton Ingles, President.  
+Mrs. R. A. Gardiner, Treasurer.
+
+The President being out of Town on Business, the meeting was called to order  
+by the Vice President, Mr. Vogel, who stated that it would be confined to  
+the two propositions mentioned in the Secretary's notice of meeting.
+
+Bids were received for the installing of copper flashing on the main part  
+of the High School roof and read by the Secretary as follows:
+
+Great Neck Sheet Metal Works,  
+Great Neck, New York. Total Bid $ 758.00
+
+Stephan & Dammer,  
+Woodhaven, New York. Total Bid $ 650.00
+
+Motion made, duly seconded and carried, that the contract be awarded to the  
+Stephan & Dammer Company, to include lead coated copper, as per its bid  
+of $650.00.
+
+Motion made, duly seconded and carried, that the time limit of thirty days  
+for work of Mrs. Knapp in investigating cemetery titles, be and hereby is  
+extended to fifty days.
+
+Motion made, duly seconded and carried, that Secretary write letter to  
+Attorney Harry Paul Michal, requesting his attendance at the next regular  
+meeting of the Board or if that is not convenient, that he submit a written  
+report of the work being done.
+
+There being no further business the meeting thereupon adjourned.
+
+[illegible]  
+Secretary.

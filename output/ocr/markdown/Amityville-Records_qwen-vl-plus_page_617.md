@@ -1,0 +1,75 @@
+# Henry W. Leigh                                      $ 800.00
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_617.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:41:51.029094
+
+**Source Image:** [📄 page_617.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_617.png)
+
+---
+
+## Source Document
+
+![Henry W. Leigh                                      $ 800.00](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_617.png)
+
+---
+
+## Transcription
+
+Henry W. Leigh                                      $ 800.00
+New York Telephone Co.                               22.88
+Standard Elec. Time Co.                               4.90
+The Charles H. Elliott Co.                           54.48
+Carl Fischers, Inc.                                  50.00
+Morris Weiss                                         8.75
+Underwood Typewriter Co.                            350.00
+Charles H. Ashdown                                   14.65
+Atlantic Sales Company                               22.60
+Joseph Hagengast                                     16.10
+American Seating Company                             28.00
+Holdbrook Bron. Inc.                                 62.44
+Eather H. Funnell                                    22.35
+Dwiley Lock Corporation                              18.84
+Lewis Haff                                            19.00
+Stevenson & Marsters, Inc.                            7.60
+Marragansett Machine Co.                            160.56
+Thomas J. Hople, Inc.                                 7.00
+Alex Taylor & Co., Inc.                               2.36
+G. Schirmer, Inc.                                     2.39
+G. C. Birohard & Co., Inc.                           19.64
+G. Schirmer, Inc.                                    17.67
+The Lignum Chemical Works                             6.15
+Doubeidey, Doran & Co., Inc.                          1.80
+The F. W. Foxon Company                               2.08
+Campbell & Lemie, Inc.                                5.10
+Mary Josephine Booth                                  1.70
+The H. W. Wilson Co.                                  7.80
+Remington Rand Business Service, Inc.                27.63
+Rand McNally & Co.                                    3.47
+The Century Company                                  32.55
+Noble & Noble                                         4.44
+Cinn & Company                                       29.58
+The World Book Company                                 6.38
+American Education Press, Inc.                       18.62
+F. A. Owen Publishing Co.                             2.00
+Peckham, Little & Co.                                 .50
+The Van Everen Company                               27.80
+A. B. Dick Company                                   12.11
+Thomas G. Coffee                                      7.75
+American Crayon Company                               2.00
+Eimer & Amend                                        12.87
+J. L. Hartnett Company                              46.42
+The Willard Co.                                       1.94
+
+There being no further business, the meeting thereupon adjourned.
+
+C. K. Warren
+Clerk

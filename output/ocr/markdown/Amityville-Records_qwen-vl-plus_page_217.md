@@ -1,0 +1,39 @@
+# The Teachers Committee submitted cafeteria report for the school year to Novembe
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_217.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:21:51.081179
+
+**Source Image:** [📄 page_217.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_217.png)
+
+---
+
+## Source Document
+
+![The Teachers Committee submitted cafeteria report for the school year to Novembe](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_217.png)
+
+---
+
+## Transcription
+
+The Teachers Committee submitted cafeteria report for the school year to November 26th, which showed a profit of $69.52. The report was ordered accepted and placed on file.
+
+Mr. Axtell moved and Mrs. Hartman seconded the motion that the Boy Scouts of America, District No. 9, be permitted to hold their annual dinner meeting in the cafeteria of the Junior High School Building on Thursday, December 7th. This motion unanimously carried.
+
+The Clerk read letter written by Mr. Ruff to Dr. Mason Hilman, Superintendent of the Colored Orphan Asylum, Riverdale on Hudson, New York, protecting against the number of wards from that institution in attendance in our schools. The Clerk also read letter written by Dr. Hilman in reply, advising that of 550 children boarded out only 43 were in Suffolk County. Mr. Ruff then advised the Board that Amityville had 35 of the 43 in Suffolk County. The matter was left in the hands of Mr. Ruff to endeavor to have the number cut in Amityville be asking Dr. Hilman to have other communities take a proportionate share of the wards boarded out in this county.
+
+Mr. Ruff submitted request of the Triangle Club to have the grammar school auditorium each Tuesday night for basketball practice. Mr. Axtell moved and Mr. Case seconded the motion that the Triangle Club be authorized to use the grammar school auditorium each Tuesday nights for basketball practice, subject to any and all prior use by the school and provided satisfactory arrangements are made with the janitors for compensation. This motion unanimously carried.
+
+Mr. Ruff also submitted the request of the Lone Star Basketball Team to have the high school auditorium each Monday night for basketball games. Mr. Axtell moved and Mrs. Hartman seconded the motion that the Lone Star Club be permitted to use the High School Auditorium each Monday night for basketball games subject to any and all prior use by the school and provided satisfactory arrangements are made with the janitors for compensation. This motion unanimously carried.
+
+Mr. Axtell moved and Mr. Haeb seconded the motion that the district treasurer be authorized to accept the sum of $72.35 from Mr. Vehlage, for deposit in a special account to be titled "Annual Prizes, The Class of 1933". This motion unanimously carried.
+
+Mrs. Hartman moved and Mr. Haeb seconded the motion that the President and Clerk be and hereafter are authorized and directed to borrow the sum of $5,000.00 from each local bank; in such amounts and at such times as may be needed; the proceeds of said loans to be used to meet current expenses and obligations and in consideration of said loans to give the demand or times notes of the District and said loans to be repaid from the 1933 tax levy. This motion unanimously carried.

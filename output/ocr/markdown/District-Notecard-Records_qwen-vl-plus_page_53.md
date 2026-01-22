@@ -1,0 +1,51 @@
+# District Notecard Records page 53
+
+**Document Type:** Document
+
+**Collection:** CS Archive
+
+**Source:** District-Notecard-Records_page_53.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.0
+
+**Processed:** 2026-01-18T00:22:25.426962
+
+**Source Image:** [📄 page_53.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_53.png)
+
+---
+
+## Source Document
+
+![District Notecard Records page 53](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_53.png)
+
+---
+
+## Transcription
+
+Ots[ego] 2
+[illegible] Union School
+
+26 Ju[ly] 1897 - admitted
+6 Ju[ly] 1906 - Re advanced from junior to middle
+Rogers School advanced to middle grade
+17 May 1907 - Course of Study approved
+13 No[vember] 1911 - Advanced to senior grade
+123 fielders [illegible] July 1919
+[illegible] Sept[ember] 22 - Requested [illegible] appoint[ed] Islands to
+[illegible] for advancement
+
+[stamp: Ots[ego] 2]
+
+May - Two pair of kind [illegible] advance blanks
+30 Ju[ly] - Received blanks (also Seniors to High)
+31 No[vember] - Requested [illegible]
+x Dec[ember] - [illegible] and [illegible] apparel[ance]
+13 Dec[ember] - Said principal Mr. [illegible] comment (informal as to
+[illegible] the value would require replacement)
+31 Ju[ly]/24 - The [illegible] calls attention to small registration. [illegible]
+not practised in [illegible] schools.
+[illegible] Ad[vised] principal of Dr. [illegible] findings
+17 Ma[y]/26 - Rev. W. [illegible] (does not warrant advan[ce])
+14-12 O[ctober] 1939 - Dropped from call

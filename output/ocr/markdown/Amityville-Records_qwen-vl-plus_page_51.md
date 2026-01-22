@@ -1,0 +1,60 @@
+# Special Meeting of the Board of Education held at the
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_51.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T21:50:15.005581
+
+**Source Image:** [📄 page_51.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_51.png)
+
+---
+
+## Source Document
+
+![Special Meeting of the Board of Education held at the](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_51.png)
+
+---
+
+## Transcription
+
+Special Meeting of the Board of Education held at the  
+High School on Friday, May 22, 1931, pursuant to the call  
+of the President.  
+
+Present:  
+Mr. Clinton Ingle, President.  
+Mr. Herbert M. Case,  
+Mrs. Florence Hartman,  
+Grace Burns, Trustee.  
+Mr. C. R. Warren, Clerk.  
+
+Absent:  
+Mr. Willet F. Whitmore, Trustee.  
+Mr. R. A. Gardiner, Treasurer.  
+
+The President announced that the meeting had been called  
+to appoint a trustee and elect a vice president of the Board.  
+Mr. Milford H. Ketcham was nominated for the office of  
+Trustee and unanimously elected.  
+
+Mrs. Grace L. Burns nominated for the office of Vice  
+President and unanimously elected.  
+
+The Building and Grounds Committee recommended that  
+the fence for the cemetery grounds be purchased through the  
+American Fence Company. Moved, seconded and carried, that  
+contract for erection of fence around old cemetery grounds  
+be awarded to the American Fence Company.  
+
+There being no further business the meeting thereupon  
+adjourned.  
+
+[signature]  
+Clerk.

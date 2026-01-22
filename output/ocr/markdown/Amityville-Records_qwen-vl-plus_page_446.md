@@ -1,0 +1,66 @@
+# Motion made, seconded and carried, that the program be arranged on an eight peri
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_446.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:04:09.815073
+
+**Source Image:** [📄 page_446.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_446.png)
+
+---
+
+## Source Document
+
+![Motion made, seconded and carried, that the program be arranged on an eight peri](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_446.png)
+
+---
+
+## Transcription
+
+```
+Motion made, seconded and carried, that the program be arranged on an eight period schedule for the High School for the coming school year.
+
+Mr. Vogel read estimate received from Mr. Samuel T. Haff of $3687.00 for erecting a new roof over entrance of Grammar School. Mr. Vogel read estimate of $4200.00, received from Mr. Haff, for erecting a new roof over the whole building.
+
+Motion made, duly seconded and carried, that the Building Committee have plans prepared and bids received, for the repairing of the entrance roof of the Grammar School.
+
+Motion made that the Building Committee advertise and receive bids for the following paint supplies:
+
+2 Barrels of Floor Oil,
+5 Gals. Warm Grey Cement Paint (Toch Bros.)
+10 Gals. Linoleum Brown, Toch Bros. $716.
+6 Gals. Orange Shellac,
+3 Gals. Alcohol,
+2 Gals. Brown Door Paint.
+
+Motion made, duly seconded and carried, that the By-Laws be suspended and that the Building Committee be authorized to purchase the following supplies:
+
+2 Barrels of Floor Oil,
+5 Gals. Warm Grey Cement Paint - Toch Bros.,
+10 Gals. Linoleum Brown - Toch Bros. $716,
+6 Gals. Orange Shellac,
+3 Gals. Alcohol,
+2 Gals. Brown Door Paint.
+
+Teachers' Committee reported no inexceasable absences for the month of May, but that Mrs. Ralph Gardiner was entitled to eleven days pay for substitute teaching at $5.00 per day; Mrs. John Repalaye to five and one-half days at $5.00 per day; and Miss Wilhelmina Smith to one day at $5.00 per day.
+
+Motion made, duly seconded and carried, that report be accepted and that the substitute teachers' be paid accordingly.
+
+Motion made, duly seconded and carried, that Miss Ryan be paid for balance of school year and that she be excused from further sessions, if that be the recommendation of her physician.
+
+Teachers' Committee recommended that the following be offered contracts:
+
+Dorothy Hieber $2000.00 year
+Alice Wall 2000.00 "
+```
+
+[stamp: File Copy of the Records of Antiville, Date Filed 1-14-1904]
+[Microcop Resolution Test Chart No. 2]
+[Applied Image, Inc. 1000 E. New York Ave., Paterson, N.J. 07501]

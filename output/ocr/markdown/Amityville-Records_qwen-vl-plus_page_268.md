@@ -1,0 +1,51 @@
+# [stamp: RECORDS OF ANSONVILLE]
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_268.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:32:11.706575
+
+**Source Image:** [📄 page_268.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_268.png)
+
+---
+
+## Source Document
+
+![[stamp: RECORDS OF ANSONVILLE]](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_268.png)
+
+---
+
+## Transcription
+
+[stamp: RECORDS OF ANSONVILLE]
+[FULL COPY OF THE RECORDS OF ANSONVILLE]
+[INTEGRATED BY GOOD RESEARCH SERVICES]
+[DATE FILLED: 4-1-64]
+
+12
+
+been amended by the Selectmen Controlling the Common School. Mr. Gage laid out a plan for the erection of a new building in connection with the existing Common School to be used for the building of a school in the A. Eminent Common School District. This motion was carried.
+
+The Clerk submitted a communication from the New York Central & Hudson River Railroad Company, Inc., which stated that as a result of adding an extra to the railroad's automatic policies to include one more that a certain amount of money had been saved in insuring the peril that the policy would not protect the district should losses or vehicles other than Mr. Loch's be hired. The communication was approved and closed on file.
+
+The Clerk reported that effective December 1, 1914, the interest on loans extended by the New York banks would be at the rate of 5½ per annum.
+
+The Clerk submitted a communication from Superintendent Mrs. Hartran, addressed to the Selectmen, proposing certain relations for school wages. Mr. Whitmore seconded the motion that the communication be accounted and a reply sent to Mr. Loch. This notion unanimously carried.
+
+The Clerk also submitted a petition from parents of children residing on or adjacent to Albany Avenue for the bus to be used on Schuyler Street. A discussion on the matter ensued after which Mr. Gage moved and Mrs. Hartran seconded the motion that the matter be referred to the Transportation Committee for investigation and report at the next meeting. This motion unanimously carried.
+
+The Clerk also submitted a communication from Stanley J. Shadler of 43 Inwood Lane, expressing the fond of damages caused by school children trespassing on his property, etc., and asked that a fence be erected to remedy the condition. Mr. Whitmore moved and Mr. Hanb seconded the motion that the fence of the school grounds be completed by fencing in the north west corner of the school property. This motion unanimously carried.
+
+The following bids were submitted for furnishing new shades for the High School Building:
+
+Lindenhurst Glass & Shade Co. 144 shades to cost $273.00
+Frank W. Smith 132 shades to cost $125.50
+
+Mr. Hanb moved and Mr. Whitmore seconded the motion that the contract be awarded to Frank Smith in accordance with his bid of $125.50. This motion unanimously carried.

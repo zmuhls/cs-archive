@@ -1,0 +1,48 @@
+# Regular Meeting of the Board of Education held at the High School on Thursday, J
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_587.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:29:54.988153
+
+**Source Image:** [📄 page_587.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_587.png)
+
+---
+
+## Source Document
+
+![Regular Meeting of the Board of Education held at the High School on Thursday, J](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_587.png)
+
+---
+
+## Transcription
+
+Regular Meeting of the Board of Education held at the High School on Thursday, June 6, 1929, pursuant to notice.
+
+Present:
+Mr. Clinton Inglee, President.
+Mr. John B. Carrowell, Louis Vogel, W. F. Whitmore, Trustees.
+Mr. C. R. Warren, Clerk.
+R. A. Gardiner, Treasurer.
+
+Absent:
+Mr. Edward F. J. Thorn, Mrs. Florence Hartman, Mrs. Grace Burns, Trustees.
+
+The minutes of the previous regular and special meetings were read and approved.
+
+The Clerk reported that an error had been made in the advertisement for the district meeting to be held on June 18th. Moved, seconded and unanimously carried that due to error in advertisement for district meeting called for on June 18th, that same be re-advertised and that the district meeting be held on the evening of July 9th.
+
+The President read communication from Fannie Ackerman of 865 Ocean Avenue, Amityville, offering property owned by her on Colos Avenue as a site for a school at a price of Twenty Two ($22,000.00) Dollars, some comprising about two acres.
+
+Moved, duly seconded and carried, that the property of Fannie Ackerman of approximately two acres on Colos Avenue be put up to vote of the electors at the district meeting to be held on July 9th, together with the three other propositions to be submitted at said meeting.
+
+The following resolution was duly made, seconded and unanimously carried:
+
+RESOLVED that the Board of Education of Joint Union Free School District No. 6, Towns of Babylon, Suffolk County and Oyster Bay, Nassau County, call a special meeting of the qualified electors of such District to be held on the 9th day of July, 1929, at 8:00 o'clock in the evening, daylight saving time, for the purpose of deciding by a vote of the qualified electors of the District whether:

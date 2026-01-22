@@ -1,0 +1,50 @@
+# Special Meeting of the Board of Education held at the High School on Wednesday, 
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_652.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:49:07.660882
+
+**Source Image:** [📄 page_652.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_652.png)
+
+---
+
+## Source Document
+
+![Special Meeting of the Board of Education held at the High School on Wednesday, ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_652.png)
+
+---
+
+## Transcription
+
+Special Meeting of the Board of Education held at the High School on Wednesday, July 9, 1930, at 8:00 O'clock P. M., pursuant to the call of the President.
+
+Present:
+Mr. Clinton Inglee, President.
+Mrs. Florence Hartman,
+Mr. Louis Vogel,
+w Lawrence S. Coit,
+w Herbert L. Case,
+w Willet F. Whitmore, Trustees.
+Mr. C. R. Warren, Clerk.
+
+Absent:
+Mrs. Grace Burns, Trustee.
+Mr. R. A. Gardiner, Treasurer.
+
+The President stated that the meeting had been called to receive report of the Building and Grounds Committee; adopt resolution concerning the building of an addition to the Grammar School and to adopt resolution for the purchase of the Beazer property.
+
+A representative of the Community Floor Covering Company appeared before the Board and explained the advantages of laying battleship linoleum on the floor of the auditorium of the Grammar School building and in two classrooms of said building and quoted a price of $1,248. for doing the work. After consideration of the matter the following resolution was offered, duly seconded and carried:
+
+RESOLVED that the Building and Grounds Committee advertise for bids for the laying of new wooden floors in the auditorium of the Grammar School building and in two classrooms of said building and that an Architect be engaged to draw up the plans and specifications.
+
+Mr. Vogel reported that he had received a letter from William Torns informing him that he could not point the wire fence on the Grammar School grounds for the amount quoted in his bid. After consideration of the matter it was moved, duly seconded and carried, that the matter be referred back to the Building and Grounds Committee with full power to act.
+
+Motion made, duly seconded and carried, that the Peerless Unit Ventilating Company be given a contract in the amount of $175.00 for reconditioning the ventilating system.

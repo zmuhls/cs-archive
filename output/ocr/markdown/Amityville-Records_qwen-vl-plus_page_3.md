@@ -1,0 +1,44 @@
+# Regular Meeting of the Board of Education held at the High School on Thursday, S
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_3.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T21:41:11.000710
+
+**Source Image:** [📄 page_3.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_3.png)
+
+---
+
+## Source Document
+
+![Regular Meeting of the Board of Education held at the High School on Thursday, S](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_3.png)
+
+---
+
+## Transcription
+
+Regular Meeting of the Board of Education held at the High School on Thursday, September 4, 1930, at 8:00 o'clock P. M., pursuant to notice.
+
+Present:
+Mr. Clinton Inglee, President.
+Mr. Herbert H. Case, Louis Vagel, Willet F. Whitmore, Mrs. Grace Burns, Florence Hartman, Trustees.
+Mr. C. R. Warren, Clerk.
+R. A. Gardiner, Treasurer.
+
+Absent:
+Mr. Lawrence S. Coit, Trustee.
+
+The minutes of the previous meeting read and approved.
+
+The Clerk's read communication dated September 2, 1930, from the Board of Assessors of the Town of Babylon, stating that the total assessed valuation of the school district for the year 1930-31 was $6,091,357.
+
+The following resolution was thereupon unanimously adopted:
+
+"WHEREAS, the Board of Education of Joint Union Free School District No. 6, Towns of Babylon, Suffolk County and Oyster Bay, Nassau County, N. Y. on July 5, 1930, adopted a budget for necessary claims and expenses for the school year 1930-31, amounting together to the sum of $169,625.00, which said budget was duly published as provided by law and was on the 5th day of August 1930 at the meeting of the voters of said district duly adopted with such modifications as were made by the voters at said meeting, and said budget as so adopted amounted altogether to the sum of $169,625.00, and after allowing the sum of $52,500.00 to be received from public moneys, provided that the sum of $117,125.00 be raised by taxation."

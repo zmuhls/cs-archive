@@ -1,0 +1,88 @@
+# MICROCOPY RESOLUTION TEST CHART
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_66.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.0
+
+**Processed:** 2026-01-17T21:53:33.033741
+
+**Source Image:** [📄 page_66.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_66.png)
+
+---
+
+## Source Document
+
+![MICROCOPY RESOLUTION TEST CHART](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_66.png)
+
+---
+
+## Transcription
+
+```
+MICROCOPY RESOLUTION TEST CHART
+AND ISO TEST CHART NO. 2
+
+1.0
+1.25
+1.4
+1.6
+1.8
+2.0
+2.2
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+8.5
+9.0
+9.5
+10.0
+
+60
+
+The President reported that check of $25. sent to R. P. Anderson of Port Jefferson had been returned as Mr. Anderson had spoken as a representative of the Boy Scouts and as such could not accept the check personally not could the Board of Directors of the Scout Council.
+
+The Buildings and Grounds Committee reported as follows:
+
+That John Styles was estimating the cost of re-wiring the Grammar School building.
+
+Submitted estimate of William Torns in the amount of $90. for painting ceilings of rooms needing painting in Grammar School.
+
+Submitted estimate of S. T. Haff for erecting sheetrock on boiler room ceiling in Grammar School, in amount of $192.00.
+
+Moved, seconded and carried, that William Torns be awarded order for painting ceilings of rooms in Grammar School in accordance with his bid of $90.
+
+Moved, seconded and carried, that S. T. Haff be awarded order for erecting sheetrock in boiler room ceiling in Grammar School in accordance with his bid of $192.00.
+
+The Buildings and Grounds Committee reported as follows:
+
+Submitted estimate of William Torns in the amount of $740.00 for painting the main entrance and hall of High School, second floor hall and openings and third floor hall and openings.
+
+Submitted estimate of William Torns in the amount of $110.00 for refinishing the auditorium chairs.
+
+Moved, seconded and carried, that William Torns be given order for painting corridors of High School building in accordance with his estimate of $740.00.
+
+Moved, seconded and carried, that William Torns be given order for refinishing auditorium chairs in accordance with his estimate of $110.00.
+
+The Building and Grounds Committee reported that Mr. Ruff was to furnish the estimate for relining the velour curtains.
+
+The Buildings and Grounds Committee reported that the corridor floors in the High School had been given a coat of mastice.
+
+The Buildings and Grounds Committee reported that the following repairs would be completed before the opening of school:
+
+[stamp: Common School District No. 10, Town of Smithtown, Suffolk County, NY]
+[illegible - 186 consecutive lines unreadable]

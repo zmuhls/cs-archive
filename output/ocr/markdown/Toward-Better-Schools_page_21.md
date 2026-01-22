@@ -1,0 +1,41 @@
+# Toward Better Schools page 21
+
+**Document Type:** Document
+
+**Collection:** CS Archive
+
+**Source:** Toward-Better-Schools_page_21.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T00:58:15.712466
+
+---
+
+## Transcription
+
+20
+
+NUMBER OF PUBLIC SCHOOL BUILDINGS AND ADDITIONS ERECTED AND BEING USED FOR INSTRUCTIONAL PURPOSES IN NEW YORK CITY
+
+[Graph showing the number of buildings and additions erected by year of erection, ranging from 1850 to 1949. The graph includes two categories: "Original Buildings" and "Additions," with distinct patterns for each. The y-axis represents the number of buildings and additions erected, ranging from 0 to 300. The x-axis represents the year of erection, with specific years labeled.]
+
+III. The Work
+
+The Commission considers its primary function as assisting the localities define and solve their school building problems. During the past year, the Commission has directed nearly all of its work toward that end. It has:
+
+1. Revised and made more effective the procedures for determining local school building needs.
+2. Studied the problem of enlarging city school districts to obtain better utilization of existing facilities and improve local ability to provide for future building needs.
+3. Inventory existing school facilities outside the City of New York and tentatively developed standards and procedures for determining when schools should be rehabilitated, modernized or replaced.
+4. Launched a study in an area of the City of New York to assist in the improvement of such standards and procedures.
+5. Studied means of attaining economies in school construction and made recommendations available to architects and local school authorities, particularly on conservation of critical materials.
+6. Reviewed existing school lighting standards and enlisted the aid of a committee of technical advisers who are offering recommendations for changes.
+7. Continued its studies of school building finance.
+
+Determination of Local Needs
+
+Last year in its second report (Pages 10, 11) the Commission suggested 11 procedures to be followed in determining school building requirements. As a result of its studies during the past year, the Commission has modified the original recommendations into these:
+
+[The text continues on the next page.]

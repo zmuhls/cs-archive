@@ -1,0 +1,68 @@
+# ommendations
+
+**Document Type:** Document
+
+**Collection:** CS Archive
+
+**Source:** Toward-Better-Schools_page_34.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:01:09.393585
+
+---
+
+## Transcription
+
+ommendations
+
+tion Commissioner over health and safety regulations.
+
+6. Extend the life of the Commission another year.
+Detailed information on each recommendation follows:
+
+1. Emergency State Advances
+
+During the past year, six districts qualified for emergency advances from the $200,000 appropriation made by the Legislature for the 1951-52 State Fiscal year. However, the Commission estimates that a greater number of districts will qualify during the next year and that an appropriation of $700,000 will be needed to finance this program in 1952-53, providing the provision for rapidly growing districts is adopted.
+
+The bill being submitted by the Commission for extension of the emergency advance program contains several amendments to the existing law (Section 3003-e, Education Law) which experience has indicated are needed. These amendments will:
+
+A. Give preference during this period of increasing elementary school enrollments to applications for construction of elementary schools to eliminate or avoid overcrowding.
+
+B. Give preference at this time to applications for high school construction to the districts which cannot send their high school pupils to other districts and which have taken action to include in the districts all the territory that should be served by the new high school.
+
+C. Change and clarify cost allowance provisions, define more precisely the debt service for which advances of State money will be made and otherwise clarify the computation of the emergency advances.
+
+D. Clarify provisions relating to repayment of advances and provide for a longer repayment period under certain conditions.
+
+E. Eliminate the section relating to districts which had emergency school building requirements prior to April 1, 1951, because they have had two years to apply for advances and include a section for districts which have had emergency requirements since that date.
+
+F. Repeat the provision granting aid for planning of school construction because there have been no applications for this type of assistance.
+
+2. Enlarged City School Districts
+
+City school districts in cities under 125,000 population generally provide for the education of pupils from a large number of districts in the areas surrounding the city.
+
+In the past, much of the cost of educating these non-resident pupils has been borne by the city district and the State through education aid, while the local tax rates of the outlying districts have remained far below that of the city district.
+
+The Commission has found that the present State law on education aid for contract districts and non-resident pupils is one of the factors which has caused an inequitable local tax burden as between the districts which operate schools and those that do not and has erected a barrier to enlargement of the city school districts. The fact that some districts do not charge tuition sufficient to cover the cost of instructing non-resident pupils is another factor.
+
+To facilitate the enlargement of city school districts, the Commission is recommending the Legislature approve a revised State aid formula applicable to annexation of rural districts to a city school district.
+
+The State aid revision proposed by the Commission will provide additional aid to the reorganized city school district in an amount nearly equivalent to the aid which would be granted the annexed districts if they had formed a central school district. It will also prevent the loss of State aid that city school districts experience when annexing outlying districts under present laws. Without a change in these State aid provisions, instances might occur in the future where city districts would reject non-resident pupils because of the cost of financing new buildings. The rural area districts then would have to construct their own schools and for that purpose organize small central school districts, costly to the locality and the State. The Commission believes its proposal will prevent such occurrence.
+
+At the same time, the Commission recommends revision of the procedure for annexation of outlying districts to a city school district. Its proposal would provide that:
+
+A. Residents of the area outside the city district would submit to the State Commissioner of Education a petition for consolidation, which must be approved by the school board of the city school district.
+
+B. The State Commissioner would determine boundaries of the area to be annexed in order to have a vote upon the proposition for consolidation.
+
+C. A majority vote in this area would be required for approval of the proposed consolidation.
+
+The changes being recommended by the Commission should encourage the city school districts to take in all the districts which ought to be part of the city school district and should prevent the creation of "islands" surrounded by the enlarged city school districts.
+
+The Commission's plan is a substitute for a provision of the Education Law, adopted by the Legislature in
+
+33

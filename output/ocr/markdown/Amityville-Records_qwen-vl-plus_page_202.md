@@ -1,0 +1,54 @@
+# At this point in the proceedings of the Board, Mrs. Hartman entered the meeting 
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_202.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:18:56.671344
+
+**Source Image:** [📄 page_202.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_202.png)
+
+---
+
+## Source Document
+
+![At this point in the proceedings of the Board, Mrs. Hartman entered the meeting ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_202.png)
+
+---
+
+## Transcription
+
+At this point in the proceedings of the Board, Mrs. Hartman entered the meeting room and took part in the deliberations.
+
+There being no further business, Mr. Axtell moved and Mr. Ketcham seconded the motion that the meeting adjourn. This motion carried.
+
+The President declared the meeting adjourned.
+
+A special meeting of the Board of Education held at the High School Building, on Thursday, September 29, 1833, at eight o'clock P. M., for the purpose of authorizing the President and Clerk to borrow money to meet current expenses and salaries.
+
+The meeting was called to order by Clinton Ingles, Pres.
+
+Present:
+Mr. Clinton Ingles, President.
+Mr. Milford H. Ketcham,
+Theodore F. Axtell, Jr.,
+Christen Hanb, Trustee.
+Mr. C. R. Warren, Clerk.
+
+Absent:
+Mrs. Florence Hartman, Trustee.
+Mr. Herbert M. Care, &
+Mr. Willet F. Whitmore, &
+Mr. R. A. Gardiner, Treasurer.
+
+Mr. Ketcham moved and Mr. Axtell seconded the motion that the President and Clerk be and hereby are authorized to borrow the sum of $5,000.00 from each Andlyville bank; in such amounts and at such times as may be needed, until the tax money is received in January 1834, the proceeds of said loans to be used to meet current expenses and salaries and in consideration of said loans to give the demand notes of the district. This motion unanimously carried.
+
+Mr. Axtell moved and Mr. Hanb seconded the motion that the meeting adjourn.
+
+The President declared the meeting adjourned.

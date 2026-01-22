@@ -1,0 +1,100 @@
+# MICROCOPY RESOLUTION TEST CHART
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_612.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:39:12.978150
+
+**Source Image:** [📄 page_612.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_612.png)
+
+---
+
+## Source Document
+
+![MICROCOPY RESOLUTION TEST CHART](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_612.png)
+
+---
+
+## Transcription
+
+MICROCOPY RESOLUTION TEST CHART
+1/251 AND ISO TEST CHART No. 2
+
+1.0
+1.2
+
+New York Telephone Co.                      $ 53.72
+Long Island Lighting Co.                     82.95
+R. A. Cardiner                                1.60
+Alex Smith                                    2.00
+F. B. Powell & Son                            7.60
+W. Powell & Sons, Inc.                        4.31
+Amity Printing House                         61.48
+Arthur P. Kleiner                             20.00
+Wolde's Print Shop                            1.50
+Amity Pharmacy                                55.47
+F. A. Bartlett Tree Expert Co.              275.00
+Arthur W. Ruff                               20.16
+Joseph Hageman                              16.59
+Alex Taylor & Co., Inc.                     16.90
+A. G. Spalding & Bros.                      25.84
+Unqua Laundries                             10.95
+R. A. Pike Corporation                      53.78
+Dodge & Ancher Inc.                         48.28
+Van Valkenburg                               6.32
+Wood Lumber Co., Inc.                      224.87
+Holland Specialty Co.                        1.00
+Amitville Sales Co., Inc.                   24.55
+Henry Floch                                 25.00
+F. J. Nienburg & Son                         9.62
+M. S. Van Nostrand                           2.20
+Charles H. Anhdown                          11.00
+Esther H. Funnell                           31.23
+Unqua Agency Inc.                           10.00
+Eatonham & Colyer, Inc.                    494.03
+South Bay Consolidated W.Co.                35.60
+Samuel T. Haff                              63.21
+The Van Everen Co.                         128.60
+Peokham Little & Co.                        12.25
+Beckham Little & Co.                        57.89
+The Harter School Supply Co.                25.02
+The Frederick Post Co.                       4.94
+The Underwood Typewriter Co.                 3.60
+Peekley-Cardy Co.                           21.18
+Remington Rand Bus. Ser. Co.               12.65
+The University Pub. Co.                     17.90
+Magnus Brush Material                      10.78
+Ditto, Inc.                                 18.74
+The Prang Company                            8.85
+L. G. Smith & Corona T. Co.                  .60
+F. A. Owen Pub. Co.                         20.12
+Milton Bradley Co.                          70.92
+A. S. Barnes & Co.                           1.75
+American Medical Assoc.                      3.00
+National Geographic Soc.                     3.00
+Department of Education                      3.00
+University of Chicago                        2.50
+
+MICROCOPY RESOLUTION TEST CHART
+1/251 AND ISO TEST CHART No. 2
+
+1.0
+245
+
+[stamp: Amityville Common School District]
+[FILMED BY GOOD SHEPHERD WORK SERVICES
+COLUMBUS, OHIO OPERATOR: J. W. HICKS]
+[FILMED: 4-4-94]
+[FILE CITY OF THE RECORDS OF AMITYVILLE]
+[DATE FILMED: 4-4-94]
+
+APPLIED IMAGE, INC.
+1833 East Main Street
+Binghamton, New York 13901

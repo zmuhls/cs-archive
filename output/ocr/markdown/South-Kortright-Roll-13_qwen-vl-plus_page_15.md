@@ -1,0 +1,55 @@
+# **April 9, 1822**
+
+**Document Type:** Document
+
+**Collection:** CS Archive
+
+**Source:** South-Kortright-Roll-13_page_15.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.9
+
+**Processed:** 2026-01-17T22:43:31.356295
+
+**Source Image:** [📄 page_15.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_15.png)
+
+---
+
+## Source Document
+
+![**April 9, 1822**](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_15.png)
+
+---
+
+## Transcription
+
+**April 9, 1822**
+
+At the Annual Meeting of the inhabitants of School District No. 2 held pursuant to [illegible], it was voted that **Grae** Bennett be Moderator.  
+It was further voted that **Henrietta M. King** be Clerk.  
+It was voted that **James Stewart** be Trustee.  
+**John Griffin** & **Jubal Burson** were appointed Trustees.
+
+It was voted that **Jubal Burson** be First Collector.  
+It was voted that the Collector collect the School Bill & taxes for the ensuing year.
+
+It was voted that **Scholars coming out of other Districts** shall not receive any [illegible] of the School money, accepting **Daniel Foot**.
+
+It was noted that **the by-laws providing they have heretofore been except that Teacher shall examine the quality of the wood and report accordingly**.
+
+The next annual meeting to be held at the School House in District No. 2 on the second Tuesday in April 1823.
+
+**Henrietta M. King** District Clerk
+
+---
+
+**Notes:**
+
+- The word "[illegible]" appears where the text is too faded or unclear to decipher accurately.
+- There is a correction noted where "Grae" appears to be a contraction or abbreviation for a longer name, possibly "George."
+- The phrase "accepting Daniel Foot" suggests a conditional acceptance or agreement involving Daniel Foot.
+- The text "the by-laws providing they have heretofore been except that Teacher shall examine the quality of the wood and report accordingly" seems to be a correction or clarification, possibly indicating an exception to a previous by-law regarding the teacher's responsibilities.
+- The document appears to be written by a single hand, with no clear indication of multiple writers present.
+
+This transcription aims to capture the exact wording and structure of the original document, preserving its historical and linguistic characteristics.

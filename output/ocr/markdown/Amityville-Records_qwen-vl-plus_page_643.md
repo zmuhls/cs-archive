@@ -1,0 +1,59 @@
+# The Eastern Book Company                      $  1.97
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_643.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T23:47:08.834881
+
+**Source Image:** [📄 page_643.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_643.png)
+
+---
+
+## Source Document
+
+![The Eastern Book Company                      $  1.97](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_643.png)
+
+---
+
+## Transcription
+
+The Eastern Book Company                      $  1.97
+Baker & Taylor Company, Inc.                 149.71
+Edward E. Babb & Co., Inc.                   16.49
+The University Publishing Co.                 2.48
+The Gregg Publishing Co.                      2.00
+Alex Smith                                    2.00
+Wood Lumber Company                          34.85
+New York Telephone Company                   57.45
+Philadelphia Inter-State Dairy Council        3.74
+The Scholl Mfg. Co., Inc.                    15.00
+Charles H. Ashdown                            15.00
+G. Schirmer, Inc.                             4.52
+Weldan's Print Shop                          24.50
+Florence Hartman                              3.00
+Underwood Typewriter Company                  1.50
+Leroy F. Kimmel                              31.12
+Robert Dickie-Dickie & Kelley, Inc.          30.00
+The Unqua Leundrion, Inc.                     2.75
+The Van Everen Company                       35.40
+Isabella J. Lennon                           60.55
+Mr. & Mrs. Edward R. Gage                   139.05
+Van Volkenburg                                1.61
+B. Seldsen                                    6.84
+John E. Styles                                14.35
+Henry W. Leigh                              420.00
+Alex Taylor & Co., Inc.                      42.84
+Arthur W. Huff                               21.12
+Ester H. Punnell                             25.00
+Esther H. Funnell                            26.46
+
+There being no further business, the meeting thereupon adjourned.
+
+G. R. Warren, Clerk

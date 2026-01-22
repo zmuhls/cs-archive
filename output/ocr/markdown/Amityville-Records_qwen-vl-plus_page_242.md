@@ -1,0 +1,36 @@
+# The Clerk read the application of Francis B. Smith, 12 Franklin Street for the p
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_242.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.0
+
+**Processed:** 2026-01-17T22:26:48.962267
+
+**Source Image:** [📄 page_242.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_242.png)
+
+---
+
+## Source Document
+
+![The Clerk read the application of Francis B. Smith, 12 Franklin Street for the p](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_242.png)
+
+---
+
+## Transcription
+
+```
+The Clerk read the application of Francis B. Smith, 12 Franklin Street for the position of assistant janitor. The President directed that the application be received and referred to the Building and Grounds Committee for consideration.
+
+Mr. Case of the Building and Grounds Committee reported that in conjunction with Architect Ingle a careful study of the proposal to heat the old grammar school building from the boilers in the new junior high school building had been made and that the Committee recommended that at the annual district meeting in August a proposition be laid before the voters to provide for the installation of an additional boiler in the junior high school building and from that building to heat both the old grammar school building and the high school building including the installation of a new ventilating system in the grammar school building at a cost of about $55,000.00 and that a second proposition be laid before the voters to provide for the use of the boilers now in the junior high school building to heat the old grammar school building including the installation of a new ventilating system for the grammar school building at an estimated cost of about $20,000.00
+
+Mr. Case moved and Mr. Whitmore seconded the motion that there be submitted to the qualified electors of Joint Union Free School District No. 6, Towns of Babylon, Suffolk County and Oyster Bay, Nassau County, New York, at the annual district meeting to be held at the High School Building, in said District, on the 7th day of August 1934, at 9:00 o'clock P. M., daylight savings time, the following propositions:
+
+[illegible - 232 consecutive lines unreadable]
+
+[il

@@ -1,0 +1,54 @@
+# Special Meeting of the Board of Education held at the
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_631.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 0.0
+
+**Processed:** 2026-01-17T23:45:06.363823
+
+**Source Image:** [📄 page_631.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_631.png)
+
+---
+
+## Source Document
+
+![Special Meeting of the Board of Education held at the](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_631.png)
+
+---
+
+## Transcription
+
+Special Meeting of the Board of Education held at the  
+High School on Wednesday, April 2, 1930, at 8:00 P. M.,  
+pursuant to the call of the president.  
+
+Present:  
+Mr. Clinton Inglee, President.  
+" Louis Vogel,  
+" Willet P. Whitmore,  
+" Herbert M. Case,  
+" Lawrence S. Colt,  
+Mrs. Florence Hartman, Trustee.  
+Grace Burns,  
+Mr. Clifford R. Warren, Clerk.  
+Mr. Ralph A. Gardiner, Treasurer.  
+
+The minutes of the previous meeting were read and approved.  
+
+On motion mode, duly seconded and carried, it was resolved that all business transacted at this meeting have the same effect as if transacted at a regular meeting.  
+
+The request of Mr. H. A. B. Bliss, for a leave of absence for one week beginning April 21st, read by the Clerk. Mr. Ruff reported that he would teach the classes usually handled by Mr. Bliss. Motion made, duly seconded and carried, that provided proper arrangements can be made to take care of his classes that the request be granted. Motion made, duly seconded and carried, that if no substitute teacher be employed to teach his classes that he be paid his regular salary.  
+
+The Teachers Committee reported no inexcusable absences for the month of March but that Mrs. Ralph Gardiner was entitled to six days salary for substitute teaching: Mrs. Albert Beierling to twelve days; Mrs. Ruby Stephens to three days; Mrs. Clifford Gooding to six days; Miss Marjorie Clune to twenty-one days; Mrs. Brown to ten days; Mrs. Thomas Scott to one and one half days and Mrs. Geraldine Baird to one day. Motion made, duly seconded and carried, that the report be accepted and placed on file and that the substitute teachers' be paid accordingly.  
+
+Motion made, duly seconded and carried, that effective as of April 1, 1930, Miss Robinson, Substitute Nurse, be granted a $10.00 weekly increase in salary.  
+
+[stamp: April 2, 1930]  
+[illegible - 172 consecutive lines unreadable]
+[illeg

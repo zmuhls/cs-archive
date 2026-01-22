@@ -1,0 +1,66 @@
+# MICROCOPY RESOLUTION TEST CHART
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_422.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:59:24.759729
+
+**Source Image:** [📄 page_422.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_422.png)
+
+---
+
+## Source Document
+
+![MICROCOPY RESOLUTION TEST CHART](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_422.png)
+
+---
+
+## Transcription
+
+```
+MICROCOPY RESOLUTION TEST CHART
+ANSI AND ISO TEST CHART No. 2
+
+1.0
+1.0
+89
+
+Special Meeting of the Board of Education held at the High School on Thursday, February 24, 1927, at 8:00 P.M., pursuant to the call of the President:
+
+Present:
+Mrs. Hartman, President.
+Mr. Carswell, Trustee.
+Mr. Vogel, Trustee.
+Mr. Van Dyck, Trustee.
+Mrs. Burns, Trustee.
+
+Absent:
+Mr. Thorn, Trustee
+
+The Clerk was present and then excused.
+
+On motion made, seconded and carried, it was resolved that any business which could properly come before a regular meeting be considered at this meeting.
+
+The By-Laws Committee submitted a written report.
+
+Mr. Harry Fischel and his associate, Mr. R. T. Oliver, were present at the request of the Cemetary Committee.
+
+On motion of Mr. Inglee, seconded by Dr. Van Dyck, it was voted that the President appoint an investigator to work under Mr. Fischel's direction in tracing present ownership of cemetery lots, at $6.00 per day for a period of one month.
+
+On motion of Mr. Carswell, seconded by Mr. Vogel, it was resolved that the Board go into executive session for the consideration of teachers' contracts and by-laws.
+
+Article 1 and 2 of the By-Laws read and adopted by a vote of four to one.
+
+Article 3 adopted by a vote of five to naught.
+Article 4 adopted by a vote of five to naught.
+Article 5 adopted by a vote of five to naught.
+Article 6 adopted by a vote of five to naught.
+Article 7 adopted by a vote of four to naught one.
+Article 8 adopted by a vote of five to naught.

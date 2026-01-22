@@ -1,0 +1,43 @@
+# Bradford Union School (Shenango County) -
+
+**Document Type:** Document
+
+**Collection:** CS Archive
+
+**Source:** District-Notecard-Records_page_19.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-18T00:15:36.838403
+
+**Source Image:** [📄 page_19.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_19.png)
+
+---
+
+## Source Document
+
+![Bradford Union School (Shenango County) -](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_19.png)
+
+---
+
+## Transcription
+
+Bradford Union School (Shenango County) - 
+
+20 I. 1900 - admitted  
+12 Mar. 1919 - Report of inspection unfavorable  
+Dept. considers impracticable to continue academic dept.  
+16 Je 1919 - Discontinuance of school held over until fall.  
+
+4 Mar. 1924 - advised school of conditions necessary for retention on University roll  
+13 Mar. 1924 - when four points have been taken care of inspection will be made  
+
+18 Je 1924 - school notified it must comply with requirements or dropped from rolls  
+4 Aug. 1928 - school to be dropped in fall unless requirements are met  
+25 Apr. 1928 - question of grade to rest until matter re organization of central rural school dist. is settled.  
+
+20 Nov. 1928 - appl. for adv. ackd  
+21 Feb. 1929 - report of inspection - school to be commended in fine spirit but impossible to advance - when new equipment is provided and new building completed will be glad to consider it again.  
+18 F 1930 - ackd 1 re possible advancement - too ambitious a proposal for size of school

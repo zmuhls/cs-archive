@@ -1,0 +1,57 @@
+# **Transcription:**
+
+**Document Type:** Document
+
+**Collection:** CS Archive
+
+**Source:** South-Kortright-Roll-13_page_9.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T22:42:20.341564
+
+**Source Image:** [📄 page_9.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_9.png)
+
+---
+
+## Source Document
+
+![**Transcription:**](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_9.png)
+
+---
+
+## Transcription
+
+**Transcription:**
+
+Voted that the Annual Meeting be on the second Tuesday in April 1825  
+Kenneth E. Hengrie District Clerk  
+
+Stamford, April 11th, 1825  
+At the Annual Meeting of the School District No. 2 held at the School House in R. H. Smith's  
+Voted that John [correction: John] be Moderator  
+Voted that Kenneth E. Hengrie be Clerk  
+Voted that James Shadwell and James Grant and Amos Grilley be Inspectors for the building  
+Voted that Peter A grant the Collector  
+Voted that the Wood brought for the use of the School House shall be cut three feet long  
+and Corded by a person to be employed for that purpose  
+Voted that the School House shall not receive more than their proportion except as directed  
+by the Trustees  
+Voted that William [correction: William] be entitled to the use of the School House for the  
+School Money  
+Voted that the [correction: the] School have a room for the use of the Trustees during the  
+school year, except it be in case of necessity  
+
+---
+
+**Notes:**
+
+- The document appears to be a record of an annual meeting for a school district in 1825.
+- There are a few instances of corrections or insertions, indicated by [correction: ...].
+- The handwriting is consistent, suggesting it was written by a single person.
+- Common abbreviations and contractions of the era are preserved, such as "No." for "Number" and "Voted" for "Voted."
+- The spelling is kept exactly as written, even if it appears archaic by modern standards.
+
+This transcription aims to provide an accurate representation of the original document.

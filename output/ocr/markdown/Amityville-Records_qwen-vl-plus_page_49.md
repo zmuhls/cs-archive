@@ -1,0 +1,52 @@
+# Moved, duly seconded and carried, that the Building and Grounds Committee secure
+
+**Document Type:** Meeting Minutes
+
+**Collection:** Amityville Board of Education Records
+
+**Source:** Amityville-Records_page_49.jpg
+
+**Model:** qwen/qwen-vl-plus
+
+**Confidence:** 1.0
+
+**Processed:** 2026-01-17T21:49:53.151062
+
+**Source Image:** [📄 page_49.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_49.png)
+
+---
+
+## Source Document
+
+![Moved, duly seconded and carried, that the Building and Grounds Committee secure](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_49.png)
+
+---
+
+## Transcription
+
+Moved, duly seconded and carried, that the Building and Grounds Committee secure bids for laying a wood floor in the High School auditorium and that specifications for same be prepared by Lewis Inglee, Architect.
+
+The Building and Grounds Committee reported that a few property owns on Ketohan Avenue had buildings extending over on the cemetery property recently acquired.
+
+Moved, duly seconded and carried, that the Clerk notify all property owns who have encumbrances encroached on the school property to remove same immediately as the Board is desirous of erecting a fence.
+
+Moved, duly seconded and carried, that Samuel T. Hildreth of Amityville be designated as Counsel to the Board to handle all legal work in connection with the sale of the $225,000. bonds and creation of new building.
+
+The following made application for consideration as Consulting Architect:
+
+Frank S. Webber                      Amityville
+Frederick P. Wiedersum               Valley Stream
+Evans & Welch                        New York City
+Wesley Sherwood Bessell            New York City
+Gilbert & Bedell                     Nowark
+Harry K. White                       New York City
+
+On motion made, duly seconded and carried, Mr. Inglee and Mr. Case were designated a Committee to make tentative arrangements for the engaging of a Consulting Architect and to report back to the Board.
+
+A representative of the Nassau Engineering Service appeared before the Board and requested permission to survey the heating system in the High School building with a view of reporting to the Board replacements and repairs needed to have the heating system operate efficiently; said inspection to be made at no cost to the District. Moved, seconded and carried, that the request be granted.
+
+The President appointed Mrs. Burns Chairman of the Commencement Committee.
+
+Mr. Huff reported that due to a falling off in attendance the Parent Teachers Association had closed the Ceteria.
+
+In a letter dated May 5th, George A. Brown made application for appointment an District Census Taker for the year 1931. Moved, seconded and carried, that George A. Brown be appointed census taker at a salary of $250.00
