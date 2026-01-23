@@ -12,6 +12,8 @@ toc_icon: "book"
 
 This collection gathers materials across the archive that explicitly reference the New York State Teachers' Association (NYSTA), spanning 1845-1940s. Each entry links to the digitized artifact with a thumbnail preview.
 
+[View comprehensive collection reference](https://github.com/zmuhls/cs-archive/blob/main/output/collections/nys-teachers-association.md){: .btn .btn--info .btn--small}
+
 ---
 
 ## Table of Contents

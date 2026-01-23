@@ -157,7 +157,7 @@ def run_comparison(
     print("  Loading tokenizer and image processor...")
     tokenizer = tokenizer_utils.get_tokenizer(MODEL_NAME)
     image_processor = get_image_processor(MODEL_NAME)
-    renderer = renderers.Qwen3VLRenderer(tokenizer, image_processor)
+    renderer = renderers.get_renderer("qwen3_vl", tokenizer, image_processor)
 
     # Initialize clients
     service = tinker.ServiceClient()

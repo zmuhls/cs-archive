@@ -12,6 +12,8 @@ toc_icon: "archive"
 
 This collection presents primary source materials from the New York State Archives documenting local school district governance, administration, and records from the 19th and early 20th centuries.
 
+[View comprehensive collection reference](https://github.com/zmuhls/cs-archive/blob/main/output/collections/nys-local-records.md){: .btn .btn--info .btn--small}
+
 ---
 
 ## Overview

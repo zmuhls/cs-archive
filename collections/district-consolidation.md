@@ -8,6 +8,8 @@ filter_by: county
 
 This collection contains school district consolidation tables from NYS Archives Series A4456. The records document the reorganization of rural school districts across New York State, organized by county.
 
+[View comprehensive collection reference](https://github.com/zmuhls/cs-archive/blob/main/output/collections/district-consolidation-by-county.md){: .btn .btn--info .btn--small}
+
 ## Overview
 
 - **Source:** NYS Archives Series A4456
