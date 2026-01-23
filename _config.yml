@@ -95,7 +95,7 @@ exclude:
   - .jekyll-cache
   - README.md
   - docs/
-  - scripts/
+  - pipeline/
   - output/
   - raw/
   - csv/
@@ -109,9 +109,10 @@ exclude:
   - DEVLOG.md
   - TODO.md
   - Dockerfile
-  - requirements.txt
   - dev/
   - .env
+  - tinker-cookbook/
+  - tmp/
 
 # Explicitly include thumbnail assets for use in cards/galleries
 include:

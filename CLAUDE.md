@@ -27,38 +27,38 @@ Site deploys via GitHub Actions (`.github/workflows/jekyll-gh-pages.yml`) to Git
 
 ```bash
 # 1. Ingest images and build inventory
-python scripts/build_images_inventory.py
+python pipeline/scripts/build_images_inventory.py
 
 # 2. Generate thumbnails for LLM labeling
-python scripts/generate_thumbnails.py
+python pipeline/scripts/generate_thumbnails.py
 
 # 3. Prepare LLM labeling requests
-python scripts/prepare_image_label_requests.py
+python pipeline/scripts/prepare_image_label_requests.py
 
 # 4. Run automated LLM labeling (uses OPENROUTER_KEY)
-python scripts/batch_label_images.py
+python pipeline/scripts/batch_label_images.py
 
 # 5. Merge labels into inventory
-python scripts/merge_image_labels.py
+python pipeline/scripts/merge_image_labels.py
 
 # 6. Deduplicate inventory entries
-python scripts/dedupe_images_inventory.py
+python pipeline/scripts/dedupe_images_inventory.py
 
 # 7. Run OCR (resumes from where it left off)
-python process_archive.py --collection images
+python pipeline/process_archive.py --collection images
 
 # 8. Consolidate artifacts and generate manifest
-python scripts/consolidate_artifacts.py
-python scripts/generate_archive_manifest.py
+python pipeline/scripts/consolidate_artifacts.py
+python pipeline/scripts/generate_archive_manifest.py
 ```
 
 ### OCR Processing
 
 ```bash
-python process_archive.py --collection all      # All collections
-python process_archive.py --collection images   # Loose images only
-python process_archive.py --collection kheel    # Kheel Center PDFs
-python process_archive.py --collection nys      # NYS Archives PDFs
+python pipeline/process_archive.py --collection all      # All collections
+python pipeline/process_archive.py --collection images   # Loose images only
+python pipeline/process_archive.py --collection kheel    # Kheel Center PDFs
+python pipeline/process_archive.py --collection nys      # NYS Archives PDFs
 ```
 
 ## Architecture Overview
@@ -66,30 +66,31 @@ python process_archive.py --collection nys      # NYS Archives PDFs
 ### Processing Pipeline
 
 ```text
-raw/scans/Kheel Center/img/     →  build_images_inventory.py  →  csv/images_inventory.csv
-                   →  generate_thumbnails.py     →  derived/thumbs/
-                   →  prepare_image_label_requests.py → prompts/images_label_requests.jsonl
-                   →  batch_label_images.py      →  prompts/images_label_responses.jsonl
-                   →  merge_image_labels.py      →  csv/images_inventory_labeled.csv
-                   →  process_archive.py         →  output/ocr/text/, output/ocr/metadata/
-                   →  consolidate_artifacts.py   →  output/archive/documents/, output/archive/research/
-                   →  generate_archive_manifest.py → output/archive/manifest.json
+raw/scans/Kheel Center/img/
+  → pipeline/scripts/build_images_inventory.py      → csv/images_inventory.csv
+  → pipeline/scripts/generate_thumbnails.py         → derived/thumbs/
+  → pipeline/scripts/prepare_image_label_requests.py → prompts/images_label_requests.jsonl
+  → pipeline/scripts/batch_label_images.py          → prompts/images_label_responses.jsonl
+  → pipeline/scripts/merge_image_labels.py          → csv/images_inventory_labeled.csv
+  → pipeline/process_archive.py                     → output/ocr/text/, output/ocr/metadata/
+  → pipeline/scripts/consolidate_artifacts.py       → output/archive/documents/, output/archive/research/
+  → pipeline/scripts/generate_archive_manifest.py   → output/archive/manifest.json
 ```
 
 ### Core Components
 
-1. **`ocr.py`** - QwenVLOCR class
+1. **`pipeline/ocr.py`** - QwenVLOCR class
    - Async API calls with retry logic
    - PDF-to-image at 300 DPI
    - Document-type-specific prompts
    - Confidence scoring via [?] and [illegible] markers
 
-2. **`process_archive.py`** - Batch orchestrator
+2. **`pipeline/process_archive.py`** - Batch orchestrator
    - Reads from `csv/images_inventory_labeled.csv`
    - Maps `item_type` to OCR prompts (letter→handwritten, form→table_form, etc.)
    - Resume capability: skips already-processed images
 
-3. **`scripts/consolidate_artifacts.py`** - Post-OCR processing
+3. **`pipeline/scripts/consolidate_artifacts.py`** - Post-OCR processing
    - Groups outputs by `artifact_group_id`
    - Merges sequential pages, culls duplicates (>85% text similarity)
    - Routes research notes to `output/archive/research/`
@@ -211,7 +212,7 @@ include:
 
 #### When Generating Collection Pages
 
-Scripts that generate collection markdown (e.g., `scripts/generate_nys_teachers_collection.py`) should use:
+Scripts that generate collection markdown (e.g., `pipeline/scripts/generate_nys_teachers_collection.py`) should use:
 
 1. **For Jekyll-rendered pages:** Use `relative_url` filter with local paths
 2. **For static markdown:** Use GitHub Media URLs, NOT raw.githubusercontent.com
@@ -292,16 +293,16 @@ Configuration files: `/tmp/docker-compose.yml`, `/tmp/Dockerfile`
 Transform collections into OMEKA-compatible CSV:
 
 ```bash
-python scripts/generate_omeka_csv.py
+python pipeline/scripts/generate_omeka_csv.py
 # Output: output/omeka/items_import.csv (355 items across 3 collections)
 
 # Generate individual collection markdown files:
-python scripts/generate_nys_teachers_collection.py
-python scripts/generate_county_collection.py
-python scripts/generate_nys_local_records_collection.py
+python pipeline/scripts/generate_nys_teachers_collection.py
+python pipeline/scripts/generate_county_collection.py
+python pipeline/scripts/generate_nys_local_records_collection.py
 
 # Process Amityville PDF separately (665 pages):
-python scripts/process_amityville.py
+python pipeline/scripts/process_amityville.py
 ```
 
 **CSV Schema:**
@@ -371,17 +372,17 @@ Leaflet map at `dev/leaflet/archive-map.html` displays both NYSTA meetings (red 
 
 #### Stage 4: Human-in-the-Loop Review
 
-- Create `scripts/generate_review_queues.py` (hallucination detection, low-confidence flagging)
+- Create `pipeline/scripts/generate_review_queues.py` (hallucination detection, low-confidence flagging)
 - Create `csv/ocr_review_queue.csv` template
-- Create `scripts/apply_corrections.py` for correction ingestion
+- Create `pipeline/scripts/apply_corrections.py` for correction ingestion
 - Document review workflow in CLAUDE.md
 
 #### Stage 5: Multi-Model Ensemble
 
-- Abstract OCR class for multiple backends in `ocr.py`
+- Abstract OCR class for multiple backends in `pipeline/ocr.py`
 - Add `qwen/qwen-vl-max` as secondary model via OpenRouter
 - Add Mistral OCR as tertiary model via OpenRouter
-- Create `scripts/ensemble_ocr.py` for comparative runs
+- Create `pipeline/scripts/ensemble_ocr.py` for comparative runs
 - Add consensus scoring to metadata schema
 - Test ensemble on 10 challenging documents
 
@@ -395,9 +396,18 @@ Leaflet map at `dev/leaflet/archive-map.html` displays both NYSTA meetings (red 
 
 ### Done
 
+#### 2026-01-22 — Directory Reorganization
+
+- Moved all Python code into `pipeline/` (ocr.py, process_archive.py, ocr_config.yaml, requirements.txt, scripts/)
+- Updated PROJECT_ROOT path resolution in all 32+ scripts
+- Moved comprehensive markdown exports to `output/comprehensive/`
+- Updated `_config.yml` exclude list to reference `pipeline/`
+- Rewrote AGENTS.md with current structure
+- Updated all CLAUDE.md path references
+
 #### 2026-01-18 — Link Audit & Image Documentation
 
-- Created `scripts/link_audit.py` for automated link pattern detection and live site validation
+- Created `pipeline/scripts/link_audit.py` for automated link pattern detection and live site validation
 - Documented Git LFS image handling in CLAUDE.md (critical for future sessions)
 - Identified critical issues: `_artifacts/` untracked, LFS images not rendering via `raw.githubusercontent.com`
 - Generated `output/link_audit_report.csv` (1,062 issues) and `output/LINK_AUDIT_SUMMARY.md`
@@ -411,6 +421,12 @@ Leaflet map at `dev/leaflet/archive-map.html` displays both NYSTA meetings (red 
 - Add homepage collection images; standardize "NYS Teachers' Association" naming
 - Integrate map page with theme layout (remove standalone W3.CSS styling)
 
+#### 2026-01-19 — Map Page Fixes (Leaflet)
+
+- Fix partial/half rendering and off-centered map by invalidating size on load/resize/tab changes
+- Increase map height to viewport-relative with min/max bounds (70vh, 420–800px)
+- Prevent markdown-style text from visually bleeding into the map area; convert note to HTML and style as a subtle `.location-note`
+
 #### 2026-01-19 — Mark legacy `docs/` copy
 
 - Added `docs/README.md` with deprecation notice and canonical site link
@@ -423,15 +439,15 @@ Leaflet map at `dev/leaflet/archive-map.html` displays both NYSTA meetings (red 
 #### 2025-01-17 — NYS Archives Local Records Collection
 
 - Created third collection from Series A4645, B0594, A4456
-- Created `scripts/generate_nys_local_records_collection.py` and `scripts/process_amityville.py`
-- Updated `scripts/generate_omeka_csv.py` to include new collection (355 total items)
+- Created `pipeline/scripts/generate_nys_local_records_collection.py` and `pipeline/scripts/process_amityville.py`
+- Updated `pipeline/scripts/generate_omeka_csv.py` to include new collection (355 total items)
 
 #### 2025-01-16 — OMEKA Integration
 
-- Created `scripts/generate_omeka_csv.py` for CSV import preparation (249 items)
+- Created `pipeline/scripts/generate_omeka_csv.py` for CSV import preparation (249 items)
 - Generated Dublin Core metadata mapping; modified "Thanks, Roy" theme
 
 #### 2024-12-24 — Artifact Collation
 
 - Added artifact_link_type, artifact_confidence, needs_review columns to inventory
-- Created `scripts/refine_artifact_groups.py` for text-similarity-based grouping
+- Created `pipeline/scripts/refine_artifact_groups.py` for text-similarity-based grouping
