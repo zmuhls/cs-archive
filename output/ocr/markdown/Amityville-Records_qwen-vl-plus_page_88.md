@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:57:30.374920
 
-**Source Image:** [📄 page_88.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_88.png)
+**Source Image:** [📄 page_88.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_88.png)
 
 ---
 
 ## Source Document
 
-![prunted and feed at an estimated cost of $522.50.](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_88.png)
+![prunted and feed at an estimated cost of $522.50.](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_88.png)
 
 ---
 

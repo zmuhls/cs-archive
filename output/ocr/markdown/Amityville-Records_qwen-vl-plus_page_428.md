@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:00:31.696067
 
-**Source Image:** [📄 page_428.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_428.png)
+**Source Image:** [📄 page_428.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_428.png)
 
 ---
 
 ## Source Document
 
-![Teachers' Committee recommended salary of $1,750. for the Principal for the comi](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_428.png)
+![Teachers' Committee recommended salary of $1,750. for the Principal for the comi](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_428.png)
 
 ---
 

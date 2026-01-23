@@ -1,25 +1,32 @@
 # Chenango County
 
-**Table Type:** Union Free Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 23)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_23.jpg
 
-**Processed:** 2026-01-01T22:18:23.054174
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_23.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_23.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:32:48.364209
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_23.jpg](../tables/images/District-Consolidation-Data_100-116_page_23.jpg)
 
 ---
 
 ## Source Document
 
-![Chenango County - Union Free Schools - Page 23](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_23.jpg)
+![Chenango County](../tables/images/District-Consolidation-Data_100-116_page_23.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 7 | Mc Donough | 1 May 1912 |  |  |  |
+Chenango County
+Union Free Schools
+
+| No. of District | NAME OF TOWN   | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of Board of Trustees | REMARKS |
+|-----------------|----------------|--------------------------------------------|--------------------------------------------------|--------------------------|---------|
+| 7               | Mc Donough     | 1 May 1912                                 | [blank]                                          | [blank]                  | [blank] |

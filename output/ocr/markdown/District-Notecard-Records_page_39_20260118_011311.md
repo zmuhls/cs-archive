@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T01:20:29.801619
 
-**Source Image:** [📄 page_39.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_39.png)
+**Source Image:** [📄 page_39.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_39.png)
 
 ---
 
 ## Source Document
 
-![Cleveland Union School (Oswego County)](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_39.png)
+![Cleveland Union School (Oswego County)](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_39.png)
 
 ---
 

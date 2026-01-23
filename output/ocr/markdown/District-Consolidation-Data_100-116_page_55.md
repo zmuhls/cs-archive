@@ -1,28 +1,36 @@
 # Essex County
 
-**Table Type:** Union Free Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 55)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_55.jpg
 
-**Processed:** 2026-01-01T22:31:31.657634
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_55.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_55.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:40:04.708345
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_55.jpg](../tables/images/District-Consolidation-Data_100-116_page_55.jpg)
 
 ---
 
 ## Source Document
 
-![Essex County - Union Free Schools - Page 55](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_55.jpg)
+![Essex County](../tables/images/District-Consolidation-Data_100-116_page_55.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Schroon | 3 April 1891 |  | 3 |  |
-| 1 | Keene | 1 May 1916 |  | 5 |  |
-| 2 | Moriah | 26 June 1920 |  | 5 |  |
-| 1 | Minerva | 18 July 1922 |  | 3 |  |
+Essex County
+Union Free Schools
+
+| No. of district | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT |  |  | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT |  |  | No. of hours | REMARKS |
+|------------------|--------------|---------------------------------------------|----|----|----------------------------------------------------|----|----|----------------|---------|
+|                  |              | Day                                         | Month | Year | Day                                                | Month | Year |                |         |
+| 1                | Schroon      | 3                                           | April | 1891 | [blank]                                            | [blank] | [blank] | 3              | [blank] |
+| 1                | Keene        | 1                                           | May   | 1916 | [blank]                                            | [blank] | [blank] | 5              | [blank] |
+| 2                | Moriah       | 26                                          | June  | 1920 | [blank]                                            | [blank] | [blank] | 5              | [blank] |
+| 1                | Minerva      | 18                                          | July  | 1922 | [blank]                                            | [blank] | [blank] | 3              | [blank] |

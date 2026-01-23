@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:25:43.399757
 
-**Source Image:** [📄 page_565.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_565.png)
+**Source Image:** [📄 page_565.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_565.png)
 
 ---
 
 ## Source Document
 
-![The Building and Grounds Committee reported that both schools were running short](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_565.png)
+![The Building and Grounds Committee reported that both schools were running short](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_565.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:26:48.962267
 
-**Source Image:** [📄 page_242.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_242.png)
+**Source Image:** [📄 page_242.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_242.png)
 
 ---
 
 ## Source Document
 
-![The Clerk read the application of Francis B. Smith, 12 Franklin Street for the p](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_242.png)
+![The Clerk read the application of Francis B. Smith, 12 Franklin Street for the p](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_242.png)
 
 ---
 

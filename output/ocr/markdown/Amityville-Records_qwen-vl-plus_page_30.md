@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:46:26.406001
 
-**Source Image:** [📄 page_30.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_30.png)
+**Source Image:** [📄 page_30.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_30.png)
 
 ---
 
 ## Source Document
 
-![Moved, duly seconded and carried, that the Purchasing Committee purchase two sma](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_30.png)
+![Moved, duly seconded and carried, that the Purchasing Committee purchase two sma](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_30.png)
 
 ---
 

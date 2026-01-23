@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:47:24.890125
 
-**Source Image:** [📄 page_355.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_355.png)
+**Source Image:** [📄 page_355.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_355.png)
 
 ---
 
 ## Source Document
 
-![B. H. Sheldon & Co.                      $221.70](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_355.png)
+![B. H. Sheldon & Co.                      $221.70](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_355.png)
 
 ---
 

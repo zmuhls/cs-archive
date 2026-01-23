@@ -1,44 +1,68 @@
-# Greene County
+# District Consolidation Data 100 116 page 67
 
-**Table Type:** Consolidated Districts
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 67)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_67.jpg
 
-**Processed:** 2026-01-01T22:36:54.044599
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_67.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_67.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:42:42.327258
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_67.jpg](../tables/images/District-Consolidation-Data_100-116_page_67.jpg)
 
 ---
 
 ## Source Document
 
-![Greene County - Consolidated Districts - Page 67](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_67.jpg)
+![District Consolidation Data 100 116 page 67](../tables/images/District-Consolidation-Data_100-116_page_67.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 27 | Jewett | 13 May 1914 | 2 14 273 12 | 7 Jewett |  |
-| 89 | Jewett | 26 September 1913 | 7 19 503 12 | 8 Jewett |  |
-| 616 | Greenville | 17 June 1919 | 6 36 270 12 | 6 Greenville |  |
-| 413 | New Baltimore | 17 June 1919 | 4 20 975 cont | 4 New Baltimore |  |
-| 2 | Conesville, Sch. Co. | 30 July 1919 | 1 36 280 cont | 2 Prattsville |  |
-| 26 | Jewett | 10 February 1920 | 2 18 815 12 | 6 Jewett |  |
-| 612 | New Baltimore | 19 July 1920 | 6 15 005 cont | 12 New Baltimore |  |
-| 1213 | Durham | 25 August 1920 | 12 59 316 12 | 12 Durham |  |
-| 910 | Catskill | 15 June 1922 | 9 40 370 1 cont | 10 Catskill |  |
-| 1012 | Catskill | 24 July 1922 | 10 73 590 1 cont | 10 Catskill |  |
-|  | Greenville, Durham, Coxsackie, New Baltimore, Cairo, Green Co and Coeymans, Mesters, Rensselaerville, New Scotland, Albany Co. |  |  |  |  |
-|  | Durham, Cairo, Greenville, Rensselaerville, Conesville |  |  |  |  |
-|  | Cairo, Durham, Athens, Catskill, Coxsackie, Greenville |  |  |  |  |
-|  | Hunter, Jewett, Lexington |  |  |  |  |
-|  | Windham, Jewett, Ashland, Durham, Jewett, Lexington, Ashland, Windham |  |  |  |  |
-|  | Gibson (Schoharie Co.) |  |  | 1 Gibson (Sch. Co.) |  |
-|  | Prattsville + Roxbury |  |  | 1 Roxbury (Del. Co.) |  |
-|  | Roxbury + Gibson (Del. Co.) |  |  | 1 Roxbury (Del. Co.) |  |
-|  | Roxbury + Gibson (Del. Co.) |  |  | 1 Roxbury (Del. Co.) |  |
-|  | Roxbury + Gibson (Del. Co.) |  |  | 1 Roxbury (Del. Co.) |  |
+```
+130
+Greene County
+
+Consolidated Districts
+
+| No. of | NAME OF TOWN | DATE OF SCHOOL-MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. new dist. | REMARKS |
+|--------|--------------|---------------------------------------------|--------------------------------------------------|---------------|---------|
+|        |              | Day Month Year                              | Day Month Year                                   |               |         |
+| 247    | Jewett       | 13 May 1914                                 | 2 7 1927                                         | 7 Jewett      |         |
+| 889    | Jewett       | 26 September 1918                           | 8 11 1930                                        | 8 Jewett      |         |
+| 6416   | Greenville   | 17 June 1919                                | 16 20 1921                                       | 6 Greenville  |         |
+| 4913   | New Baltimore| 17 June 1919                                | 4 26 1920                                        | 4 New Baltimore|         |
+| 2      | Fratts ville | 30 July 1919                                | 2 25 1920                                        | 2 Fratts ville|         |
+| 246    | Jewett       | 10 February 1920                            | 12 19 1920                                       | 6 Jewett      |         |
+| 6410   | New Baltimore| 19 July 1920                                | 13 19 1920                                       | 12 New Baltimore|        |
+| 12613  | Durham       | 25 August 1920                              | 9 15 1920                                        | 12 Durham     |         |
+| 9110   | Catskill     | 15 June 1922                                | 10 12 1922                                       | 10 Catskill   |         |
+| 10412  | Catskill     | 24 July 1922                                | 11 13 1922                                       | 10 Catskill   |         |
+
+[Handwritten notes below the table provide additional details about district consolidations and designations, including dates, locations, and specific notes about each consolidation. These notes are not formatted in a tabular structure but are written in cursive handwriting.]
+
+Examples of handwritten notes:
+- "Greenville + Durham = Greenville-Durham"
+- "Designation of district 15 May 1930"
+- "C.R.P.S. laid out 12 June 1930"
+- "Meeting held 10 April 1931"
+- "Designation of district 16 April 1931"
+- "Assessment papers in folder"
+- "C.R.P.S. laid out 28 Oct. 1931"
+- "Meeting held 29 April 1931"
+- "Designation of district 11 July 1931"
+- "Forster"
+- "1 June 1931 to take effect 1 Sept. 1931"
+- "1 March 1937 to take effect 1 July 1937"
+- "1 March 1937 to take effect 1 July 1937"
+```
+
+### Notes:
+- The handwritten notes are not formatted in a tabular structure but are written in cursive handwriting.
+- The table includes pre-printed text for headers and some entries, while the dates, names, and additional remarks are filled in by hand.
+- The handwritten notes provide additional context and details about the consolidation of districts, including specific dates, locations, and notes about each consolidation.

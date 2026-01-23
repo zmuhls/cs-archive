@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:21:00.886858
 
-**Source Image:** [📄 page_213.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_213.png)
+**Source Image:** [📄 page_213.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_213.png)
 
 ---
 
 ## Source Document
 
-![Mr. Ketcham moved and Mrs. Hartman seconded the motion that the High School audi](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_213.png)
+![Mr. Ketcham moved and Mrs. Hartman seconded the motion that the High School audi](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_213.png)
 
 ---
 

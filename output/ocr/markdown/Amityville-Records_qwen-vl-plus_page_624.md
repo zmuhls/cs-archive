@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:43:20.142111
 
-**Source Image:** [📄 page_624.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_624.png)
+**Source Image:** [📄 page_624.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_624.png)
 
 ---
 
 ## Source Document
 
-![The following bills were read by the Clerk and ordered referred to the Finance C](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_624.png)
+![The following bills were read by the Clerk and ordered referred to the Finance C](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_624.png)
 
 ---
 

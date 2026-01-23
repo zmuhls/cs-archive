@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:31:06.328941
 
-**Source Image:** [📄 page_595.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_595.png)
+**Source Image:** [📄 page_595.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_595.png)
 
 ---
 
 ## Source Document
 
-![ALEX SMITH AS JUNIOR AND OF H. J. DEUENHAUER, A. S. ADAMS, CLARENCE LLOYD AND JO](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_595.png)
+![ALEX SMITH AS JUNIOR AND OF H. J. DEUENHAUER, A. S. ADAMS, CLARENCE LLOYD AND JO](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_595.png)
 
 ---
 

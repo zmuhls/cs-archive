@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:41:39.846319
 
-**Source Image:** [📄 page_6.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_6.png)
+**Source Image:** [📄 page_6.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_6.png)
 
 ---
 
 ## Source Document
 
-![The L. W. Singer Company                      $ 10.90](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_6.png)
+![The L. W. Singer Company                      $ 10.90](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_6.png)
 
 ---
 

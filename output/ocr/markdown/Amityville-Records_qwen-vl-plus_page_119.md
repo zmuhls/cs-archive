@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:03:45.756430
 
-**Source Image:** [📄 page_119.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_119.png)
+**Source Image:** [📄 page_119.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_119.png)
 
 ---
 
 ## Source Document
 
-![Mr. Ruff reported that a few of the older high school pupils were causing troubl](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_119.png)
+![Mr. Ruff reported that a few of the older high school pupils were causing troubl](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_119.png)
 
 ---
 

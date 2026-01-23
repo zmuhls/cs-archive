@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:54:38.133184
 
-**Source Image:** [📄 page_71.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_71.png)
+**Source Image:** [📄 page_71.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_71.png)
 
 ---
 
 ## Source Document
 
-![The Clerk read letter of Robert Dickie of 112 W. 44th Street, New York City, quo](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_71.png)
+![The Clerk read letter of Robert Dickie of 112 W. 44th Street, New York City, quo](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_71.png)
 
 ---
 

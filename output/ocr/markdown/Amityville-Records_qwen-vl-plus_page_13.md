@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:43:06.170006
 
-**Source Image:** [📄 page_13.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_13.png)
+**Source Image:** [📄 page_13.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_13.png)
 
 ---
 
 ## Source Document
 
-![Mr. Ruff reported that the Girl Scouts of Amityville had requested the use of th](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_13.png)
+![Mr. Ruff reported that the Girl Scouts of Amityville had requested the use of th](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_13.png)
 
 ---
 

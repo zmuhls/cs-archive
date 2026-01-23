@@ -15,7 +15,8 @@ TABLES_THUMBS_DIR = Path("output/ocr/tables/thumbs")
 TABLES_IMAGES_DIR = Path("output/ocr/tables/images")
 NYS_IMAGES_DIR = Path("tinker-cookbook/data/nys_archives/images")
 
-GITHUB_MEDIA_BASE = "https://media.githubusercontent.com/media/zmuhls/cs-archive/main"
+# Relative path prefix from output/ocr/markdown/ to project root
+REL_PREFIX = "../../.."
 
 def get_metadata_filename(txt_filename: str) -> str:
     """Convert text filename to metadata filename pattern."""
@@ -24,7 +25,7 @@ def get_metadata_filename(txt_filename: str) -> str:
     return f"{base}.json"
 
 def find_image_for_file(txt_filename: str) -> tuple[str, str] | None:
-    """Find corresponding image file and return (local_path, github_url)."""
+    """Find corresponding image file and return (local_path, relative_url)."""
     base = txt_filename.replace(".txt", "").replace("_qwen-vl-plus", "")
 
     # Check for IMG_ files in derived/thumbs
@@ -35,8 +36,8 @@ def find_image_for_file(txt_filename: str) -> tuple[str, str] | None:
             for ext in ['.jpeg', '.jpg']:
                 thumb_path = THUMBS_DIR / f"{img_name}{ext}"
                 if thumb_path.exists():
-                    github_url = f"{GITHUB_MEDIA_BASE}/derived/thumbs/{img_name}{ext}"
-                    return str(thumb_path), github_url
+                    rel_url = f"{REL_PREFIX}/derived/thumbs/{img_name}{ext}"
+                    return str(thumb_path), rel_url
 
     # Check for other files with numeric IDs in derived/thumbs
     if txt_filename.startswith("70914"):
@@ -44,8 +45,8 @@ def find_image_for_file(txt_filename: str) -> tuple[str, str] | None:
         for ext in ['.jpeg', '.jpg']:
             thumb_path = THUMBS_DIR / f"{base_name}{ext}"
             if thumb_path.exists():
-                github_url = f"{GITHUB_MEDIA_BASE}/derived/thumbs/{base_name}{ext}"
-                return str(thumb_path), github_url
+                rel_url = f"{REL_PREFIX}/derived/thumbs/{base_name}{ext}"
+                return str(thumb_path), rel_url
 
     # Check NYS Archives images (Amityville, District-Notecard, South-Kortright)
     nys_collections = {
@@ -62,18 +63,17 @@ def find_image_for_file(txt_filename: str) -> tuple[str, str] | None:
                 for ext in ['.png', '.jpg', '.jpeg']:
                     img_path = NYS_IMAGES_DIR / folder / f"page_{page_num}{ext}"
                     if img_path.exists():
-                        github_url = f"{GITHUB_MEDIA_BASE}/tinker-cookbook/data/nys_archives/images/{folder}/page_{page_num}{ext}"
-                        return str(img_path), github_url
+                        rel_url = f"{REL_PREFIX}/tinker-cookbook/data/nys_archives/images/{folder}/page_{page_num}{ext}"
+                        return str(img_path), rel_url
 
     # Check tables/images for District Consolidation
     if "District-Consolidation" in txt_filename:
-        for img_dir, url_path in [(TABLES_IMAGES_DIR, "output/ocr/tables/images"), (TABLES_THUMBS_DIR, "output/ocr/tables/thumbs")]:
+        for img_dir, url_path in [(TABLES_IMAGES_DIR, "../tables/images"), (TABLES_THUMBS_DIR, "../tables/thumbs")]:
             for ext in ['.jpg', '.png', '.jpeg']:
                 img_name = base + ext
                 img_path = img_dir / img_name
                 if img_path.exists():
-                    github_url = f"{GITHUB_MEDIA_BASE}/{url_path}/{img_name}"
-                    return str(img_path), github_url
+                    return str(img_path), f"{url_path}/{img_name}"
 
     return None
 
@@ -199,10 +199,6 @@ def main():
             skipped += 1
             continue
 
-        # Skip District Consolidation files (already formatted)
-        if "District-Consolidation" in txt_path.name:
-            skipped += 1
-            continue
 
         md_name = txt_path.name.replace(".txt", ".md")
         md_path = MARKDOWN_DIR / md_name

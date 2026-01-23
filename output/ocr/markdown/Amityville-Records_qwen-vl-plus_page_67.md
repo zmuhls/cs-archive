@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:53:41.956395
 
-**Source Image:** [📄 page_67.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_67.png)
+**Source Image:** [📄 page_67.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_67.png)
 
 ---
 
 ## Source Document
 
-![New metal smokestack in boiler room of Grammar School building.](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_67.png)
+![New metal smokestack in boiler room of Grammar School building.](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_67.png)
 
 ---
 

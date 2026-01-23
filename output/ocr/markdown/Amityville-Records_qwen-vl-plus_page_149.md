@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:08:52.342539
 
-**Source Image:** [📄 page_149.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_149.png)
+**Source Image:** [📄 page_149.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_149.png)
 
 ---
 
 ## Source Document
 
-![MOVED, seconded and carried, that the President and Clerk be and](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_149.png)
+![MOVED, seconded and carried, that the President and Clerk be and](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_149.png)
 
 ---
 

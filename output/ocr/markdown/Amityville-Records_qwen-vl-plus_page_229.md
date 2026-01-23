@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:24:14.821905
 
-**Source Image:** [📄 page_229.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_229.png)
+**Source Image:** [📄 page_229.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_229.png)
 
 ---
 
 ## Source Document
 
-![Fred Jewell Music Co.        $ 1.02](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_229.png)
+![Fred Jewell Music Co.        $ 1.02](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_229.png)
 
 ---
 

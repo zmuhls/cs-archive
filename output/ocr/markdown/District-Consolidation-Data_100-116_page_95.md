@@ -1,36 +1,59 @@
 # Monroe County
 
-**Table Type:** Union Free Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 95)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_95.jpg
 
-**Processed:** 2026-01-01T22:50:39.781320
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_95.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_95.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:48:51.623143
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_95.jpg](../tables/images/District-Consolidation-Data_100-116_page_95.jpg)
 
 ---
 
 ## Source Document
 
-![Monroe County - Union Free Schools - Page 95](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_95.jpg)
+![Monroe County](../tables/images/District-Consolidation-Data_100-116_page_95.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 6 | Pittsford | 16 April 1890 |  | 7 |  |
-| 1 | Greece | 9 July 1915 |  | 5 |  |
-| 10 | Rush | 10 June 1919 |  | 5 |  |
-| 9 | Sweden | 13 July 1926 |  | 3 |  |
-| 1 | Brighton | 31 August 1928 |  | 5 |  |
-| 1 | Irondequoit | 6 May 1930 |  | 3 |  |
-| 7 | Gates | 13 May 1931 |  | 3 |  |
-| 8 | Wheatland | 1 Jan 1912 |  | 1 |  |
-| 1 | Gates | 18 March 1946 |  | 4 |  |
-| 4 | Irondequoit | 25 June 1946 |  | 4 |  |
-| 4 | Gates | 17 April 1947 |  | 4 |  |
-| 7 | Brighton | 6 June 1947 |  | 7 |  |
+```
+Monroe County
+175
+
+Union Free Schools
+
+| No. of district | NAME OF TOWN     | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | AGE OF SCHOOL | REMARKS |
+|-----------------|------------------|--------------------------------------------|--------------------------------------------------|---------------|---------|
+|                 |                  | Day    Month    Year                      | Day    Month    Year                            |               |         |
+| 6               | Pittsford        | 16     April    1890                      | [blank]                                          | 7             |         |
+| 1               | Greece           | 9      July     1915                      | [blank]                                          | 5             |         |
+| 10              | Rush             | 10     June     1919                      | [blank]                                          | 5             |         |
+| 9               | Sweden           | 13     July     1926                      | [blank]                                          | 3             |         |
+| 1               | Brighton         | 31     August   1928                      | [blank]                                          | 5             |         |
+| 1               | Irondequoit      | 6      May      1930                      | [blank]                                          | 3             |         |
+| 7               | Gates            | 13     May      1931                      | [blank]                                          | 3             |         |
+| 8               | Wheatland        | 1      Jan      1912                      | [blank]                                          | 1             |         |
+| 1               | Gates            | 18     March    1946                      | [blank]                                          | 4             |         |
+| 4               | Irondequoit      | 25     June     1946                      | [blank]                                          | 4             |         |
+| 4               | Gates            | 17     April    1947                      | [blank]                                          | 4             |         |
+| 7               | Brighton         | 6      June     1947                      | [blank]                                          | 7             |         |
+```
+
+**Notes:**
+
+* The "AGE OF SCHOOL" column appears to represent the number of years the school has been in operation as of the approval date.
+* The "REMARKS" column is blank for all entries.
+* The handwritten entries for "NAME OF TOWN" and "DATE OF SCHOOL MEETING" are preserved as written.
+* The "DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT" column is left blank for all entries, as no dates are provided.
+* The "No. of district" column is filled in for each entry.
+* The form is titled "Union Free Schools," indicating these are schools operating under a union free district system.
+* The page number "175" is located in the top right corner.
+* The county name "Monroe" is handwritten at the top of the form.

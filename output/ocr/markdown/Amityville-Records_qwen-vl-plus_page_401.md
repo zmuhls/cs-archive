@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:56:00.157557
 
-**Source Image:** [📄 page_401.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_401.png)
+**Source Image:** [📄 page_401.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_401.png)
 
 ---
 
 ## Source Document
 
-![On motion duly made, seconded and carried, the President and Clerk were authoriz](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_401.png)
+![On motion duly made, seconded and carried, the President and Clerk were authoriz](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_401.png)
 
 ---
 

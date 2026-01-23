@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:47:00.567545
 
-**Source Image:** [📄 page_352.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_352.png)
+**Source Image:** [📄 page_352.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_352.png)
 
 ---
 
 ## Source Document
 
-![On motion of Dr. Van Duyk, seconded and carried, it was resolved that each P.U. ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_352.png)
+![On motion of Dr. Van Duyk, seconded and carried, it was resolved that each P.U. ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_352.png)
 
 ---
 

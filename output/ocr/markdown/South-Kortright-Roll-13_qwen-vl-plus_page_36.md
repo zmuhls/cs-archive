@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:48:49.729202
 
-**Source Image:** [📄 page_36.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_36.png)
+**Source Image:** [📄 page_36.png](../../../tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_36.png)
 
 ---
 
 ## Source Document
 
-![At a special meeting held at the [illegible] on the [illegible] day of October 1](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_36.png)
+![At a special meeting held at the [illegible] on the [illegible] day of October 1](../../../tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_36.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T01:23:36.899765
 
-**Source Image:** [📄 page_52.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_52.png)
+**Source Image:** [📄 page_52.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_52.png)
 
 ---
 
 ## Source Document
 
-![East Randolph Union School](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_52.png)
+![East Randolph Union School](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_52.png)
 
 ---
 

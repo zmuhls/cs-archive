@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:08:16.064945
 
-**Source Image:** [📄 page_146.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_146.png)
+**Source Image:** [📄 page_146.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_146.png)
 
 ---
 
 ## Source Document
 
-![The Building and Grounds Committee recommended the acceptance of the bid and it ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_146.png)
+![The Building and Grounds Committee recommended the acceptance of the bid and it ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_146.png)
 
 ---
 

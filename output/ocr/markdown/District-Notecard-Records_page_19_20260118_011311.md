@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T01:16:57.020415
 
-**Source Image:** [📄 page_19.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_19.png)
+**Source Image:** [📄 page_19.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_19.png)
 
 ---
 
 ## Source Document
 
-![Bradford Union School (Shenango County) -](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_19.png)
+![Bradford Union School (Shenango County) -](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_19.png)
 
 ---
 

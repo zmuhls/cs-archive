@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:36:38.621479
 
-**Source Image:** [📄 page_293.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_293.png)
+**Source Image:** [📄 page_293.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_293.png)
 
 ---
 
 ## Source Document
 
-![Good Mfg. Co., Inc. $ 19.25](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_293.png)
+![Good Mfg. Co., Inc. $ 19.25](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_293.png)
 
 ---
 

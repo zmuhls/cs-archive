@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:03:52.780680
 
-**Source Image:** [📄 page_120.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_120.png)
+**Source Image:** [📄 page_120.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_120.png)
 
 ---
 
 ## Source Document
 
-![C. F. Williams & Son, Inc. $ 10.28](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_120.png)
+![C. F. Williams & Son, Inc. $ 10.28](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_120.png)
 
 ---
 

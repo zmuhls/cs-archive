@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T01:17:01.892879
 
-**Source Image:** [📄 page_32.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_32.png)
+**Source Image:** [📄 page_32.png](../../../tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_32.png)
 
 ---
 
 ## Source Document
 
-![At a meeting of the freeholders of School District No. 2, in the town of Hampton](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_32.png)
+![At a meeting of the freeholders of School District No. 2, in the town of Hampton](../../../tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_32.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:14:09.698732
 
-**Source Image:** [📄 page_502.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_502.png)
+**Source Image:** [📄 page_502.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_502.png)
 
 ---
 
 ## Source Document
 
-![Johnson Service Company                      $ 39.68](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_502.png)
+![Johnson Service Company                      $ 39.68](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_502.png)
 
 ---
 

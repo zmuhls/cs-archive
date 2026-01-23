@@ -1,29 +1,49 @@
 # Livingston County
 
-**Table Type:** Union Free Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 85)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_85.jpg
 
-**Processed:** 2026-01-01T22:45:24.076699
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_85.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_85.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:46:26.602757
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_85.jpg](../tables/images/District-Consolidation-Data_100-116_page_85.jpg)
 
 ---
 
 ## Source Document
 
-![Livingston County - Union Free Schools - Page 85](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_85.jpg)
+![Livingston County](../tables/images/District-Consolidation-Data_100-116_page_85.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1 | North Dansville | 26 October 1882 |  | 9 |  |
-| 2 | Springwater | 24 August 1903 |  | 5 |  |
-| 7 | York | 6 July 1903 |  | 5 |  |
-| 9 | Lima | 26 August 1918 |  | 5 |  |
-| 4 | Conesus | 9 May 1922 |  | 3 |  |
+```
+Livingston County
+
+Union Free Schools
+
+| No. of District | NAME OF TOWN   | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | NUMBER OF SCHOOLS | REMARKS |
+|-----------------|----------------|--------------------------------------------|--------------------------------------------------|-------------------|---------|
+|                 |                | Day   Month   Year                         | Day   Month   Year                               |                   |         |
+| 1               | North Dansville| 26    October 1882                           |                                                  | 9                 |         |
+| 2               | Springwater    | 24    August 1903                            |                                                  | 9                 |         |
+| 7               | York           | 6     July  1903                             |                                                  | 5                 |         |
+| 9               | Lima           | 26    August 1918                            |                                                  | 5                 |         |
+| 4               | Conesus        | 9     May   1922                             |                                                  | 3                 |         |
+```
+
+**Notes:**
+- The table is structured with columns for district number, town name, date of school meeting, approval date, number of schools, and remarks.
+- Dates are filled in for the "DATE OF SCHOOL MEETING ORGANIZING DISTRICT" column.
+- The "DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT" column is blank for all entries.
+- The "NUMBER OF SCHOOLS" column contains filled-in numbers.
+- The "REMARKS" column is blank for all entries.
+- Pre-printed text includes headers like "Livingston County," "Union Free Schools," and column labels.
+- Handwritten entries are present for town names, dates, and the number of schools.

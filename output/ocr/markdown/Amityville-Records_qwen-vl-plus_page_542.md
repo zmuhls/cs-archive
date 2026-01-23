@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:21:06.959949
 
-**Source Image:** [📄 page_542.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_542.png)
+**Source Image:** [📄 page_542.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_542.png)
 
 ---
 
 ## Source Document
 
-![Mr. Ruff reported that both grade and high school had](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_542.png)
+![Mr. Ruff reported that both grade and high school had](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_542.png)
 
 ---
 

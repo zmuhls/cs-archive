@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:25:00.592359
 
-**Source Image:** [📄 page_233.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_233.png)
+**Source Image:** [📄 page_233.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_233.png)
 
 ---
 
 ## Source Document
 
-![Eugene Dietzken Co.                      $  1.25](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_233.png)
+![Eugene Dietzken Co.                      $  1.25](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_233.png)
 
 ---
 

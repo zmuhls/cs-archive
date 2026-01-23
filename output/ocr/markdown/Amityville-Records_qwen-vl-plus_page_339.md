@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:44:26.337599
 
-**Source Image:** [📄 page_339.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_339.png)
+**Source Image:** [📄 page_339.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_339.png)
 
 ---
 
 ## Source Document
 
-![Mr. Creey, requested that if any complaints are made in regard to the play-groun](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_339.png)
+![Mr. Creey, requested that if any complaints are made in regard to the play-groun](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_339.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:33:19.464962
 
-**Source Image:** [📄 page_275.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_275.png)
+**Source Image:** [📄 page_275.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_275.png)
 
 ---
 
 ## Source Document
 
-![There being no further business, Mrs. Hartman moved and Mr. Case seconded the mo](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_275.png)
+![There being no further business, Mrs. Hartman moved and Mr. Case seconded the mo](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_275.png)
 
 ---
 

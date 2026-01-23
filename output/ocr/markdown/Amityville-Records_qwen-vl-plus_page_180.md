@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:14:48.867686
 
-**Source Image:** [📄 page_180.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_180.png)
+**Source Image:** [📄 page_180.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_180.png)
 
 ---
 
 ## Source Document
 
-![A. E. MacAdam & Co., Inc.     $ 74.00](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_180.png)
+![A. E. MacAdam & Co., Inc.     $ 74.00](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_180.png)
 
 ---
 

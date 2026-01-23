@@ -1,28 +1,38 @@
-# Livingston County
+# District Consolidation Data 100 116 page 86
 
-**Table Type:** Town School Units
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 86)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_86.jpg
 
-**Processed:** 2026-01-01T22:45:34.028858
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_86.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_86.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:46:31.595311
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_86.jpg](../tables/images/District-Consolidation-Data_100-116_page_86.jpg)
 
 ---
 
 ## Source Document
 
-![Livingston County - Town School Units - Page 86](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_86.jpg)
+![District Consolidation Data 100 116 page 86](../tables/images/District-Consolidation-Data_100-116_page_86.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Livonia | U.F.S. 9 and 3,5,7,8,10 & 11 |  |  |  |
-| 2 | " | " 4 " | 1,6 & 13 |  |  |
-| 1 | Nunda | U.F.S. 1 " | 2,4,8,9,10 & 11 |  |  |
-| 2 | " | " 12 " | 3,5,6 & 7 |  |  |
+162
+Livingston County
+
+Town School Units
+
+| Unit | NAME OF TOWN | DATE OF SCHOOL-MEETING ORGANIZING-DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | Nos. of dists. included | REMARKS |
+|------|--------------|--------------------------------------------|--------------------------------------------------|------------------------|---------|
+|      |              | Day | Month | Year | Day | Month | Year |                      |         |
+| 1    | Livonia      |     |       |      |     |       |      | U.F.S. 9 and 3, 5, 7, 8, 10 & 11     |         |
+| 2    |              |     |       |      | 4   |       | 13   |                                      |         |
+| 1    | Nunda        |     |       |      |     |       |      | U.F.S. 1, 2, 4, 8, 9, 10 & 11        |         |
+| 2    |              |     |       |      | 12  |       | 7    | 3, 5, 6 & 7                          |         |

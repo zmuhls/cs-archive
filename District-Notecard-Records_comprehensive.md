@@ -145,7 +145,7 @@ Index notecards cataloging school district information, used by NYS Education De
 
 ## Page 1
 
-![Page 1](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_1.png)
+![Page 1](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_1.png)
 
 ### Transcription
 
@@ -176,7 +176,7 @@ Rochester
 
 ## Page 1
 
-![Page 1](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_1.png)
+![Page 1](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_1.png)
 
 ### Transcription
 
@@ -195,7 +195,7 @@ M. Rochester, Esq.
 
 ## Page 2
 
-![Page 2](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_2.png)
+![Page 2](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_2.png)
 
 ### Transcription
 
@@ -217,7 +217,7 @@ Apr 20, 1951 - name changed to Alexander High School
 
 ## Page 2
 
-![Page 2](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_2.png)
+![Page 2](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_2.png)
 
 ### Transcription
 
@@ -237,7 +237,7 @@ Apr 20, 1951 - name changed to Alexander High School
 
 ## Page 3
 
-![Page 3](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_3.png)
+![Page 3](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_3.png)
 
 ### Transcription
 
@@ -272,7 +272,7 @@ Adv to H 1901 (3-9-18-old card not found)
 
 ## Page 3
 
-![Page 3](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_3.png)
+![Page 3](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_3.png)
 
 ### Transcription
 
@@ -296,7 +296,7 @@ Advanced to H-G eff 6-1-1933-4-20-1933
 
 ## Page 4
 
-![Page 4](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_4.png)
+![Page 4](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_4.png)
 
 ### Transcription
 
@@ -321,7 +321,7 @@ repress [?] Skinner reported formally as [?] Registered secondary School
 
 ## Page 4
 
-![Page 4](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_4.png)
+![Page 4](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_4.png)
 
 ### Transcription
 
@@ -346,7 +346,7 @@ Matured certified [illegible]
 
 ## Page 5
 
-![Page 5](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_5.png)
+![Page 5](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_5.png)
 
 ### Transcription
 
@@ -375,7 +375,7 @@ matters was brighter for another year
 
 ## Page 5
 
-![Page 5](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_5.png)
+![Page 5](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_5.png)
 
 ### Transcription
 
@@ -404,7 +404,7 @@ ance
 
 ## Page 6
 
-![Page 6](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_6.png)
+![Page 6](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_6.png)
 
 ### Transcription
 
@@ -428,7 +428,7 @@ Arkport Central School (now)
 
 ## Page 6
 
-![Page 6](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_6.png)
+![Page 6](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_6.png)
 
 ### Transcription
 
@@ -449,7 +449,7 @@ Arkport Central School (now)
 
 ## Page 7
 
-![Page 7](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_7.png)
+![Page 7](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_7.png)
 
 ### Transcription
 
@@ -482,7 +482,7 @@ Berkshire Union School
 
 ## Page 7
 
-![Page 7](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_7.png)
+![Page 7](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_7.png)
 
 ### Transcription
 
@@ -513,7 +513,7 @@ Berkshire Union School
 
 ## Page 8
 
-![Page 8](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_8.png)
+![Page 8](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_8.png)
 
 ### Transcription
 
@@ -556,7 +556,7 @@ The State Board is agitating [illegible]
 
 ## Page 8
 
-![Page 8](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_8.png)
+![Page 8](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_8.png)
 
 ### Transcription
 
@@ -598,7 +598,7 @@ Sent principal additional blanks opposite teacher
 
 ## Page 9
 
-![Page 9](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_9.png)
+![Page 9](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_9.png)
 
 ### Transcription
 
@@ -608,7 +608,7 @@ Sent principal additional blanks opposite teacher
 
 ## Page 9
 
-![Page 9](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_9.png)
+![Page 9](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_9.png)
 
 ### Transcription
 
@@ -618,7 +618,7 @@ Sent principal additional blanks opposite teacher
 
 ## Page 10
 
-![Page 10](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_10.png)
+![Page 10](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_10.png)
 
 ### Transcription
 
@@ -645,7 +645,7 @@ FROM ROLLS
 
 ## Page 10
 
-![Page 10](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_10.png)
+![Page 10](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_10.png)
 
 ### Transcription
 
@@ -675,7 +675,7 @@ from rolls
 
 ## Page 11
 
-![Page 11](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_11.png)
+![Page 11](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_11.png)
 
 ### Transcription
 
@@ -703,7 +703,7 @@ June 1885 - Rec'd app for admission J[une] 1885. Dr. Skinner recommended post-po
 
 ## Page 11
 
-![Page 11](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_11.png)
+![Page 11](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_11.png)
 
 ### Transcription
 
@@ -733,7 +733,7 @@ apparatus
 
 ## Page 12
 
-![Page 12](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_12.png)
+![Page 12](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_12.png)
 
 ### Transcription
 
@@ -770,7 +770,7 @@ per[?]and [?]ll[?]
 
 ## Page 12
 
-![Page 12](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_12.png)
+![Page 12](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_12.png)
 
 ### Transcription
 
@@ -808,7 +808,7 @@ perandah [illegible]
 
 ## Page 13
 
-![Page 13](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_13.png)
+![Page 13](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_13.png)
 
 ### Transcription
 
@@ -832,7 +832,7 @@ Droppel 1933-
 
 ## Page 13
 
-![Page 13](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_13.png)
+![Page 13](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_13.png)
 
 ### Transcription
 
@@ -856,7 +856,7 @@ Droplet 1933-
 
 ## Page 14
 
-![Page 14](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_14.png)
+![Page 14](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_14.png)
 
 ### Transcription
 
@@ -883,7 +883,7 @@ Regents action Sp[an]. 1921 Advanced Middle Training
 
 ## Page 14
 
-![Page 14](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_14.png)
+![Page 14](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_14.png)
 
 ### Transcription
 
@@ -905,7 +905,7 @@ Regents action Spring 1921 Advanced Middle Training
 
 ## Page 15
 
-![Page 15](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_15.png)
+![Page 15](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_15.png)
 
 ### Transcription
 
@@ -936,7 +936,7 @@ A N 1927 - app read adv M-2 to M-3
 
 ## Page 15
 
-![Page 15](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_15.png)
+![Page 15](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_15.png)
 
 ### Transcription
 
@@ -965,7 +965,7 @@ A N 1927 - app read adv M-2 to M-3
 
 ## Page 16
 
-![Page 16](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_16.png)
+![Page 16](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_16.png)
 
 ### Transcription
 
@@ -979,7 +979,7 @@ Sct. Mount Pleasant - Blythedale
 
 ## Page 16
 
-![Page 16](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_16.png)
+![Page 16](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_16.png)
 
 ### Transcription
 
@@ -993,7 +993,7 @@ Sct. Mount Pleasant - Blythedale
 
 ## Page 17
 
-![Page 17](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_17.png)
+![Page 17](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_17.png)
 
 ### Transcription
 
@@ -1021,7 +1021,7 @@ Sept 23, 1983 - renewed as H.S. for 5 years by [illegible] vote
 
 ## Page 17
 
-![Page 17](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_17.png)
+![Page 17](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_17.png)
 
 ### Transcription
 
@@ -1046,7 +1046,7 @@ Sept 23, 1983 - renamed as H.S. for 5 years by [illegible] vote
 
 ## Page 18
 
-![Page 18](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_18.png)
+![Page 18](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_18.png)
 
 ### Transcription
 
@@ -1075,7 +1075,7 @@ lack of library - Pupils equipment - scarce of study
 
 ## Page 18
 
-![Page 18](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_18.png)
+![Page 18](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_18.png)
 
 ### Transcription
 
@@ -1102,7 +1102,7 @@ Lack of library - Proper equipment - scarce of study
 
 ## Page 19
 
-![Page 19](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_19.png)
+![Page 19](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_19.png)
 
 ### Transcription
 
@@ -1130,7 +1130,7 @@ Dept. considers impracticable to continue academic dept.
 
 ## Page 19
 
-![Page 19](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_19.png)
+![Page 19](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_19.png)
 
 ### Transcription
 
@@ -1156,7 +1156,7 @@ Dept. considers impracticable to continue academic dept.
 
 ## Page 20
 
-![Page 20](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_20.png)
+![Page 20](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_20.png)
 
 ### Transcription
 
@@ -1178,7 +1178,7 @@ Bradford Union School (Selectmen No.) - E-2
 
 ## Page 20
 
-![Page 20](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_20.png)
+![Page 20](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_20.png)
 
 ### Transcription
 
@@ -1212,7 +1212,7 @@ Bradford Union School (Selectmen No.) - E-2
 
 ## Page 21
 
-![Page 21](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_21.png)
+![Page 21](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_21.png)
 
 ### Transcription
 
@@ -1237,7 +1237,7 @@ Advanced to M - 8 - Nov. 29, 1909
 
 ## Page 21
 
-![Page 21](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_21.png)
+![Page 21](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_21.png)
 
 ### Transcription
 
@@ -1260,7 +1260,7 @@ Advanced to M - 8 - Nov. 29, 1909
 
 ## Page 22
 
-![Page 22](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_22.png)
+![Page 22](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_22.png)
 
 ### Transcription
 
@@ -1296,7 +1296,7 @@ Briarcliff Manor -
 
 ## Page 22
 
-![Page 22](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_22.png)
+![Page 22](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_22.png)
 
 ### Transcription
 
@@ -1331,7 +1331,7 @@ Briarcliff Manor -
 
 ## Page 23
 
-![Page 23](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_23.png)
+![Page 23](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_23.png)
 
 ### Transcription
 
@@ -1363,7 +1363,7 @@ Jan. 20, 1915 - Inspector reported favorably
 
 ## Page 23
 
-![Page 23](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_23.png)
+![Page 23](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_23.png)
 
 ### Transcription
 
@@ -1381,7 +1381,7 @@ Q-18-11 - inst. "H"
 
 ## Page 24
 
-![Page 24](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_24.png)
+![Page 24](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_24.png)
 
 ### Transcription
 
@@ -1401,7 +1401,7 @@ Q-18-11 - inst. "H"
 
 ## Page 24
 
-![Page 24](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_24.png)
+![Page 24](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_24.png)
 
 ### Transcription
 
@@ -1440,7 +1440,7 @@ for school year 1952-53
 
 ## Page 25
 
-![Page 25](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_25.png)
+![Page 25](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_25.png)
 
 ### Transcription
 
@@ -1450,7 +1450,7 @@ for school year 1952-53
 
 ## Page 25
 
-![Page 25](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_25.png)
+![Page 25](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_25.png)
 
 ### Transcription
 
@@ -1473,7 +1473,7 @@ to S until biology appar has been purchased
 
 ## Page 26
 
-![Page 26](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_26.png)
+![Page 26](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_26.png)
 
 ### Transcription
 
@@ -1502,7 +1502,7 @@ Broaddalbin Central S.
 
 ## Page 26
 
-![Page 26](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_26.png)
+![Page 26](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_26.png)
 
 ### Transcription
 
@@ -1533,7 +1533,7 @@ Broadalbin Central S.
 
 ## Page 27
 
-![Page 27](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_27.png)
+![Page 27](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_27.png)
 
 ### Transcription
 
@@ -1561,7 +1561,7 @@ Building too small
 
 ## Page 27
 
-![Page 27](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_27.png)
+![Page 27](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_27.png)
 
 ### Transcription
 
@@ -1586,7 +1586,7 @@ Building too small
 
 ## Page 28
 
-![Page 28](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_28.png)
+![Page 28](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_28.png)
 
 ### Transcription
 
@@ -1606,7 +1606,7 @@ Burdett Union School (Schuyler Co.)
 
 ## Page 28
 
-![Page 28](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_28.png)
+![Page 28](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_28.png)
 
 ### Transcription
 
@@ -1628,7 +1628,7 @@ Burdett Union School (Schuyler Co.)
 
 ## Page 29
 
-![Page 29](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_29.png)
+![Page 29](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_29.png)
 
 ### Transcription
 
@@ -1658,7 +1658,7 @@ Rt 145 Cairo - 12413
 
 ## Page 29
 
-![Page 29](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_29.png)
+![Page 29](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_29.png)
 
 ### Transcription
 
@@ -1690,7 +1690,7 @@ Rt 145 Cairo - 12413
 
 ## Page 30
 
-![Page 30](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_30.png)
+![Page 30](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_30.png)
 
 ### Transcription
 
@@ -1711,7 +1711,7 @@ see Callicoon Union.
 
 ## Page 30
 
-![Page 30](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_30.png)
+![Page 30](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_30.png)
 
 ### Transcription
 
@@ -1732,7 +1732,7 @@ see Callicoon Union.
 
 ## Page 31
 
-![Page 31](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_31.png)
+![Page 31](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_31.png)
 
 ### Transcription
 
@@ -1763,7 +1763,7 @@ teachers could not be allowed until building [illegible] as approved
 
 ## Page 31
 
-![Page 31](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_31.png)
+![Page 31](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_31.png)
 
 ### Transcription
 
@@ -1793,7 +1793,7 @@ July 23 Sent Clerk copies of [illegible], and advised him that nonresident teach
 
 ## Page 32
 
-![Page 32](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_32.png)
+![Page 32](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_32.png)
 
 ### Transcription
 
@@ -1803,7 +1803,7 @@ July 23 Sent Clerk copies of [illegible], and advised him that nonresident teach
 
 ## Page 32
 
-![Page 32](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_32.png)
+![Page 32](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_32.png)
 
 ### Transcription
 
@@ -1813,7 +1813,7 @@ July 23 Sent Clerk copies of [illegible], and advised him that nonresident teach
 
 ## Page 33
 
-![Page 33](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_33.png)
+![Page 33](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_33.png)
 
 ### Transcription
 
@@ -1838,7 +1838,7 @@ Phone-Area Code 914-434-2546]
 
 ## Page 33
 
-![Page 33](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_33.png)
+![Page 33](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_33.png)
 
 ### Transcription
 
@@ -1863,7 +1863,7 @@ Phone-Area Code 914-434-2546]
 
 ## Page 34
 
-![Page 34](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_34.png)
+![Page 34](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_34.png)
 
 ### Transcription
 
@@ -1880,7 +1880,7 @@ Celoron Union School (Chautauqua Co.)
 
 ## Page 34
 
-![Page 34](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_34.png)
+![Page 34](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_34.png)
 
 ### Transcription
 
@@ -1903,7 +1903,7 @@ Coster Academy of the Brooklyn's Jewish Center
 
 ## Page 35
 
-![Page 35](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_35.png)
+![Page 35](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_35.png)
 
 ### Transcription
 
@@ -1922,7 +1922,7 @@ Repealed as H.S. for 5 yr. (limits A1-80) 10/19/25
 
 ## Page 35
 
-![Page 35](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_35.png)
+![Page 35](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_35.png)
 
 ### Transcription
 
@@ -1947,7 +1947,7 @@ name changed
 
 ## Page 36
 
-![Page 36](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_36.png)
+![Page 36](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_36.png)
 
 ### Transcription
 
@@ -1973,7 +1973,7 @@ Cheektowaga, Erie Co.
 
 ## Page 36
 
-![Page 36](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_36.png)
+![Page 36](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_36.png)
 
 ### Transcription
 
@@ -2001,7 +2001,7 @@ Cheektowaga, Erie Co.
 
 ## Page 37
 
-![Page 37](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_37.png)
+![Page 37](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_37.png)
 
 ### Transcription
 
@@ -2022,7 +2022,7 @@ At inst. 1916 Advanced from junior to middle
 
 ## Page 37
 
-![Page 37](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_37.png)
+![Page 37](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_37.png)
 
 ### Transcription
 
@@ -2042,7 +2042,7 @@ At inst. 1916 Advanced from junior to middle
 
 ## Page 38
 
-![Page 38](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_38.png)
+![Page 38](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_38.png)
 
 ### Transcription
 
@@ -2071,7 +2071,7 @@ Ap 1926 - rec'd complaint from St Mary's School of Clayton re apparatus
 
 ## Page 38
 
-![Page 38](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_38.png)
+![Page 38](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_38.png)
 
 ### Transcription
 
@@ -2100,7 +2100,7 @@ Ap 1926 - rec'd complaint from St Mary's School of Clayton re apparatus
 
 ## Page 39
 
-![Page 39](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_39.png)
+![Page 39](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_39.png)
 
 ### Transcription
 
@@ -2124,7 +2124,7 @@ El H. 1895 - admitted
 
 ## Page 39
 
-![Page 39](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_39.png)
+![Page 39](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_39.png)
 
 ### Transcription
 
@@ -2150,7 +2150,7 @@ El H. 1895 - admitted
 
 ## Page 40
 
-![Page 40](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_40.png)
+![Page 40](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_40.png)
 
 ### Transcription
 
@@ -2173,7 +2173,7 @@ admission of Clinton Heights Union Free School as of Middle grade (1 year)
 
 ## Page 40
 
-![Page 40](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_40.png)
+![Page 40](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_40.png)
 
 ### Transcription
 
@@ -2196,7 +2196,7 @@ admission of Clinton Heights Union Free School as of Middle grade (1 year)
 
 ## Page 41
 
-![Page 41](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_41.png)
+![Page 41](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_41.png)
 
 ### Transcription
 
@@ -2227,7 +2227,7 @@ Advancement held pending reply
 
 ## Page 41
 
-![Page 41](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_41.png)
+![Page 41](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_41.png)
 
 ### Transcription
 
@@ -2258,7 +2258,7 @@ Advancement held pending reply
 
 ## Page 42
 
-![Page 42](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_42.png)
+![Page 42](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_42.png)
 
 ### Transcription
 
@@ -2291,7 +2291,7 @@ Education decided to withhold appeal fall fall
 
 ## Page 42
 
-![Page 42](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_42.png)
+![Page 42](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_42.png)
 
 ### Transcription
 
@@ -2301,7 +2301,7 @@ Education decided to withhold appeal fall fall
 
 ## Page 43
 
-![Page 43](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_43.png)
+![Page 43](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_43.png)
 
 ### Transcription
 
@@ -2331,7 +2331,7 @@ Central School, Constableville
 
 ## Page 43
 
-![Page 43](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_43.png)
+![Page 43](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_43.png)
 
 ### Transcription
 
@@ -2351,7 +2351,7 @@ high school grade
 
 ## Page 44
 
-![Page 44](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_44.png)
+![Page 44](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_44.png)
 
 ### Transcription
 
@@ -2374,7 +2374,7 @@ Oct 21 1949 - Dropped from roll,
 
 ## Page 44
 
-![Page 44](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_44.png)
+![Page 44](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_44.png)
 
 ### Transcription
 
@@ -2390,7 +2390,7 @@ Ad. 2-28-1895
 
 ## Page 45
 
-![Page 45](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_45.png)
+![Page 45](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_45.png)
 
 ### Transcription
 
@@ -2428,7 +2428,7 @@ word from school.
 
 ## Page 45
 
-![Page 45](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_45.png)
+![Page 45](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_45.png)
 
 ### Transcription
 
@@ -2464,7 +2464,7 @@ word from school.
 
 ## Page 46
 
-![Page 46](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_46.png)
+![Page 46](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_46.png)
 
 ### Transcription
 
@@ -2474,7 +2474,7 @@ word from school.
 
 ## Page 46
 
-![Page 46](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_46.png)
+![Page 46](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_46.png)
 
 ### Transcription
 
@@ -2484,7 +2484,7 @@ word from school.
 
 ## Page 47
 
-![Page 47](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_47.png)
+![Page 47](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_47.png)
 
 ### Transcription
 
@@ -2517,7 +2517,7 @@ Ravenport Union School
 
 ## Page 47
 
-![Page 47](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_47.png)
+![Page 47](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_47.png)
 
 ### Transcription
 
@@ -2548,7 +2548,7 @@ Ravenport Union School
 
 ## Page 48
 
-![Page 48](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_48.png)
+![Page 48](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_48.png)
 
 ### Transcription
 
@@ -2574,7 +2574,7 @@ Deer Park High School
 
 ## Page 48
 
-![Page 48](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_48.png)
+![Page 48](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_48.png)
 
 ### Transcription
 
@@ -2602,7 +2602,7 @@ Deer Park High School
 
 ## Page 49
 
-![Page 49](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_49.png)
+![Page 49](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_49.png)
 
 ### Transcription
 
@@ -2632,7 +2632,7 @@ advancement deferred
 
 ## Page 49
 
-![Page 49](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_49.png)
+![Page 49](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_49.png)
 
 ### Transcription
 
@@ -2662,7 +2662,7 @@ advancement deferred
 
 ## Page 50
 
-![Page 50](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_50.png)
+![Page 50](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_50.png)
 
 ### Transcription
 
@@ -2686,7 +2686,7 @@ Feb 20, 1913 Admitted as junior
 
 ## Page 50
 
-![Page 50](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_50.png)
+![Page 50](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_50.png)
 
 ### Transcription
 
@@ -2712,7 +2712,7 @@ Oct 1919 Recommended that school [?]ropped
 
 ## Page 51
 
-![Page 51](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_51.png)
+![Page 51](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_51.png)
 
 ### Transcription
 
@@ -2722,7 +2722,7 @@ Oct 1919 Recommended that school [?]ropped
 
 ## Page 51
 
-![Page 51](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_51.png)
+![Page 51](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_51.png)
 
 ### Transcription
 
@@ -2732,7 +2732,7 @@ Oct 1919 Recommended that school [?]ropped
 
 ## Page 52
 
-![Page 52](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_52.png)
+![Page 52](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_52.png)
 
 ### Transcription
 
@@ -2765,7 +2765,7 @@ R 17 Je 1909 - Renamed E. Rock. Union School
 
 ## Page 52
 
-![Page 52](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_52.png)
+![Page 52](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_52.png)
 
 ### Transcription
 
@@ -2796,7 +2796,7 @@ R 17 Je 1909 - Renamed E. Rock. Union School
 
 ## Page 53
 
-![Page 53](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_53.png)
+![Page 53](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_53.png)
 
 ### Transcription
 
@@ -2830,7 +2830,7 @@ not [illegible] in attendance at [illegible] school.
 
 ## Page 53
 
-![Page 53](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_53.png)
+![Page 53](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_53.png)
 
 ### Transcription
 
@@ -2864,7 +2864,7 @@ not practised in [illegible] schools.
 
 ## Page 54
 
-![Page 54](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_54.png)
+![Page 54](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_54.png)
 
 ### Transcription
 
@@ -2880,7 +2880,7 @@ not practised in [illegible] schools.
 
 ## Page 54
 
-![Page 54](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_54.png)
+![Page 54](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_54.png)
 
 ### Transcription
 
@@ -2896,7 +2896,7 @@ not practised in [illegible] schools.
 
 ## Page 55
 
-![Page 55](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_55.png)
+![Page 55](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_55.png)
 
 ### Transcription
 
@@ -2910,7 +2910,7 @@ Overdogs
 
 ## Page 55
 
-![Page 55](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_55.png)
+![Page 55](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_55.png)
 
 ### Transcription
 
@@ -2924,7 +2924,7 @@ Overdogs
 
 ## Page 56
 
-![Page 56](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_56.png)
+![Page 56](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_56.png)
 
 ### Transcription
 
@@ -2934,7 +2934,7 @@ Overdogs
 
 ## Page 56
 
-![Page 56](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_56.png)
+![Page 56](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_56.png)
 
 ### Transcription
 
@@ -2944,7 +2944,7 @@ Overdogs
 
 ## Page 57
 
-![Page 57](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_57.png)
+![Page 57](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_57.png)
 
 ### Transcription
 
@@ -2978,7 +2978,7 @@ w. criticisms re library & appar.
 
 ## Page 57
 
-![Page 57](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_57.png)
+![Page 57](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_57.png)
 
 ### Transcription
 
@@ -3010,7 +3010,7 @@ Beauner Union School (Erie Co.)
 
 ## Page 58
 
-![Page 58](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_58.png)
+![Page 58](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_58.png)
 
 ### Transcription
 
@@ -3034,7 +3034,7 @@ Children's Village Sch.
 
 ## Page 58
 
-![Page 58](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_58.png)
+![Page 58](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_58.png)
 
 ### Transcription
 
@@ -3060,7 +3060,7 @@ Children's Village Sch.
 
 ## Page 59
 
-![Page 59](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_59.png)
+![Page 59](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_59.png)
 
 ### Transcription
 
@@ -3070,7 +3070,7 @@ Children's Village Sch.
 
 ## Page 59
 
-![Page 59](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_59.png)
+![Page 59](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_59.png)
 
 ### Transcription
 
@@ -3080,7 +3080,7 @@ Children's Village Sch.
 
 ## Page 60
 
-![Page 60](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_60.png)
+![Page 60](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_60.png)
 
 ### Transcription
 
@@ -3101,7 +3101,7 @@ Nov. 23, 1935 - Dropped from roll
 
 ## Page 60
 
-![Page 60](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_60.png)
+![Page 60](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_60.png)
 
 ### Transcription
 
@@ -3124,7 +3124,7 @@ Nov. 23, 1935 - Dropped from roll
 
 ## Page 61
 
-![Page 61](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_61.png)
+![Page 61](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_61.png)
 
 ### Transcription
 
@@ -3156,7 +3156,7 @@ not justify approval of reclassification
 
 ## Page 61
 
-![Page 61](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_61.png)
+![Page 61](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_61.png)
 
 ### Transcription
 
@@ -3190,7 +3190,7 @@ not justify approval of reclassification
 
 ## Page 62
 
-![Page 62](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_62.png)
+![Page 62](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_62.png)
 
 ### Transcription
 
@@ -3204,7 +3204,7 @@ Zyphabnus,
 
 ## Page 62
 
-![Page 62](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_62.png)
+![Page 62](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_62.png)
 
 ### Transcription
 
@@ -3266,7 +3266,7 @@ Zyphabnus,
 
 ## Page 63
 
-![Page 63](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_63.png)
+![Page 63](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_63.png)
 
 ### Transcription
 
@@ -3284,7 +3284,7 @@ US = Union School
 
 ## Page 63
 
-![Page 63](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_63.png)
+![Page 63](tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_63.png)
 
 ### Transcription
 

@@ -105,7 +105,7 @@ Microfilm records from South Kortright Central School District in Delaware Count
 
 ## Page 1
 
-![Page 1](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_1.png)
+![Page 1](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_1.png)
 
 ### Transcription
 
@@ -127,7 +127,7 @@ Vote 6 This meeting be adjourned until next District - Cla[ss?]
 
 ## Page 1
 
-![Page 1](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_1.png)
+![Page 1](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_1.png)
 
 ### Transcription
 
@@ -149,7 +149,7 @@ Vote 6. This meeting be adjourned until next District [illegible].
 
 ## Page 2
 
-![Page 2](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_2.png)
+![Page 2](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_2.png)
 
 ### Transcription
 
@@ -175,7 +175,7 @@ Note: The handwriting appears to be consistent throughout the document, suggesti
 
 ## Page 2
 
-![Page 2](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_2.png)
+![Page 2](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_2.png)
 
 ### Transcription
 
@@ -197,7 +197,7 @@ Voted 6 This meeting be Dismissed
 
 ## Page 3
 
-![Page 3](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_3.png)
+![Page 3](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_3.png)
 
 ### Transcription
 
@@ -244,7 +244,7 @@ This transcription aims to provide an accurate representation of the document as
 
 ## Page 3
 
-![Page 3](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_3.png)
+![Page 3](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_3.png)
 
 ### Transcription
 
@@ -260,7 +260,7 @@ at the unrecorded Meeting of the inhabitants of Maota District No. 2 held at the
 
 ## Page 4
 
-![Page 4](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_4.png)
+![Page 4](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_4.png)
 
 ### Transcription
 
@@ -272,7 +272,7 @@ at the unrecorded Meeting of the inhabitants of Maota District No. 2 held at the
 
 ## Page 4
 
-![Page 4](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_4.png)
+![Page 4](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_4.png)
 
 ### Transcription
 
@@ -282,7 +282,7 @@ at the unrecorded Meeting of the inhabitants of Maota District No. 2 held at the
 
 ## Page 5
 
-![Page 5](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_5.png)
+![Page 5](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_5.png)
 
 ### Transcription
 
@@ -322,7 +322,7 @@ at the unrecorded Meeting of the inhabitants of Maota District No. 2 held at the
 
 ## Page 5
 
-![Page 5](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_5.png)
+![Page 5](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_5.png)
 
 ### Transcription
 
@@ -332,7 +332,7 @@ at the unrecorded Meeting of the inhabitants of Maota District No. 2 held at the
 
 ## Page 6
 
-![Page 6](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_6.png)
+![Page 6](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_6.png)
 
 ### Transcription
 
@@ -394,7 +394,7 @@ This transcription aims to provide an accurate representation of the document as
 
 ## Page 6
 
-![Page 6](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_6.png)
+![Page 6](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_6.png)
 
 ### Transcription
 
@@ -423,7 +423,7 @@ be trustees
 
 ## Page 7
 
-![Page 7](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_7.png)
+![Page 7](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_7.png)
 
 ### Transcription
 
@@ -473,7 +473,7 @@ This transcription aims to provide an accurate representation of the original do
 
 ## Page 7
 
-![Page 7](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_7.png)
+![Page 7](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_7.png)
 
 ### Transcription
 
@@ -507,7 +507,7 @@ Voted that Kenneth Mc Kenzie be Clerk
 
 ## Page 8
 
-![Page 8](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_8.png)
+![Page 8](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_8.png)
 
 ### Transcription
 
@@ -529,7 +529,7 @@ Voted that the School Teacher shall keep an accurate bill of board and if any on
 
 ## Page 8
 
-![Page 8](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_8.png)
+![Page 8](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_8.png)
 
 ### Transcription
 
@@ -551,7 +551,7 @@ Voted that the School Teacher shall keep an accurate bill of board and if any on
 
 ## Page 9
 
-![Page 9](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_9.png)
+![Page 9](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_9.png)
 
 ### Transcription
 
@@ -588,7 +588,7 @@ except it [illegible] in case of [illegible] [illegible]
 
 ## Page 9
 
-![Page 9](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_9.png)
+![Page 9](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_9.png)
 
 ### Transcription
 
@@ -628,7 +628,7 @@ This transcription aims to provide an accurate representation of the original do
 
 ## Page 10
 
-![Page 10](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_10.png)
+![Page 10](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_10.png)
 
 ### Transcription
 
@@ -665,7 +665,7 @@ and that the money received in our [unclear word]
 
 ## Page 10
 
-![Page 10](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_10.png)
+![Page 10](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_10.png)
 
 ### Transcription
 
@@ -677,7 +677,7 @@ and that the money received in our [unclear word]
 
 ## Page 11
 
-![Page 11](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_11.png)
+![Page 11](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_11.png)
 
 ### Transcription
 
@@ -699,7 +699,7 @@ and that the money received in our [unclear word]
 
 ## Page 11
 
-![Page 11](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_11.png)
+![Page 11](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_11.png)
 
 ### Transcription
 
@@ -709,7 +709,7 @@ and that the money received in our [unclear word]
 
 ## Page 12
 
-![Page 12](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_12.png)
+![Page 12](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_12.png)
 
 ### Transcription
 
@@ -740,7 +740,7 @@ This transcription aims to capture the document's content as accurately as possi
 
 ## Page 12
 
-![Page 12](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_12.png)
+![Page 12](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_12.png)
 
 ### Transcription
 
@@ -754,7 +754,7 @@ Trustees
 
 ## Page 13
 
-![Page 13](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_13.png)
+![Page 13](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_13.png)
 
 ### Transcription
 
@@ -791,7 +791,7 @@ If there are any specific sections or words you would like further clarification
 
 ## Page 13
 
-![Page 13](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_13.png)
+![Page 13](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_13.png)
 
 ### Transcription
 
@@ -813,7 +813,7 @@ It was voted that all the money due by the District to individuals shall be coll
 
 ## Page 14
 
-![Page 14](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_14.png)
+![Page 14](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_14.png)
 
 ### Transcription
 
@@ -842,7 +842,7 @@ This transcription aims to provide an accurate representation of the original do
 
 ## Page 14
 
-![Page 14](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_14.png)
+![Page 14](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_14.png)
 
 ### Transcription
 
@@ -856,7 +856,7 @@ We the Trustees of School District No. 2 in [illegible] Town in Conformity with 
 
 ## Page 15
 
-![Page 15](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_15.png)
+![Page 15](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_15.png)
 
 ### Transcription
 
@@ -894,7 +894,7 @@ This transcription aims to capture the exact wording and structure of the origin
 
 ## Page 15
 
-![Page 15](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_15.png)
+![Page 15](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_15.png)
 
 ### Transcription
 
@@ -924,7 +924,7 @@ Next annual Meeting to be held at the School house in District on the second Tue
 
 ## Page 16
 
-![Page 16](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_16.png)
+![Page 16](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_16.png)
 
 ### Transcription
 
@@ -946,7 +946,7 @@ Jubilee & Stephen Sing
 
 ## Page 16
 
-![Page 16](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_16.png)
+![Page 16](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_16.png)
 
 ### Transcription
 
@@ -962,7 +962,7 @@ William Reed
 
 ## Page 17
 
-![Page 17](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_17.png)
+![Page 17](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_17.png)
 
 ### Transcription
 
@@ -980,7 +980,7 @@ Note: The document shows signs of age with some faded ink and possible water dam
 
 ## Page 17
 
-![Page 17](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_17.png)
+![Page 17](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_17.png)
 
 ### Transcription
 
@@ -994,7 +994,7 @@ Kenneth McHenry Clerk
 
 ## Page 18
 
-![Page 18](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_18.png)
+![Page 18](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_18.png)
 
 ### Transcription
 
@@ -1026,7 +1026,7 @@ John Griffin
 
 ## Page 18
 
-![Page 18](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_18.png)
+![Page 18](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_18.png)
 
 ### Transcription
 
@@ -1041,7 +1041,7 @@ John Griffin
 
 ## Page 19
 
-![Page 19](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_19.png)
+![Page 19](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_19.png)
 
 ### Transcription
 
@@ -1075,7 +1075,7 @@ the regulation on wood
 
 ## Page 19
 
-![Page 19](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_19.png)
+![Page 19](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_19.png)
 
 ### Transcription
 
@@ -1089,7 +1089,7 @@ Annex No 11. Mr. Don't Collect [Votes the Collector Collect the Ballance of the 
 
 ## Page 20
 
-![Page 20](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_20.png)
+![Page 20](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_20.png)
 
 ### Transcription
 
@@ -1107,7 +1107,7 @@ Having a neat school kept for one year and found $28.56 public money
 
 ## Page 20
 
-![Page 20](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_20.png)
+![Page 20](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_20.png)
 
 ### Transcription
 
@@ -1134,7 +1134,7 @@ year and know [?] $28.56 public money
 
 ## Page 21
 
-![Page 21](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_21.png)
+![Page 21](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_21.png)
 
 ### Transcription
 
@@ -1150,7 +1150,7 @@ All which we are here by [illegible] to be in all respects [illegible] last and 
 
 ## Page 21
 
-![Page 21](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_21.png)
+![Page 21](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_21.png)
 
 ### Transcription
 
@@ -1166,7 +1166,7 @@ All which we are here by Certify to be in all respects true and [unclear] at Sta
 
 ## Page 22
 
-![Page 22](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_22.png)
+![Page 22](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_22.png)
 
 ### Transcription
 
@@ -1191,7 +1191,7 @@ Duncan McDonald Clerk
 
 ## Page 22
 
-![Page 22](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_22.png)
+![Page 22](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_22.png)
 
 ### Transcription
 
@@ -1237,7 +1237,7 @@ This transcription aims to provide an accurate representation of the original do
 
 ## Page 23
 
-![Page 23](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_23.png)
+![Page 23](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_23.png)
 
 ### Transcription
 
@@ -1270,7 +1270,7 @@ John Griffin 4— Elijah Baldwin 1— Benjamin [illegible] 1
 
 ## Page 23
 
-![Page 23](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_23.png)
+![Page 23](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_23.png)
 
 ### Transcription
 
@@ -1306,7 +1306,7 @@ This transcription aims to provide an accurate representation of the original do
 
 ## Page 24
 
-![Page 24](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_24.png)
+![Page 24](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_24.png)
 
 ### Transcription
 
@@ -1343,7 +1343,7 @@ D. M. McDonald A. K.
 
 ## Page 24
 
-![Page 24](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_24.png)
+![Page 24](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_24.png)
 
 ### Transcription
 
@@ -1393,7 +1393,7 @@ This transcription aims to provide an accurate representation of the original do
 
 ## Page 25
 
-![Page 25](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_25.png)
+![Page 25](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_25.png)
 
 ### Transcription
 
@@ -1420,7 +1420,7 @@ Instant [illegible] 18[illegible]
 
 ## Page 25
 
-![Page 25](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_25.png)
+![Page 25](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_25.png)
 
 ### Transcription
 
@@ -1436,7 +1436,7 @@ The Trustees of School District No. [?] in [?] have been in conformity with the 
 
 ## Page 26
 
-![Page 26](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_26.png)
+![Page 26](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_26.png)
 
 ### Transcription
 
@@ -1448,7 +1448,7 @@ At a meeting of the freeholders and inhabitants of School district, No. 2, in th
 
 ## Page 26
 
-![Page 26](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_26.png)
+![Page 26](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_26.png)
 
 ### Transcription
 
@@ -1483,7 +1483,7 @@ This transcription aims to provide a faithful representation of the original doc
 
 ## Page 27
 
-![Page 27](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_27.png)
+![Page 27](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_27.png)
 
 ### Transcription
 
@@ -1519,7 +1519,7 @@ tax in said District during said Year and [illegible]
 
 ## Page 27
 
-![Page 27](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_27.png)
+![Page 27](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_27.png)
 
 ### Transcription
 
@@ -1564,7 +1564,7 @@ This transcription aims to capture the document as accurately as possible given 
 
 ## Page 28
 
-![Page 28](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_28.png)
+![Page 28](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_28.png)
 
 ### Transcription
 
@@ -1576,7 +1576,7 @@ This transcription aims to capture the document as accurately as possible given 
 
 ## Page 28
 
-![Page 28](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_28.png)
+![Page 28](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_28.png)
 
 ### Transcription
 
@@ -1588,7 +1588,7 @@ Ta[d] lost report is eighty [illegible] For the number of children residing in o
 
 ## Page 29
 
-![Page 29](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_29.png)
+![Page 29](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_29.png)
 
 ### Transcription
 
@@ -1614,7 +1614,7 @@ Ta[d] lost report is eighty [illegible] For the number of children residing in o
 
 ## Page 29
 
-![Page 29](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_29.png)
+![Page 29](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_29.png)
 
 ### Transcription
 
@@ -1633,7 +1633,7 @@ S. McDonald, Clerk
 
 ## Page 30
 
-![Page 30](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_30.png)
+![Page 30](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_30.png)
 
 ### Transcription
 
@@ -1643,7 +1643,7 @@ S. McDonald, Clerk
 
 ## Page 30
 
-![Page 30](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_30.png)
+![Page 30](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_30.png)
 
 ### Transcription
 
@@ -1661,7 +1661,7 @@ We, the undersigned, residing in [illegible] County, State of [illegible], and a
 
 ## Page 31
 
-![Page 31](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_31.png)
+![Page 31](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_31.png)
 
 ### Transcription
 
@@ -1694,7 +1694,7 @@ Henry Hearn - D. Trustees
 
 ## Page 31
 
-![Page 31](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_31.png)
+![Page 31](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_31.png)
 
 ### Transcription
 
@@ -1761,7 +1761,7 @@ This transcription aims to capture the document as accurately as possible, notin
 
 ## Page 32
 
-![Page 32](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_32.png)
+![Page 32](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_32.png)
 
 ### Transcription
 
@@ -1780,7 +1780,7 @@ Last Year in all respect.
 
 ## Page 32
 
-![Page 32](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_32.png)
+![Page 32](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_32.png)
 
 ### Transcription
 
@@ -1801,7 +1801,7 @@ Ancoo Griffin Moderator
 
 ## Page 33
 
-![Page 33](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_33.png)
+![Page 33](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_33.png)
 
 ### Transcription
 
@@ -1815,7 +1815,7 @@ We the Selectmen of School District, No. [illegible], in [illegible] with the St
 
 ## Page 33
 
-![Page 33](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_33.png)
+![Page 33](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_33.png)
 
 ### Transcription
 
@@ -1842,7 +1842,7 @@ This transcription aims to provide an accurate representation of the original do
 
 ## Page 34
 
-![Page 34](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_34.png)
+![Page 34](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_34.png)
 
 ### Transcription
 
@@ -1879,7 +1879,7 @@ Total seventy two and we further report that our school during the year precedin
 
 ## Page 34
 
-![Page 34](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_34.png)
+![Page 34](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_34.png)
 
 ### Transcription
 
@@ -1910,7 +1910,7 @@ Total residing here and we further report that our school during the year preced
 
 ## Page 35
 
-![Page 35](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_35.png)
+![Page 35](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_35.png)
 
 ### Transcription
 
@@ -1922,7 +1922,7 @@ At a meeting of the freeholders & inhabitants of School District No. 2 in the to
 
 ## Page 35
 
-![Page 35](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_35.png)
+![Page 35](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_35.png)
 
 ### Transcription
 
@@ -1946,7 +1946,7 @@ D. M. McDonald District Clerk
 
 ## Page 36
 
-![Page 36](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_36.png)
+![Page 36](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_36.png)
 
 ### Transcription
 
@@ -1956,7 +1956,7 @@ At a special meeting held at the school house in [illegible] on the 10th day of 
 
 ## Page 36
 
-![Page 36](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_36.png)
+![Page 36](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_36.png)
 
 ### Transcription
 
@@ -1970,7 +1970,7 @@ At a special meeting held at the [illegible] on the [illegible] day of October 1
 
 ## Page 37
 
-![Page 37](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_37.png)
+![Page 37](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_37.png)
 
 ### Transcription
 
@@ -1984,7 +1984,7 @@ We the Trustees of School district, No. 2 respectfully report that when we first
 
 ## Page 37
 
-![Page 37](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_37.png)
+![Page 37](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_37.png)
 
 ### Transcription
 
@@ -1998,7 +1998,7 @@ We the Trustees of School district, No 2 - respectfully report that when we firs
 
 ## Page 38
 
-![Page 38](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_38.png)
+![Page 38](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_38.png)
 
 ### Transcription
 
@@ -2163,7 +2163,7 @@ Then the Meeting voted Deane and Donald D. Blash. We voted Novatus Blash Win Foo
 
 ## Page 38
 
-![Page 38](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_38.png)
+![Page 38](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_38.png)
 
 ### Transcription
 
@@ -2203,7 +2203,7 @@ D. W. Donald District Clerk
 
 ## Page 39
 
-![Page 39](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_39.png)
+![Page 39](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_39.png)
 
 ### Transcription
 
@@ -2230,7 +2230,7 @@ This transcription aims to accurately reflect the content and style of the origi
 
 ## Page 39
 
-![Page 39](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_39.png)
+![Page 39](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_39.png)
 
 ### Transcription
 
@@ -2252,7 +2252,7 @@ The meeting was called to order by [illegible] at [illegible] o'clock A.M.
 
 ## Page 40
 
-![Page 40](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_40.png)
+![Page 40](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_40.png)
 
 ### Transcription
 
@@ -2269,7 +2269,7 @@ Note: The handwriting appears to be in a consistent cursive style typical of the
 
 ## Page 40
 
-![Page 40](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_40.png)
+![Page 40](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_40.png)
 
 ### Transcription
 
@@ -2282,7 +2282,7 @@ Wm. Reel Moderator
 
 ## Page 41
 
-![Page 41](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_41.png)
+![Page 41](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_41.png)
 
 ### Transcription
 
@@ -2309,7 +2309,7 @@ District Clerk Moderator
 
 ## Page 41
 
-![Page 41](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_41.png)
+![Page 41](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_41.png)
 
 ### Transcription
 
@@ -2335,7 +2335,7 @@ Moderator
 
 ## Page 42
 
-![Page 42](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_42.png)
+![Page 42](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_42.png)
 
 ### Transcription
 
@@ -2352,7 +2352,7 @@ Isaac Bennett Moderator
 
 ## Page 42
 
-![Page 42](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_42.png)
+![Page 42](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_42.png)
 
 ### Transcription
 
@@ -2368,7 +2368,7 @@ Isaac Bennett Moderator
 
 ## Page 43
 
-![Page 43](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_43.png)
+![Page 43](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_43.png)
 
 ### Transcription
 
@@ -2392,7 +2392,7 @@ Noted that this meeting be adjourned to the Third Tuesday of March next at 1 o'c
 
 ## Page 43
 
-![Page 43](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_43.png)
+![Page 43](tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_43.png)
 
 ### Transcription
 

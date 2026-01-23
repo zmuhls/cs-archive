@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:41:51.357439
 
-**Source Image:** [📄 page_7.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_7.png)
+**Source Image:** [📄 page_7.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_7.png)
 
 ---
 
 ## Source Document
 
-![The Clerk read petition of the Jewish people of the District requesting that the](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_7.png)
+![The Clerk read petition of the Jewish people of the District requesting that the](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_7.png)
 
 ---
 

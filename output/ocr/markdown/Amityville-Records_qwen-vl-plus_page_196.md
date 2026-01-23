@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:17:53.616563
 
-**Source Image:** [📄 page_196.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_196.png)
+**Source Image:** [📄 page_196.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_196.png)
 
 ---
 
 ## Source Document
 
-![Total for maintenance of plant ........................... $ 2,150.00](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_196.png)
+![Total for maintenance of plant ........................... $ 2,150.00](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_196.png)
 
 ---
 

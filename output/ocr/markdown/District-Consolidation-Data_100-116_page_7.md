@@ -1,27 +1,42 @@
 # Cattaraugus County
 
-**Table Type:** Town School Units
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 7)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_7.jpg
 
-**Processed:** 2026-01-01T22:09:15.890987
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_7.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_7.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:28:59.662912
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_7.jpg](../tables/images/District-Consolidation-Data_100-116_page_7.jpg)
 
 ---
 
 ## Source Document
 
-![Cattaraugus County - Town School Units - Page 7](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_7.jpg)
+![Cattaraugus County](../tables/images/District-Consolidation-Data_100-116_page_7.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Dayton | Nos. of dists included |  |  |  |
-| 2 | Dayton | U.F.S. 2 and 3,4,7 & 10 Dayton |  |  |  |
-|  |  | U.F.S. 9 and 1,5,6 & 8 Dayton |  |  |  |
+```
+Cattaraugus County
+Town School Units
+
+| No. of Unit | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | Nos. of dists included | DATE OF WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of pupils | REMARKS |
+|-------------|--------------|--------------------------------------------|------------------------|--------------------------------------------------|---------------|---------|
+| 1           | Dayton       |                                            | U.F.S. 2 and 3,4,7 + 10 Dayton        |                                                  |               |         |
+| 2           | Dayton       |                                            | U.F.S. 9 and 1,5,6,8 Dayton           |                                                  |               |         |
+```
+
+**Notes:**
+- The "DATE OF SCHOOL MEETING ORGANIZING DISTRICT" and "DATE OF WHICH PAPERS WERE APPROVED AT DEPARTMENT" columns are blank in the provided image.
+- The "No. of pupils" column is also blank.
+- The "REMARKS" column is blank.
+- The handwritten entries for "Nos. of dists included" are preserved as-is.
+- The page number "23" is visible in the top right corner of the document.

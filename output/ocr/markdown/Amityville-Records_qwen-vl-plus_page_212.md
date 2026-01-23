@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:20:50.954005
 
-**Source Image:** [📄 page_212.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_212.png)
+**Source Image:** [📄 page_212.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_212.png)
 
 ---
 
 ## Source Document
 
-![called, advising that the tax books for the Town had already been prepared on th](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_212.png)
+![called, advising that the tax books for the Town had already been prepared on th](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_212.png)
 
 ---
 

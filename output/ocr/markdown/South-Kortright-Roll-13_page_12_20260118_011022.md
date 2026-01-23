@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T01:13:07.224606
 
-**Source Image:** [📄 page_12.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_12.png)
+**Source Image:** [📄 page_12.png](../../../tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_12.png)
 
 ---
 
 ## Source Document
 
-![Voted that the by laws remain as they were voted last year in Report of the Trus](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_12.png)
+![Voted that the by laws remain as they were voted last year in Report of the Trus](../../../tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_12.png)
 
 ---
 

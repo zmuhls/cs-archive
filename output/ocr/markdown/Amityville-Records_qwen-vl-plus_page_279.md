@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:34:01.731855
 
-**Source Image:** [📄 page_279.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_279.png)
+**Source Image:** [📄 page_279.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_279.png)
 
 ---
 
 ## Source Document
 
-![Collers Entrance Book Co., Inc.     $ 36.56](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_279.png)
+![Collers Entrance Book Co., Inc.     $ 36.56](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_279.png)
 
 ---
 

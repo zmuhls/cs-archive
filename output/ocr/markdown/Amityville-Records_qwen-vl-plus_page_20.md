@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:44:43.714865
 
-**Source Image:** [📄 page_20.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_20.png)
+**Source Image:** [📄 page_20.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_20.png)
 
 ---
 
 ## Source Document
 
-![The Teachers Committee reported that Grace E. Sheeley](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_20.png)
+![The Teachers Committee reported that Grace E. Sheeley](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_20.png)
 
 ---
 

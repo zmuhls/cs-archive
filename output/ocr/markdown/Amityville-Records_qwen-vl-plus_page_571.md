@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:26:44.671683
 
-**Source Image:** [📄 page_571.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_571.png)
+**Source Image:** [📄 page_571.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_571.png)
 
 ---
 
 ## Source Document
 
-![Long Island Lighting Co.                      $140.55](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_571.png)
+![Long Island Lighting Co.                      $140.55](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_571.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:06:45.892452
 
-**Source Image:** [📄 page_137.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_137.png)
+**Source Image:** [📄 page_137.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_137.png)
 
 ---
 
 ## Source Document
 
-![The following bills for construction were presented accompanied by certificates ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_137.png)
+![The following bills for construction were presented accompanied by certificates ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_137.png)
 
 ---
 

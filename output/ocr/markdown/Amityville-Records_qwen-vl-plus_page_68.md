@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:53:49.210938
 
-**Source Image:** [📄 page_68.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_68.png)
+**Source Image:** [📄 page_68.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_68.png)
 
 ---
 
 ## Source Document
 
-![Long Island Sun                      $ 53.18](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_68.png)
+![Long Island Sun                      $ 53.18](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_68.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:56:00.707358
 
-**Source Image:** [📄 page_79.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_79.png)
+**Source Image:** [📄 page_79.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_79.png)
 
 ---
 
 ## Source Document
 
-![Ginn & Company                                      $ 261.89](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_79.png)
+![Ginn & Company                                      $ 261.89](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_79.png)
 
 ---
 

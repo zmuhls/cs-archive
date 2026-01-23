@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:10:16.439022
 
-**Source Image:** [📄 page_156.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_156.png)
+**Source Image:** [📄 page_156.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_156.png)
 
 ---
 
 ## Source Document
 
-![Harrisburg Boiler Corporation     $ 390.67](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_156.png)
+![Harrisburg Boiler Corporation     $ 390.67](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_156.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:43:19.532126
 
-**Source Image:** [📄 page_333.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_333.png)
+**Source Image:** [📄 page_333.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_333.png)
 
 ---
 
 ## Source Document
 
-![rooms, give fire drills, and classify all pupils entering the Grammar School for](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_333.png)
+![rooms, give fire drills, and classify all pupils entering the Grammar School for](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_333.png)
 
 ---
 

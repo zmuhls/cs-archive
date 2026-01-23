@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:01:29.131866
 
-**Source Image:** [📄 page_432.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_432.png)
+**Source Image:** [📄 page_432.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_432.png)
 
 ---
 
 ## Source Document
 
-![WHEREAS, by an act of Legislature of the State of New York, being Chapter 238 of](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_432.png)
+![WHEREAS, by an act of Legislature of the State of New York, being Chapter 238 of](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_432.png)
 
 ---
 

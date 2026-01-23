@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:38:27.014297
 
-**Source Image:** [📄 page_304.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_304.png)
+**Source Image:** [📄 page_304.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_304.png)
 
 ---
 
 ## Source Document
 
-![Mrs. Hartman moved and Mr. Ketcham seconded the motion that the budget as adopte](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_304.png)
+![Mrs. Hartman moved and Mr. Ketcham seconded the motion that the budget as adopte](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_304.png)
 
 ---
 

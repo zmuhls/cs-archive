@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:30:13.939836
 
-**Source Image:** [📄 page_589.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_589.png)
+**Source Image:** [📄 page_589.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_589.png)
 
 ---
 
 ## Source Document
 
-![Mr. Ruff stated his intentions of appointing Miss Kennan as head of the English ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_589.png)
+![Mr. Ruff stated his intentions of appointing Miss Kennan as head of the English ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_589.png)
 
 ---
 

@@ -1,27 +1,46 @@
-# Clinton County
+# 53                                                                 Clinton Count
 
-**Table Type:** Town School Units
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 30)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_30.jpg
 
-**Processed:** 2026-01-01T22:23:07.116804
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_30.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_30.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:34:30.863748
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_30.jpg](../tables/images/District-Consolidation-Data_100-116_page_30.jpg)
 
 ---
 
 ## Source Document
 
-![Clinton County - Town School Units - Page 30](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_30.jpg)
+![53                                                                 Clinton Count](../tables/images/District-Consolidation-Data_100-116_page_30.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Dannemora | U.F.S. 1 and 2 | 3 |  |  |
-| 2 | " | U.F.S. 4 and 5 |  |  |  |
-|  | Chagy |  |  |  |  |
+```
+53                                                                 Clinton County
+
+Town School Units
+
+| No. of Unit | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS |
+|-------------|--------------|--------------------------------------------|--------------------------------------------------|---------|
+|             |              | Day    Month    Year                      | Day    Month    Year                            |         |
+| 1           | Dannemora    | U.F.S. 1 and 243                           | [blank]                                          |         |
+| 2           |              | U.F.S. 4 and 5                             | [blank]                                          |         |
+```
+
+**Notes:**
+
+* The "No. of Unit" column has entries for 1 and 2.
+* The "NAME OF TOWN" column has "Dannemora" for unit 1 and is blank for unit 2.
+* The "DATE OF SCHOOL MEETING ORGANIZING DISTRICT" column lists "U.F.S. 1 and 243" for unit 1 and "U.F.S. 4 and 5" for unit 2.
+* The "DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT" column is blank for both units.
+* The "REMARKS" column is blank for both units.
+* There is a handwritten signature under unit 2, but it is not legible enough to transcribe accurately.

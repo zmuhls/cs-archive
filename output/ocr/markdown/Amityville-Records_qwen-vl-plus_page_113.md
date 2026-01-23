@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:02:23.505045
 
-**Source Image:** [📄 page_113.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_113.png)
+**Source Image:** [📄 page_113.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_113.png)
 
 ---
 
 ## Source Document
 
-![THE FOLLOWING RESOLUTION WAS OFFERED BY TRUSTEE KETCHAM AND SECONDED BY TRUSTEE ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_113.png)
+![THE FOLLOWING RESOLUTION WAS OFFERED BY TRUSTEE KETCHAM AND SECONDED BY TRUSTEE ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_113.png)
 
 ---
 

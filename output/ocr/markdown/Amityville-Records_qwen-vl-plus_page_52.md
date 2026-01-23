@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:50:21.667843
 
-**Source Image:** [📄 page_52.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_52.png)
+**Source Image:** [📄 page_52.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_52.png)
 
 ---
 
 ## Source Document
 
-![Regular Meeting of the Board of Education held at the](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_52.png)
+![Regular Meeting of the Board of Education held at the](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_52.png)
 
 ---
 

@@ -1,25 +1,30 @@
-# County County
+# | No. of district | NAME OF TOWN     | DATE OF SCHOOL MEETING ORGANIZING DISTRIC
 
-**Table Type:** Consolidated Districts
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 63)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_63.jpg
 
-**Processed:** 2026-01-01T22:35:43.825518
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_63.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_63.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:41:53.415234
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_63.jpg](../tables/images/District-Consolidation-Data_100-116_page_63.jpg)
 
 ---
 
 ## Source Document
 
-![County County - Consolidated Districts - Page 63](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_63.jpg)
+![| No. of district | NAME OF TOWN     | DATE OF SCHOOL MEETING ORGANIZING DISTRIC](../tables/images/District-Consolidation-Data_100-116_page_63.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 2 | Blucker & Mayfield | cons with dist | 4 Blucker & Caroga | 4/24/53 | effective 9/25/53 4 Blucker |
+| No. of district | NAME OF TOWN     | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of cert. | REMARKS              |
+|-----------------|------------------|--------------------------------------------|--------------------------------------------------|--------------|----------------------|
+|                 |                  | Day   Month   Year                         | Day   Month   Year                               |              |                      |
+| 2               | Bleecker Mayfield| One with dist                              | Bleecker Caroga                                  | 155          | Effective 9/25/53    |

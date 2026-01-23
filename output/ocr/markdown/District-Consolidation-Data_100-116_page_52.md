@@ -1,48 +1,53 @@
-# Erie County
+# District Consolidation Data 100 116 page 52
 
-**Table Type:** Central Rural Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 52)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_52.jpg
 
-**Processed:** 2026-01-01T22:31:09.127995
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_52.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_52.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:39:46.024260
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_52.jpg](../tables/images/District-Consolidation-Data_100-116_page_52.jpg)
 
 ---
 
 ## Source Document
 
-![Erie County - Central Rural Schools - Page 52](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_52.jpg)
+![District Consolidation Data 100 116 page 52](../tables/images/District-Consolidation-Data_100-116_page_52.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 14 | Sardinia | Effective February 20, 1946 |  | 1 | CRS 1 Holland |
-| 1 | Holland | order set aside Apr 9, 1946 |  |  |  |
-| 5 | West Seneca | changed to Union Free School District |  |  | per Union Free page 92 |
-| 1 | Lancaster | Effective November 29, 1945 |  | 1 | Lancaster |
-| 2 | Lancaster | Effective April 15, 1946 |  |  |  |
-|  | Amherst + Cheektowaga | Laid out April 20, 1948 |  | 3 | CRS 3 Amherst |
-|  | Amherst + Cheektowaga | Meeting held May 26, 1948 |  |  |  |
-|  | Amherst + Clarence |  |  |  |  |
-|  | Town of Grand Island | Laid out 25 May 1948. Meeting held June 29, 1948 |  | 1 | CRS 1 Grand Island |
-| 19 | Aurora | Effective Sept 28, 1948 |  | 1 | Aurora + Elma |
-|  | Clarence | Laid out June 10, 1946 |  | 1 | CRS 1 Clarence |
-|  | Clarence | Meeting held June 27, 1946 |  |  |  |
-|  | West Seneca | Laid out April 26, 1946 |  | 1 | CRS 1 West Seneca |
-|  | West Seneca | Meeting held May 28, 1946 |  |  |  |
-|  | Newstead | Laid out May 19, 1949 |  | 1 | CRS 1 Newstead |
-|  | Newstead | Meeting held June 25, 1949 |  |  |  |
-|  | Allen | Laid out Nov 12, 1947 |  | 1 | CRS 1 Allen |
-|  | Allen | Meeting held June 28, 1949 |  |  |  |
-|  | North Collins | Laid out May 27, 1949 |  | 1 | CRS 1 North Collins |
-|  | North Collins | Meeting held June 23, 1949 |  |  |  |
-|  | Amherst | Laid out June 7, 1950 |  | 4 | CRS 4 Amherst and Tonawanda |
-|  | Amherst + Tonawanda | Meeting held June 30, 1950 |  |  |  |
-|  | Evans | Laid out Mar 22, 1950 |  | 1 | CRS 1 Evans and Grant |
-|  | Evans | Meeting held Apr 29, 1950 |  |  |  |
+16
+Erie County
+
+| No. of dist. | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS |
+|--------------|--------------|--------------------------------------------|--------------------------------------------------|---------|
+|              |              | Day Month Year                             | Day Month Year                                   |         |
+| 14           | Seaview      | Effective February 20, 1946                | Order set aside Apr 9, 1946                      | CRS 1 Holland |
+| 5            | West Seneca  |                                            | Changed to Union Tree School District            | Per Union Tree page 92 |
+| 2            | Lancaster    |                                            | Effective November 29, 1945                      | Lancaster |
+|              |              |                                            | Effective April 15, 1946                         |         |
+| CRS          | Amberart & Cheektowaga |                                    | Laid out April 20, 1948, Meeting held May 26, 1948 | CRS 3 Amberart |
+|              |              |                                            |                                                  |         |
+| CRS          | 1 town of Grand Island |                                    | Laid out 25 May 1948, Meeting held June 1948, Effective Sept 28, 1948 | Grand Island |
+| 19           | Aurora       |                                            |                                                  |         |
+| CRS          | N.S. dist 1 Clarema |                                     | Laid out June 10, 1946, Meeting held June 27, 1946 | CRS 1 Clarema |
+|              |              |                                            |                                                  |         |
+| CRS          | N.S. dist 1,2,3, west Seneca |                               | Laid out May 24, 1946, Meeting held May 28, 1946 | CRS 1 West Seneca |
+|              |              |                                            |                                                  |         |
+| CRS          | N.S. dist 3 Munroal |                                     | Laid out May 19, 1949, Meeting held June 25, 1949 | CRS 1 Newstead |
+|              |              |                                            |                                                  |         |
+| CRS          | N.S. dist 10 Alden |                                      | Laid out Nov 12, 1947, Meeting held June 28, 1949 | CRS 1 Alden |
+|              |              |                                            |                                                  |         |
+| CRS          | U.S. dist 4 North Collins |                               | Laid out May 27, 1949, Meeting held June 23, 1949 | CRS 1 North Collins |
+|              |              |                                            |                                                  |         |
+| CRS          | C. dist 7,14,15 Amberart & Unionville |                     | Laid out June 7, 1950, Meeting held June 20, 1950 | CRS 7 Amberart and Unionville |
+|              |              |                                            |                                                  |         |
+| CRS          | R.A.S. dist 16,18,19 Eroner, Brant, Grand Island, Brant | | Laid out Year 22, 1950, Meeting held Apr 29, 1950 | CRS 1 Eroner and Brant |

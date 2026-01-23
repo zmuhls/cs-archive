@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:16:49.387108
 
-**Source Image:** [📄 page_192.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_192.png)
+**Source Image:** [📄 page_192.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_192.png)
 
 ---
 
 ## Source Document
 
-![a religious sect or organization and after a discussion on](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_192.png)
+![a religious sect or organization and after a discussion on](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_192.png)
 
 ---
 

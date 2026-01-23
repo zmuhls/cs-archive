@@ -12,6 +12,14 @@
 
 **Processed:** 2025-12-19T01:27:39.257396
 
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_1.jpg](../tables/images/District-Consolidation-Data_100-116_page_1.jpg)
+
+---
+
+## Source Document
+
+![Below is the transcription of the document, maintaining the structure and format](../tables/images/District-Consolidation-Data_100-116_page_1.jpg)
+
 ---
 
 ## Transcription

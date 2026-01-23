@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:40:03.243681
 
-**Source Image:** [📄 page_313.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_313.png)
+**Source Image:** [📄 page_313.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_313.png)
 
 ---
 
 ## Source Document
 
-![Regular meeting of the Board of Education held at the High School on May 7, 1925](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_313.png)
+![Regular meeting of the Board of Education held at the High School on May 7, 1925](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_313.png)
 
 ---
 

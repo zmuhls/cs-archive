@@ -6,13 +6,11 @@ from pathlib import Path
 from collections import defaultdict
 
 TEXT_DIR = Path("output/ocr/text")
-MARKDOWN_DIR = Path("output/ocr/markdown")
+OUTPUT_DIR = Path(".")  # Comprehensive files go in project root
 NYS_IMAGES_DIR = Path("tinker-cookbook/data/nys_archives/images")
 TABLES_IMAGES_DIR = Path("output/ocr/tables/images")
 
-GITHUB_MEDIA_BASE = "https://media.githubusercontent.com/media/zmuhls/cs-archive/main"
-
-# Collection definitions: prefix -> (folder_name, display_name, image_folder, description)
+# Collection definitions
 COLLECTIONS = {
     "Amityville-Records": {
         "display_name": "Amityville Board of Education Records",
@@ -41,13 +39,6 @@ COLLECTIONS = {
         "description": "Microfilm records from South Kortright Central School District in Delaware County, including meeting minutes and administrative correspondence.",
         "doc_type": "School District Records",
         "source": "NYS Archives Series A4645"
-    },
-    "Toward-Better-Schools": {
-        "display_name": "Toward Better Schools",
-        "image_folder": None,
-        "description": "Publication discussing school improvement and educational reform in New York State.",
-        "doc_type": "Educational Publication",
-        "source": "Kheel Center Collection"
     }
 }
 
@@ -58,8 +49,8 @@ def extract_page_number(filename: str) -> int:
         return int(match.group(1))
     return 0
 
-def get_image_url(collection_key: str, page_num: int) -> str | None:
-    """Get GitHub media URL for a page image."""
+def get_image_path(collection_key: str, page_num: int) -> str | None:
+    """Get relative path to a page image from project root."""
     config = COLLECTIONS.get(collection_key)
     if not config or not config["image_folder"]:
         return None
@@ -72,14 +63,14 @@ def get_image_url(collection_key: str, page_num: int) -> str | None:
         img_name = f"{collection_key}_page_{page_num}.jpg"
         local_path = Path(folder) / img_name
         if local_path.exists():
-            return f"{GITHUB_MEDIA_BASE}/{folder}/{img_name}"
+            return f"{folder}/{img_name}"
     else:
         # NYS Archives uses page_N.png
         for ext in ['.png', '.jpg', '.jpeg']:
             img_name = f"page_{page_num}{ext}"
             local_path = Path(folder) / img_name
             if local_path.exists():
-                return f"{GITHUB_MEDIA_BASE}/{folder}/{img_name}"
+                return f"{folder}/{img_name}"
 
     return None
 
@@ -133,16 +124,16 @@ def generate_comprehensive_markdown(collection_key: str, page_files: list[Path])
     for txt_path in page_files:
         page_num = extract_page_number(txt_path.name)
         content = read_text_content(txt_path)
-        image_url = get_image_url(collection_key, page_num)
+        image_path = get_image_path(collection_key, page_num)
 
         lines.extend([
             f"## Page {page_num}",
             "",
         ])
 
-        if image_url:
+        if image_path:
             lines.extend([
-                f"![Page {page_num}]({image_url})",
+                f"![Page {page_num}]({image_path})",
                 "",
             ])
 
@@ -158,8 +149,6 @@ def generate_comprehensive_markdown(collection_key: str, page_files: list[Path])
     return "\n".join(lines)
 
 def main():
-    MARKDOWN_DIR.mkdir(parents=True, exist_ok=True)
-
     # Group text files by collection
     collections = defaultdict(list)
 
@@ -174,7 +163,7 @@ def main():
                 collections[collection_key].append(txt_path)
                 break
 
-    # Generate comprehensive markdown for each collection
+    # Generate comprehensive markdown for each collection (output to root)
     for collection_key, page_files in collections.items():
         if not page_files:
             continue
@@ -182,7 +171,7 @@ def main():
         print(f"Generating {collection_key}: {len(page_files)} pages")
 
         md_content = generate_comprehensive_markdown(collection_key, page_files)
-        md_path = MARKDOWN_DIR / f"{collection_key}_comprehensive.md"
+        md_path = OUTPUT_DIR / f"{collection_key}_comprehensive.md"
 
         with open(md_path, 'w', encoding='utf-8') as f:
             f.write(md_content)

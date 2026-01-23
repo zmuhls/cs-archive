@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:10:36.082893
 
-**Source Image:** [📄 page_158.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_158.png)
+**Source Image:** [📄 page_158.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_158.png)
 
 ---
 
 ## Source Document
 
-![application for the insurance would agree to divide it](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_158.png)
+![application for the insurance would agree to divide it](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_158.png)
 
 ---
 

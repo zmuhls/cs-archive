@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:49:25.823120
 
-**Source Image:** [📄 page_364.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_364.png)
+**Source Image:** [📄 page_364.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_364.png)
 
 ---
 
 ## Source Document
 
-![that Mrs. Ralph Gardiner was entitled to the days pay for substitute teaching at](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_364.png)
+![that Mrs. Ralph Gardiner was entitled to the days pay for substitute teaching at](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_364.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:01:52.993295
 
-**Source Image:** [📄 page_435.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_435.png)
+**Source Image:** [📄 page_435.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_435.png)
 
 ---
 
 ## Source Document
 
-![The President appointed Mrs. Burns Chairman of the Commencement Committee:](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_435.png)
+![The President appointed Mrs. Burns Chairman of the Commencement Committee:](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_435.png)
 
 ---
 

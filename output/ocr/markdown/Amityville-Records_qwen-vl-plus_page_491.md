@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:12:19.542658
 
-**Source Image:** [📄 page_491.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_491.png)
+**Source Image:** [📄 page_491.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_491.png)
 
 ---
 
 ## Source Document
 
-![The Secretary read petitions signed by twenty two parents requesting the use of ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_491.png)
+![The Secretary read petitions signed by twenty two parents requesting the use of ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_491.png)
 
 ---
 

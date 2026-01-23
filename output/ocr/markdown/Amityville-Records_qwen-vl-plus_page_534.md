@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:19:41.132437
 
-**Source Image:** [📄 page_534.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_534.png)
+**Source Image:** [📄 page_534.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_534.png)
 
 ---
 
 ## Source Document
 
-![The President therupon appointed Messrs. Vogel, Carwell and Thorn as the Committ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_534.png)
+![The President therupon appointed Messrs. Vogel, Carwell and Thorn as the Committ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_534.png)
 
 ---
 

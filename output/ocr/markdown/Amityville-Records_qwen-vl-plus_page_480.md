@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:10:05.377051
 
-**Source Image:** [📄 page_480.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_480.png)
+**Source Image:** [📄 page_480.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_480.png)
 
 ---
 
 ## Source Document
 
-![Yewman & Erbe Mfg. Co.                      $ 18.21](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_480.png)
+![Yewman & Erbe Mfg. Co.                      $ 18.21](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_480.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:42:23.868893
 
-**Source Image:** [📄 page_326.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_326.png)
+**Source Image:** [📄 page_326.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_326.png)
 
 ---
 
 ## Source Document
 
-![be awarded contract for the removal of 150 feet of piping and](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_326.png)
+![be awarded contract for the removal of 150 feet of piping and](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_326.png)
 
 ---
 

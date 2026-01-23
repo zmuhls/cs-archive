@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:19:30.199384
 
-**Source Image:** [📄 page_532.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_532.png)
+**Source Image:** [📄 page_532.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_532.png)
 
 ---
 
 ## Source Document
 
-![Moved, seconded and carried, that the bid of Wilbur F. Heinley for supplying the](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_532.png)
+![Moved, seconded and carried, that the bid of Wilbur F. Heinley for supplying the](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_532.png)
 
 ---
 

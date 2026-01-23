@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:22:02.895077
 
-**Source Image:** [📄 page_218.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_218.png)
+**Source Image:** [📄 page_218.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_218.png)
 
 ---
 
 ## Source Document
 
-![Mr. Whitmore moved and Mr. Case seconded the motion that the Purchasing Committe](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_218.png)
+![Mr. Whitmore moved and Mr. Case seconded the motion that the Purchasing Committe](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_218.png)
 
 ---
 

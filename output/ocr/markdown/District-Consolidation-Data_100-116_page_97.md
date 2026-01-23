@@ -1,50 +1,39 @@
 # Monroe County
 
-**Table Type:** Central Rural Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 97)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_97.jpg
 
-**Processed:** 2026-01-01T22:51:27.908678
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_97.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_97.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:49:21.214410
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_97.jpg](../tables/images/District-Consolidation-Data_100-116_page_97.jpg)
 
 ---
 
 ## Source Document
 
-![Monroe County - Central Rural Schools - Page 97](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_97.jpg)
+![Monroe County](../tables/images/District-Consolidation-Data_100-116_page_97.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| CRS | 4 Yarme
-1,2,5,7,9,10,11,13,14 Yarme
-5,7,11 Hamlin
-6,7,13 Greece
-10 Clarkson | Laid out
-Meeting held |  |  | CRS
-1 Yarme |
-| CRS | 1 Ogden
-2,4,5,12,13 Ogden
-3,8,13 Yarme (2nd move)
-2 Gates
-12 Greece (2nd move) | Laid out
-Meeting held |  |  | CRS
-1 Ogden |
-| CRS | 4 Riga, Ogden + Sweden
-1,2,5,8,10 Riga
-7 Ogden
-10 Ogden + Riga
-6 Ogden + Chili
-14 Ogden + Sweden
-1,3 Chili
-6 Chili, Riga + Ogden
-7 Chili + Riga | Laid out May 23, 1950
-Meeting held June 14, 1950 |  |  | CRS
-1 Riga, Ogden
-Chili + Sweden |
+Monroe County
+179
+
+| No. of the district | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of school | REMARKS |
+|---------------------|--------------|---------------------------------------------|--------------------------------------------------|----------------|---------|
+|                     |              | Day | Month | Year | Day | Month | Year |                |         |
+| CRS                 | W.S. dist. of Parma | [blank] | [blank] | [blank] | Laid out | Meeting held | [blank] | CRS | Parma |
+|                     | C.S. dist. 1, 2, 5, 7, 9, 11, 12, 14 Women | 5, 7, 11 | Member | 6, 7, 13 | Green | 10 | Clifton | CRS | Oyden |
+|                     |              |          |        |        |        |        |        | CRS | Oyden |
+| CRS                 | H.S. dist. 1 Ogden | 2, 5, 12, 18 | Ogden | 3, 8, 13 | Parma (2nd meeting) | 2 | Gates | CRS | Oyden |
+|                     |              |          |        |        |        |        |        | CRS | Oyden |
+| CRS                 | H.S. dist. + Rigas, Ogden + Sveden | Laid out | May 23, 1950 | Meeting held | June 14, 1950 | CRS | Rigas, Ogden, Sveden |
+|                     | C.S. dist. 1, 2, 5, 6, 10 | Rigas | 7 | Ogden + Rigas | 10 | Ogden + Chili | 11 | Ogden + Sveden | 12 | Chili | 13 | Ogden + Sveden | 14 | Chili | 15 | Rigas + Ogden | CRS | Rigas, Ogden, Sveden |

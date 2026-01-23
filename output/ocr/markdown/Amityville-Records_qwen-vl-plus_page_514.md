@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:16:28.409099
 
-**Source Image:** [📄 page_514.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_514.png)
+**Source Image:** [📄 page_514.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_514.png)
 
 ---
 
 ## Source Document
 
-![June, 1929, and two (2) to mature annually thereafter on the first day of June i](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_514.png)
+![June, 1929, and two (2) to mature annually thereafter on the first day of June i](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_514.png)
 
 ---
 

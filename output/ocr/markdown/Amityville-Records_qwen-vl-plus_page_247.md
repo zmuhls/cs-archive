@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:27:52.415302
 
-**Source Image:** [📄 page_247.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_247.png)
+**Source Image:** [📄 page_247.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_247.png)
 
 ---
 
 ## Source Document
 
-![On motion of Mr. Axtell, James Fitzpatrick was nominated for Truant Officer at a](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_247.png)
+![On motion of Mr. Axtell, James Fitzpatrick was nominated for Truant Officer at a](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_247.png)
 
 ---
 

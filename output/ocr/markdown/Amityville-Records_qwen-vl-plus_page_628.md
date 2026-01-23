@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:44:17.757591
 
-**Source Image:** [📄 page_628.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_628.png)
+**Source Image:** [📄 page_628.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_628.png)
 
 ---
 
 ## Source Document
 
-![For all, but no part of the legally issued and properly executed $25,000 Joint U](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_628.png)
+![For all, but no part of the legally issued and properly executed $25,000 Joint U](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_628.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:57:08.709780
 
-**Source Image:** [📄 page_85.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_85.png)
+**Source Image:** [📄 page_85.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_85.png)
 
 ---
 
 ## Source Document
 
-![FURTHER RESOLVED, that there shall be levied, assessed and collected annually by](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_85.png)
+![FURTHER RESOLVED, that there shall be levied, assessed and collected annually by](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_85.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T00:18:06.679285
 
-**Source Image:** [📄 page_34.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_34.png)
+**Source Image:** [📄 page_34.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_34.png)
 
 ---
 
 ## Source Document
 
-![Celoron Union School (Chautauqua Co.)](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_34.png)
+![Celoron Union School (Chautauqua Co.)](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_34.png)
 
 ---
 

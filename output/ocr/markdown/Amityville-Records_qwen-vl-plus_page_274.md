@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:33:15.304999
 
-**Source Image:** [📄 page_274.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_274.png)
+**Source Image:** [📄 page_274.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_274.png)
 
 ---
 
 ## Source Document
 
-![Mr. Ruff submitted letter from A. H. Jones, District Superintendent of Schools, ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_274.png)
+![Mr. Ruff submitted letter from A. H. Jones, District Superintendent of Schools, ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_274.png)
 
 ---
 

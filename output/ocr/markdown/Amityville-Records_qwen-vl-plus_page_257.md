@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:29:47.334604
 
-**Source Image:** [📄 page_257.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_257.png)
+**Source Image:** [📄 page_257.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_257.png)
 
 ---
 
 ## Source Document
 
-![South-Western Publishing Company     $ 29.60](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_257.png)
+![South-Western Publishing Company     $ 29.60](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_257.png)
 
 ---
 

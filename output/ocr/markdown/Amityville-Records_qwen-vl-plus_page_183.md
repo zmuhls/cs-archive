@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:15:17.398643
 
-**Source Image:** [📄 page_183.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_183.png)
+**Source Image:** [📄 page_183.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_183.png)
 
 ---
 
 ## Source Document
 
-![The Mercoid Corp.                          $  8.01](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_183.png)
+![The Mercoid Corp.                          $  8.01](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_183.png)
 
 ---
 

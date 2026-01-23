@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:48:58.634126
 
-**Source Image:** [📄 page_362.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_362.png)
+**Source Image:** [📄 page_362.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_362.png)
 
 ---
 
 ## Source Document
 
-![Amityville Records page 362](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_362.png)
+![Amityville Records page 362](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_362.png)
 
 ---
 

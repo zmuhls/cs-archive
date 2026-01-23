@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T00:15:49.280143
 
-**Source Image:** [📄 page_20.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_20.png)
+**Source Image:** [📄 page_20.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_20.png)
 
 ---
 
 ## Source Document
 
-![Bradford Union School (Selectmen No.) - E-2](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_20.png)
+![Bradford Union School (Selectmen No.) - E-2](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_20.png)
 
 ---
 

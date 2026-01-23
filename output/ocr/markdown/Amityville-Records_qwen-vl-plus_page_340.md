@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:44:36.809605
 
-**Source Image:** [📄 page_340.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_340.png)
+**Source Image:** [📄 page_340.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_340.png)
 
 ---
 
 ## Source Document
 
-![resolved that the matter of purchasing Ford car for the Nurse be left in the han](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_340.png)
+![resolved that the matter of purchasing Ford car for the Nurse be left in the han](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_340.png)
 
 ---
 

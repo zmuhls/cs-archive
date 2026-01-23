@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:44:34.299613
 
-**Source Image:** [📄 page_630.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_630.png)
+**Source Image:** [📄 page_630.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_630.png)
 
 ---
 
 ## Source Document
 
-![MOVED, duly seconded and carried, that the Purchasing Committee purchase one bar](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_630.png)
+![MOVED, duly seconded and carried, that the Purchasing Committee purchase one bar](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_630.png)
 
 ---
 

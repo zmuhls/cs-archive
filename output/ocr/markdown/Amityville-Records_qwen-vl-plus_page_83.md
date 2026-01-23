@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:56:51.519119
 
-**Source Image:** [📄 page_83.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_83.png)
+**Source Image:** [📄 page_83.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_83.png)
 
 ---
 
 ## Source Document
 
-![IN WITNESS WHEREOF, Joint Union Free School District](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_83.png)
+![IN WITNESS WHEREOF, Joint Union Free School District](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_83.png)
 
 ---
 

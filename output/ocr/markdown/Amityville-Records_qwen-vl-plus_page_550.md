@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:22:19.043890
 
-**Source Image:** [📄 page_550.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_550.png)
+**Source Image:** [📄 page_550.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_550.png)
 
 ---
 
 ## Source Document
 
-![F. A. Pipe Corp.                      $ 39.66](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_550.png)
+![F. A. Pipe Corp.                      $ 39.66](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_550.png)
 
 ---
 

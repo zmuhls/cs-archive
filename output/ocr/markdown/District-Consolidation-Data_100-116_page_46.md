@@ -1,27 +1,42 @@
 # Dutchess County
 
-**Table Type:** Union Free Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 46)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_46.jpg
 
-**Processed:** 2026-01-01T22:29:14.830777
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_46.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_46.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:38:29.257581
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_46.jpg](../tables/images/District-Consolidation-Data_100-116_page_46.jpg)
 
 ---
 
 ## Source Document
 
-![Dutchess County - Union Free Schools - Page 46](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_46.jpg)
+![Dutchess County](../tables/images/District-Consolidation-Data_100-116_page_46.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 4 | Washington | 18 April 1892 |  | 3 |  |
-| 10 | Stanford | 7 June 1921 |  | 3 |  |
-| 4 | Poughkeepsie | 30 October 1875 |  |  |  |
+```
+Dutchess County
+Union Free Schools
+
+| No. of district | NAME OF TOWN     | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | NUMBER OF BOARD | REMARKS |
+|-----------------|------------------|--------------------------------------------|--------------------------------------------------|-----------------|---------|
+|                 |                  | Day   Month   Year                         | Day   Month   Year                               |                 |         |
+| 4               | Washington       | 18    April   1892                         | [blank]                                          | 3               | [blank] |
+| 10              | Stanford         | 7     June    1921                         | [blank]                                          | 3               | [blank] |
+| 4               | Poughkeepsie     | 30    October 1875                         | [blank]                                          | 3               | [blank] |
+```
+
+**Notes:**
+- The handwritten notes on the left margin ("WDS #2" and "104271") are not included in the table as they are not part of the structured data.
+- The "REMARKS" column is left blank for all entries as no specific remarks are provided in the document.
+- The table preserves the original structure with clear column headers and aligned data.

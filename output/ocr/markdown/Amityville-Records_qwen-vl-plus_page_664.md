@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:51:20.349752
 
-**Source Image:** [📄 page_664.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_664.png)
+**Source Image:** [📄 page_664.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_664.png)
 
 ---
 
 ## Source Document
 
-![Kinderergarten](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_664.png)
+![Kinderergarten](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_664.png)
 
 ---
 

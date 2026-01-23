@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:30:50.327963
 
-**Source Image:** [📄 page_261.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_261.png)
+**Source Image:** [📄 page_261.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_261.png)
 
 ---
 
 ## Source Document
 
-![Mr. Burr reported that Mrs. Van Emrick should have been awarded contract at the ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_261.png)
+![Mr. Burr reported that Mrs. Van Emrick should have been awarded contract at the ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_261.png)
 
 ---
 

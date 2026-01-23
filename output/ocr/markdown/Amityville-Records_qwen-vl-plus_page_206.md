@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:19:39.804337
 
-**Source Image:** [📄 page_206.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_206.png)
+**Source Image:** [📄 page_206.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_206.png)
 
 ---
 
 ## Source Document
 
-![Mr. Case moved and Mr. Axtell seconded the motion that the Cafeteria be given a ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_206.png)
+![Mr. Case moved and Mr. Axtell seconded the motion that the Cafeteria be given a ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_206.png)
 
 ---
 

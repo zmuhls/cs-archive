@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:51:42.919133
 
-**Source Image:** [📄 page_377.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_377.png)
+**Source Image:** [📄 page_377.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_377.png)
 
 ---
 
 ## Source Document
 
-![Principal's Office, May 6, 1926](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_377.png)
+![Principal's Office, May 6, 1926](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_377.png)
 
 ---
 

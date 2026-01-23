@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:28:33.067617
 
-**Source Image:** [📄 page_250.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_250.png)
+**Source Image:** [📄 page_250.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_250.png)
 
 ---
 
 ## Source Document
 
-![The Clerk submitted the applications of Edward Armbruster, Jr., William McCookin](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_250.png)
+![The Clerk submitted the applications of Edward Armbruster, Jr., William McCookin](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_250.png)
 
 ---
 

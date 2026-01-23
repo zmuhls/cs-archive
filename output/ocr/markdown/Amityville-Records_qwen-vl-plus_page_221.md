@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:22:33.184507
 
-**Source Image:** [📄 page_221.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_221.png)
+**Source Image:** [📄 page_221.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_221.png)
 
 ---
 
 ## Source Document
 
-![Mr. Case moved and Mr. Ketcham seconded the motion that two hand fire extinguish](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_221.png)
+![Mr. Case moved and Mr. Ketcham seconded the motion that two hand fire extinguish](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_221.png)
 
 ---
 

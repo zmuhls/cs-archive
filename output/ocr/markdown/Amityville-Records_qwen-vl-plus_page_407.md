@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:56:43.704697
 
-**Source Image:** [📄 page_407.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_407.png)
+**Source Image:** [📄 page_407.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_407.png)
 
 ---
 
 ## Source Document
 
-![Building Committee reported progress on the - roof being taken to have](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_407.png)
+![Building Committee reported progress on the - roof being taken to have](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_407.png)
 
 ---
 

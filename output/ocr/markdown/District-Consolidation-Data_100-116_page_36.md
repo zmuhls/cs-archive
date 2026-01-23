@@ -1,67 +1,94 @@
-# Columbia County
+# Below is the transcription of the document, preserving the table structure and f
 
-**Table Type:** Consolidated Districts
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 36)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_36.jpg
 
-**Processed:** 2026-01-01T22:25:19.090599
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_36.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_36.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:36:01.890525
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_36.jpg](../tables/images/District-Consolidation-Data_100-116_page_36.jpg)
 
 ---
 
 ## Source Document
 
-![Columbia County - Consolidated Districts - Page 36](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_36.jpg)
+![Below is the transcription of the document, preserving the table structure and f](../tables/images/District-Consolidation-Data_100-116_page_36.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1+2 | New Lebanon | 31 August 1914 | 1-234,474 265 Acad. 14-15 | 15,150 | 1 New Lebanon |
-| 8+10 | Ghent | 10 May 1915 | 2-14,150 1K 14,905 8-167,876 1K 10-365 103 263 | renumbered | 3 Ghent |
-| 3+10 | Ghent (formerly No.12) | 5 May 1915 | 3-81,300 1K 10-see above |  | 3 Ghent |
-| 1+2 | New Lebanon | 29 July 1916 | 1-See above 2-64,000 1K 15-16 4-51,221 1K 7-114,427 1K 8-162,788 1K |  | 1 New Lebanon |
-| 4,7+8 | Copake | 25 April 1919 | 6-33,800 Conf 13-69,680 1K 2-236,620 1K 5-146,699 1K 3-76,647 1K 4-84,315 1K 21-22 | renum. | 8 Copake |
-| 6+13 | Chatham | 7 May 1921 |  |  | 13 Chatham |
-| 2+5 | Germantown | 17 November 1921 | 265 (26+21) |  | 2 Germantown |
-| 3+4 | Germantown + Clermont |  |  |  | 4 Clermont |
-| C.R.S. 1,2,7+9 | New Lebanon |  | Laid out 9 Jul. 1928 Meeting held 19 Jul. 1928 Design. dist. 25 Jul. 1928 1-see above 2-24,554 1K 7-108,070 1K 9-30,647 Conf. 6.30303-1K |  | 1 New Lebanon & Candan |
-| 1+6 | New Lebanon | 5 February 1929 |  |  | 1 New Lebanon |
-| 1+2 | Hillsdale + Copake |  |  |  | 1 Hillsdale, Copake |
-| 8 | Copake |  |  |  |  |
-| 3,7,8,9,10 | Hillsdale + Claverack |  |  |  |  |
-| 9 | Hillsdale + Taghkanic |  |  |  |  |
-| 4 | Hillsdale + Austerlitz |  |  |  |  |
-| 6+14 | Averram + No. East |  |  |  |  |
-| 2+4 | Copake + Taghkanic |  |  |  |  |
-| 1 | Copake + Balaclava |  |  |  |  |
-| 3 | Copake + Taghkanic |  |  |  |  |
-| 10 | Copake + Taghkanic |  |  |  |  |
-| 1,2,3,5 | Copake + Taghkanic |  |  |  |  |
-| 6 | Copake + Taghkanic |  |  |  |  |
-| 9 | Copake + Hillsdale |  |  |  |  |
-| 10 | Copake + Averram |  |  |  |  |
-| 1+2 | Taghkanic + Copake |  |  |  |  |
-| 3+6 | Taghkanic + Copake |  |  |  |  |
-| 11 | Claverack (2d Col.) |  |  |  |  |
-| 6 | Stephentown (2d Rensselaer) |  |  |  |  |
-| 1 | New Lebanon | 29 May 1931 to take effect 1 Sept. 1930 | C.R.S. Laid out 11 Jul. 1931. Meeting 2 Stephentown Held 2 Jul. 1931. Designation of dist. 17 Jul. 1931 |  | 1 New Lebanon |
-| 2d | Germantown + Clermont |  |  |  |  |
-| 1 | Germantown |  |  |  |  |
-| 3 | Germantown |  |  |  |  |
-| 1+5 | New Lebanon | 28 May 1937 to take effect 30 Aug. 1937 |  |  | 1 New Lebanon |
-| 3 | New Lebanon |  |  |  |  |
-| 1 | New Lebanon | 19 June 1942 | 17 Sept 1942 |  | 1 New Lebanon |
-| CRS | New Lebanon |  |  |  | CRS |
-| 2 | Claverack |  |  |  | 2 Claverack |
-| C.R.S. 2,5,7,8,9,10,12 | Claverack | Laid out June 4, 1946 | Meeting June 26, 1946 |  |  |
-| 12 | Champion |  |  |  |  |
-| 2,8 | Ghent |  |  |  |  |
-| 4,12,13 | Hillsdale |  |  |  |  |
-| 2 | Austerlitz |  |  |  |  |
-| 16 | Schodack (Rensselaer Co.) | Aug 23 1913 (per creed and 9 chetam) |  |  | creed (in part) with #9 Chatham |
+Below is the transcription of the document, preserving the table structure and formatting as requested:
+
+---
+
+**Columbia County**
+
+**Consolidated Districts**
+
+| No. of District | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING-DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS |
+|-----------------|--------------|---------------------------------------------|--------------------------------------------------|---------|
+| 1+2             | New Lebanon  | 31 August 1914                              | 13 July 1915                                     | 1. New Lebanon |
+| 8+10            | Ghent        | 10 May 1915                                 | 17 May 1915                                      | 3. Ghent      |
+| 3+10            | Ghent        | 5 May 1915                                  | 17 May 1915                                      | 3. Ghent      |
+| 19              | New Lebanon  | 29 July 1916                                | 15 July 1916                                     | 1. New Lebanon |
+| 4+7+8           | Copake       | 2d April 1919                               | 11 April 1919                                    | 6. Copake     |
+| 6+13            | Chatham      | 7 May 1921                                  | 21 May 1921                                      | 13. Chatham   |
+| 2+4+5           | Germantown   | 4d November 1921                            | 17 November 1921                                 | 2. Germantown |
+|                 | Clermont     |                                             |                                                  | 4. Clermont   |
+| C.R.S.          | New Lebanon  |                                             |                                                  | 1. New Lebanon |
+|                 | Canaan       |                                             |                                                  |              |
+|                 |              |                                             |                                                  | 2. New Lebanon |
+|                 |              |                                             |                                                  |              |
+| 1+6             | New Lebanon  | 5 February 1929                             | 9 January 1928                                   |              |
+|                 |              |                                             |                                                  |              |
+| 1+2+4+9         | Hillstale    |                                             |                                                  | 1. Hillstale   |
+|                 | Copake       |                                             |                                                  | 6. Copake     |
+|                 |              |                                             |                                                  |              |
+| 3+7+8+9+10      | Hillstale    |                                             |                                                  |              |
+|                 | Clavack      |                                             |                                                  |              |
+|                 | Anamam + N. East |                                         |                                                  |              |
+|                 |              |                                             |                                                  |              |
+| 6+4+1+2+3+5+4   | Anamam       |                                             |                                                  |              |
+|                 |              |                                             |                                                  |              |
+| 1+2+3+5+4+6+1+2 | Copake       |                                             |                                                  |              |
+|                 | Taghkanic    |                                             |                                                  |              |
+|                 |              |                                             |                                                  |              |
+| 3+4+6+1+2+3+4+5 | Taghkanic    |                                             |                                                  |              |
+|                 |              |                                             |                                                  |              |
+| 1+2+3+4+5+6+7+8 | Clavack      |                                             |                                                  |              |
+|                 |              |                                             |                                                  |              |
+| X+6             | Elephantown  | 29 May 1931                                 | 1 September 1930                                 | 1. New Lebanon |
+|                 |              |                                             |                                                  |              |
+| 2d              | Germantown   | 7 May 1931                                  | 11 May 1931                                      | 2. Germantown |
+|                 | Clermont     |                                             |                                                  | 4. Clermont   |
+| 1+3             | Germantown   |                                             | 30 August 1931                                   | 2. Germantown |
+|                 |              |                                             |                                                  |              |
+| 10+5+3          | New Lebanon  | 28 May 1937                                 | 30 August 1937                                   | 1. New Lebanon |
+|                 |              |                                             |                                                  |              |
+| C.R.S.          | New Lebanon  | 19 June 1942                                | 17 September 1942                                | 1. New Lebanon |
+|                 |              |                                             |                                                  |              |
+| 1+6             | Schodack     | 25 May 1946                                 | 4 June 1946                                      | 1. Schodack   |
+|                 |              |                                             |                                                  |              |
+| 2+5+7+1+10+12   | Clavack      |                                             |                                                  |              |
+|                 |              |                                             |                                                  |              |
+| 1+3+4+5+6+7+8+9 | Schodack     | 26 June 1946                                | 26 June 1946                                     |              |
+|                 |              |                                             |                                                  |              |
+| 1+6             | Schodack     | 19 June 1942                                | 17 September 1942                                | 1. Schodack   |
+|                 |              |                                             |                                                  |              |
+| 1+6             | Schodack     | 25 May 1946                                 | 4 June 1946                                      | 1. Schodack   |
+|                 |              |                                             |                                                  |              |
+| 1+6             | Schodack     | 19 June 1942                                | 17 September 1942                                | 1. Schodack   |
+|                 |              |                                             |                                                  |              |
+| 1+6             | Schodack     | 25 May 1946                                 | 4 June 1946                                      | 1. Schodack   |
+|                 |              |                                             |                                                  |              |
+| 1+6             | Schodack     | 19 June 1942                                | 17 September 1942                                | 1. Schodack   |
+|                 |              |                                             |                                                  |              |
+| 1+6             | Schodack     | 25 May 1946                                 | 4 June 1946                                      | 1. Schodack   |
+|                 |              |

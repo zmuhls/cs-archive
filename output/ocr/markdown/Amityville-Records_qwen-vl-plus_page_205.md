@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:19:28.075934
 
-**Source Image:** [📄 page_205.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_205.png)
+**Source Image:** [📄 page_205.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_205.png)
 
 ---
 
 ## Source Document
 
-![Mrs. F. Harrison to one and one-half days pay; Miss Esther Funnell to six days p](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_205.png)
+![Mrs. F. Harrison to one and one-half days pay; Miss Esther Funnell to six days p](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_205.png)
 
 ---
 

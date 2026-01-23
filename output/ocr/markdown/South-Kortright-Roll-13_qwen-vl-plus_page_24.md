@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:45:06.671098
 
-**Source Image:** [📄 page_24.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_24.png)
+**Source Image:** [📄 page_24.png](../../../tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_24.png)
 
 ---
 
 ## Source Document
 
-![**Transcription:**](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_24.png)
+![**Transcription:**](../../../tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_24.png)
 
 ---
 

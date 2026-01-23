@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:18:38.409866
 
-**Source Image:** [📄 page_527.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_527.png)
+**Source Image:** [📄 page_527.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_527.png)
 
 ---
 
 ## Source Document
 
-![Motion made, duly seconded and carried, that the Purchasing Committee advertise ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_527.png)
+![Motion made, duly seconded and carried, that the Purchasing Committee advertise ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_527.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:02:33.181613
 
-**Source Image:** [📄 page_114.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_114.png)
+**Source Image:** [📄 page_114.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_114.png)
 
 ---
 
 ## Source Document
 
-![The John C. Winston Company                      $ 7.53](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_114.png)
+![The John C. Winston Company                      $ 7.53](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_114.png)
 
 ---
 

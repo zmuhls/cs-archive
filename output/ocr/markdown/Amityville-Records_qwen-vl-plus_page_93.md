@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:58:14.960314
 
-**Source Image:** [📄 page_93.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_93.png)
+**Source Image:** [📄 page_93.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_93.png)
 
 ---
 
 ## Source Document
 
-![G. & C. Merrian Company.     $ 50.00](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_93.png)
+![G. & C. Merrian Company.     $ 50.00](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_93.png)
 
 ---
 

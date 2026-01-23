@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:46:09.018160
 
-**Source Image:** [📄 page_637.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_637.png)
+**Source Image:** [📄 page_637.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_637.png)
 
 ---
 
 ## Source Document
 
-![of the General Municipal Law. If this bond be registered as to both](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_637.png)
+![of the General Municipal Law. If this bond be registered as to both](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_637.png)
 
 ---
 

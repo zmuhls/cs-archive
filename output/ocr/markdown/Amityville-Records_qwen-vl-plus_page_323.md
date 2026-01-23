@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:42:00.461276
 
-**Source Image:** [📄 page_323.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_323.png)
+**Source Image:** [📄 page_323.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_323.png)
 
 ---
 
 ## Source Document
 
-![The Board then went into executive session for](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_323.png)
+![The Board then went into executive session for](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_323.png)
 
 ---
 

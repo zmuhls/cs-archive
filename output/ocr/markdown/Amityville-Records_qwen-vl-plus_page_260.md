@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:30:35.668090
 
-**Source Image:** [📄 page_260.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_260.png)
+**Source Image:** [📄 page_260.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_260.png)
 
 ---
 
 ## Source Document
 
-![The Building and Grounds Committee reported that the cesspools adjacent to the H](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_260.png)
+![The Building and Grounds Committee reported that the cesspools adjacent to the H](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_260.png)
 
 ---
 

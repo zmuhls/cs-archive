@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:59:55.070510
 
-**Source Image:** [📄 page_424.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_424.png)
+**Source Image:** [📄 page_424.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_424.png)
 
 ---
 
 ## Source Document
 
-![Mr. Ingler moved that Committee report be accepted with exception of Mrs. Jardin](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_424.png)
+![Mr. Ingler moved that Committee report be accepted with exception of Mrs. Jardin](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_424.png)
 
 ---
 

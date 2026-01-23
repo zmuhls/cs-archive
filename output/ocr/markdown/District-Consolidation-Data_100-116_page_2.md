@@ -1,34 +1,46 @@
-# County County
+# All consolidations made from May 2, 1917 to Aug. 1, 1918 are void. New consolida
 
-**Table Type:** Consolidated Districts
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 2)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_2.jpg
 
-**Processed:** 2026-01-01T22:06:05.565136
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_2.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_2.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:27:46.244247
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_2.jpg](../tables/images/District-Consolidation-Data_100-116_page_2.jpg)
 
 ---
 
 ## Source Document
 
-![County County - Consolidated Districts - Page 2](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_2.jpg)
+![All consolidations made from May 2, 1917 to Aug. 1, 1918 are void. New consolida](../tables/images/District-Consolidation-Data_100-116_page_2.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-|  | Cayuta Bay |  |  |  |  |
-|  | Gidicott |  |  |  |  |
-|  | Sloan |  |  |  |  |
-|  | Reinmore |  |  |  |  |
-|  | Huntington |  |  |  |  |
-|  | Northport |  |  |  |  |
-|  | Dansville |  |  |  |  |
-|  | Ballston Spa |  |  |  |  |
-|  | Nyack |  |  |  |  |
-|  | Tarrytown - D. Tarrytown |  |  |  |  |
+All consolidations made from May 2, 1917 to Aug. 1, 1918 are void. New consolidations must be filed.
+
+Red star * before consolidation means dist. has been divided and united to several other districts.
+
+§ 187 Cst. U.S.
+§ 180 Cst. Rural Sch.
+
+All consolidations taking effect after March 25, 1913 are recorded in this book.
+
+Consolidated Villages
+- Oyslet Bay
+- Indicott
+- Sloan
+- Keimore
+- Huntingt
+- Nattypot
+- Dansville
+- Ballston Spa
+- Pyach
+Tarrytown - D. Tarrytown

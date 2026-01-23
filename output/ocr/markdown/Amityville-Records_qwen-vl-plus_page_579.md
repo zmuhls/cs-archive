@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:27:51.728189
 
-**Source Image:** [📄 page_579.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_579.png)
+**Source Image:** [📄 page_579.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_579.png)
 
 ---
 
 ## Source Document
 
-![The Pearnell and Schmitt property was designated as first choice and a part of t](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_579.png)
+![The Pearnell and Schmitt property was designated as first choice and a part of t](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_579.png)
 
 ---
 

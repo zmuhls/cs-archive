@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:54:10.539913
 
-**Source Image:** [📄 page_390.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_390.png)
+**Source Image:** [📄 page_390.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_390.png)
 
 ---
 
 ## Source Document
 
-![ON motion duly made, seconded and carried, it was resolved that the Bank of Amit](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_390.png)
+![ON motion duly made, seconded and carried, it was resolved that the Bank of Amit](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_390.png)
 
 ---
 

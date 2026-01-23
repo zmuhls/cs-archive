@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:20:16.360335
 
-**Source Image:** [📄 page_538.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_538.png)
+**Source Image:** [📄 page_538.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_538.png)
 
 ---
 
 ## Source Document
 
-![The Clerk read the budget of expenses for the school year 1828-29, as adopted by](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_538.png)
+![The Clerk read the budget of expenses for the school year 1828-29, as adopted by](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_538.png)
 
 ---
 

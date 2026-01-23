@@ -1,26 +1,37 @@
 # Franklin County
 
-**Table Type:** Town School Units
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 59)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_59.jpg
 
-**Processed:** 2026-01-01T22:32:43.371179
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_59.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_59.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:40:54.086477
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_59.jpg](../tables/images/District-Consolidation-Data_100-116_page_59.jpg)
 
 ---
 
 ## Source Document
 
-![Franklin County - Town School Units - Page 59](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_59.jpg)
+![Franklin County](../tables/images/District-Consolidation-Data_100-116_page_59.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Moira | U.F.S. 1 and |  | 3,4,9 & 10 |  |
-| 2 | " | U.F.S. 2 " |  | 5,6,7,8 & 11 |  |
+Franklin County
+Page 107
+
+Town School Units
+
+| Unit | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | Nos. of dists included | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of School Board Members | REMARKS |
+|------|--------------|---------------------------------------------|------------------------|---------------------------------------------------|-----------------------------|---------|
+|      |              | Day | Month | Year | Day | Month | Year |        |        |        |
+| 1    | Moira        |     |       |      |     |       |      |        |        |        |
+|      |              | U.F.S. 1 and 3, 4, 9, 10 |        |        |        |        |        |        |        |
+| 2    |              | U.F.S. 2 |        |        | 5, 6, 7, 8, 11 |        |        |        |        |        |

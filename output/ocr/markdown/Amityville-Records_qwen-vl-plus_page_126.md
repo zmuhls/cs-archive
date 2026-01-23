@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:04:52.081512
 
-**Source Image:** [📄 page_126.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_126.png)
+**Source Image:** [📄 page_126.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_126.png)
 
 ---
 
 ## Source Document
 
-![Mrs. Burns reported that the commencement exercises would be held on June 27th a](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_126.png)
+![Mrs. Burns reported that the commencement exercises would be held on June 27th a](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_126.png)
 
 ---
 

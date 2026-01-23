@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:11:08.968591
 
-**Source Image:** [📄 page_160.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_160.png)
+**Source Image:** [📄 page_160.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_160.png)
 
 ---
 
 ## Source Document
 
-![It was moved, seconded and carried, that Mr. Ruff be authorized to attend the Pr](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_160.png)
+![It was moved, seconded and carried, that Mr. Ruff be authorized to attend the Pr](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_160.png)
 
 ---
 

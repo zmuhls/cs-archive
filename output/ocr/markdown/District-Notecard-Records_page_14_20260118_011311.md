@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T01:15:52.155226
 
-**Source Image:** [📄 page_14.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_14.png)
+**Source Image:** [📄 page_14.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_14.png)
 
 ---
 
 ## Source Document
 
-![Hart Blossomingdale Union School](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_14.png)
+![Hart Blossomingdale Union School](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_14.png)
 
 ---
 

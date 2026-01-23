@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:17:14.975871
 
-**Source Image:** [📄 page_519.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_519.png)
+**Source Image:** [📄 page_519.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_519.png)
 
 ---
 
 ## Source Document
 
-![The Teachers' Committee reported no inexplicable absences for the month of May; ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_519.png)
+![The Teachers' Committee reported no inexplicable absences for the month of May; ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_519.png)
 
 ---
 

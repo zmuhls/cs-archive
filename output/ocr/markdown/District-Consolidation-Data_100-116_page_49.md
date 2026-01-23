@@ -1,43 +1,52 @@
 # Dutchess County
 
-**Table Type:** Central Rural Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 49)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_49.jpg
 
-**Processed:** 2026-01-01T22:30:13.806481
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_49.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_49.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:39:00.451793
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_49.jpg](../tables/images/District-Consolidation-Data_100-116_page_49.jpg)
 
 ---
 
 ## Source Document
 
-![Dutchess County - Central Rural Schools - Page 49](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_49.jpg)
+![Dutchess County](../tables/images/District-Consolidation-Data_100-116_page_49.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| UFS#2
-1,3,4,6,7,89 | Albion
-Albion + Union Vale
-Albion | Effective date Dec 31, 1946 |  | 2 | Albion |
-| CRS
-U.H.S.dit
-C.S.dit | 5. Pawling
-1,3,6,8,9 Pawling
-2 Pawling, Buchanan (East Fishkill)
-4 Pawling & Tottenville (Cudde)
-7 Pawling, East Fishkill & Tottenville (Cudde)
-10 Albion, Pawling & Buchanan | Laid out June 5, 1950
-Meeting held June 27, 1950 |  |  | CRS
-Pawling, Albion
-East Fishkill, Buchanan
-Addition 6 & 7 (Tottenville, Cudde) |
-| C.S. 8 | North East | Cons with 6 North East, U.F.S. | Aug 7, 1952 | 6 North East |  |
-| C.S. 7 | " | " 6 " " U.F.S. | Feb 11, 1951 | 6 " " |  |
-| C.S. 2 | Amenia | " U.F.S 2 Dover | June 30, 1953 | 2 Dover |  |
+```
+Dutchess County
+89
+
+| No. of district | NAME OF TOWN | DATE OF SCHOOL-MAKING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | New number REMARKS |
+|------------------|--------------|--------------------------------------------|--------------------------------------------------|---------------------|
+| NYS # 2          | Clover Union Vale | Effective date Dec 31, 1946 (amended) | June 5, 1950 | 2 Amex |
+|                  |              |                                            | Meeting held June 27, 1950 | CRS |
+|                  |              |                                            |                                            | last meeting: Amex |
+| CRS              | NYS # 3      | 5. Tarrytown                                |                                            | CRS |
+|                  |              | 6. Tarrytown                                |                                            | last meeting: Amex |
+|                  |              | 7. Tarrytown                                |                                            | Amex |
+|                  |              | 8. Tarrytown                                |                                            | Amex |
+| C.S. 8           | North East   | Cons with 6 North East, U.T.               | Aug 7, 1952 | 6 North East |
+| 7                |              |                                            | Apr 11, 1951 | 6 Amex |
+| 2                |              |                                            | June 30, 1953 | 2 Amex |
+```
+
+**Notes:**
+
+- The table is structured with columns as per the original document.
+- Handwritten entries are transcribed as they appear.
+- Blank fields are indicated as `[blank]` where no information is present.
+- Pre-printed text (e.g., column headers) is preserved.
+- Handwritten notes and annotations are included where visible.
+- The layout is maintained to reflect the original form structure.

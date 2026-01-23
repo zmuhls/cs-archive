@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:42:25.596703
 
-**Source Image:** [📄 page_9.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_9.png)
+**Source Image:** [📄 page_9.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_9.png)
 
 ---
 
 ## Source Document
 
-![Mr. Ruff reported that the student body were desirous of printing a School or so](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_9.png)
+![Mr. Ruff reported that the student body were desirous of printing a School or so](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_9.png)
 
 ---
 

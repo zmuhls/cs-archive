@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:57:37.408297
 
-**Source Image:** [📄 page_89.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_89.png)
+**Source Image:** [📄 page_89.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_89.png)
 
 ---
 
 ## Source Document
 
-![and manner as required by law; that the issue of bonds of which](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_89.png)
+![and manner as required by law; that the issue of bonds of which](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_89.png)
 
 ---
 

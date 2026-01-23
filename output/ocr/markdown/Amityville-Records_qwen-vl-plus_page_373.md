@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:51:12.332106
 
-**Source Image:** [📄 page_373.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_373.png)
+**Source Image:** [📄 page_373.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_373.png)
 
 ---
 
 ## Source Document
 
-![On recommendation of the Building Committee, Mr. Inglee, moved that](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_373.png)
+![On recommendation of the Building Committee, Mr. Inglee, moved that](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_373.png)
 
 ---
 

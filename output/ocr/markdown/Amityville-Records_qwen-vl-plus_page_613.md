@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:39:19.274923
 
-**Source Image:** [📄 page_613.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_613.png)
+**Source Image:** [📄 page_613.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_613.png)
 
 ---
 
 ## Source Document
 
-![Charles Scribner's Sons                      $  3.26](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_613.png)
+![Charles Scribner's Sons                      $  3.26](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_613.png)
 
 ---
 

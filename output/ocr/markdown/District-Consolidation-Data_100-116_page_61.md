@@ -1,86 +1,67 @@
-# Fulton County
+# Below is the transcription of the tabular data from the provided document, maint
 
-**Table Type:** Consolidated Districts
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 61)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_61.jpg
 
-**Processed:** 2026-01-01T22:35:29.857458
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_61.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_61.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:41:41.056223
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_61.jpg](../tables/images/District-Consolidation-Data_100-116_page_61.jpg)
 
 ---
 
 ## Source Document
 
-![Fulton County - Consolidated Districts - Page 61](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_61.jpg)
+![Below is the transcription of the tabular data from the provided document, maint](../tables/images/District-Consolidation-Data_100-116_page_61.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Ephratah & Oppenheim | 15 May 1914 | 12 8345 1K | 12 Oppenheim | No. new dist. changed 1915 |
-| 5,6 | Ephratah | 20 August 1914 | 1 8400 Cont | 6 Ephratah | Oppenheim annulled, dissolved |
-| 1,20 | Johnstown | 6 May 1914 | 11 Johnstown taken out of consol. Mr. 13,1920 numbered |  |  |
-| 6 | Ephratah | 6 May 1914 | 4 Johnstown |  |  |
-| 3,4 | Caroga | 26 April 1916 | to take effect 27 Apr 1916 | 3 Caroga |  |
-| 7,8,9,10,11 | Ephratah | 7 February 1923 | 1-48,201 2K 5-26,720 1K 6-39,590 1K | 10 Ephratah |  |
-| 5 | Bleeker & Caroga | 28 May 1923 | 4-44,900 1K 5-22,350 1K | 4 Bleeker |  |
-| 4 | Bleeker | 28 May 1923 | 1-48,201 2K 5-26,720 1K 6-39,590 1K | 4 Bleeker |  |
-| 1,5,6 | Stratford | 16 May 1923 | to take effect 1 Ag.1923 | 1 Stratford |  |
-| 1,2,3,4,5,7,8,9 | Northampton | C.R.S. Laid out 14 Apr 1928 Meeting held 30 Apr 1928 Desig. of dist 15 May 1928 | 1-552,109 2K 2-94,407 1K 3-176,473 1K 4-21,536 1K 5-176,471 1K 6-111,330 1K 7-15,165 1K | 1 Northampton & Mayfield Fulton Co. Edinburgh, Sar. Co. Hope, Ham. Co. |  |
-| 12 | Mayfield & Northampton | C.R.S. Laid out 14 Apr 1928 Meeting held 30 Apr 1928 Desig. of dist 15 May 1928 | 1-552,109 2K 2-94,407 1K 3-176,473 1K 4-21,536 1K 5-176,471 1K 6-111,330 1K 7-15,165 1K | Mayfield Fulton Co. Edinburgh, Sar. Co. Hope, Ham. Co. |  |
-| 2 | Hope, Ham. Co. & Northampton | C.R.S. Laid out 14 Apr 1928 Meeting held 30 Apr 1928 Desig. of dist 15 May 1928 | 1-552,109 2K 2-94,407 1K 3-176,473 1K 4-21,536 1K 5-176,471 1K 6-111,330 1K 7-15,165 1K | Hope, Ham. Co. |  |
-| 1,2 | Caroga | 31 July 1928 | 1-160,710 2K 2-13,395 1K 3-176,473 1K 4-21,536 1K 5-176,471 1K 6-111,330 1K 7-15,165 1K | 1 Caroga |  |
-| 1,2,3,4,7,9 | Stratford etc Fulton Co. | C.R.S. Laid out 23 May 1928 Meeting held 14 June 1928 Desig. of dist 16 July 1928 | 1-552,109 2K 2-94,407 1K 3-176,473 1K 4-21,536 1K 5-176,471 1K 6-111,330 1K 7-15,165 1K | 1 Stratford Oppenheim & Ephratah, Fulton Co. & Salisbury, Herk. Co. |  |
-| 8,11 | Salisbury, Herk. Co. | C.R.S. Laid out 23 May 1928 Meeting held 14 June 1928 Desig. of dist 16 July 1928 | 1-552,109 2K 2-94,407 1K 3-176,473 1K 4-21,536 1K 5-176,471 1K 6-111,330 1K 7-15,165 1K | Salisbury, Herk. Co. |  |
-| 3,8 | Mayfield | 1 September 1928 | 8 3 acad 7 B. 23,203 1K 3 M. 32,240 1K | 8 Broadalbin |  |
-| 3 | Mayfield | 1 September 1928 | 8 3 acad 7 B. 23,203 1K 3 M. 32,240 1K | Mayfield |  |
-| 8 | Broadalbin | 1 September 1928 | 8 3 acad 7 B. 23,203 1K 3 M. 32,240 1K | Broadalbin |  |
-| 1 | Path & Johnston | Laid out 17 June 1929 Meeting held 3 July 1929 Desig. of dist 20 July 1929 | 11-46,693 - 1K 6-312,672 - 4K | 1 Perth, Johnston, Broadalbin, Mayfield Fulton Co., Town of Amsterdam - Mohler, Town of Galway - Saratoga Co. |  |
-| 2 | Perth, Broadalbin | Laid out 17 June 1929 Meeting held 3 July 1929 Desig. of dist 20 July 1929 | 11-46,693 - 1K 6-312,672 - 4K | Perth, Johnston, Broadalbin, Mayfield Fulton Co., Town of Amsterdam - Mohler, Town of Galway - Saratoga Co. |  |
-| 9 | Perth, Broadalbin & Mayfield | Laid out 17 June 1929 Meeting held 3 July 1929 Desig. of dist 20 July 1929 | 11-46,693 - 1K 6-312,672 - 4K | Perth, Johnston, Broadalbin, Mayfield Fulton Co., Town of Amsterdam - Mohler, Town of Galway - Saratoga Co. |  |
-| 11 | Perth & Mayfield | Laid out 17 June 1929 Meeting held 3 July 1929 Desig. of dist 20 July 1929 | 11-46,693 - 1K 6-312,672 - 4K | Perth, Johnston, Broadalbin, Mayfield Fulton Co., Town of Amsterdam - Mohler, Town of Galway - Saratoga Co. |  |
-| 9 | Broadalbin & Perth | Laid out 17 June 1929 Meeting held 3 July 1929 Desig. of dist 20 July 1929 | 11-46,693 - 1K 6-312,672 - 4K | Perth, Johnston, Broadalbin, Mayfield Fulton Co., Town of Amsterdam - Mohler, Town of Galway - Saratoga Co. |  |
-| 3 | Perth, Fulton Co. & Amsterdam, Mohler | Laid out 17 June 1929 Meeting held 3 July 1929 Desig. of dist 20 July 1929 | 11-46,693 - 1K 6-312,672 - 4K | Perth, Johnston, Broadalbin, Mayfield Fulton Co., Town of Amsterdam - Mohler, Town of Galway - Saratoga Co. |  |
-| 1 | Broadalbin, Fulton Co. & Galway, Saratoga Co. | Laid out 17 June 1929 Meeting held 3 July 1929 Desig. of dist 20 July 1929 | 11-46,693 - 1K 6-312,672 - 4K | Perth, Johnston, Broadalbin, Mayfield Fulton Co., Town of Amsterdam - Mohler, Town of Galway - Saratoga Co. |  |
-| 10 | Amsterdam, Mohler Co. & Perth, Fulton Co. | Laid out 17 June 1929 Meeting held 3 July 1929 Desig. of dist 20 July 1929 | 11-46,693 - 1K 6-312,672 - 4K | Perth, Johnston, Broadalbin, Mayfield Fulton Co., Town of Amsterdam - Mohler, Town of Galway - Saratoga Co. |  |
-| 11 | Mayfield & Broadalbin | 1 August 1929 | 11-46,693 - 1K 6-312,672 - 4K | 6 Mayfield |  |
-| 6 | Mayfield | 1 August 1929 | 11-46,693 - 1K 6-312,672 - 4K | 6 Mayfield |  |
-| 3 | Broadalbin & Mayfield | C.R.S. Laid out 22 April 1930 Meeting held 5 May 1930 Designation of dist 7 June 1930 |  | 1 Broadalbin Mayfield & Perth, Fulton Co. and Providence (Saratoga) |  |
-| 2,6 | Broadalbin | C.R.S. Laid out 22 April 1930 Meeting held 5 May 1930 Designation of dist 7 June 1930 |  | Broadalbin Mayfield & Perth, Fulton Co. and Providence (Saratoga) |  |
-| 3,4,5 | Broadalbin (Fulton Co.) & Providence (Sar. Co.) | C.R.S. Laid out 22 April 1930 Meeting held 5 May 1930 Designation of dist 7 June 1930 |  | Broadalbin Mayfield & Perth, Fulton Co. and Providence (Saratoga) |  |
-| 2 | Mayfield & Broadalbin | C.R.S. Laid out 22 April 1930 Meeting held 5 May 1930 Designation of dist 7 June 1930 |  | Broadalbin Mayfield & Perth, Fulton Co. and Providence (Saratoga) |  |
-| 10 | Mayfield & Perth | C.R.S. Laid out 22 April 1930 Meeting held 5 May 1930 Designation of dist 7 June 1930 |  | Broadalbin Mayfield & Perth, Fulton Co. and Providence (Saratoga) |  |
-| 3 | Broadalbin & Galway | C.R.S. Laid out 22 April 1930 Meeting held 5 May 1930 Designation of dist 7 June 1930 |  | Broadalbin Mayfield & Perth, Fulton Co. and Providence (Saratoga) |  |
-| 4 | Providence (Sar. Co.) | 4 May 1931 to take effect 1 Aug. 1931 |  | 6 Northampton |  |
-| 6 | Northampton | 4 May 1931 to take effect 1 Aug. 1931 |  | 6 Northampton |  |
-| 1,2 | Bleeker | 28 April 1932 to take effect 28 Jul 1932 |  | 2 Bleeker C.R.S |  |
-| 6 | Northampton, Broadalbin, Edinburgh & Providence | 28 April 1932 to take effect 28 Jul 1932 |  | 1 Broadalbin C.R.S |  |
-| 1 | Broadalbin etc. | 1 May 1935 to take effect 1 Aug. 1935 |  | 1 Mayfield |  |
-| 6 | Mayfield, Broadalbin & Northampton | Laid out 29 May 1937 Meeting held 15 June 1937 Designation of dist 23 June 1937 |  | Broadalbin, Northampton & Johnston |  |
-| 4,6,7,8,13 | Mayfield | Laid out 29 May 1937 Meeting held 15 June 1937 Designation of dist 23 June 1937 |  | Broadalbin, Northampton & Johnston |  |
-| 9 | Mayfield & Northampton | Laid out 29 May 1937 Meeting held 15 June 1937 Designation of dist 23 June 1937 |  | Broadalbin, Northampton & Johnston |  |
-| 14,15 | Mayfield & Johnston | Laid out 29 May 1937 Meeting held 15 June 1937 Designation of dist 23 June 1937 |  | Broadalbin, Northampton & Johnston |  |
-| 14,15 | Johnston & Mayfield | Laid out 29 May 1937 Meeting held 15 June 1937 Designation of dist 23 June 1937 |  | Broadalbin, Northampton & Johnston |  |
-| 1,10 | Oppenheim | 17 May 1938 to take effect 16 August 1938 |  | 10 Oppenheim C.R.S |  |
-| 8,9,10,11,13,14,16 | Oppenheim | Laid out 9 January 1939 Meeting held 1 March 1939 Designation of dist 21 March 1939 |  | 1 Oppenheim, Ephratah |  |
-| 5,6 | Oppenheim & St. Johnsville | Laid out 9 January 1939 Meeting held 1 March 1939 Designation of dist 21 March 1939 |  | Oppenheim, Ephratah |  |
-| 7 | Oppenheim & Manheim | Laid out 9 January 1939 Meeting held 1 March 1939 Designation of dist 21 March 1939 |  | Oppenheim, Ephratah |  |
-| 4 | Ephratah | Laid out 9 January 1939 Meeting held 1 March 1939 Designation of dist 21 March 1939 |  | Oppenheim, Ephratah |  |
-| 2 | Ephratah & Stratford | Laid out 9 January 1939 Meeting held 1 March 1939 Designation of dist 21 March 1939 |  | Oppenheim, Ephratah |  |
-| 3 | Ephratah & Oppenheim | Laid out 9 January 1939 Meeting held 1 March 1939 Designation of dist 21 March 1939 |  | Oppenheim, Ephratah |  |
-| 4 | Salisbury (Herkimer Co.) | 5 Nov. 1941 to take effect 10 Feb. 1941 |  | 1 Stratford C.R.S |  |
-| 1 | Stratford | 5 Nov. 1941 to take effect 10 Feb. 1941 |  | 1 Stratford C.R.S |  |
-| 9 | Salisbury (Herkimer Co.) | 16 Feb. 1942 | 30 June 1942 | 1 Stratford C.R.S |  |
-| 1 | Stratford | 16 Feb. 1942 | 30 June 1942 | 1 Stratford C.R.S |  |
-| 4 | Oppenheim | 11 May 1942 | 15 Aug. 1942 | 1 Oppenheim C.R.S |  |
-| 1 | Oppenheim | 11 May 1942 | 15 Aug. 1942 | 1 Oppenheim C.R.S |  |
-| 1 | Aenon (Hamilton Co.) | 11 May 1942 | 15 Aug. 1942 | 1 Northampton C.R.S |  |
-| 1 | Meadowport | 11 May 1942 | 15 Aug. 1942 | 1 Broadalbin C.R.S |  |
-| 10 | Broadalbin | 11 May 1942 | 15 Aug. 1942 | 1 Broadalbin C.R.S |  |
-| 1 | Broadalbin | 11 May 1942 | 15 Aug. 1942 | 1 Broadalbin C.R.S |  |
-| 13 | Caroga & Johnston (May 29 1945) | Effective October 1, 1945 | September 1, 1948 | 1 Caroga |  |
+Below is the transcription of the tabular data from the provided document, maintaining the structure and formatting as requested:
+
+---
+
+**Fulton County**
+
+**Consolidated**
+
+| No. of dist. | NAME OF TOWN | DATE OF SCHOOL MEETING CONCERNING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS |
+|--------------|--------------|---------------------------------------------|--------------------------------------------------|---------|
+|              |              | Day Month Year                              | Day Month Year                                   |         |
+| 12           | Ephrata & Oppenheim | 15 May 1914 | 12 August 1914 | No. newdist. 1 Oppenheim 12 Ephrata |
+| 20           | Johnstown & Ephrata | 6 May 1914 | 21 April 1916 | Johnstown taken out of dist. number 11 Oppenheim renamed dist. 11 |
+| 6            | Caroga         | 26 April 1916 | 26 April 1916 | 3 Caroga 10 Ephrata |
+| 4            | Bleecker       | 28 May 1923 | 28 May 1923 | 4 Bleecker 1 Stratford |
+| 1,5,6        | Stratford      | 16 May 1923 | 16 May 1923 | 1 Stratford 12 Oppenheim 10 Ephrata |
+| 7,8,9,10,11  | Northampton    | 2d May 1923 | 14 April 1926 | Laid out 14 April 1926 Meeting held 30 May 1928 Design 15 May 1929 |
+| 12           | Hope, Ham. Co. Northampton | 2d May 1923 | 14 April 1926 | Laid out 14 April 1926 Meeting held 30 May 1928 Design 15 May 1929 |
+| 1,2          | Caroga C.R.S.  | 1st July 1928 | 1st July 1928 | 1 Caroga 12 Oppenheim 10 Ephrata |
+| 11           | Stratford etc. Filling | 1st July 1928 | 14 June 1928 | Meeting held 14 June 1928 Design 6 July 1928 |
+| 3            | Salisbury, Herk. Co. | 1st July 1928 | 14 June 1928 | 8 Broadalbin North Johnstown 1 Broadalbin 12 Oppenheim 10 Ephrata |
+| 6            | Mayfield       | 1st August 1929 | 11 June 1929 | 6 Mayfield |
+| 1,2,3,4,5,6  | Broadalbin     | 22 April 1930 | 22 April 1930 | 1 Broadalbin Mayfield 12 Oppenheim 10 Ephrata |
+| 6            | Mayfield       | 5 May 1930 | 5 May 1930 | 6 Mayfield |
+| 1,2,3,4,5,6  | Broadalbin     | 22 April 1930 | 22 April 1930 | 1 Broadalbin Mayfield 12 Oppenheim 10 Ephrata |
+| 6            | Mayfield       | 5 May 1930 | 5 May 1930 | 6 Mayfield |
+| 1,2,3,4,5,6  | Broadalbin     | 22 April 1930 | 22 April 1930 | 1 Broadalbin Mayfield 12 Oppenheim 10 Ephrata |
+| 6            | Mayfield       | 5 May 1930 | 5 May 1930 | 6 Mayfield |
+| 1,2,3,4,5,6  | Broadalbin     | 22 April 1930 | 22 April 1930 | 1 Broadalbin Mayfield 12 Oppenheim 10 Ephrata |
+| 6            | Mayfield       | 5 May 1930 | 5 May 1930 | 6 Mayfield |
+| 1,2,3,4,5,6  | Broadalbin     | 22 April 1930 | 22 April 1930 | 1 Broadalbin Mayfield 12 Oppenheim 10 Ephrata |
+| 6            | Mayfield       | 5 May 1930 | 5 May 1930 | 6 Mayfield |
+| 1,2,3,4,5,6  | Broadalbin     | 22 April 1930 | 22 April 1930 | 1 Broadalbin Mayfield 12 Oppenheim 10 Ephrata |
+| 6            | Mayfield       | 5 May 1930 | 5 May 1930 | 6 Mayfield |
+| 1,2,3,4,5,6  | Broadalbin     | 22 April 1930 | 22 April 1930 | 1 Broadalbin Mayfield 12 Oppenheim 10 Ephrata |
+| 6            | Mayfield       | 5 May 1930 | 5 May 1930 | 6 Mayfield |
+| 1,2,3,4,5,6  | Broadalbin     | 22 April 1930 | 22 April 1930 | 1 Broadalbin Mayfield 12 Oppenheim 10 Ephrata |
+| 6            | Mayfield       | 5 May 1930 | 5 May 1930 | 6 Mayfield |
+| 1,2,3,4,5,6  | Broadalbin     | 22 April 1930 | 22 April 1930 | 1 Broadalbin Mayfield 12 Oppenheim 10 Ephrata |
+| 6            | Mayfield       | 5 May 1930 | 5 May 1930 | 6 Mayfield |
+| 1,2,3

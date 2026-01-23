@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:58:06.521902
 
-**Source Image:** [📄 page_415.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_415.png)
+**Source Image:** [📄 page_415.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_415.png)
 
 ---
 
 ## Source Document
 
-![The Treasurer's report was read and approved.](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_415.png)
+![The Treasurer's report was read and approved.](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_415.png)
 
 ---
 

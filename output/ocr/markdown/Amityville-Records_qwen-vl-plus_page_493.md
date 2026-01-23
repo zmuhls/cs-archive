@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:12:36.478445
 
-**Source Image:** [📄 page_493.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_493.png)
+**Source Image:** [📄 page_493.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_493.png)
 
 ---
 
 ## Source Document
 
-![Motion made, duly seconded and carried, that the report of the Teachers' Committ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_493.png)
+![Motion made, duly seconded and carried, that the report of the Teachers' Committ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_493.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:35:24.181620
 
-**Source Image:** [📄 page_287.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_287.png)
+**Source Image:** [📄 page_287.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_287.png)
 
 ---
 
 ## Source Document
 
-![Mrs. Hartman submitted letter from Nathalie Dollard, read as follows:](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_287.png)
+![Mrs. Hartman submitted letter from Nathalie Dollard, read as follows:](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_287.png)
 
 ---
 

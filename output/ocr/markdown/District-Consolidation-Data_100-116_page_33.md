@@ -1,43 +1,58 @@
 # Clinton County
 
-**Table Type:** Unknown
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 33)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_33.jpg
 
-**Processed:** 2026-01-01T22:24:31.190386
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_33.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_33.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:35:23.872754
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_33.jpg](../tables/images/District-Consolidation-Data_100-116_page_33.jpg)
 
 ---
 
 ## Source Document
 
-![Clinton County - Unknown - Page 33](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_33.jpg)
+![Clinton County](../tables/images/District-Consolidation-Data_100-116_page_33.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Chazy | 8 June 1938 | 8 Sept 1938 | 1 | Chazy, C.R.S. 1 Champlain |
-|  | U.F.S. dist 1 Champlain |  |  |  |  |
-|  | C.S. dists 2,3,4,6,7,8,9 Champlain |  |  |  |  |
-| 2 | Saranac | 13 June 1942 | 15 Sept 1942 | 1 | Saranac, C.R.S. |
-| 13 | Saranac, Chesterfield & Willsboro |  |  |  |  |
-|  | Queable | 18 July 1942 | 20 Oct 1942 | 1 | Queable, C.R.S. |
-| 10 | Beekmantown | 30 March 1943 | 3 July 1943 | 1 | Saranac |
-|  | Saranac |  |  |  |  |
-| 6 | Plattsburg, Saranac & Danville | 30 March 1943 | 2 July 1943 |  |  |
-|  | Saranac |  |  |  |  |
-| 8 | Plattsburg |  | 3 July 1943 |  |  |
-|  | Saranac |  |  |  |  |
-| 11 | Plattsburg, Saranac & Schuyler Falls |  | 1 July 1943 |  |  |
-| 13 | Plattsburg & Schuyler Falls |  | 2 July 1943 |  |  |
-| 19 | Saranac |  | 1 July 1943 |  |  |
-| 7 | Saranac |  | 1 July 1943 |  |  |
-| 19 | Saranac & Schuyler Falls |  | 1 July 1943 |  |  |
-|  | Saranac |  |  |  |  |
-| 17 | Saranac and Black Brook |  | 1 Sept 1944 | 1 | Saranac, C.R.S. |
+```
+Clinton County
+
+Consolidated and Central Districts
+
+| No. of dist. | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of new dist. | REMARKS |
+|--------------|--------------|--------------------------------------------|--------------------------------------------------|------------------|---------|
+|              |              | Day   Month   Year                         | Day   Month   Year                               |                  |         |
+| 6-1          | Chazy        | 8     June    1938 to take effect 8 Sept 1938 | Laid out 9 Aug 1938                              | 1 Chazy        | CRS. 1 Champlain |
+|              | U.S.S. dist | Champlain                                  | Meeting held 2 April 1941                         |                |         |
+|              | C.S. dists  | 2,3,4,6,7,8,9 Champlain                    | Designation of dist 9 May 1941                    |                |         |
+| 21           | Saranac      | 13    June    1942 to take effect 15 Sept 1942 | 20 Oct 1942                                      | 1 Saranac      | CRS. 1 Saranac  |
+| 13           | Chesterfield Wellsboro | 18    July    1942 | 20 Oct 1942                                      | 1 Ausable      | CRS. 1 Ausable  |
+| 10           | Boekmantown  | 30    March   1943 | 3 July 1943                                      | 1 Saranac      | CRS. 1 Saranac  |
+| 6            | Plattsburg   | 20    March   1943 | 2 July 1943                                      |                |         |
+| 8            | Plattsburg   | 3     July    1943 | 3 July 1943                                      |                |         |
+| 11           | Plattsburg   | 1     July    1943 | 1 July 1943                                      |                |         |
+| 12           | Plattsburg   | 2     July    1943 | 2 July 1943                                      |                |         |
+| 7            | Saranac      | 1     July    1943 | 1 July 1943                                      |                |         |
+| 14           | Saranac      | 1     July    1943 | 1 July 1943                                      |                |         |
+| 17           | Saranac      | 1     July    1943 | 1 July 1943                                      |                |         |
+|              | Saranac and Black Brook | 1     Sept    1944 |                | CRS. 1 Saranac |         |
+```
+
+**Notes:**
+
+* The table is structured with columns for "No. of dist.", "NAME OF TOWN", "DATE OF SCHOOL MEETING ORGANIZING DISTRICT", "DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT", "No. of new dist.", and "REMARKS".
+* Handwritten entries are transcribed as they appear, including dates, names, and remarks.
+* Blank fields are indicated as "[blank]" where no information is present.
+* Pre-printed text (e.g., column headers) is preserved.
+* Handwritten notes are included in the "REMARKS" column where applicable.
+* The layout is maintained with vertical lines separating columns and alignment where meaningful.

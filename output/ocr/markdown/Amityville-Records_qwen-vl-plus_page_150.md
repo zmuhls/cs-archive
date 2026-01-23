@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:09:03.363166
 
-**Source Image:** [📄 page_150.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_150.png)
+**Source Image:** [📄 page_150.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_150.png)
 
 ---
 
 ## Source Document
 
-![Bill of Mrs. Emma Regelmann in the amount of $100.00 for rental of "Regelemann's](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_150.png)
+![Bill of Mrs. Emma Regelmann in the amount of $100.00 for rental of "Regelemann's](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_150.png)
 
 ---
 

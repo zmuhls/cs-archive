@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:11:39.767655
 
-**Source Image:** [📄 page_488.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_488.png)
+**Source Image:** [📄 page_488.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_488.png)
 
 ---
 
 ## Source Document
 
-![Mr Arthur W. Ruff -2-](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_488.png)
+![Mr Arthur W. Ruff -2-](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_488.png)
 
 ---
 

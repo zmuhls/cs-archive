@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:56:40.713026
 
-**Source Image:** [📄 page_82.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_82.png)
+**Source Image:** [📄 page_82.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_82.png)
 
 ---
 
 ## Source Document
 
-![bearer on the first day of December, 19[?], the sum of ONE THOUSAND DOLLARS ($1,](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_82.png)
+![bearer on the first day of December, 19[?], the sum of ONE THOUSAND DOLLARS ($1,](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_82.png)
 
 ---
 

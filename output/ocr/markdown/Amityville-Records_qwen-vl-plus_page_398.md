@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:55:27.249814
 
-**Source Image:** [📄 page_398.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_398.png)
+**Source Image:** [📄 page_398.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_398.png)
 
 ---
 
 ## Source Document
 
-![Acre: 3 (Carwell, Van Dyak & Hartman)](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_398.png)
+![Acre: 3 (Carwell, Van Dyak & Hartman)](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_398.png)
 
 ---
 

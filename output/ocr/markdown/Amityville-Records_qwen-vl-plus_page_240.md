@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:26:15.115550
 
-**Source Image:** [📄 page_240.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_240.png)
+**Source Image:** [📄 page_240.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_240.png)
 
 ---
 
 ## Source Document
 
-![There being no further business, Mr. Arxell moved and](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_240.png)
+![There being no further business, Mr. Arxell moved and](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_240.png)
 
 ---
 

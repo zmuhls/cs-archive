@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:17:26.460262
 
-**Source Image:** [📄 page_520.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_520.png)
+**Source Image:** [📄 page_520.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_520.png)
 
 ---
 
 ## Source Document
 
-![The Finance Committee referred invoice of Wesley Jackson for $55.70 to the Board](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_520.png)
+![The Finance Committee referred invoice of Wesley Jackson for $55.70 to the Board](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_520.png)
 
 ---
 

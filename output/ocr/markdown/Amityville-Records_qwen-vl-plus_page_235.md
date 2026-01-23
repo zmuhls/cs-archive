@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:25:18.637609
 
-**Source Image:** [📄 page_235.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_235.png)
+**Source Image:** [📄 page_235.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_235.png)
 
 ---
 
 ## Source Document
 
-![The Teachers Committee reported no unexcusable absences](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_235.png)
+![The Teachers Committee reported no unexcusable absences](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_235.png)
 
 ---
 

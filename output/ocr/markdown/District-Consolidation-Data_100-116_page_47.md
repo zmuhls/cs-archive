@@ -1,28 +1,38 @@
-# Dutchess County
+# District Consolidation Data 100 116 page 47
 
-**Table Type:** Town School Units
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 47)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_47.jpg
 
-**Processed:** 2026-01-01T22:29:23.241332
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_47.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_47.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:38:36.737363
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_47.jpg](../tables/images/District-Consolidation-Data_100-116_page_47.jpg)
 
 ---
 
 ## Source Document
 
-![Dutchess County - Town School Units - Page 47](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_47.jpg)
+![District Consolidation Data 100 116 page 47](../tables/images/District-Consolidation-Data_100-116_page_47.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Hyde Park | U.F.S. 1 and 3,4,5 |  |  |  |
-| 2 | " | U.F.S. 2 and dist. no. 4 |  |  |  |
-| 1 | Red Hook | U.F.S. 3 and nos. 7,8,9 |  |  |  |
-| 2 | " | U.F.S. 4 and 1,5,6,8 |  |  |  |
+86
+Dutchess County
+
+Town School Units
+
+| Unit | NAME OF TOWN | DATE OF SCHOOL-MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of Members of Board | REMARKS |
+|------|--------------|---------------------------------------------|--------------------------------------------------|-------------------------|---------|
+|      |              | Dep. Month Year                             | Dep. Month Year                                  |                         |         |
+| 1    | Hyde Park    | U.F.S. 1 and 345                            | [blank]                                          | [blank]                 | [blank] |
+| 2    |              | U.F.S. 2 and dist. no. 4                    | [blank]                                          | [blank]                 | [blank] |
+| 1    | Red Hook     | U.F.S. 3 and nos. 79                        | [blank]                                          | [blank]                 | [blank] |
+| 2    |              | U.F.S. 4 " 1,5,6,8                          | [blank]                                          | [blank]                 | [blank] |

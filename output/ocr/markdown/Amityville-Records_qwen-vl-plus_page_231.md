@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:24:38.890098
 
-**Source Image:** [📄 page_231.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_231.png)
+**Source Image:** [📄 page_231.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_231.png)
 
 ---
 
 ## Source Document
 
-![The Teachers Committee reported that Miss Helen Richards](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_231.png)
+![The Teachers Committee reported that Miss Helen Richards](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_231.png)
 
 ---
 

@@ -1,27 +1,45 @@
 # Columbia County
 
-**Table Type:** Town School Units
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 35)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_35.jpg
 
-**Processed:** 2026-01-01T22:24:48.904963
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_35.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_35.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:35:40.272664
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_35.jpg](../tables/images/District-Consolidation-Data_100-116_page_35.jpg)
 
 ---
 
 ## Source Document
 
-![Columbia County - Town School Units - Page 35](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_35.jpg)
+![Columbia County](../tables/images/District-Consolidation-Data_100-116_page_35.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Kinderhook | Nos. of dists included |  |  |  |
-| 2 | " | U.F.S. 1 and nos. 6 & 7 |  |  |  |
-|  |  | U.F.S. 2 and nos. 3, 4, 5 & 8 |  |  |  |
+Columbia County
+
+Town School Units
+
+| No. of Unit | NAME OF TOWN | DATE OF SCHOOL MEETING - ORGANIZING DISTRICT - | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of dists. included | REMARKS |
+|-------------|--------------|------------------------------------------------|--------------------------------------------------|------------------------|---------|
+|             |              | Day | Month | Year | Day | Month | Year |                      |         |
+| 1           | Kinderhook   | U.F.S. 1 and nos. 6 + 7                        | [blank]                                          | [blank]                |         |
+| 2           | "            | U.F.S. 2 and nos. 3, 4, 5 + 8                 | [blank]                                          | [blank]                |         |
+```
+
+**Notes:**
+
+* The table is structured with columns for "No. of Unit," "NAME OF TOWN," "DATE OF SCHOOL MEETING - ORGANIZING DISTRICT -," "DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT," "No. of dists. included," and "REMARKS."
+* The "DATE OF SCHOOL MEETING" and "DATE ON WHICH PAPERS WERE APPROVED" columns are further divided into "Day," "Month," and "Year."
+* The "No. of dists. included" column lists the specific districts included in each unit.
+* The "REMARKS" column is blank for both entries.
+* The document appears to be a form with pre-printed text and handwritten entries for the "NAME OF TOWN" and "No. of dists. included" columns.
+* The page number "65" is visible in the top right corner.

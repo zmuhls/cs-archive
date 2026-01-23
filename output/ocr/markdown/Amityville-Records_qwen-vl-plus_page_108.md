@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:01:24.622457
 
-**Source Image:** [📄 page_108.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_108.png)
+**Source Image:** [📄 page_108.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_108.png)
 
 ---
 
 ## Source Document
 
-![of the Diastophone Company to loan the school distaphones and](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_108.png)
+![of the Diastophone Company to loan the school distaphones and](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_108.png)
 
 ---
 

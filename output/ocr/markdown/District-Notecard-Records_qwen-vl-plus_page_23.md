@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T00:16:21.553108
 
-**Source Image:** [📄 page_23.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_23.png)
+**Source Image:** [📄 page_23.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_23.png)
 
 ---
 
 ## Source Document
 
-![Bridgehampton Union School](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_23.png)
+![Bridgehampton Union School](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_23.png)
 
 ---
 

@@ -1,29 +1,53 @@
 # Herkimer County
 
-**Table Type:** Union Free Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 71)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_71.jpg
 
-**Processed:** 2026-01-01T22:38:05.606322
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_71.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_71.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:43:23.629193
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_71.jpg](../tables/images/District-Consolidation-Data_100-116_page_71.jpg)
 
 ---
 
 ## Source Document
 
-![Herkimer County - Union Free Schools - Page 71](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_71.jpg)
+![Herkimer County](../tables/images/District-Consolidation-Data_100-116_page_71.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Herkimer | 20 January 1865 |  | 3 | Time and result of meeting recd - no detailed |
-| 1 | Webb | 19 January 1909 |  | 3 |  |
-| 1 | Stark | 18 November 1930 | Desig. of dist. Dec. 12 '30 | 3 |  |
-| 1 | Frankfort | 28 Feb. 1907 |  |  |  |
-| 2 | Herkimer | 17 June 1948 |  | 2 | Herkimer |
+Herkimer County
+Union Free Schools
+
+| No. of district | NAME OF TOWN   | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of pages | REMARKS |
+|-----------------|----------------|--------------------------------------------|--------------------------------------------------|--------------|---------|
+|                 |                | Day   Month   Year                         | Day   Month   Year                               |              |         |
+| 1               | Herkimer       | 20    January 1865                         |                                                  | 3            | Time and result of meeting read - no details |
+| 1               | Webb           | 19    January 1909                         |                                                  | 3            |                                            |
+| 1               | Stark          | 18    November 1930                        | Dec.12 1930                                      | 3            |                                            |
+| 1               | Frankfurt      | 28    Oct.    1907                         |                                                  | 2            | Herkimer                                   |
+| 2               | Herkimer       | 17    June    1948                         |                                                  |              |                                            |
+```
+
+**Notes:**
+
+* The "No. of pages" column contains handwritten numbers for the first three entries and is blank for the last two.
+* The "REMARKS" column contains handwritten notes for the first three entries and is blank for the last two.
+* The "DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT" column is blank for all entries.
+* The "No. of district" column contains handwritten numbers for all entries.
+* The "NAME OF TOWN" column contains handwritten names for all entries.
+* The "DATE OF SCHOOL MEETING ORGANIZING DISTRICT" column contains handwritten dates for all entries.
+* The "Day", "Month", and "Year" columns are pre-printed and aligned under the "DATE OF SCHOOL MEETING ORGANIZING DISTRICT" header.
+* The "Day", "Month", and "Year" columns are pre-printed and aligned under the "DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT" header.
+* The "No. of pages" column is pre-printed and aligned under the "No. of pages" header.
+* The "REMARKS" column is pre-printed and aligned under the "REMARKS" header.
+* The "No. of district" column is pre-printed and aligned under the "No. of district" header.
+* The "NAME OF TOWN" column is pre-printed and aligned under the "NAME OF TOWN" header.

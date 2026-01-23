@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:41:55.686724
 
-**Source Image:** [📄 page_322.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_322.png)
+**Source Image:** [📄 page_322.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_322.png)
 
 ---
 
 ## Source Document
 
-![thin proposition and report back at the regular July meeting.](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_322.png)
+![thin proposition and report back at the regular July meeting.](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_322.png)
 
 ---
 

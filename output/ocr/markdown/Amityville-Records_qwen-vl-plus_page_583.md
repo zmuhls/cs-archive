@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:28:39.951252
 
-**Source Image:** [📄 page_583.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_583.png)
+**Source Image:** [📄 page_583.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_583.png)
 
 ---
 
 ## Source Document
 
-![Moved, seconded and carried, that the properties be submitted to the voters in t](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_583.png)
+![Moved, seconded and carried, that the properties be submitted to the voters in t](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_583.png)
 
 ---
 

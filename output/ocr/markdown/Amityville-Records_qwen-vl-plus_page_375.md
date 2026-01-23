@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:51:27.049656
 
-**Source Image:** [📄 page_375.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_375.png)
+**Source Image:** [📄 page_375.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_375.png)
 
 ---
 
 ## Source Document
 
-![On motion duly made, seconded and carried, it was voted that Mr. Grey be empower](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_375.png)
+![On motion duly made, seconded and carried, it was voted that Mr. Grey be empower](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_375.png)
 
 ---
 

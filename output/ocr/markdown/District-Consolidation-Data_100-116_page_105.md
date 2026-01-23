@@ -1,29 +1,49 @@
-# Niagara County
+# District Consolidation Data 100 116 page 105
 
-**Table Type:** Union Free Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 105)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_105.jpg
 
-**Processed:** 2026-01-01T22:53:39.045870
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_105.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_105.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:51:14.246112
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_105.jpg](../tables/images/District-Consolidation-Data_100-116_page_105.jpg)
 
 ---
 
 ## Source Document
 
-![Niagara County - Union Free Schools - Page 105](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_105.jpg)
+![District Consolidation Data 100 116 page 105](../tables/images/District-Consolidation-Data_100-116_page_105.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Lewiston | 21 February 1898 |  | 3 |  |
-| 12 | New fane | 22 August 1918 |  | 3 |  |
-| 18 | Royalton | 1 March 1917 |  | 5 |  |
-| 4 | Niagara | 14 August 1925 |  | 5 |  |
-| 6 | Yorke | 16 August 1947 |  | 6 |  |
+```
+196
+
+Niagara County
+
+Union Free Schools
+
+| No. of district | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT |  |  | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT |  |  | No. of board of trustees | REMARKS |
+|-----------------|--------------|--------------------------------------------|----|----|---------------------------------------------------|----|----|--------------------------|---------|
+|                 |              | Day                                        | Month | Year | Day                                               | Month | Year |                          |         |
+| 1               | Lewiston     | 21                                         | February | 1898 | [blank]                                           | [blank] | [blank] | 3                        |         |
+| 12              | Newfane      | 22                                         | August | 1913 | [blank]                                           | [blank] | [blank] | 3                        |         |
+| 18              | Royalton     | 1                                          | March | 1917 | [blank]                                           | [blank] | [blank] | 5                        |         |
+| 4               | Niagara      | 14                                         | August | 1925 | [blank]                                           | [blank] | [blank] | 5                        |         |
+| 6               | Fort Erie    | 26                                         | August | 1947 | [blank]                                           | [blank] | [blank] | 6                        |         |
+```
+
+### Notes:
+- The table is structured with columns for district number, town name, date of school meeting, date of approval, number of trustees, and remarks.
+- Pre-printed text includes headers like "Niagara County," "Union Free Schools," and column labels.
+- Handwritten entries are present for the town names, dates of school meetings, and the number of trustees.
+- Blank fields are indicated where no information is provided.
+- The layout is preserved with vertical lines separating columns and horizontal lines separating rows.

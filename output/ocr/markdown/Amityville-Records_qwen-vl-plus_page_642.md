@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:46:58.305273
 
-**Source Image:** [📄 page_642.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_642.png)
+**Source Image:** [📄 page_642.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_642.png)
 
 ---
 
 ## Source Document
 
-![Moved, duly seconded and carried, that the Building and Grounds Committee be aut](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_642.png)
+![Moved, duly seconded and carried, that the Building and Grounds Committee be aut](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_642.png)
 
 ---
 

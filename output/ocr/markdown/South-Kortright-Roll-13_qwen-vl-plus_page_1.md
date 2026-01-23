@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:40:31.822301
 
-**Source Image:** [📄 page_1.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_1.png)
+**Source Image:** [📄 page_1.png](../../../tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_1.png)
 
 ---
 
 ## Source Document
 
-![At a meeting of the inhabitants or frecholders of School District No. 2 near Sch](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_1.png)
+![At a meeting of the inhabitants or frecholders of School District No. 2 near Sch](../../../tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_1.png)
 
 ---
 

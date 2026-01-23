@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:47:18.730839
 
-**Source Image:** [📄 page_354.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_354.png)
+**Source Image:** [📄 page_354.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_354.png)
 
 ---
 
 ## Source Document
 
-![March 1, 1875, on account of ill health and that her resignation be accepted to ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_354.png)
+![March 1, 1875, on account of ill health and that her resignation be accepted to ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_354.png)
 
 ---
 

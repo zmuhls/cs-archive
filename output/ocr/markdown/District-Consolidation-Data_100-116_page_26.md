@@ -1,81 +1,86 @@
-# Chenango County
+# Below is the transcription of the tabular data from the document, preserving the
 
-**Table Type:** Central Rural Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 26)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_26.jpg
 
-**Processed:** 2026-01-01T22:21:00.339095
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_26.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_26.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:33:48.217595
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_26.jpg](../tables/images/District-Consolidation-Data_100-116_page_26.jpg)
 
 ---
 
 ## Source Document
 
-![Chenango County - Central Rural Schools - Page 26](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_26.jpg)
+![Below is the transcription of the tabular data from the document, preserving the](../tables/images/District-Consolidation-Data_100-116_page_26.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| C.R.S. 1,2,4,5,6,7,10,15,16 | Oxford 3d | Laid out 16 July 1929 Meeting held 30 July 1929 Designating dist. 8 Aug 1929 | 1-984320-cust 4-130065-1929 5-48821-cust 7-556352-12 10-76767-cust 16-146615-cust 16-28050-cust 16-29787-cust 11-33550-cust | 12 | Oxford, Preston, McDonough+Smithville |
-| 1,6,7 | Preston |  |  |  |  |
-| 2 | Smithville 5th |  |  | 1 | Guilford |
-|  | Part of 18 Guilford + 1 Guilford, Chenango Co. | 11 January 1930 | See papers for errors & allowances | 12 | Guilford |
-|  | 12 |  |  | 13 | Bainbridge |
-|  | 13 |  |  | 10 | Guilford |
-|  | 10 Bainbridge |  |  |  |  |
-|  | 17 Guilford+Unadilla, Chen+Otsego Co. |  |  | 17 | Guilford |
-| C.R.S. 18 | Guilford+Norwich | Laid out 31 Dec 1929 Meeting held 22 Jan 1930 Desig. of dist. 17 Feb 1930 |  | 8 | Guilford, Norwich+Oxford |
-| 14 | Guilford+Oxford |  |  |  |  |
-| 9,10,11,12,13 | Guilford |  |  |  |  |
-| 9,13 | Oxford+Guilford |  |  |  |  |
-| 1,4 | Smithville 3d | 25 Dec 1930 | 1930 to take effect 1 Aug 1930 | 1 | Smithville |
-|  | Part of 3 Smithville + 1 Smithville, 3d + 7 McDonough (now no.3) | 12 July 1930 | 1930 to take effect 15 Dec 1930 | 1 | Smithville |
-|  |  |  |  | 3 | McDonough (now 3) |
-| 6,7,8,10,11,14 | Sherburne | C.R.S. | Assess papers in folder |  |  |
-| 11,12,15 | Sherburne+Columbus |  |  |  |  |
-| 9 | No. Norwich+Sherburne | Laid out 3 July 1930 |  |  |  |
-| 1 | Sherburne+No. Berlin | Meeting held 24 July 1930 |  |  |  |
-| 5 | Sherburne+No. Berlin |  |  |  |  |
-| 1,4 | Sherburne+Hamilton | Desig. of dist. 26 July 1930 |  |  |  |
-| 5 | No. Berlin+Columbus |  |  |  |  |
-| 1,3 | Columbus+Hamilton+Brookfield |  |  |  |  |
-| 4 | Oxford+(3d) | 22 Sept. to take effect January 1, 1931 |  | 8 | Guilford |
-| 8 | Oxford 5th | C.R.S. |  |  |  |
-| 5 | New Berlin, Morris+Butternut | Laid out 23 Aug. 1930 |  |  |  |
-| 6,8,13 | New Berlin | Meeting held Sept 11, 1930 |  |  |  |
-| 2 | Norwich+Butternut |  |  |  |  |
-| 4 | Morris+Butternut | Designation of dist as 25 Sept. 1930 |  |  |  |
-| 7 | New Berlin, Morris+Pittsfield |  |  |  |  |
-| 7 | New Berlin, Norwich+Butternut |  |  |  |  |
-| 5 | Otselic+Lincklaen | C.R.S. | In assessments |  |  |
-| 1,3,9,10,12 | Otselic | Laid out 19 May 1931 Meeting |  |  |  |
-| 5 | Pharsalia |  |  |  |  |
-| 7 | Lincklaen |  |  |  |  |
-| 7 | Otselic+Lincklaen | R. 3 Je. 1931 Designation of |  |  |  |
-| 8 | Otselic, Smyrna+Pharsalia |  |  |  |  |
-| 6 | Pitcker, Lincklaen+Otselic | des. 19 Je. 1931 |  |  |  |
-| 3 | Lincklaen+Otselic |  |  |  |  |
-| 4 | Sufford (Chen. co.)+Butternut (Otsego co.) | Laid out 15 Apr 1931 |  | 2 | Sufford+Norwich |
-| 2,7 | Sufford | Meeting held 27 May 1931 |  |  |  |
-| 3 | Sufford (Chen. co.)+Unadilla+Butternut (Otsego co.) | Designation of dist. 19 Je. 1931 |  | 1 | Unadilla (Otsego) |
-| 5 | Norwich (Chen. co.)+Butternut (Otsego co.) |  |  |  |  |
-| 2,5,11 | Bainbridge, Afton | Laid out 27 May 1931 |  | 1 | Bainbridge |
-| 4,6 | Sufford | Meeting held 19 Je. 31 |  |  |  |
-| 8,10 | Afton (Chen. co.)+Sidney (Del. co.) |  |  |  |  |
-| 1 | Afton+Mannville |  |  |  |  |
-| 3 | Sufford+Afton |  |  |  |  |
-| 7 | Sufford+Afton |  |  |  |  |
-| 9 | Afton+Unadilla (Otsego co.) |  |  |  |  |
-| 12 | Coventry+Afton |  |  |  |  |
-| 1 | Sufford |  |  |  |  |
-| 3 | Afton |  |  |  |  |
-| 3 | Afton+Sufford |  |  |  |  |
-| 5 | Coventry |  |  |  |  |
-| 1,5 | Mannville (Del. co.) | Afton (Chen. co.)+Sufford (Chenango co.) |  |  |  |
-| 4 |  |  |  |  |  |
+Below is the transcription of the tabular data from the document, preserving the structure and formatting as requested:
+
+---
+
+**Chenango County**
+
+**Consolidated Districts**
+
+| No. of District | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DIST. | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of New Dist. |
+|-----------------|--------------|------------------------------------------|--------------------------------------------------|------------------|
+| C.R.S. 1,2,4,5,6,7,10,15,16 | Oxford | Raid out 16 July 1929 | Meeting held 30 July 1929 | [blank] |
+| V Preston |  |  |  | Oakland, Preston, McDorrough, Smithville |
+| 2 | Smithville | 5th January 1930 |  |  |
+| Part of B. Guilford + Guilford, Chemung Co. |  |  |  |  |
+| 11 January 1930 |  |  |  |  |
+| 17 Guilford + Butternut, Chemung Co. |  |  |  |  |
+| 17 Guilford + Butternut, Chemung Co. |  |  |  |  |
+| C.R.S. 8 | Guilford + Norwich Imp. District | Laid out 31 Dec. 1929 | Meeting held 22 Jan. 1930 | 8 |
+| 9,13,13 | Guilford |  |  | Guilford, Norwich, Offield |
+| 9,13 | Oxford + Guilford |  |  |  |
+| 1930 to take effect 1 Aug. 1930 |  |  |  |  |
+| Designation of dist. 17 April 1930 |  |  |  |  |
+| Part of 3 Smithville + Smithville | 25 July 1926 | Companies in folder |  |  |
+| 11 January 1930 |  |  |  |  |
+| 1930 to take effect 15 Oct. 1930 |  |  |  |  |
+| Smithville |  |  |  | Smithville |
+| Mc Donough (now No. 3) |  |  |  | Mc Donough (now No. 3) |
+| 6,7,8,10,14 | Sherburne | C.R.S. | Laid out 3 July 1930 | 8 |
+| 11,12,15 | Sherburne + Columbiana |  |  | Sherburne No. 1, New Berlin, Ithaca, Pymouth, Catskill, Hamilton |
+| 13 | Sherburne + Hamilton |  |  | Sherburne + Hamilton |
+| 13 | Columbiana + Hamilton |  |  | Columbiana + Hamilton |
+| 8 | Guilford | 22 Sept. to take effect January 1931 | C.R.S. | Guilford |
+| 5 | New Berlin + Butternut | 23 Aug. 1930 | Meeting held 24 July 1930 | New Berlin, Norwich, Pymouth, Catskill, Hamilton |
+| 6,8,14 | New Berlin + Butternut |  |  | New Berlin, Norwich, Pymouth, Catskill, Hamilton |
+| 7 | New Berlin + Butternut |  |  | New Berlin, Norwich, Pymouth, Catskill, Hamilton |
+| 5 | Atelia + Linchlan | C.R.S. | Laid out 19 July 1931 | 8 |
+| 13,9,10,12 | Atelia + Linchlan |  |  | Atelia, Linchlan, Smyrna, Pharsalia, Patchen |
+| 7 | Atelia + Linchlan |  |  | Atelia, Linchlan, Patchen |
+| 6 | Atelia + Linchlan |  |  | Atelia, Linchlan, Patchen |
+| 3 | Atelia + Linchlan |  |  | Atelia, Linchlan, Patchen |
+| 4,5,7 | Guilford (Chen. Co.) + Butternut (Atage Co.) | Laid out 15 April 1931 | C.R.S. | Guilford, Norwich, Linchlan |
+| 5 | Unadilla + Butternut (Ote.) | Meeting held 27 May 1931 | (Chen.) Butternut | Unadilla (Atage) |
+| 5 | Norwich (Chen.) + Butternut (Atage Co.) | Designation of dist. 19 July 1931 |  |  |
+| 25/11,8,10 | Bainbridge after Oxford | Raid out 27 May 1931 | Meeting held 17 July 1931 | 8 |
+| 4,8,10 | Oxford |  |  | Coventry, Oxford, Guilford + After |
+| 13,14 | Oxford |  |  | Oxford, Norwich, Middletown, Sidney (Del. Co.) |
+| 23 July 1931 |  |  |  | Unadilla (Ote.) |
+| 8th J | Oxford + Smithville |  |  | Oxford, Smithville (Penns.) |
+| 15 | Oxford + Smithville |  |  | Oxford, Smithville (Penns.) |
+| 14 | Oxford + Smithville |  |  | Oxford, Smithville (Penns.) |
+| 15 | Oxford + Smithville |  |  | Oxford, Smithville (Penns.) |
+| 14 | Oxford + Smithville |  |  | Oxford, Smithville (Penns.) |
+| 15 | Oxford + Smithville |  |  | Oxford, Smithville (Penns.) |
+| 14 | Oxford + Smithville |  |  | Oxford, Smithville (Penns.) |
+| 15 | Oxford + Smithville |  |  | Oxford, Smithville (Penns.) |
+| 14 | Oxford + Smithville |  |  | Oxford, Smithville (Penns.) |
+| 15 | Oxford + Smithville |  |  | Oxford, Smithville (Penns.) |
+| 14 | Oxford + Smithville |  |  | Oxford, Smithville (Penns.) |
+| 15 | Oxford + Smithville |  |  | Oxford, Smithville (Penns.) |
+| 14 |

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:55:01.562484
 
-**Source Image:** [📄 page_395.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_395.png)
+**Source Image:** [📄 page_395.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_395.png)
 
 ---
 
 ## Source Document
 
-![Motion made and seconded, that the Publicity Committee be made up of Mr. Carwell](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_395.png)
+![Motion made and seconded, that the Publicity Committee be made up of Mr. Carwell](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_395.png)
 
 ---
 

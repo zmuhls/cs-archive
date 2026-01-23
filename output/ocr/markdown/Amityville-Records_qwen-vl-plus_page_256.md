@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:29:40.405839
 
-**Source Image:** [📄 page_256.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_256.png)
+**Source Image:** [📄 page_256.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_256.png)
 
 ---
 
 ## Source Document
 
-![IT IS RESOLVED, that the said budget amounting altogether to the sum of $184,745](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_256.png)
+![IT IS RESOLVED, that the said budget amounting altogether to the sum of $184,745](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_256.png)
 
 ---
 

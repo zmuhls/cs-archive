@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:06:14.326149
 
-**Source Image:** [📄 page_134.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_134.png)
+**Source Image:** [📄 page_134.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_134.png)
 
 ---
 
 ## Source Document
 
-![The President announced that the appointment of the janitor force would be held ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_134.png)
+![The President announced that the appointment of the janitor force would be held ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_134.png)
 
 ---
 

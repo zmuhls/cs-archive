@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:28:57.913665
 
-**Source Image:** [📄 page_252.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_252.png)
+**Source Image:** [📄 page_252.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_252.png)
 
 ---
 
 ## Source Document
 
-![On motion of Mr. Axtell, Milford H. Ketcham was nominated for Vice President of ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_252.png)
+![On motion of Mr. Axtell, Milford H. Ketcham was nominated for Vice President of ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_252.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:31:19.563222
 
-**Source Image:** [📄 page_264.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_264.png)
+**Source Image:** [📄 page_264.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_264.png)
 
 ---
 
 ## Source Document
 
-![One moved and Mr. Ketcham seconded the motion that the order requiring certified](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_264.png)
+![One moved and Mr. Ketcham seconded the motion that the order requiring certified](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_264.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:44:18.900279
 
-**Source Image:** [📄 page_338.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_338.png)
+**Source Image:** [📄 page_338.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_338.png)
 
 ---
 
 ## Source Document
 
-![On motion of Dr. Van Dyck, seconded and carried, it was resolved that the removi](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_338.png)
+![On motion of Dr. Van Dyck, seconded and carried, it was resolved that the removi](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_338.png)
 
 ---
 

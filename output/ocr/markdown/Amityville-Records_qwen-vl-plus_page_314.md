@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:40:14.399110
 
-**Source Image:** [📄 page_314.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_314.png)
+**Source Image:** [📄 page_314.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_314.png)
 
 ---
 
 ## Source Document
 
-![Teachers' Committee recommended that contract be offered](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_314.png)
+![Teachers' Committee recommended that contract be offered](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_314.png)
 
 ---
 

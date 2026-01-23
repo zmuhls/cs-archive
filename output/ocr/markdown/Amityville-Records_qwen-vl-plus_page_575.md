@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:27:19.044015
 
-**Source Image:** [📄 page_575.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_575.png)
+**Source Image:** [📄 page_575.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_575.png)
 
 ---
 
 ## Source Document
 
-![Mr. Ingles reported that Fisher & Wagner had secured options on the following pr](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_575.png)
+![Mr. Ingles reported that Fisher & Wagner had secured options on the following pr](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_575.png)
 
 ---
 

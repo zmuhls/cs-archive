@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T00:13:59.050760
 
-**Source Image:** [📄 page_11.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_11.png)
+**Source Image:** [📄 page_11.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_11.png)
 
 ---
 
 ## Source Document
 
-![Bladell Union School](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_11.png)
+![Bladell Union School](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_11.png)
 
 ---
 

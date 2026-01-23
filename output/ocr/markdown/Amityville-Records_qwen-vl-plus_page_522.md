@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:17:46.134487
 
-**Source Image:** [📄 page_522.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_522.png)
+**Source Image:** [📄 page_522.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_522.png)
 
 ---
 
 ## Source Document
 
-![The Secretary reported that Mr. Harry Paul Fischel would not be able to be prese](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_522.png)
+![The Secretary reported that Mr. Harry Paul Fischel would not be able to be prese](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_522.png)
 
 ---
 

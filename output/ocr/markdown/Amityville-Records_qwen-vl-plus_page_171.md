@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:13:20.384157
 
-**Source Image:** [📄 page_171.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_171.png)
+**Source Image:** [📄 page_171.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_171.png)
 
 ---
 
 ## Source Document
 
-![between her salary and that of the substitute for the balance of this term. It w](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_171.png)
+![between her salary and that of the substitute for the balance of this term. It w](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_171.png)
 
 ---
 

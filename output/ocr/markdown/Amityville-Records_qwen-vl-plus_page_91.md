@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:57:57.810251
 
-**Source Image:** [📄 page_91.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_91.png)
+**Source Image:** [📄 page_91.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_91.png)
 
 ---
 
 ## Source Document
 
-![On motion the Board voted that the ballot be cast expressing a preference that t](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_91.png)
+![On motion the Board voted that the ballot be cast expressing a preference that t](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_91.png)
 
 ---
 

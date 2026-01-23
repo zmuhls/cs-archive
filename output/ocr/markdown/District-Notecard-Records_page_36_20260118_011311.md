@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T01:19:45.321252
 
-**Source Image:** [📄 page_36.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_36.png)
+**Source Image:** [📄 page_36.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_36.png)
 
 ---
 
 ## Source Document
 
-![Pine Hill Union School (Erie county),](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_36.png)
+![Pine Hill Union School (Erie county),](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_36.png)
 
 ---
 

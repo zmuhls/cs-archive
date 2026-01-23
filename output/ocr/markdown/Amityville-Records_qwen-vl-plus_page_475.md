@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:08:56.617975
 
-**Source Image:** [📄 page_475.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_475.png)
+**Source Image:** [📄 page_475.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_475.png)
 
 ---
 
 ## Source Document
 
-![M. Carlton Denk & Company                      $  3.36](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_475.png)
+![M. Carlton Denk & Company                      $  3.36](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_475.png)
 
 ---
 

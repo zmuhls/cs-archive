@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:47:55.186653
 
-**Source Image:** [📄 page_38.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_38.png)
+**Source Image:** [📄 page_38.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_38.png)
 
 ---
 
 ## Source Document
 
-![The Building and Grounds Committee submitted the following coal bids:](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_38.png)
+![The Building and Grounds Committee submitted the following coal bids:](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_38.png)
 
 ---
 

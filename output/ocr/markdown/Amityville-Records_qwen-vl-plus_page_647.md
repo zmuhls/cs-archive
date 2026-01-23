@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:48:05.108551
 
-**Source Image:** [📄 page_647.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_647.png)
+**Source Image:** [📄 page_647.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_647.png)
 
 ---
 
 ## Source Document
 
-![Smith Pharmacy                      $  6.19](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_647.png)
+![Smith Pharmacy                      $  6.19](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_647.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:50:36.208675
 
-**Source Image:** [📄 page_660.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_660.png)
+**Source Image:** [📄 page_660.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_660.png)
 
 ---
 
 ## Source Document
 
-![On motion made, duly seconded and carried, it was resolved that the budget as ad](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_660.png)
+![On motion made, duly seconded and carried, it was resolved that the budget as ad](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_660.png)
 
 ---
 

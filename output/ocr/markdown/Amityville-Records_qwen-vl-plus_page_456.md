@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:05:43.356837
 
-**Source Image:** [📄 page_456.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_456.png)
+**Source Image:** [📄 page_456.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_456.png)
 
 ---
 
 ## Source Document
 
-![The Clerk read applications for reappointment of Alex Smith an Janitor and each ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_456.png)
+![The Clerk read applications for reappointment of Alex Smith an Janitor and each ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_456.png)
 
 ---
 

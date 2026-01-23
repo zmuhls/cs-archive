@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:27:10.251693
 
-**Source Image:** [📄 page_574.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_574.png)
+**Source Image:** [📄 page_574.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_574.png)
 
 ---
 
 ## Source Document
 
-![Mrs. Hartman submitted report of the school nurse for the month of March and on ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_574.png)
+![Mrs. Hartman submitted report of the school nurse for the month of March and on ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_574.png)
 
 ---
 

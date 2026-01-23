@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:57:13.372793
 
-**Source Image:** [📄 page_86.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_86.png)
+**Source Image:** [📄 page_86.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_86.png)
 
 ---
 
 ## Source Document
 
-![The Building and Grounds Committee recommended that the preferred list of contra](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_86.png)
+![The Building and Grounds Committee recommended that the preferred list of contra](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_86.png)
 
 ---
 

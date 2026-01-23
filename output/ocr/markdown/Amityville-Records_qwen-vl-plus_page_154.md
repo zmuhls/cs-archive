@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:09:58.250901
 
-**Source Image:** [📄 page_154.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_154.png)
+**Source Image:** [📄 page_154.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_154.png)
 
 ---
 
 ## Source Document
 
-![The Teachers Committee reported no unexcusable absences for the month of October](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_154.png)
+![The Teachers Committee reported no unexcusable absences for the month of October](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_154.png)
 
 ---
 

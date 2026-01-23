@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:36:25.950433
 
-**Source Image:** [📄 page_291.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_291.png)
+**Source Image:** [📄 page_291.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_291.png)
 
 ---
 
 ## Source Document
 
-![The President reported that Anson Corson had requested that a letter be written ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_291.png)
+![The President reported that Anson Corson had requested that a letter be written ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_291.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:42:22.917800
 
-**Source Image:** [📄 page_620.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_620.png)
+**Source Image:** [📄 page_620.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_620.png)
 
 ---
 
 ## Source Document
 
-![Western Union Telegraph Co.     $ 4.50](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_620.png)
+![Western Union Telegraph Co.     $ 4.50](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_620.png)
 
 ---
 

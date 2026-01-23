@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:18:56.671344
 
-**Source Image:** [📄 page_202.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_202.png)
+**Source Image:** [📄 page_202.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_202.png)
 
 ---
 
 ## Source Document
 
-![At this point in the proceedings of the Board, Mrs. Hartman entered the meeting ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_202.png)
+![At this point in the proceedings of the Board, Mrs. Hartman entered the meeting ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_202.png)
 
 ---
 

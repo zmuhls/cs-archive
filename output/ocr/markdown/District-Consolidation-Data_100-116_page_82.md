@@ -1,26 +1,35 @@
 # Lewis County
 
-**Table Type:** Town School Units
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 82)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_82.jpg
 
-**Processed:** 2026-01-01T22:43:11.510201
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_82.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_82.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:45:40.966069
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_82.jpg](../tables/images/District-Consolidation-Data_100-116_page_82.jpg)
 
 ---
 
 ## Source Document
 
-![Lewis County - Town School Units - Page 82](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_82.jpg)
+![Lewis County](../tables/images/District-Consolidation-Data_100-116_page_82.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1 | West Turin | U.F.S. 7 and 3,4,5,6,8,9 |  |  |  |
-| 2 | " | " 2 " 1 |  |  |  |
+Lewis County
+155
+
+Town School Units
+
+| No. of Unit | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | Nos. of dists. included | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of cert. | REMARKS |
+|-------------|--------------|--------------------------------------------|--------------------------|---------------------------------------------------|--------------|---------|
+| 1           | West Turin   | U.F.S. 7 and 3, 4, 5, 6, 8, 9             | [blank]                  | [blank]                                           | [blank]      | [blank] |
+| 2           | "            | " 2 "                                      | 1                        | [blank]                                           | [blank]      | [blank] |

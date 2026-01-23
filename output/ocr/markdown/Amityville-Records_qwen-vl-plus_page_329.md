@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:42:44.147077
 
-**Source Image:** [📄 page_329.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_329.png)
+**Source Image:** [📄 page_329.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_329.png)
 
 ---
 
 ## Source Document
 
-![Dr. Murphy was nominated for Health Officer by Mr. Ingles and the nomination dul](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_329.png)
+![Dr. Murphy was nominated for Health Officer by Mr. Ingles and the nomination dul](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_329.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:27:07.287082
 
-**Source Image:** [📄 page_244.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_244.png)
+**Source Image:** [📄 page_244.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_244.png)
 
 ---
 
 ## Source Document
 
-![The Annual Looting of the Board of Education held at the High School Building on](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_244.png)
+![The Annual Looting of the Board of Education held at the High School Building on](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_244.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:01:34.709540
 
-**Source Image:** [📄 page_433.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_433.png)
+**Source Image:** [📄 page_433.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_433.png)
 
 ---
 
 ## Source Document
 
-![of the Laws of 1925, to the end that it may be introduced](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_433.png)
+![of the Laws of 1925, to the end that it may be introduced](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_433.png)
 
 ---
 

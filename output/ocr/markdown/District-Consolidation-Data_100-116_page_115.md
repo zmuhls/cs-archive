@@ -1,78 +1,90 @@
-# Onondaga County
+# Below is the transcription of the tabular data from the provided document, maint
 
-**Table Type:** Central Rural Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 115)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_115.jpg
 
-**Processed:** 2026-01-01T23:01:54.720296
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_115.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_115.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:53:55.730158
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_115.jpg](../tables/images/District-Consolidation-Data_100-116_page_115.jpg)
 
 ---
 
 ## Source Document
 
-![Onondaga County - Central Rural Schools - Page 115](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_115.jpg)
+![Below is the transcription of the tabular data from the provided document, maint](../tables/images/District-Consolidation-Data_100-116_page_115.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Jully & Spafford | 28 May 1943 | 7 Sept 1943 | 2 | CRS. 2 Jully |
-| 2 | Jully | 28 May 1943 | 7 Sept 1943 | 2 | CRS. 2 Jully |
-| 11 | Fabius | 15 March 1944 | 1 July 1944 | 1 | CRS. 1 Fabius |
-| 1 | De Ruyter, Madison Co. | 15 March 1944 | 1 July 1944 | 1 | CRS. 1 De Ruyter, Madison |
-| 14 | Fabius | 15 March 1944 | 1 July 1944 | 1 | CRS. 1 Fabius |
-| 1 | Fabius | 15 March 1944 | 1 July 1944 | 1 | CRS. 1 Fabius |
-| 8 | Camper | 15 March 1944 | 1 July 1944 | 1 | CRS. 1 Fabius |
-| 1 | Fabius | 15 March 1944 | 1 July 1944 | 1 | CRS. 1 Fabius |
-| 1 | La Fayette | 15 March 1944 | 15 Sept 1944 | 1 | CRS. 1 La Fayette |
-| 7 | La Fayette | 15 March 1944 | 15 Sept 1944 | 1 | CRS. 1 La Fayette |
-| 23 | Onondaga & La Fayette | Effective March 1, 1945 |  | 7 | CRS. 7 La Fayette |
-| 7 | La Fayette | Effective March 1, 1945 |  | 7 | CRS. 7 La Fayette |
-| 12 | Otisco | Effective September 1, 1945 |  | 2 | CRS. 2 Jully |
-| 2 | Jully | Effective September 1, 1945 |  | 2 | CRS. 2 Jully |
-| 11 | Spafford (Otisco & Jully) | Effective September 15, 1945 |  | 2 | CRS. 2 Jully |
-| 2 | Jully | Effective September 15, 1945 |  | 2 | CRS. 2 Jully |
-| 7 | Spafford | Effective October 31, 1945 |  | 1 | CRS. 1 Marcellus |
-| 1 | Marcellus | Effective October 31, 1945 |  | 1 | CRS. 1 Marcellus |
-|  | 12 Clay | Laid out June 6, 1949 | Meeting held June 27, 1949 | 5 | CRS. 5 Clay |
-|  | 3,5,6,7,14,17,18 Clay | Laid out June 6, 1949 | Meeting held June 27, 1949 | 5 | CRS. 5 Clay |
-|  | 2,3,4,6,7,8,9,12,13,15 Otisco | Laid out June 6, 1949 | Meeting held June 27, 1949 | 5 | CRS. 5 Clay |
-|  | 3,7 Salina (Onondaga) | Laid out June 6, 1949 | Meeting held June 27, 1949 | 5 | CRS. 5 Clay |
-|  | 16 Expender | Laid out May 31, 1949 | Meeting held June 17, 1949 | 1 | CRS. 1 Expender |
-|  | 4,2,3,5,6,7,8,9,10,11,14,17 Expender | Laid out May 31, 1949 | Meeting held June 17, 1949 | 1 | CRS. 1 Expender |
-|  | 1,2,3,4,7,9,10 Van Buren | Laid out May 31, 1949 | Meeting held June 17, 1949 | 1 | CRS. 1 Expender |
-|  | 7 Clay (Onondaga) | Laid out May 31, 1949 | Meeting held June 17, 1949 | 1 | CRS. 1 Expender |
-|  | 4 Elbridge | Laid out May 27, 1950 | Meeting held June 16, 1950 | 2 | CRS. 2 Elbridge, Van Buren |
-|  | 3,5,7,8 Elbridge | Laid out May 27, 1950 | Meeting held June 16, 1950 | 2 | CRS. 2 Elbridge, Van Buren |
-|  | 11 Van Buren | Laid out May 27, 1950 | Meeting held June 16, 1950 | 2 | CRS. 2 Elbridge, Van Buren |
-|  | 12 Van Buren, Coillins, Elbridge | Laid out May 27, 1950 | Meeting held June 16, 1950 | 2 | CRS. 2 Elbridge, Van Buren |
-|  | 17 Expender | Laid out May 27, 1950 | Meeting held June 16, 1950 | 2 | CRS. 2 Elbridge, Van Buren |
-|  | 3 Skaneateles (Cayuga) & Elbridge | Laid out May 27, 1950 | Meeting held June 16, 1950 | 2 | CRS. 2 Elbridge, Van Buren |
-|  | 1 Salina | Laid out May 2, 1950 | Meeting held May 23, 1950 | 1 | CRS. 1 Salina & Clay |
-|  | 5,6 Salina | Laid out May 2, 1950 | Meeting held May 23, 1950 | 1 | CRS. 1 Salina & Clay |
-|  | 2 Salina & Clay | Laid out May 2, 1950 | Meeting held May 23, 1950 | 1 | CRS. 1 Salina & Clay |
-|  | 3,4,16 Clay | Laid out May 2, 1950 | Meeting held May 23, 1950 | 1 | CRS. 1 Salina & Clay |
-|  | 8,14 May & Salina | Laid out May 2, 1950 | Meeting held May 23, 1950 | 1 | CRS. 1 Salina & Clay |
-|  | 17 De Witt, Pompey & La Fayette | Laid out June 5, 1950 | Meeting held June 28, 1950 | 11 | CRS. 11 De Witt, Pompey, Onondaga, La Fayette & Marcellus |
-|  | 8,19 De Witt | Laid out June 5, 1950 | Meeting held June 28, 1950 | 11 | CRS. 11 De Witt, Pompey, Onondaga, La Fayette & Marcellus |
-|  | 9 De Witt & Marcellus | Laid out June 5, 1950 | Meeting held June 28, 1950 | 11 | CRS. 11 De Witt, Pompey, Onondaga, La Fayette & Marcellus |
-|  | 18 Pompey | Laid out June 5, 1950 | Meeting held June 28, 1950 | 11 | CRS. 11 De Witt, Pompey, Onondaga, La Fayette & Marcellus |
-|  | 20 Onondaga & De Witt | Laid out June 5, 1950 | Meeting held June 28, 1950 | 11 | CRS. 11 De Witt, Pompey, Onondaga, La Fayette & Marcellus |
-|  | 10,14 Skaneateles | Laid out May 3, 1950 | Meeting held May 26, 1950 | 1 | CRS. 1 Skaneateles |
-|  | 1,2,6,7,8,12,15,18 Skaneateles | Laid out May 3, 1950 | Meeting held May 26, 1950 | 1 | CRS. 1 Skaneateles |
-|  | 14,17 Skaneateles & Vernon (Cayuga) | Laid out May 3, 1950 | Meeting held May 26, 1950 | 1 | CRS. 1 Skaneateles |
-|  | 16 Skaneateles & Marcellus | Laid out May 3, 1950 | Meeting held May 26, 1950 | 1 | CRS. 1 Skaneateles |
-|  | 18 Skaneateles & West Monroe (Cayuga) | Laid out May 3, 1950 | Meeting held May 26, 1950 | 1 | CRS. 1 Skaneateles |
-|  | 1,5,8 Spafford | Laid out May 3, 1950 | Meeting held May 26, 1950 | 1 | CRS. 1 Skaneateles |
-|  | 6 Spafford, Skaneateles & Marcellus | Laid out May 3, 1950 | Meeting held May 26, 1950 | 1 | CRS. 1 Skaneateles |
-|  | 6 Marcellus & Skaneateles | Laid out May 3, 1950 | Meeting held May 26, 1950 | 1 | CRS. 1 Skaneateles |
-|  | 1,4 Seneca (Cayuga) | Laid out May 3, 1950 | Meeting held May 26, 1950 | 1 | CRS. 1 Skaneateles |
-|  | 5,1 Seneca (Cayuga) & Skaneateles (Cayuga) | Laid out May 3, 1950 | Meeting held May 26, 1950 | 1 | CRS. 1 Skaneateles |
-|  | 1,6 Seneca (Cayuga) | Laid out May 3, 1950 | Meeting held May 26, 1950 | 1 | CRS. 1 Skaneateles |
-|  | 2 Seneca & Tully (Cayuga) | Laid out May 3, 1950 | Meeting held May 26, 1950 | 1 | CRS. 1 Skaneateles |
+Below is the transcription of the tabular data from the provided document, maintaining the structure and formatting as requested:
+
+```
+214
+
+Onondaga County
+
+Candidate Districts
+
+| No. of District | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS |
+|------------------|--------------|---------------------------------------------|--------------------------------------------------|---------|
+|                  |              | Day    | Month | Year | Day    | Month | Year | No. new dist |          |
+| 1                | Tully        | 28     | May   | 1943 | 7      | Sept  | 1943 | CRS        | Sully    |
+| 2                | Spafford     |        |       |      |        |       |      |            |          |
+| 3                | Be Ruyser    | 15     | March | 1944 | 1      | July  | 1944 | CRS        | Be Ruyser, Madison Co. |
+| 4                | Fabian       |        |       |      |        |       |      |            |          |
+| 5                | Fabian       |        |       |      |        |       |      |            |          |
+| 6                | Fabian       |        |       |      |        |       |      |            |          |
+| 7                | La Fayette   |        |       |      |        |       |      |            |          |
+| 8                | La Fayette   |        |       |      |        |       |      |            |          |
+| 9                | La Fayette   |        |       |      |        |       |      |            |          |
+| 10               | La Fayette   |        |       |      |        |       |      |            |          |
+| 11               | La Fayette   |        |       |      |        |       |      |            |          |
+| 12               | La Fayette   |        |       |      |        |       |      |            |          |
+| 13               | La Fayette   |        |       |      |        |       |      |            |          |
+| 14               | La Fayette   |        |       |      |        |       |      |            |          |
+| 15               | La Fayette   |        |       |      |        |       |      |            |          |
+| 16               | La Fayette   |        |       |      |        |       |      |            |          |
+| 17               | La Fayette   |        |       |      |        |       |      |            |          |
+| 18               | La Fayette   |        |       |      |        |       |      |            |          |
+| 19               | La Fayette   |        |       |      |        |       |      |            |          |
+| 20               | La Fayette   |        |       |      |        |       |      |            |          |
+| 21               | La Fayette   |        |       |      |        |       |      |            |          |
+| 22               | La Fayette   |        |       |      |        |       |      |            |          |
+| 23               | La Fayette   |        |       |      |        |       |      |            |          |
+| 24               | La Fayette   |        |       |      |        |       |      |            |          |
+| 25               | La Fayette   |        |       |      |        |       |      |            |          |
+| 26               | La Fayette   |        |       |      |        |       |      |            |          |
+| 27               | La Fayette   |        |       |      |        |       |      |            |          |
+| 28               | La Fayette   |        |       |      |        |       |      |            |          |
+| 29               | La Fayette   |        |       |      |        |       |      |            |          |
+| 30               | La Fayette   |        |       |      |        |       |      |            |          |
+| 31               | La Fayette   |        |       |      |        |       |      |            |          |
+| 32               | La Fayette   |        |       |      |        |       |      |            |          |
+| 33               | La Fayette   |        |       |      |        |       |      |            |          |
+| 34               | La Fayette   |        |       |      |        |       |      |            |          |
+| 35               | La Fayette   |        |       |      |        |       |      |            |          |
+| 36               | La Fayette   |        |       |      |        |       |      |            |          |
+| 37               | La Fayette   |        |       |      |        |       |      |            |          |
+| 38               | La Fayette   |        |       |      |        |       |      |            |          |
+| 39               | La Fayette   |        |       |      |        |       |      |            |          |
+| 40               | La Fayette   |        |       |      |        |       |      |            |          |
+| 41               | La Fayette   |        |       |      |        |       |      |            |          |
+| 42               | La Fayette   |        |       |      |        |       |      |            |          |
+| 43               | La Fayette   |        |       |      |        |       |      |            |          |
+| 44               | La Fayette   |        |       |      |        |       |      |            |          |
+| 45               | La Fayette   |        |       |      |        |       |      |            |          |
+| 46               | La Fayette   |        |       |      |        |       |      |            |          |
+| 47               | La Fayette   |        |       |      |        |       |      |            |          |
+| 48               | La Fayette   |        |       |      |        |       |      |            |          |
+| 49               | La Fayette   |        |       |      |        |       |      |            |          |
+| 50               | La Fayette   |        |       |      |        |       |      |            |          |
+| 51               | La Fayette   |        |       |      |        |       |      |            |          |
+| 52               | La Fayette   |        |       |      |        |       |      |

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:50:33.676908
 
-**Source Image:** [📄 page_53.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_53.png)
+**Source Image:** [📄 page_53.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_53.png)
 
 ---
 
 ## Source Document
 
-![remove the same with the exception of J. G. Francis of Ketchum Avenue who though](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_53.png)
+![remove the same with the exception of J. G. Francis of Ketchum Avenue who though](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_53.png)
 
 ---
 

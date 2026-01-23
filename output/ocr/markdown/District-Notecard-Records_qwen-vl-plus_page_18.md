@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T00:15:25.901794
 
-**Source Image:** [📄 page_18.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_18.png)
+**Source Image:** [📄 page_18.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_18.png)
 
 ---
 
 ## Source Document
 
-![Bombay Union School](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_18.png)
+![Bombay Union School](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_18.png)
 
 ---
 

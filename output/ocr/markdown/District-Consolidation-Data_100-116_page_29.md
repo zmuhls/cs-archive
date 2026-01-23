@@ -1,27 +1,47 @@
 # Clinton County
 
-**Table Type:** Union Free Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 29)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_29.jpg
 
-**Processed:** 2026-01-01T22:22:46.633591
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_29.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_29.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:34:25.107305
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_29.jpg](../tables/images/District-Consolidation-Data_100-116_page_29.jpg)
 
 ---
 
 ## Source Document
 
-![Clinton County - Union Free Schools - Page 29](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_29.jpg)
+![Clinton County](../tables/images/District-Consolidation-Data_100-116_page_29.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 2 | Saranac | 27 September 1916 |  | 3 |  |
-| 13 | Plattsburgh | 17 January 1917 |  | 5 |  |
-| 5 | Chazy | 27 June 1912 |  |  |  |
+```
+Clinton County
+Union Free Schools
+
+| No. of District | NAME OF TOWN   | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | Term of School | REMARKS |
+|-----------------|----------------|--------------------------------------------|--------------------------------------------------|----------------|---------|
+|                 |                | Day   Month   Year                         | Day   Month   Year                               |                |         |
+| 2               | Saranac        | 27    September 1916                       |                                                  | 3              |         |
+| 13              | Plattsburgh    | 17    January  1917                        |                                                  | 5              |         |
+| 5               | Chazy          | 27    June     1912                        |                                                  |                |         |
+```
+
+**Notes:**
+
+* The table is structured with columns for "No. of District," "NAME OF TOWN," "DATE OF SCHOOL MEETING ORGANIZING DISTRICT," "DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT," "Term of School," and "REMARKS."
+* The "DATE OF SCHOOL MEETING ORGANIZING DISTRICT" and "DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT" columns are further divided into "Day," "Month," and "Year."
+* Handwritten entries are preserved as they appear in the original document.
+* Blank fields are indicated as `[blank]` where no information is provided.
+* The "Term of School" column contains numerical values for the respective districts.
+* The "REMARKS" column is empty for all entries.
+* The document header includes "Clinton County" and "Union Free Schools," with a page number "57" in the top right corner.

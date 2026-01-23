@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:26:13.297965
 
-**Source Image:** [📄 page_568.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_568.png)
+**Source Image:** [📄 page_568.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_568.png)
 
 ---
 
 ## Source Document
 
-![Name                      Grade               Salary](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_568.png)
+![Name                      Grade               Salary](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_568.png)
 
 ---
 

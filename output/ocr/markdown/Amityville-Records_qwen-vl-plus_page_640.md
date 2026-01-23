@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:46:31.488408
 
-**Source Image:** [📄 page_640.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_640.png)
+**Source Image:** [📄 page_640.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_640.png)
 
 ---
 
 ## Source Document
 
-![school district a sum sufficient to pay the principal and interest](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_640.png)
+![school district a sum sufficient to pay the principal and interest](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_640.png)
 
 ---
 

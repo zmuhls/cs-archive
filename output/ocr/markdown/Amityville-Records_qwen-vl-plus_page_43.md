@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:48:45.923676
 
-**Source Image:** [📄 page_43.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_43.png)
+**Source Image:** [📄 page_43.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_43.png)
 
 ---
 
 ## Source Document
 
-![The Teachers Committee recommended that no action be taken on the purchase of th](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_43.png)
+![The Teachers Committee recommended that no action be taken on the purchase of th](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_43.png)
 
 ---
 

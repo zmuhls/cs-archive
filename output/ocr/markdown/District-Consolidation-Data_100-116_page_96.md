@@ -1,66 +1,115 @@
-# Monroe County
+# Below is the transcription of the structured document, preserving the table/form
 
-**Table Type:** Consolidated Districts
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 96)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_96.jpg
 
-**Processed:** 2026-01-01T22:51:17.469272
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_96.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_96.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:49:12.376776
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_96.jpg](../tables/images/District-Consolidation-Data_100-116_page_96.jpg)
 
 ---
 
 ## Source Document
 
-![Monroe County - Consolidated Districts - Page 96](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_96.jpg)
+![Below is the transcription of the structured document, preserving the table/form](../tables/images/District-Consolidation-Data_100-116_page_96.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 3,5,10 | Rush | 5 August 1919 | 3-288,414 1k 5-212,482 1k 10-389,802 3k 16-19 | 10 Rush |  |
-| 6,15 | Hamlin | 30 April 1919 | 6-287,064 1k 15-363,704 1k | 6 Hamlin |  |
-| 8 | Ogden |  | 8-128,631 1k |  |  |
-| 3,4 | Riga | 25 June 1923 | 3-140,400 1k 4-1,375,903 Cred 22-23 | 4 Riga |  |
-|  | Part of 9 Ogden & 4 Riga |  | Part. all'd 15 4-97.76 7-16.59 10-10.65 9th 177.53 20.73 19.34 |  | 4 Riga 216.64 7 Ogden 36.77 10 Ogden 23.39 |
-|  | " " " 7 Ogden |  |  |  |  |
-|  | " " " 10 " | 29 August 1918 |  |  | This was dissolved before the law went into effect allowing money to dists that were divided but Mr Esmond made a special decision in this case that the dists could receive partial quotas |
-|  | C.R.S. 1,2,6 Sweden | Meeting held 19 July 1927 |  | 1 Sweden, Ogden |  |
-|  | 4,8 Sweden & Ogden |  |  |  |  |
-|  | 6 Clarkson & Sweden | Designation of dist. 17 Ag. 1927 as |  |  |  |
-|  | 9 Sweden & Clarkson |  |  |  |  |
-|  | 1,2,3,4,7,8 Clarkson | C.R.S. laid out 24 Je. 1927 |  | Parma & Clarkson |  |
-|  | 11 Ogden, Sweden & Parma |  |  | Mon. Co. & |  |
-|  | 3,7,8 Sweden, Mon. Co. & Clarendon, Or. Co. |  |  | Clarendon & Murray Or. Co. |  |
-|  | 6 Parma & Clarkson |  |  |  |  |
-|  | 9 Clarkson, Sweden, Mon. Co. & Clarendon & Murray, Or. Co. |  |  |  |  |
-| 1,8 | Brighton | 30 April 1925 | 8-2,349,133 2k 8-2,115,623 1k | 1 Brighton |  |
-| 3,11,16 | Greece | Laid out by Com. 11 Jl. 1927 Meeting held 21 Mr. 1928 Desig. of dist. 9 My 28 |  | 1 Greece |  |
-|  | Rush |  |  |  |  |
-|  | Avon & Lima (Livingston Co.) |  | 15 Sept. 1944 | 1 Avon & Lima |  |
-|  | CRS 1st dist 1 Webster & Penfield (Monroe County) |  | Laid out April 27, 1948 Meeting held May 26, 1948 | 1 Webster |  |
-|  | 2,3,4,6,7,8,9 Webster |  |  |  |  |
-|  | 5 Webster & Penfield (Mon Co) & Valworth & Ontario (Wayne Co) |  |  |  |  |
-|  | 6,9,10,11 Penfield |  |  |  |  |
-|  | 13 Penfield (Mon Co) & Valworth (Wayne Co) |  |  |  |  |
-|  | CRS 1st dist 2,3,5,6 Penfield & Perinton |  | Laid out May 25, 1948 Meeting held June 24, 1948 | 1 Penfield |  |
-|  | 7 Penfield & Brighton |  |  |  |  |
-|  | 12 Valworth & Mendon (Wayne Co) and |  |  |  |  |
-|  | Penfield & Perinton (Monroe Co) |  |  |  |  |
-|  | 13 Gates & Chili | 1 April 1950 to be effect 1 July 1950 |  | 1 Gates & Chili |  |
-|  | CRS 1st dist 6 Pittsford |  | Laid out Sept 30, 1946 Meeting held Oct 23, 1946 | 1 Pittsford |  |
-|  | c.s. dist 1,2,3,4,5,7,8,9 Perinton |  |  |  |  |
-|  | 13 Mendon |  |  |  |  |
-|  | CRS 1st dist 10 Rush |  | Laid out Oct 2, 1946 Meeting held Nov 14, 1946 | 1 Rush |  |
-|  | c.s. dist 5 Henrietta |  |  |  |  |
-|  | 1,2,3,4,7,9 Rush |  |  |  |  |
-|  | 1,2,3,6,7,8,9,10 Henrietta |  |  |  |  |
-|  | CRS 1st dist 17 Mendon |  | Laid out Aug 1, 1949 Meeting held June 29, 1949 | 1 Mendon |  |
-|  | c.s. dist 1,2,3,4,5,6,7,9,10,11,12,14,15 Mendon |  |  |  |  |
-|  | 8,9 Lima (and Livingston) |  |  |  |  |
-|  | 8 Avon (and Livingston) |  |  |  |  |
-|  | 1 and Penfield (1st district) |  |  |  |  |
+Below is the transcription of the structured document, preserving the table/form layout as requested:
+
+---
+
+**Monroe County**
+
+**Consolidated Districts**
+
+| No. of dist. | NAME OF TOWN | DATE OF SCHOOL-MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS | No. new dist. |
+|--------------|--------------|---------------------------------------------|--------------------------------------------------|---------|---------------|
+| 3,5,6,10     | Rush         | 5 August 1919                               | 3 August 1919                                    | 10 Rush |               |
+| 4,6,15       | Hamlin       | 30 April 1919                               | 10 April 1919                                    | 6 Hamlin|               |
+| 6,4,4        | Riga         | 25 June 1923                                | 4 June 1923                                      | 4 Riga  |               |
+|              |              |                                             |                                                  | 7 Riga  |               |
+|              |              |                                             |                                                  | 8 Riga  |               |
+|              |              |                                             |                                                  | 9 Riga  |               |
+|              |              |                                             |                                                  | 10 Riga |               |
+|              |              |                                             |                                                  | 11 Riga |               |
+|              |              |                                             |                                                  | 12 Riga |               |
+|              |              |                                             |                                                  | 13 Riga |               |
+|              |              |                                             |                                                  | 14 Riga |               |
+|              |              |                                             |                                                  | 15 Riga |               |
+|              |              |                                             |                                                  | 16 Riga |               |
+|              |              |                                             |                                                  | 17 Riga |               |
+|              |              |                                             |                                                  | 18 Riga |               |
+|              |              |                                             |                                                  | 19 Riga |               |
+|              |              |                                             |                                                  | 20 Riga |               |
+|              |              |                                             |                                                  | 21 Riga |               |
+|              |              |                                             |                                                  | 22 Riga |               |
+|              |              |                                             |                                                  | 23 Riga |               |
+|              |              |                                             |                                                  | 24 Riga |               |
+|              |              |                                             |                                                  | 25 Riga |               |
+|              |              |                                             |                                                  | 26 Riga |               |
+|              |              |                                             |                                                  | 27 Riga |               |
+|              |              |                                             |                                                  | 28 Riga |               |
+|              |              |                                             |                                                  | 29 Riga |               |
+|              |              |                                             |                                                  | 30 Riga |               |
+|              |              |                                             |                                                  | 31 Riga |               |
+|              |              |                                             |                                                  | 32 Riga |               |
+|              |              |                                             |                                                  | 33 Riga |               |
+|              |              |                                             |                                                  | 34 Riga |               |
+|              |              |                                             |                                                  | 35 Riga |               |
+|              |              |                                             |                                                  | 36 Riga |               |
+|              |              |                                             |                                                  | 37 Riga |               |
+|              |              |                                             |                                                  | 38 Riga |               |
+|              |              |                                             |                                                  | 39 Riga |               |
+|              |              |                                             |                                                  | 40 Riga |               |
+|              |              |                                             |                                                  | 41 Riga |               |
+|              |              |                                             |                                                  | 42 Riga |               |
+|              |              |                                             |                                                  | 43 Riga |               |
+|              |              |                                             |                                                  | 44 Riga |               |
+|              |              |                                             |                                                  | 45 Riga |               |
+|              |              |                                             |                                                  | 46 Riga |               |
+|              |              |                                             |                                                  | 47 Riga |               |
+|              |              |                                             |                                                  | 48 Riga |               |
+|              |              |                                             |                                                  | 49 Riga |               |
+|              |              |                                             |                                                  | 50 Riga |               |
+|              |              |                                             |                                                  | 51 Riga |               |
+|              |              |                                             |                                                  | 52 Riga |               |
+|              |              |                                             |                                                  | 53 Riga |               |
+|              |              |                                             |                                                  | 54 Riga |               |
+|              |              |                                             |                                                  | 55 Riga |               |
+|              |              |                                             |                                                  | 56 Riga |               |
+|              |              |                                             |                                                  | 57 Riga |               |
+|              |              |                                             |                                                  | 58 Riga |               |
+|              |              |                                             |                                                  | 59 Riga |               |
+|              |              |                                             |                                                  | 60 Riga |               |
+|              |              |                                             |                                                  | 61 Riga |               |
+|              |              |                                             |                                                  | 62 Riga |               |
+|              |              |                                             |                                                  | 63 Riga |               |
+|              |              |                                             |                                                  | 64 Riga |               |
+|              |              |                                             |                                                  | 65 Riga |               |
+|              |              |                                             |                                                  | 66 Riga |               |
+|              |              |                                             |                                                  | 67 Riga |               |
+|              |              |                                             |                                                  | 68 Riga |               |
+|              |              |                                             |                                                  | 69 Riga |               |
+|              |              |                                             |                                                  | 70 Riga |               |
+|              |              |                                             |                                                  | 71 Riga |               |
+|              |              |                                             |                                                  | 72 Riga |               |
+|              |              |                                             |                                                  | 73 Riga |               |
+|              |              |                                             |                                                  | 74 Riga |               |
+|              |              |                                             |                                                  | 75 Riga |               |
+|              |              |                                             |                                                  | 76 Riga |               |
+|              |              |                                             |                                                  | 77 Riga |               |
+|              |              |                                             |                                                  | 78 Riga |               |
+|              |              |                                             |                                                  | 79 Riga |               |
+|              |              |                                             |                                                  | 80 Riga |               |
+|              |              |                                             |                                                  | 81 Riga |               |
+|              |

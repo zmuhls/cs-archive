@@ -1,25 +1,42 @@
-# Hamilton County
+# 34                                                                 Hamilton Coun
 
-**Table Type:** Union Free Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 69)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_69.jpg
 
-**Processed:** 2026-01-01T22:37:22.320423
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_69.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_69.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:42:59.152901
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_69.jpg](../tables/images/District-Consolidation-Data_100-116_page_69.jpg)
 
 ---
 
 ## Source Document
 
-![Hamilton County - Union Free Schools - Page 69](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_69.jpg)
+![34                                                                 Hamilton Coun](../tables/images/District-Consolidation-Data_100-116_page_69.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 2 | Long Lake | 18 December 1920 |  | 5 |  |
+```
+34                                                                 Hamilton County
+Union Free Schools
+
+| No. of District | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT |  |  | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT |  |  | No. of Students | REMARKS |
+|-----------------|--------------|--------------------------------------------|----|----|----------------------------------------------------|----|----|-----------------|---------|
+|                 |              | Day                                        | Month | Year | Day                                                | Month | Year |                 |         |
+| 2               | Long Lake    | 18                                         | December | 1920 | [blank]                                            | [blank] | 5  | [blank]         | [blank] |
+```
+
+### Notes:
+- The table is structured with clear column headers.
+- Pre-printed text includes "Hamilton County," "Union Free Schools," and column labels.
+- Filled-in data includes "2," "Long Lake," "18," "December," "1920," and "5."
+- Blank fields are indicated as `[blank]`.
+- The layout is preserved with proper alignment and spacing.

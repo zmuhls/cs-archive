@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:12:41.130159
 
-**Source Image:** [📄 page_168.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_168.png)
+**Source Image:** [📄 page_168.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_168.png)
 
 ---
 
 ## Source Document
 
-![Mr. Ruff reported an enrollment of 420 pupils in the grade school; 289 in the ju](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_168.png)
+![Mr. Ruff reported an enrollment of 420 pupils in the grade school; 289 in the ju](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_168.png)
 
 ---
 

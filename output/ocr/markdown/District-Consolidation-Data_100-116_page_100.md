@@ -1,52 +1,55 @@
 # Montgomery County
 
-**Table Type:** Consolidated Districts
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 100)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_100.jpg
 
-**Processed:** 2026-01-01T22:52:07.960080
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_100.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_100.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:49:51.385379
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_100.jpg](../tables/images/District-Consolidation-Data_100-116_page_100.jpg)
 
 ---
 
 ## Source Document
 
-![Montgomery County - Consolidated Districts - Page 100](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_100.jpg)
+![Montgomery County](../tables/images/District-Consolidation-Data_100-116_page_100.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 2 | Minden | Appealed | Order set aside |  |  |
-| 2 | St Johnsville | 5 May 1915 | 8-36873 14-52710 | 2 St Johnsville |  |
-| 8 & 14 | Root | 12 May 1915 | to take effect 1 Je. 14-15 | 8 Root |  |
-| 4 & 19 | Minden | 1 June 1915 | 4-60,662 17-50,321 | 4 Minden |  |
-| 11 & 16 | Minden | 28 August 1926 | 11-31841 16-68071 | 16 Minden |  |
-| 3 & 7 | St. Johnsville |  |  | C.R.S |  |
-| 8 | St. Johnsville & Palatine |  |  | 2 St. Johnsville, Palatine |  |
-| 1 & 2 | Minden |  |  | and Minden, Montgomery, Oppenheim, Ephratah, Fulton Co. and Marheim, Herkimer Co. |  |
-| 11 | Palatine & St. Johnsville |  |  |  |  |
-| 1 | Marheim & St. Johnsville |  |  |  |  |
-|  | Part of Central School Dist. Oppenheim, Ephratah, Stafford, St. Johnsville, Minden |  |  |  |  |
-|  | Part of Oppenheim & St. Johnsville |  |  |  |  |
-|  | Oswego (Herkimer Co.) |  |  |  |  |
-|  | St. Johnsville |  | 15 Sept 1944 | C.R.S | 2 St. Johnsville |
-| 1-8 | Canajoharie |  |  | C.R.S. |  |
-| 2 | Palatine |  |  | 1 Canajoharie, Palatine |  |
-| 1,2,3,9,10 | Canajoharie |  |  | Root, Minden, Charleston |  |
-| 4 & 5 | Canajoharie & Root |  |  | Mohawk, Montgomery & |  |
-| 13 & 14 | Canajoharie & Minden |  |  | Carlsbad, Shann, Schoharie Co. |  |
-| 10 & 16 | Palatine & Mohawk |  |  |  |  |
-| 5 & 12 | Root & Mohawk |  |  |  |  |
-| 2,4,5,8,11 | Root |  |  |  |  |
-|  | Canajoharie |  |  |  |  |
-|  | Charleston, Otselic |  |  |  |  |
-|  | Canajoharie, Shann |  |  |  |  |
-|  | Charleston |  |  |  |  |
-| 3 | Dewitt - Herkimer |  |  | C.R.S |  |
-| 2 | St. Johnsville |  | Effective August 1, 1945 | 2 St. Johnsville |  |
+Montgomery County
+185
+
+Consolidated Districts
+
+| No. of district | NAME OF TOWN | DATE OF SCHOOL-MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS | No. new dist. |
+|------------------|--------------|---------------------------------------------|--------------------------------------------------|---------|---------------|
+|                  |              | Day Month Year                              | Day Month Year                                   |         |               |
+| 2                | Minden       | 10 May 1915                                 | 8-36893 19-51000                                 | 2 St. Johnsville |               |
+| 2                | St. Johnsville | 5 May 1915                                 | 14-60662 19-51000                                | 14 Root |               |
+| 8+14             | Root         | 12 May 1915                                 | to take effect 1 June 1915                        | 19 Minden |               |
+| 4+19             | Minden       | 1 June 1915                                 | 17-50321 19-51000                                | 16 Minden |               |
+| 11+16            | Minden       | 28 August 1926                              | 16-68971 19-51000                                | [blank] |               |
+| 2                | St. Johnsville | 10 April 1942                               | Laid out 15 April 1942                           | C.R.S. 2 St. Johnsville, Palatine and Minden, Montgomery County |               |
+| 3                | St. Johnsville | 10 April 1942                               | Meeting held 30 April 1942                       | C.R.S. 2 St. Johnsville |               |
+| 11               | Palatine     | 10 April 1942                               | Resignation of district 31 August 1942           | C.R.S. 1 Canaigharrie, Palatine, Root, Minden, Charlestown, Montgomery County and machine, Herkimer County |               |
+| 10               | Machine      | 10 April 1942                               | 15 Sept 1944                                     | [blank] |               |
+| 2                | St. Johnsville | 10 April 1942                               | Laid out & designated 5 June 1944                | [blank] |               |
+| 7+8              | Canaigharrie | 10 April 1942                               | Meeting held 25 June 1944                        | [blank] |               |
+| 1,2,3,4,5,7,9,10 | Canaigharrie | 10 April 1942                               | Effective August 1, 1945                         | C.R.S. 2 St. Johnsville |               |
+| 40               | Root         | 10 April 1942                               | [blank]                                          | [blank] |               |
+| 10               | Root         | 10 April 1942                               | [blank]                                          | [blank] |               |
+| 10               | Root         | 10 April 1942                               | [blank]                                          | [blank] |               |
+| 50               | 12           | 10 April 1942                               | [blank]                                          | [blank] |               |
+| 2,4,5,8,11       | [blank]      | 10 April 1942                               | [blank]                                          | [blank] |               |
+| 9                | [blank]      | 10 April 1942                               | [blank]                                          | [blank] |               |
+| 12               | [blank]      | 10 April 1942                               | [blank]                                          | [blank] |               |
+| 3                | Samude - Nerhimare | 10 April 1942                           | [blank]                                          | [blank] |               |
+| 2                | St. Johnsville | 10 April 1942                               | [blank]                                          | [blank] |               |

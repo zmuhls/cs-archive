@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:42:54.720560
 
-**Source Image:** [📄 page_12.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_12.png)
+**Source Image:** [📄 page_12.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_12.png)
 
 ---
 
 ## Source Document
 
-![Moved, duly seconded and carried, that bid of Lester E. Gardiner in the amount o](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_12.png)
+![Moved, duly seconded and carried, that bid of Lester E. Gardiner in the amount o](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_12.png)
 
 ---
 

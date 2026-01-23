@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:50:26.541120
 
-**Source Image:** [📄 page_659.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_659.png)
+**Source Image:** [📄 page_659.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_659.png)
 
 ---
 
 ## Source Document
 
-![Alex Smith was reappointed Head Janitor at a salary of $2,100.00 per year.](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_659.png)
+![Alex Smith was reappointed Head Janitor at a salary of $2,100.00 per year.](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_659.png)
 
 ---
 

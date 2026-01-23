@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:16:03.396305
 
-**Source Image:** [📄 page_511.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_511.png)
+**Source Image:** [📄 page_511.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_511.png)
 
 ---
 
 ## Source Document
 
-![Teachers' Committee recommended that Miss May Birdsell be offered contract as Fr](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_511.png)
+![Teachers' Committee recommended that Miss May Birdsell be offered contract as Fr](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_511.png)
 
 ---
 

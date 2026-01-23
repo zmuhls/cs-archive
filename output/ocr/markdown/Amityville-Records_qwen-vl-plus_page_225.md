@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:23:31.143025
 
-**Source Image:** [📄 page_225.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_225.png)
+**Source Image:** [📄 page_225.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_225.png)
 
 ---
 
 ## Source Document
 
-![The Building and Grounds Committee reported that a savings could be effected if ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_225.png)
+![The Building and Grounds Committee reported that a savings could be effected if ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_225.png)
 
 ---
 

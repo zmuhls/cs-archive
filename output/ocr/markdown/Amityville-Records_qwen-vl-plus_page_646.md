@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:47:57.529877
 
-**Source Image:** [📄 page_646.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_646.png)
+**Source Image:** [📄 page_646.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_646.png)
 
 ---
 
 ## Source Document
 
-![Rose Mary Elizabeth Cremer](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_646.png)
+![Rose Mary Elizabeth Cremer](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_646.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:26:58.465771
 
-**Source Image:** [📄 page_243.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_243.png)
+**Source Image:** [📄 page_243.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_243.png)
 
 ---
 
 ## Source Document
 
-![The following bills were submitted by the Clerk and ordered referred to the Fina](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_243.png)
+![The following bills were submitted by the Clerk and ordered referred to the Fina](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_243.png)
 
 ---
 

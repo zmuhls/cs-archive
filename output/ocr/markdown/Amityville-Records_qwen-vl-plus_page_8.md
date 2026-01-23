@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:42:00.645307
 
-**Source Image:** [📄 page_8.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_8.png)
+**Source Image:** [📄 page_8.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_8.png)
 
 ---
 
 ## Source Document
 
-![Mrs. Burns reported that $327.57 had been spent on the commencement program for ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_8.png)
+![Mrs. Burns reported that $327.57 had been spent on the commencement program for ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_8.png)
 
 ---
 

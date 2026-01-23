@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:33:51.449607
 
-**Source Image:** [📄 page_278.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_278.png)
+**Source Image:** [📄 page_278.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_278.png)
 
 ---
 
 ## Source Document
 
-![bid for the erection of the fence on the north west corner of](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_278.png)
+![bid for the erection of the fence on the north west corner of](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_278.png)
 
 ---
 

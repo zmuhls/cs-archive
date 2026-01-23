@@ -1,28 +1,46 @@
-# Montgomery County
+# 182                                                                 Montgomery C
 
-**Table Type:** Union Free Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 98)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_98.jpg
 
-**Processed:** 2026-01-01T22:51:35.903046
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_98.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_98.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:49:27.931671
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_98.jpg](../tables/images/District-Consolidation-Data_100-116_page_98.jpg)
 
 ---
 
 ## Source Document
 
-![Montgomery County - Union Free Schools - Page 98](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_98.jpg)
+![182                                                                 Montgomery C](../tables/images/District-Consolidation-Data_100-116_page_98.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 14 | Minden | 18 March 1893 |  | 5 |  |
-| 12 | Amsterdam | 24 March 1866 |  | 3 |  |
-| 7 | Chenajoharie | 24 October 1872 |  |  |  |
-| 3 | Palatine | 30 June 1948 |  |  | (Copy of papers filed Feb 15/62) |
+```
+182                                                                 Montgomery County
+
+Union Free Schools
+
+| No. of district | NAME OF TOWN     | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of teachers | REMARKS                     |
+|-----------------|------------------|--------------------------------------------|--------------------------------------------------|-----------------|-----------------------------|
+|                 |                  | Day   Month   Year                         | Day   Month   Year                               |                 |                             |
+| 14              | Minden           | 18    March   1893                           |                                                  | 5               |                             |
+| 12              | Amsterdam        | 24    March   1866                           |                                                  | 3               |                             |
+| 7               | Anajoharie       | 34    October 1872                           |                                                  |                 |                             |
+| 3               | Palestine        | 30    June    1918                           |                                                  |                 | (Copy of papers filed Feb 15/62) |
+```
+
+### Notes:
+- The table is structured with clear column headers.
+- Pre-printed text includes "182", "Montgomery County", "Union Free Schools", and column headers.
+- Handwritten entries are present for "NAME OF TOWN", "DATE OF SCHOOL MEETING ORGANIZING DISTRICT", "DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT", "No. of teachers", and "REMARKS".
+- Blank fields are indicated where no data is present.
+- Alignment is maintained for dates and numbers.

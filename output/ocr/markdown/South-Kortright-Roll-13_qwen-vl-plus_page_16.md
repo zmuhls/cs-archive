@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:43:46.921957
 
-**Source Image:** [📄 page_16.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_16.png)
+**Source Image:** [📄 page_16.png](../../../tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_16.png)
 
 ---
 
 ## Source Document
 
-![**Report of the Trustees of School District No. 2 for the year 1822**](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_16.png)
+![**Report of the Trustees of School District No. 2 for the year 1822**](../../../tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_16.png)
 
 ---
 

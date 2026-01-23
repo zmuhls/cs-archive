@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T00:17:09.680174
 
-**Source Image:** [📄 page_29.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_29.png)
+**Source Image:** [📄 page_29.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_29.png)
 
 ---
 
 ## Source Document
 
-![Cairo Central School (Clermont County)](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_29.png)
+![Cairo Central School (Clermont County)](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_29.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T00:16:07.254239
 
-**Source Image:** [📄 page_22.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_22.png)
+**Source Image:** [📄 page_22.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_22.png)
 
 ---
 
 ## Source Document
 
-![Brewerton Union School](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_22.png)
+![Brewerton Union School](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_22.png)
 
 ---
 

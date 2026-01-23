@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:04:09.815073
 
-**Source Image:** [📄 page_446.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_446.png)
+**Source Image:** [📄 page_446.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_446.png)
 
 ---
 
 ## Source Document
 
-![Motion made, seconded and carried, that the program be arranged on an eight peri](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_446.png)
+![Motion made, seconded and carried, that the program be arranged on an eight peri](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_446.png)
 
 ---
 

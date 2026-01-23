@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:58:49.736632
 
-**Source Image:** [📄 page_419.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_419.png)
+**Source Image:** [📄 page_419.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_419.png)
 
 ---
 
 ## Source Document
 
-![Dr. Van Dyck, read letter received from Mr. Colyer, Insurance Agent, to the effe](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_419.png)
+![Dr. Van Dyck, read letter received from Mr. Colyer, Insurance Agent, to the effe](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_419.png)
 
 ---
 

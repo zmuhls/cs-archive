@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:43:51.977254
 
-**Source Image:** [📄 page_16.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_16.png)
+**Source Image:** [📄 page_16.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_16.png)
 
 ---
 
 ## Source Document
 
-![FURTHER RESOLVED, that the Clerk of the Board of Education be directed to cause ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_16.png)
+![FURTHER RESOLVED, that the Clerk of the Board of Education be directed to cause ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_16.png)
 
 ---
 

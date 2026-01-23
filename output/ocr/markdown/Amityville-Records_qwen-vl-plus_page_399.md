@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:55:36.425426
 
-**Source Image:** [📄 page_399.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_399.png)
+**Source Image:** [📄 page_399.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_399.png)
 
 ---
 
 ## Source Document
 
-![at $4,408,347.00, and](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_399.png)
+![at $4,408,347.00, and](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_399.png)
 
 ---
 

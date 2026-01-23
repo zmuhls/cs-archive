@@ -1,27 +1,44 @@
 # Chemung County
 
-**Table Type:** Union Free Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 20)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_20.jpg
 
-**Processed:** 2026-01-01T22:17:04.512655
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_20.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_20.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:32:06.674912
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_20.jpg](../tables/images/District-Consolidation-Data_100-116_page_20.jpg)
 
 ---
 
 ## Source Document
 
-![Chemung County - Union Free Schools - Page 20](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_20.jpg)
+![Chemung County](../tables/images/District-Consolidation-Data_100-116_page_20.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 2 | Virgil | 3 May 1920 |  | 5 |  |
-| 8 | Veteran | May (?) |  |  |  |
-| 6 | Elmira | 7 May 1946 |  | 6 |  |
+```
+Chemung County
+Union Free Schools
+
+| No. of district | NAME OF TOWN         | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of votes | REMARKS |
+|-----------------|----------------------|--------------------------------------------|--------------------------------------------------|--------------|---------|
+|                 |                      | Day   Month   Year                         | Day   Month   Year                               |              |         |
+| 2               | Virgil               | 3     May     1920                           | [blank]                                          | 5            |         |
+| 8               | Veteran              | [blank] (2)                                | [blank]                                          | [blank]      |         |
+| 6               | Elmstattle           | 7     May     1946                           | [blank]                                          | 6            |         |
+```
+
+**Notes:**
+- The handwritten "2" next to "Virgil" is included in the "No. of district" column.
+- The "(2)" next to "May" in the "Month" column for "Veteran" is preserved as handwritten text.
+- The "REMARKS" column is blank for all entries.
+- The "No. of votes" column contains the numbers 5 and 6 for the respective entries.
+- All other fields are left as [blank] where no information is provided.

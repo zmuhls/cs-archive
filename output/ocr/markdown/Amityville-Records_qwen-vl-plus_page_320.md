@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:41:33.495529
 
-**Source Image:** [📄 page_320.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_320.png)
+**Source Image:** [📄 page_320.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_320.png)
 
 ---
 
 ## Source Document
 
-![Motion made by Dr. Van Dyck, seconded and carried, that the Building Committee b](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_320.png)
+![Motion made by Dr. Van Dyck, seconded and carried, that the Building Committee b](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_320.png)
 
 ---
 

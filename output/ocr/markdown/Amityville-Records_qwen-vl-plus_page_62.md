@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:52:34.742273
 
-**Source Image:** [📄 page_62.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_62.png)
+**Source Image:** [📄 page_62.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_62.png)
 
 ---
 
 ## Source Document
 
-![MOVED, seconded and carried, that R. P. Anderson of Port Jefferson be paid twent](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_62.png)
+![MOVED, seconded and carried, that R. P. Anderson of Port Jefferson be paid twent](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_62.png)
 
 ---
 

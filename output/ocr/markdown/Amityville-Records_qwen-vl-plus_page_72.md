@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:54:46.399250
 
-**Source Image:** [📄 page_72.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_72.png)
+**Source Image:** [📄 page_72.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_72.png)
 
 ---
 
 ## Source Document
 
-![New York Telephone Company        $  25.30](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_72.png)
+![New York Telephone Company        $  25.30](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_72.png)
 
 ---
 

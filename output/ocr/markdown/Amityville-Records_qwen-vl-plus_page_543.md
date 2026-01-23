@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:21:13.878839
 
-**Source Image:** [📄 page_543.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_543.png)
+**Source Image:** [📄 page_543.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_543.png)
 
 ---
 
 ## Source Document
 
-![Unqua Agency, Inc.                      $ 123.33](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_543.png)
+![Unqua Agency, Inc.                      $ 123.33](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_543.png)
 
 ---
 

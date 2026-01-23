@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:35:58.971076
 
-**Source Image:** [📄 page_600.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_600.png)
+**Source Image:** [📄 page_600.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_600.png)
 
 ---
 
 ## Source Document
 
-![RESOLVED, that the Board of Education is so advised that the total valuation of ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_600.png)
+![RESOLVED, that the Board of Education is so advised that the total valuation of ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_600.png)
 
 ---
 

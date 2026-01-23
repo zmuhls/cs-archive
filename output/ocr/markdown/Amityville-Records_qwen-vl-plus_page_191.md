@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:16:39.965415
 
-**Source Image:** [📄 page_191.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_191.png)
+**Source Image:** [📄 page_191.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_191.png)
 
 ---
 
 ## Source Document
 
-![Mr. Whitmore moved and Mr. Ketcham seconded the motion](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_191.png)
+![Mr. Whitmore moved and Mr. Ketcham seconded the motion](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_191.png)
 
 ---
 

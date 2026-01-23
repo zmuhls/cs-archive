@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T01:18:14.625291
 
-**Source Image:** [📄 page_26.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_26.png)
+**Source Image:** [📄 page_26.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_26.png)
 
 ---
 
 ## Source Document
 
-![Monroe County-](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_26.png)
+![Monroe County-](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_26.png)
 
 ---
 

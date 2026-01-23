@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T00:14:11.641893
 
-**Source Image:** [📄 page_12.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_12.png)
+**Source Image:** [📄 page_12.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_12.png)
 
 ---
 
 ## Source Document
 
-![[Top Document]](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_12.png)
+![[Top Document]](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_12.png)
 
 ---
 

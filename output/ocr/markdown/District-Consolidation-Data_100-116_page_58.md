@@ -1,28 +1,48 @@
-# Franklin County
+# District Consolidation Data 100 116 page 58
 
-**Table Type:** Union Free Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 58)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_58.jpg
 
-**Processed:** 2026-01-01T22:32:36.675781
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_58.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_58.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:40:48.527881
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_58.jpg](../tables/images/District-Consolidation-Data_100-116_page_58.jpg)
 
 ---
 
 ## Source Document
 
-![Franklin County - Union Free Schools - Page 58](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_58.jpg)
+![District Consolidation Data 100 116 page 58](../tables/images/District-Consolidation-Data_100-116_page_58.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 8 | Dickinson | 23 July 1907 |  | 3 |  |
-| 1 | Fort Covington | 3 October 1864 |  | 9 |  |
-| 1 | Harrietstown | 20 January 1890 |  | 5 |  |
-| 16 | Burke | See papers. |  |  |  |
+```
+106
+Franklin County
+
+Union Free Schools
+
+| No. of district | NAME OF TOWN     | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS |
+|-----------------|------------------|---------------------------------------------|--------------------------------------------------|---------|
+|                 |                  | Day    | Month | Year | Day    | Month | Year |         |         |
+| 8               | Dickinson        | 23     | July  | 1907 |        |       |      | 3       |         |
+| 1               | Fort Covington   | 3      | October | 1864 |        |       |      | 9       |         |
+| 1               | Harrietstown     | 20     | January | 1890 |        |       |      | 5       |         |
+| 16              | Burke            |        |       |      |        |       |      |         | In papers |
+```
+
+**Notes:**
+
+* The table is structured with columns for district number, town name, meeting date, approval date, and remarks.
+* Handwritten entries are preserved as-is.
+* Blank fields are indicated with `[blank]` where applicable.
+* The document header and footer are included for context.
+* The table is aligned according to the original layout.

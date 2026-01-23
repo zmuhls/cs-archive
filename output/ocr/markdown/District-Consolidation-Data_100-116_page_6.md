@@ -1,31 +1,44 @@
 # Cattaraugus County
 
-**Table Type:** Union Free Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 6)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_6.jpg
 
-**Processed:** 2026-01-01T22:09:05.390014
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_6.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_6.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:28:52.347863
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_6.jpg](../tables/images/District-Consolidation-Data_100-116_page_6.jpg)
 
 ---
 
 ## Source Document
 
-![Cattaraugus County - Union Free Schools - Page 6](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_6.jpg)
+![Cattaraugus County](../tables/images/District-Consolidation-Data_100-116_page_6.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 9 | Dayton | 29 January 1901 | 25 March 1901 | 3 |  |
-| 1 | Freedom | 12 October 1900 |  | 5 |  |
-| 1 | Randolph | 16 November 1888 |  | 9 |  |
-| 7 | Yorkshire | 29 August 1893 |  | 3 |  |
-| 4 | Carrollton | 13 March 1915 | 13 April 1915 | 3 |  |
-| 1 | East Otto | 22 December 1920 |  | 3 |  |
-| 10 | Rhinedale |  |  |  | See affidavits unifoeed |
+Cattaraugus County
+
+Union Free Schools
+
+| No. of District | NAME OF TOWN     | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS |
+|-----------------|------------------|--------------------------------------------|--------------------------------------------------|---------|
+|                 |                  | Day   Month   Year                         | Day   Month   Year                               |         |
+| 9               | Dayton           | 29    January 1901                           | 25    March   1901                               | 3       |
+| 1               | Freedom          | 12    October 1900                           | [blank]                                          | 5       |
+| 1               | Randolph         | 16    November 1888                          | [blank]                                          | 9       |
+| 7               | Yorkshire        | 29    August  1893                           | 13    April   1915                               | 3       |
+| 4               | Carrollton       | 13    March   1915                           | 13    April   1915                               | 3       |
+| 1               | East Otto        | 22    December 1920                          | [blank]                                          | 3       |
+| 10              | Glensdale        | [blank]                                    | [blank]                                          | [blank] |
+
+No. of Unit
+1 D
+2 D

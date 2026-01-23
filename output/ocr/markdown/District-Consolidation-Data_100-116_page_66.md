@@ -1,26 +1,35 @@
-# Greene County
+# 128                                                                 Greene Count
 
-**Table Type:** Town School Units
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 66)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_66.jpg
 
-**Processed:** 2026-01-01T22:36:29.763421
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_66.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_66.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:42:27.463852
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_66.jpg](../tables/images/District-Consolidation-Data_100-116_page_66.jpg)
 
 ---
 
 ## Source Document
 
-![Greene County - Town School Units - Page 66](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_66.jpg)
+![128                                                                 Greene Count](../tables/images/District-Consolidation-Data_100-116_page_66.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Hunter | Nos. of dists. included |  | U.F.S. 4 and 6, 8 & 10 |  |
-| 2 | " |  |  | " 2 " 1, 3, 7 & 9 |  |
+128                                                                 Greene County
+
+Town School Units
+
+| Unit | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | Nos. of dists. included | DATE OF WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of Board | REMARKS |
+|------|--------------|--------------------------------------------|--------------------------|--------------------------------------------------|--------------|---------|
+|      |              | Dep. Month Year                            |                          | Dep. Month Year                                  |              |         |
+| 1    | Hunter       | U.F.S. 4 and 6, 8 + 10                     |                          |                                                  |              |         |
+| '2   | "            | " 2                                        | 1, 3, 7 + 9              |                                                  |              |         |

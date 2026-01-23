@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T00:18:58.846600
 
-**Source Image:** [📄 page_38.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_38.png)
+**Source Image:** [📄 page_38.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_38.png)
 
 ---
 
 ## Source Document
 
-![Voorsheesville Union School (Albany Co.)](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_38.png)
+![Voorsheesville Union School (Albany Co.)](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_38.png)
 
 ---
 

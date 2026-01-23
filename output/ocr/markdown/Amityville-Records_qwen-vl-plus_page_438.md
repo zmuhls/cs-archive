@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:02:22.883136
 
-**Source Image:** [📄 page_438.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_438.png)
+**Source Image:** [📄 page_438.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_438.png)
 
 ---
 
 ## Source Document
 
-![The President reported that Mr. Lloyd was confined to his home with pneumonia. M](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_438.png)
+![The President reported that Mr. Lloyd was confined to his home with pneumonia. M](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_438.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T01:15:52.496735
 
-**Source Image:** [📄 page_27.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_27.png)
+**Source Image:** [📄 page_27.png](../../../tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_27.png)
 
 ---
 
 ## Source Document
 
-![[Header: "Annual Sett. Account"]](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_27.png)
+![[Header: "Annual Sett. Account"]](../../../tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_27.png)
 
 ---
 

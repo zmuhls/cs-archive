@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:46:10.996718
 
-**Source Image:** [📄 page_348.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_348.png)
+**Source Image:** [📄 page_348.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_348.png)
 
 ---
 
 ## Source Document
 
-![Motion duly made, seconded and carried, that Dr. Merkham be empowered to secure ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_348.png)
+![Motion duly made, seconded and carried, that Dr. Merkham be empowered to secure ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_348.png)
 
 ---
 

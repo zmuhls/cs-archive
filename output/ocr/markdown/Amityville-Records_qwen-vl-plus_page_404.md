@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:56:17.749124
 
-**Source Image:** [📄 page_404.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_404.png)
+**Source Image:** [📄 page_404.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_404.png)
 
 ---
 
 ## Source Document
 
-![Mrs. Burns reported that a School District map was on file in the Town Hall at B](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_404.png)
+![Mrs. Burns reported that a School District map was on file in the Town Hall at B](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_404.png)
 
 ---
 

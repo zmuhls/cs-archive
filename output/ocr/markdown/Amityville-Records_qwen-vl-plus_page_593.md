@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:30:49.295241
 
-**Source Image:** [📄 page_593.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_593.png)
+**Source Image:** [📄 page_593.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_593.png)
 
 ---
 
 ## Source Document
 
-![Helen Covart McCullough                      $ 25.00](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_593.png)
+![Helen Covart McCullough                      $ 25.00](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_593.png)
 
 ---
 

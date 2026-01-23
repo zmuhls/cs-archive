@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:15:36.046482
 
-**Source Image:** [📄 page_185.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_185.png)
+**Source Image:** [📄 page_185.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_185.png)
 
 ---
 
 ## Source Document
 
-![The President read letter of Mr. George A. Brown, dated May 30, 1933, advising t](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_185.png)
+![The President read letter of Mr. George A. Brown, dated May 30, 1933, advising t](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_185.png)
 
 ---
 

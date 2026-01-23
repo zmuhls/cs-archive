@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T01:18:05.343183
 
-**Source Image:** [📄 page_25.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_25.png)
+**Source Image:** [📄 page_25.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_25.png)
 
 ---
 
 ## Source Document
 
-![[stamp: Water Hill Union School (B) Lawrence Co.]](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_25.png)
+![[stamp: Water Hill Union School (B) Lawrence Co.]](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_25.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:55:47.559823
 
-**Source Image:** [📄 page_400.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_400.png)
+**Source Image:** [📄 page_400.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_400.png)
 
 ---
 
 ## Source Document
 
-![Motion duly made, seconded and carried, that the Schools be closed Friday, Octob](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_400.png)
+![Motion duly made, seconded and carried, that the Schools be closed Friday, Octob](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_400.png)
 
 ---
 

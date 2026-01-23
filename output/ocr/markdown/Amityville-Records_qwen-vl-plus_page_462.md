@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:06:43.967831
 
-**Source Image:** [📄 page_462.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_462.png)
+**Source Image:** [📄 page_462.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_462.png)
 
 ---
 
 ## Source Document
 
-![School Meeting held on February 23rd, 1926, as provided by statute; and it is fu](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_462.png)
+![School Meeting held on February 23rd, 1926, as provided by statute; and it is fu](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_462.png)
 
 ---
 

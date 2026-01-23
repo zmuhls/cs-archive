@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:05:44.970787
 
-**Source Image:** [📄 page_131.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_131.png)
+**Source Image:** [📄 page_131.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_131.png)
 
 ---
 
 ## Source Document
 
-![The Board thereupon went into executive session for the preparation of a budget ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_131.png)
+![The Board thereupon went into executive session for the preparation of a budget ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_131.png)
 
 ---
 

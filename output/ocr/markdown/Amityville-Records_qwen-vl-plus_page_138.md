@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:06:56.338404
 
-**Source Image:** [📄 page_138.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_138.png)
+**Source Image:** [📄 page_138.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_138.png)
 
 ---
 
 ## Source Document
 
-![TABULATION OF BIDS FOR FURNITURE---AMITYVILLE GRADE SCHOOL](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_138.png)
+![TABULATION OF BIDS FOR FURNITURE---AMITYVILLE GRADE SCHOOL](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_138.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:22:07.057419
 
-**Source Image:** [📄 page_549.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_549.png)
+**Source Image:** [📄 page_549.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_549.png)
 
 ---
 
 ## Source Document
 
-![The question came up as to whether or not the Copiague School District would be ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_549.png)
+![The question came up as to whether or not the Copiague School District would be ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_549.png)
 
 ---
 

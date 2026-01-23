@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:48:53.772779
 
-**Source Image:** [📄 page_44.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_44.png)
+**Source Image:** [📄 page_44.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_44.png)
 
 ---
 
 ## Source Document
 
-![Henry W. Leigh                                      $ 760.00](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_44.png)
+![Henry W. Leigh                                      $ 760.00](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_44.png)
 
 ---
 

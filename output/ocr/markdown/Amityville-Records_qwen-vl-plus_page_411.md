@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:57:37.229599
 
-**Source Image:** [📄 page_411.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_411.png)
+**Source Image:** [📄 page_411.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_411.png)
 
 ---
 
 ## Source Document
 
-![The Clerk read letter from the Mason-Hamlin Company, quoting](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_411.png)
+![The Clerk read letter from the Mason-Hamlin Company, quoting](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_411.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:12:11.232278
 
-**Source Image:** [📄 page_165.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_165.png)
+**Source Image:** [📄 page_165.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_165.png)
 
 ---
 
 ## Source Document
 
-![of Amityville for use of the High School Auditorium on](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_165.png)
+![of Amityville for use of the High School Auditorium on](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_165.png)
 
 ---
 

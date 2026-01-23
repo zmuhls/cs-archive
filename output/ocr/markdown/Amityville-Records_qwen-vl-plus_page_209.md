@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:20:17.782376
 
-**Source Image:** [📄 page_209.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_209.png)
+**Source Image:** [📄 page_209.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_209.png)
 
 ---
 
 ## Source Document
 
-![WHEREAS, on the 10th day of October 1833, at a special meeting of the voters of ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_209.png)
+![WHEREAS, on the 10th day of October 1833, at a special meeting of the voters of ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_209.png)
 
 ---
 

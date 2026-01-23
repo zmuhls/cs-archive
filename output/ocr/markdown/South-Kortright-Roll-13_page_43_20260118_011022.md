@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T01:18:44.960666
 
-**Source Image:** [📄 page_43.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_43.png)
+**Source Image:** [📄 page_43.png](../../../tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_43.png)
 
 ---
 
 ## Source Document
 
-![At an annual meeting held at the Schoolhouse in District No. 2, in the town of H](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_43.png)
+![At an annual meeting held at the Schoolhouse in District No. 2, in the town of H](../../../tinker-cookbook/data/nys_archives/images/South-Kortright-Roll-13/page_43.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:21:51.081179
 
-**Source Image:** [📄 page_217.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_217.png)
+**Source Image:** [📄 page_217.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_217.png)
 
 ---
 
 ## Source Document
 
-![The Teachers Committee submitted cafeteria report for the school year to Novembe](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_217.png)
+![The Teachers Committee submitted cafeteria report for the school year to Novembe](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_217.png)
 
 ---
 

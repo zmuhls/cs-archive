@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T01:18:57.151047
 
-**Source Image:** [📄 page_31.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_31.png)
+**Source Image:** [📄 page_31.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_31.png)
 
 ---
 
 ## Source Document
 
-![Canastota Central School](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_31.png)
+![Canastota Central School](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_31.png)
 
 ---
 

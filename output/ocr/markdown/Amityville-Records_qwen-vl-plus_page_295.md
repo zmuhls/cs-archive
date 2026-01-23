@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:36:57.811782
 
-**Source Image:** [📄 page_295.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_295.png)
+**Source Image:** [📄 page_295.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_295.png)
 
 ---
 
 ## Source Document
 
-![seconded the motion that Eur[e]ne O. W[insor] be appointed census enumerator for](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_295.png)
+![seconded the motion that Eur[e]ne O. W[insor] be appointed census enumerator for](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_295.png)
 
 ---
 

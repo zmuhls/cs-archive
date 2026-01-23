@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T00:17:04.087676
 
-**Source Image:** [📄 page_28.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_28.png)
+**Source Image:** [📄 page_28.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_28.png)
 
 ---
 
 ## Source Document
 
-![Burdett Union School (Schuyler Co.)](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_28.png)
+![Burdett Union School (Schuyler Co.)](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_28.png)
 
 ---
 

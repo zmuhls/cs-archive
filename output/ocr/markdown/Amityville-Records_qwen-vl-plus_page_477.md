@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:09:16.956084
 
-**Source Image:** [📄 page_477.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_477.png)
+**Source Image:** [📄 page_477.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_477.png)
 
 ---
 
 ## Source Document
 
-![Revered Van Dyke expressed his pleasure at being able to represent the](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_477.png)
+![Revered Van Dyke expressed his pleasure at being able to represent the](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_477.png)
 
 ---
 

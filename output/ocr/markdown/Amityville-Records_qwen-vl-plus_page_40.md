@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:48:12.080158
 
-**Source Image:** [📄 page_40.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_40.png)
+**Source Image:** [📄 page_40.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_40.png)
 
 ---
 
 ## Source Document
 
-![Shall John Union Free School](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_40.png)
+![Shall John Union Free School](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_40.png)
 
 ---
 

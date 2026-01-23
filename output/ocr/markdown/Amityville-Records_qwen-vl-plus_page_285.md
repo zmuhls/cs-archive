@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:35:06.172913
 
-**Source Image:** [📄 page_285.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_285.png)
+**Source Image:** [📄 page_285.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_285.png)
 
 ---
 
 ## Source Document
 
-![building and the tying in of or that building's heating plant with the new Junio](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_285.png)
+![building and the tying in of or that building's heating plant with the new Junio](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_285.png)
 
 ---
 

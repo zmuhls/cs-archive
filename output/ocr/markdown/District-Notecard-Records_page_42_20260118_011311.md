@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T01:21:02.262645
 
-**Source Image:** [📄 page_42.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_42.png)
+**Source Image:** [📄 page_42.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_42.png)
 
 ---
 
 ## Source Document
 
-![[stamp: Union School St. Lawrence]](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_42.png)
+![[stamp: Union School St. Lawrence]](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_42.png)
 
 ---
 

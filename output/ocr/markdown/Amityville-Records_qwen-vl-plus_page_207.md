@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:19:51.188152
 
-**Source Image:** [📄 page_207.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_207.png)
+**Source Image:** [📄 page_207.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_207.png)
 
 ---
 
 ## Source Document
 
-![California Wiping Mat Co. $ 8.29](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_207.png)
+![California Wiping Mat Co. $ 8.29](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_207.png)
 
 ---
 

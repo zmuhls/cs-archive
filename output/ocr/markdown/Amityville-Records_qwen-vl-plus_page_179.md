@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:14:41.918363
 
-**Source Image:** [📄 page_179.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_179.png)
+**Source Image:** [📄 page_179.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_179.png)
 
 ---
 
 ## Source Document
 
-![Mr. Case moved and Mrs. Hartman seconded the motion that contract be awarded to ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_179.png)
+![Mr. Case moved and Mrs. Hartman seconded the motion that contract be awarded to ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_179.png)
 
 ---
 

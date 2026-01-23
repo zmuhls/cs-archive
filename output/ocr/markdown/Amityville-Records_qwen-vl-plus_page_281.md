@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:34:23.864963
 
-**Source Image:** [📄 page_281.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_281.png)
+**Source Image:** [📄 page_281.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_281.png)
 
 ---
 
 ## Source Document
 
-![Mrs. Hartman submitted Cafeteria report for the month of February. Mrs. Hartman ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_281.png)
+![Mrs. Hartman submitted Cafeteria report for the month of February. Mrs. Hartman ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_281.png)
 
 ---
 

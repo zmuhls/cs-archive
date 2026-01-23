@@ -1,27 +1,31 @@
-# County County
+# | No. of district | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | 
 
-**Table Type:** Central Rural Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 75)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_75.jpg
 
-**Processed:** 2026-01-01T22:40:10.239163
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_75.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_75.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:44:16.294401
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_75.jpg](../tables/images/District-Consolidation-Data_100-116_page_75.jpg)
 
 ---
 
 ## Source Document
 
-![County County - Central Rural Schools - Page 75](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_75.jpg)
+![| No. of district | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | ](../tables/images/District-Consolidation-Data_100-116_page_75.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 3 | Litchfield |  | Effective October 1, 1945 |  | CRS |
-| 2 | Paris - outside Co |  |  |  | 2 Paris - outside Co |
-| 7 | German Flatts and Frankfort | May 3, 1946 | Effective August 1, 1946 | 8.75 | 1 German Flatts |
+| No. of district | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT |  |  | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT |  |  | No. of School | REMARKS |
+|-----------------|--------------|--------------------------------------------|----|----|----------------------------------------------------|----|----|----------------|---------|
+|                 |              | Day                                        | Month | Year | Day                                                | Month | Year |                |         |
+| 3               | Litchfield | 2 Vari - oneida Co. | Effective | October 1, 1945 | Effective | August 1, 1946 | CR8 | 2 Vari - oneida Co. | 8.75 / german flotte V |
+|                 |              | Germany flotte and Co. May 2, 1946 |           |           |           |           |           |           |           |

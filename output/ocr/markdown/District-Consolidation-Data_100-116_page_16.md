@@ -1,27 +1,49 @@
 # Chautauqua County
 
-**Table Type:** Town School Units
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 16)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_16.jpg
 
-**Processed:** 2026-01-01T22:13:57.661760
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_16.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_16.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:31:02.637282
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_16.jpg](../tables/images/District-Consolidation-Data_100-116_page_16.jpg)
 
 ---
 
 ## Source Document
 
-![Chautauqua County - Town School Units - Page 16](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_16.jpg)
+![Chautauqua County](../tables/images/District-Consolidation-Data_100-116_page_16.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Stockton | U.F.S. 3 and 1,2,5,6 and 9 Stockton |  |  |  |
-| 2 | Stockton | U.F.S. 7 and 4,8 & 10 Stockton |  |  |  |
-| 14 | Hanover | affidavit on file |  | 5 |  |
+```
+Chautauqua County
+Page 37
+
+Town School Units
+
+| No. of Unit | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS |
+|-------------|--------------|---------------------------------------------|--------------------------------------------------|---------|
+|             |              | Day | Month | Year | Dep. | Month | Year |        |
+| Unit        |              |     |       |      |      |       |      |        |
+| 1           | Stockton     |     |       |      |      |       |      |        |
+|             |              | U.F.S. 3 and 1,2,5,6 and 9 Stockton |                                    |        |
+| 2           | Stockton     |     |       |      |      |       |      |        |
+|             |              | U.F.S. 7 and 4,8,9,10 Stockton |                                    |        |
+| 14          | Hannover     |     |       |      |      |       |      | 5      |
+|             |              | Affidavit Fileder |                                    |        |
+```
+
+**Notes:**
+- The table headers are preserved as per the original document.
+- Handwritten entries are transcribed exactly as they appear.
+- Blank fields are indicated with `[blank]` where no information is present.
+- The layout maintains the alignment and structure of the original form.

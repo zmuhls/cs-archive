@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T00:13:49.426593
 
-**Source Image:** [📄 page_10.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_10.png)
+**Source Image:** [📄 page_10.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_10.png)
 
 ---
 
 ## Source Document
 
-![Deaser Union School (Albany co.)](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_10.png)
+![Deaser Union School (Albany co.)](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_10.png)
 
 ---
 

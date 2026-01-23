@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:46:08.293598
 
-**Source Image:** [📄 page_28.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_28.png)
+**Source Image:** [📄 page_28.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_28.png)
 
 ---
 
 ## Source Document
 
-![Alex. Taylor & Co., Inc.                      $ 43.97](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_28.png)
+![Alex. Taylor & Co., Inc.                      $ 43.97](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_28.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:54:34.753577
 
-**Source Image:** [📄 page_393.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_393.png)
+**Source Image:** [📄 page_393.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_393.png)
 
 ---
 
 ## Source Document
 
-![The question of the adoption of the foregoing resolution was duly put](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_393.png)
+![The question of the adoption of the foregoing resolution was duly put](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_393.png)
 
 ---
 

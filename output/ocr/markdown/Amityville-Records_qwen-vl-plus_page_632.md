@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:45:17.194123
 
-**Source Image:** [📄 page_632.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_632.png)
+**Source Image:** [📄 page_632.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_632.png)
 
 ---
 
 ## Source Document
 
-![The following bills were presented by the Condemnation Committee and duly approv](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_632.png)
+![The following bills were presented by the Condemnation Committee and duly approv](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_632.png)
 
 ---
 

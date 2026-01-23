@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T00:20:16.505642
 
-**Source Image:** [📄 page_43.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_43.png)
+**Source Image:** [📄 page_43.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_43.png)
 
 ---
 
 ## Source Document
 
-![Constableville Free School (Lewis Co.)](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_43.png)
+![Constableville Free School (Lewis Co.)](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_43.png)
 
 ---
 

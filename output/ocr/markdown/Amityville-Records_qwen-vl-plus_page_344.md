@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:45:17.959785
 
-**Source Image:** [📄 page_344.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_344.png)
+**Source Image:** [📄 page_344.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_344.png)
 
 ---
 
 ## Source Document
 
-![trowths of the blackboards each day and inspect and disinfect all toilets daily.](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_344.png)
+![trowths of the blackboards each day and inspect and disinfect all toilets daily.](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_344.png)
 
 ---
 

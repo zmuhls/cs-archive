@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:08:45.421118
 
-**Source Image:** [📄 page_474.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_474.png)
+**Source Image:** [📄 page_474.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_474.png)
 
 ---
 
 ## Source Document
 
-![The Treasurer recommended that Ten Thousand ($10,000.) Dollars be borrowed from ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_474.png)
+![The Treasurer recommended that Ten Thousand ($10,000.) Dollars be borrowed from ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_474.png)
 
 ---
 

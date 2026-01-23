@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:21:48.392114
 
-**Source Image:** [📄 page_547.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_547.png)
+**Source Image:** [📄 page_547.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_547.png)
 
 ---
 
 ## Source Document
 
-![Have drinking fountains repaired in the Grammar School.](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_547.png)
+![Have drinking fountains repaired in the Grammar School.](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_547.png)
 
 ---
 

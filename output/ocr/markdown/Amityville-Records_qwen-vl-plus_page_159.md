@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:10:57.982850
 
-**Source Image:** [📄 page_159.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_159.png)
+**Source Image:** [📄 page_159.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_159.png)
 
 ---
 
 ## Source Document
 
-![FURTHER BE IT RESOLVED, That the sympathy of the Board be expressed to the sorro](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_159.png)
+![FURTHER BE IT RESOLVED, That the sympathy of the Board be expressed to the sorro](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_159.png)
 
 ---
 

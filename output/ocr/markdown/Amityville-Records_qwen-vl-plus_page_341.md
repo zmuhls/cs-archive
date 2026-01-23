@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:44:50.105862
 
-**Source Image:** [📄 page_341.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_341.png)
+**Source Image:** [📄 page_341.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_341.png)
 
 ---
 
 ## Source Document
 
-![Mr. George Brown, Principal, submitted report showing a very large enrollment in](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_341.png)
+![Mr. George Brown, Principal, submitted report showing a very large enrollment in](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_341.png)
 
 ---
 

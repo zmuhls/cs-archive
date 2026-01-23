@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T00:19:42.607187
 
-**Source Image:** [📄 page_40.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_40.png)
+**Source Image:** [📄 page_40.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_40.png)
 
 ---
 
 ## Source Document
 
-![Clinton Heights Union Free School District](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_40.png)
+![Clinton Heights Union Free School District](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_40.png)
 
 ---
 

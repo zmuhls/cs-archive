@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T01:17:30.101944
 
-**Source Image:** [📄 page_21.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_21.png)
+**Source Image:** [📄 page_21.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_21.png)
 
 ---
 
 ## Source Document
 
-![Brewport Union School (Chemung Co)](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_21.png)
+![Brewport Union School (Chemung Co)](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_21.png)
 
 ---
 

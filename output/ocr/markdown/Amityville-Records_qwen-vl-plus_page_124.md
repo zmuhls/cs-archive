@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:04:32.607354
 
-**Source Image:** [📄 page_124.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_124.png)
+**Source Image:** [📄 page_124.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_124.png)
 
 ---
 
 ## Source Document
 
-![The Wood Lumber Company](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_124.png)
+![The Wood Lumber Company](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_124.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:43:49.712935
 
-**Source Image:** [📄 page_626.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_626.png)
+**Source Image:** [📄 page_626.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_626.png)
 
 ---
 
 ## Source Document
 
-![Carl Fuchs                                      High School         $2,100.00](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_626.png)
+![Carl Fuchs                                      High School         $2,100.00](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_626.png)
 
 ---
 

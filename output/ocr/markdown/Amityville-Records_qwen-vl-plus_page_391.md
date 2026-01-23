@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:54:19.028554
 
-**Source Image:** [📄 page_391.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_391.png)
+**Source Image:** [📄 page_391.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_391.png)
 
 ---
 
 ## Source Document
 
-![Motion duly made, seconded and carried, that the action of](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_391.png)
+![Motion duly made, seconded and carried, that the action of](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_391.png)
 
 ---
 

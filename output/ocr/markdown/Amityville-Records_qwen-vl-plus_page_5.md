@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:41:30.462698
 
-**Source Image:** [📄 page_5.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_5.png)
+**Source Image:** [📄 page_5.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_5.png)
 
 ---
 
 ## Source Document
 
-![The President directed the Teachers Committee to make](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_5.png)
+![The President directed the Teachers Committee to make](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_5.png)
 
 ---
 

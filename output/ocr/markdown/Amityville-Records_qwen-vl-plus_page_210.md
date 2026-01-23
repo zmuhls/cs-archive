@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:20:26.361198
 
-**Source Image:** [📄 page_210.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_210.png)
+**Source Image:** [📄 page_210.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_210.png)
 
 ---
 
 ## Source Document
 
-![IT IS FURTHER RESOLVED, that the sum of $104,307.00 being the total amount of th](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_210.png)
+![IT IS FURTHER RESOLVED, that the sum of $104,307.00 being the total amount of th](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_210.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:48:36.109756
 
-**Source Image:** [📄 page_42.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_42.png)
+**Source Image:** [📄 page_42.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_42.png)
 
 ---
 
 ## Source Document
 
-![The Teachers Committee reported no unexcusable](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_42.png)
+![The Teachers Committee reported no unexcusable](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_42.png)
 
 ---
 

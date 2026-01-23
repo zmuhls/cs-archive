@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:45:28.543130
 
-**Source Image:** [📄 page_633.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_633.png)
+**Source Image:** [📄 page_633.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_633.png)
 
 ---
 
 ## Source Document
 
-![The Outlook Company                      $ 5.00](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_633.png)
+![The Outlook Company                      $ 5.00](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_633.png)
 
 ---
 

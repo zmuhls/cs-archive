@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:53:12.400612
 
-**Source Image:** [📄 page_65.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_65.png)
+**Source Image:** [📄 page_65.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_65.png)
 
 ---
 
 ## Source Document
 
-![Moved, seconded and carried, that the by-laws in effect the previous school year](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_65.png)
+![Moved, seconded and carried, that the by-laws in effect the previous school year](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_65.png)
 
 ---
 

@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:47:15.595545
 
-**Source Image:** [📄 page_35.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_35.png)
+**Source Image:** [📄 page_35.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_35.png)
 
 ---
 
 ## Source Document
 
-![Helmer Peterson        $1900.00](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_35.png)
+![Helmer Peterson        $1900.00](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_35.png)
 
 ---
 

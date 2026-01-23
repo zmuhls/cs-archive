@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:43:24.398466
 
-**Source Image:** [📄 page_14.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_14.png)
+**Source Image:** [📄 page_14.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_14.png)
 
 ---
 
 ## Source Document
 
-![McLellan's Stores Company        $ 6.24](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_14.png)
+![McLellan's Stores Company        $ 6.24](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_14.png)
 
 ---
 

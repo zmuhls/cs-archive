@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:24:09.043029
 
-**Source Image:** [📄 page_559.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_559.png)
+**Source Image:** [📄 page_559.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_559.png)
 
 ---
 
 ## Source Document
 
-![The Clerk reported that work on the cemetery "petition" was complete and that ac](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_559.png)
+![The Clerk reported that work on the cemetery "petition" was complete and that ac](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_559.png)
 
 ---
 

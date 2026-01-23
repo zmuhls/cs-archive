@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:39:48.335503
 
-**Source Image:** [📄 page_616.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_616.png)
+**Source Image:** [📄 page_616.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_616.png)
 
 ---
 
 ## Source Document
 
-![The Teachers Committee reported that Miss Fort would not be able to return [ille](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_616.png)
+![The Teachers Committee reported that Miss Fort would not be able to return [ille](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_616.png)
 
 ---
 

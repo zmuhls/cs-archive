@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:50:01.529856
 
-**Source Image:** [📄 page_367.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_367.png)
+**Source Image:** [📄 page_367.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_367.png)
 
 ---
 
 ## Source Document
 
-![On motion of Dr. Van Dyck, seconded and carried, it was resolved that after a ca](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_367.png)
+![On motion of Dr. Van Dyck, seconded and carried, it was resolved that after a ca](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_367.png)
 
 ---
 

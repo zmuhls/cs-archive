@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:58:08.365034
 
-**Source Image:** [📄 page_92.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_92.png)
+**Source Image:** [📄 page_92.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_92.png)
 
 ---
 
 ## Source Document
 
-![Bacon & Vincent Co., Inc.                      $ 10.94](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_92.png)
+![Bacon & Vincent Co., Inc.                      $ 10.94](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_92.png)
 
 ---
 

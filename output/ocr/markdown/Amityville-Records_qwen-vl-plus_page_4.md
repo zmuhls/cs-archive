@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T21:41:20.156172
 
-**Source Image:** [📄 page_4.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_4.png)
+**Source Image:** [📄 page_4.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_4.png)
 
 ---
 
 ## Source Document
 
-![The Clerk read applications of Robert Erwood, Floyd Uhall and Elliott Paul Watso](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_4.png)
+![The Clerk read applications of Robert Erwood, Floyd Uhall and Elliott Paul Watso](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_4.png)
 
 ---
 

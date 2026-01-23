@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:38:47.241502
 
-**Source Image:** [📄 page_611.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_611.png)
+**Source Image:** [📄 page_611.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_611.png)
 
 ---
 
 ## Source Document
 
-![The Purchasing Committee recommended that the followin equipment be purchased:](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_611.png)
+![The Purchasing Committee recommended that the followin equipment be purchased:](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_611.png)
 
 ---
 

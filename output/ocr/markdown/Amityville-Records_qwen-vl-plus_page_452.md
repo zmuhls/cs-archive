@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:05:05.755868
 
-**Source Image:** [📄 page_452.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_452.png)
+**Source Image:** [📄 page_452.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_452.png)
 
 ---
 
 ## Source Document
 
-![Motion made, only seconded and carried, that a letter of thanks be sent to Mr. E](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_452.png)
+![Motion made, only seconded and carried, that a letter of thanks be sent to Mr. E](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_452.png)
 
 ---
 

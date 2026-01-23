@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T01:22:30.773941
 
-**Source Image:** [📄 page_49.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_49.png)
+**Source Image:** [📄 page_49.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_49.png)
 
 ---
 
 ## Source Document
 
-![Dickinson Union School](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_49.png)
+![Dickinson Union School](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_49.png)
 
 ---
 

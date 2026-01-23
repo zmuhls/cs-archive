@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:11:51.793976
 
-**Source Image:** [📄 page_163.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_163.png)
+**Source Image:** [📄 page_163.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_163.png)
 
 ---
 
 ## Source Document
 
-![Received from the John H. French Company the guarantee bonds issued by the Barre](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_163.png)
+![Received from the John H. French Company the guarantee bonds issued by the Barre](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_163.png)
 
 ---
 

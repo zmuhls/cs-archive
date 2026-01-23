@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T23:23:23.237747
 
-**Source Image:** [📄 page_556.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_556.png)
+**Source Image:** [📄 page_556.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_556.png)
 
 ---
 
 ## Source Document
 
-![Mr. Ruff recommended that a lot for the manual training department be purchased ](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_556.png)
+![Mr. Ruff recommended that a lot for the manual training department be purchased ](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_556.png)
 
 ---
 

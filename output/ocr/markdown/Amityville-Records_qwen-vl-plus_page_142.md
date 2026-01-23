@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:07:30.646926
 
-**Source Image:** [📄 page_142.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_142.png)
+**Source Image:** [📄 page_142.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_142.png)
 
 ---
 
 ## Source Document
 
-![of the Board of Education to be held on Monday, Sept. 12th,](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_142.png)
+![of the Board of Education to be held on Monday, Sept. 12th,](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_142.png)
 
 ---
 

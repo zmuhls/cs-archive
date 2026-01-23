@@ -1,87 +1,73 @@
-# Cattaraugus County
+# Below is the transcription of the tabular data from the document, preserving the
 
-**Table Type:** Central Rural Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 9)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_9.jpg
 
-**Processed:** 2026-01-01T22:11:15.557057
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_9.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_9.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:29:35.761417
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_9.jpg](../tables/images/District-Consolidation-Data_100-116_page_9.jpg)
 
 ---
 
 ## Source Document
 
-![Cattaraugus County - Central Rural Schools - Page 9](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_9.jpg)
+![Below is the transcription of the tabular data from the document, preserving the](../tables/images/District-Consolidation-Data_100-116_page_9.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 5 | Red House | 16 March 1936 | 16 June 1936 | 1 | Red House |
-| 1 | Red House |  |  |  |  |
-| 3 | Leon | 20 March 1937 | 1 July 1937 | 3 | Leon |
-| 8 | Leon |  |  |  |  |
-| 3 | Great Valley, Ellenville | 19 July 1937 | 20 Oct. 1937 | 3 | Great Valley |
-| 2 | Great Valley |  |  |  |  |
-| 3 | South Valley | 30 March 1938 | 1 July 1938 | 2 | South Valley |
-| 1 | Hinsdale | 11 Feb. 1938 | 1 July 1938 | 1 | Hinsdale |
-| 4 | Jachua | 1 June 1938 | 1 Sept 1938 | 1 | Hinsdale |
-| 1 | Hinsdale |  |  |  |  |
-| 1 | Farnerville | 9 Aug. 1938 | 14 Nov. 1938 | 1 | Rushford (Allegany Co) |
-| 1 | Rushford (Allegany) |  |  |  |  |
-| 5 | Leon | 10 April 1939 | 15 July 1939 | 5 | Leon |
-| 2 | Leon & New Lebanon | 10 April 1939 | 15 July 1939 | 5 | Leon |
-| 1 | Leon | 10 April 1939 | 15 July 1939 | 5 | Leon |
-| 1 | Farnerville | 24 July 1940 | 6 Nov. 1940 | 1 | Rushford (Allegany Co) |
-| 1 | Rushford |  |  |  |  |
-| 7 | Yorkshire | Laid out 6 June 1941 | June 27, 1950 | 1 | Yorkshire, Freedom, and 3 and 11 in Catt. Co. and Arcade, Wyoming Co. |
-| 1,2,3,5,6,9 | Yorkshire | Meeting held 26 June 1941 |  |  |  |
-| 4 | Yorkshire, Arcade, Freedom | Designation of dist. 30 June 1941 |  |  |  |
-| 12 | Freedom |  |  |  |  |
-| 11 | Farnerville & Freedom |  |  |  |  |
-| 12 | Farnerville |  |  |  |  |
-| 1 | Rushford | 24 March 1941 | 1 July 1941 | 1 | Rushford (Allegany Co) |
-| 3 | Napoli & Cold Spring | 22 April 1941 | 28 July 1941 | 2 | Napoli |
-| 2 | Napoli |  |  |  |  |
-| 8 | Randolph | 29 June 1942 | 1 Oct. 1942 | 1 | Randolph |
-| 1 | Randolph |  |  |  |  |
-| 6 | Conewango | 6 March 1942 | 1 July 1942 | 1 | Randolph |
-| 1 | Randolph |  |  |  |  |
-| 4 | Great Valley | 12 June 1942 | 12 Sept 1942 | 1 | Great Valley |
-| 1 | Great Valley |  |  |  |  |
-| 1,2,3,5,7,9,10,12 | Franklinville | Laid out & designated 2 May 1944 | Meeting held 6 June 1944 | 1 | Franklinville, Farnerville, Byndar, Humphrey, Jachua, Machias |
-| 4 | Franklinville & Humphrey |  |  |  |  |
-| 6 | Byndar |  |  |  |  |
-| 8 | Jachua & Byndar |  |  |  |  |
-| 11 | Machias |  |  |  |  |
-| 10 | Byndar |  |  |  |  |
-| 2 | Jachua |  |  |  |  |
-| 4 | Farnerville |  |  |  |  |
-| 7 | Franklinville |  |  |  |  |
-| 2,3,8,9 | Farnerville |  |  |  |  |
-| 7 | Machias |  |  |  |  |
-| 4 | Humphrey & Jachua |  |  |  |  |
-| 7 | Franklinville |  |  |  |  |
-| 1 | Jachua |  |  |  |  |
-| 3 | Jachua | Effective July 16, 1945 | Laid out & designated June 13, 1945 | 1 | Hinsdale |
-| 1 | Hinsdale | Meeting held June 27, 1945 |  |  |  |
-| 5 | Pottville |  |  |  |  |
-| 1,3,4,6,10 | Pottville |  |  |  |  |
-| 7 | Pottville & Geneseo (Allegany) |  |  |  |  |
-| 7 |  |  |  |  |  |
-| 8 | Olean |  |  |  |  |
-| 9 | Clarksville (Allegany) |  |  |  |  |
-| 4,5 | Geneseo |  |  |  |  |
-| 5 | Clarksville & Geneseo |  |  |  |  |
-| 7 |  |  |  |  |  |
-| 5 | Olean |  |  |  |  |
-| 3 | Little Valley | Laid out May 11, 1946 | Meeting held June 6, 1946 | 1 | Little Valley |
-| 1,3,5,6 | Little Valley |  |  |  |  |
-| 4,6,7 | Moorfield |  |  |  |  |
-| 5,6,7 | New Albion |  |  |  |  |
-|  | Rafaeli |  |  |  |  |
+Below is the transcription of the tabular data from the document, preserving the structure and formatting as requested:
+
+```
+26
+Cattaragus
+County (continued)
+
+| No. of dist. | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | No. of new dist. |
+|--------------|--------------|--------------------------------------------|--------------------------------------------------|------------------|
+|              |              | Day Month Year                             | Day Month Year                                   |                  |
+| 5            | Red House    | 16 March 1936 to take effect 16 June 1936  |                                                  | 1 Red House      |
+| 3            | Red House    | 20 March 1937 to take effect 1 July 1937   |                                                  | 3 Red House      |
+| 3            | Leon         | 19 July 1937 to take effect 20 Oct. 1937   |                                                  | 3 Leon           |
+| 2            | Great Valley | 30 March 1938 to take effect 1 July 1938   |                                                  | 2 Great Valley   |
+| 8            | Smith Valley | 11 Sept. 1938 to take effect 1 July 1938   |                                                  | 2 Smith Valley   |
+| 1            | Windale      | 1 June 1938                                | 1 Sept. 1938                                     | 1 Windale        |
+| 1            | Hinendale    | 9 Aug. 1938                                | 14 Nov. 1938                                     | 1 Hinendale      |
+| 1            | Tamperville  | 10 April 1939                              | 15 July 1939                                     | 5 Tamperville    |
+| 1            | Rushford (Allegany) | 10 April 1939 to take effect 15 July 1939 | 15 July 1939                                     | 5 Rushford (Allegany) |
+| 1            | Leon         | 10 April 1939                              | 15 July 1939                                     | 5 Leon           |
+| 1            | Farmerville  | 24 July 1940                               | 1 Nov. 1940                                      | 1 Farmerville    |
+| CRS U.S. dist. | Yorkahine    | Land out 16th June 1941                    | Meeting held 25th June 1941                      | CRS Yorkahine    |
+| CRS U.S. dist. | Freedom      | Designation of dist. 1 June 1941            |                                                  | CRS Freedom      |
+| 1            | Frankville   | 24 March 1941 to take effect 1 July 1941   | 23 July 1941                                     | 1 Frankville     |
+| 2            | Napoli       | 23 April 1941                              | 23 July 1941                                     | 2 Napoli         |
+| 1            | Randolph     | 29 June 1942                               | 1 Oct. 1942                                      | 1 Randolph       |
+| 1            | Great Valley | 16 March 1942                              | 1 July 1942                                      | 1 Great Valley   |
+| 1            | Great Valley | 13 June 1942                               | 12 Sept. 1942                                    | 1 Great Valley   |
+| 1,2,3,5,7,9,10,12 Frankville | Hunting | Laid out + designated 2 May 1944 | Meeting held 6 June 1944 | CRS Frankville |
+| 10           | Cyden       |                                            |                                                  | CRS Cyden        |
+| 10           | Guilder     |                                            |                                                  | CRS Guilder      |
+| 2,3,8,9,7 Frankville | Humphrey |                                            |                                                  | CRS Humphrey     |
+| 1            | Jackman     |                                            |                                                  | CRS Jackman      |
+| 3            | Windale     |                                            | Effective July 16, 1945                        | CRS Windale      |
+| 1            | Portville   | Laid out + designated June 10, 1945        | Meeting held June 27, 1945                       | CRS Portville    |
+| 1,6,10,12 Pottille + Guilder (Allegany) | + Leon |                                            |                                                  | CRS Pottille + Guilder (Allegany) + Leon |
+| 5            | Great Valley|                                            | Laid out May 11, 1946                          | CRS Great Valley |
+| 3            | Little Valley| Meeting held June 6, 1946                  |                                                  | CRS Little Valley |
+```
+
+### Notes:
+- **Pre-printed vs. Filled-in Text**: Pre-printed text includes headers like "No. of dist.", "NAME OF TOWN", etc. Filled-in text is handwritten and includes dates, names, and other details.
+- **Blank Fields**: Fields without handwritten entries are left blank.
+- **Alignment**: The table is aligned according to the original document, with each column corresponding to the appropriate header.
+- **Special Entries**: Entries like "CRS U.S. dist." and "Laid out + designated" are noted as they appear in the document.
+
+This transcription maintains the structure and content of the original document as closely as possible.

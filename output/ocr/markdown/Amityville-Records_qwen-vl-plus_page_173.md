@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:13:37.634680
 
-**Source Image:** [📄 page_173.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_173.png)
+**Source Image:** [📄 page_173.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_173.png)
 
 ---
 
 ## Source Document
 
-![The Teachers Committee recommended that the following teachers be offered contra](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_173.png)
+![The Teachers Committee recommended that the following teachers be offered contra](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_173.png)
 
 ---
 

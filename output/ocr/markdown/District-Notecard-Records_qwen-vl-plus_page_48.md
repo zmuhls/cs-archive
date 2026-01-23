@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-18T00:21:18.762345
 
-**Source Image:** [📄 page_48.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_48.png)
+**Source Image:** [📄 page_48.png](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_48.png)
 
 ---
 
 ## Source Document
 
-![Beansboro Union School (Oneida County)](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_48.png)
+![Beansboro Union School (Oneida County)](../../../tinker-cookbook/data/nys_archives/images/District-Notecard-Records/page_48.png)
 
 ---
 

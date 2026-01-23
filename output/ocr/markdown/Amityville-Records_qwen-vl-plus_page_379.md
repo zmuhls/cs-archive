@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:52:09.443287
 
-**Source Image:** [📄 page_379.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_379.png)
+**Source Image:** [📄 page_379.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_379.png)
 
 ---
 
 ## Source Document
 
-![The question of running a summer school was brought before the Board and after a](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_379.png)
+![The question of running a summer school was brought before the Board and after a](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_379.png)
 
 ---
 

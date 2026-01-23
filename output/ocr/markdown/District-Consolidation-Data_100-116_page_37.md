@@ -1,26 +1,34 @@
-# Cortland County
+# Cartland County
 
-**Table Type:** Union Free Schools
+**Document Type:** Document
 
-**Source:** District-Consolidation-Data_100-116.pdf (Page 37)
+**Collection:** CS Archive
 
-**Extraction Method:** full
+**Source:** District-Consolidation-Data_100-116_page_37.jpg
 
-**Processed:** 2026-01-01T22:25:25.607925
+**Model:** qwen/qwen-vl-plus
 
-**Source Image:** [📄 District-Consolidation-Data_100-116_page_37.jpg](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_37.jpg)
+**Confidence:** 1.0
+
+**Processed:** 2025-12-19T01:36:06.970801
+
+**Source Image:** [📄 District-Consolidation-Data_100-116_page_37.jpg](../tables/images/District-Consolidation-Data_100-116_page_37.jpg)
 
 ---
 
 ## Source Document
 
-![Cortland County - Union Free Schools - Page 37](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/thumbs/District-Consolidation-Data_100-116_page_37.jpg)
+![Cartland County](../tables/images/District-Consolidation-Data_100-116_page_37.jpg)
 
 ---
 
-## Extracted Table
+## Transcription
 
-| n | town | date_org | date_appr | n_new | rmk |
-| --- | --- | --- | --- | --- | --- |
-| 1 | Homer | 25 July 1873 |  | 9 |  |
-| 2 | Scott | 4 January 1916 | 11 February 1916 | 5 |  |
+Cartland County
+Union Free Schools
+
+| No. of District | NAME OF TOWN | DATE OF SCHOOL MEETING ORGANIZING DISTRICT |  |  | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT |  |  | No. of Board of Education Members | REMARKS |
+|-----------------|--------------|---------------------------------------------|----|----|---------------------------------------------------|----|----|-----------------------------|---------|
+|                 |              | Day                                         | Month | Year | Day                                               | Month | Year |                             |         |
+| 1               | Homer        | 25                                          | July | 1873 | 11                                                | February | 1916 | 9                           |         |
+| 2               | Scott        | 4                                           | January | 1916 | 11                                                | February | 1916 | 5                           |         |

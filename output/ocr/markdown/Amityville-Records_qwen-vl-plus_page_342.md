@@ -12,13 +12,13 @@
 
 **Processed:** 2026-01-17T22:44:56.859364
 
-**Source Image:** [📄 page_342.png](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_342.png)
+**Source Image:** [📄 page_342.png](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_342.png)
 
 ---
 
 ## Source Document
 
-![Holbrook Brothers, Inc.     Text Books     $31.40](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_342.png)
+![Holbrook Brothers, Inc.     Text Books     $31.40](../../../tinker-cookbook/data/nys_archives/images/Amityville-Records/page_342.png)
 
 ---
 
