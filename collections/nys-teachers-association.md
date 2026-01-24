@@ -42,272 +42,272 @@ This collection gathers materials across the archive that explicitly reference t
 
 ### 1840s
 
-- [1845?](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0625.jpeg)
-  [![IMG_0625](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0625.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0625.jpeg)
+- [1845?]({{ '/artifacts/S0033_06/' | relative_url }})
+  [![IMG_0625](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0625.jpeg)]({{ '/artifacts/S0033_06/' | relative_url }})
 
 ### 1850s
 
-- [1855](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3337.jpeg)
-  [![IMG_3337](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3337.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3337.jpeg)
+- [1855]({{ '/artifacts/S0014_005/' | relative_url }})
+  [![IMG_3337](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3337.jpeg)]({{ '/artifacts/S0014_005/' | relative_url }})
 
 ### 1880s
 
-- [1881 — Saratoga, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0694.jpeg)
-  [![IMG_0694](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0694.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0694.jpeg)
+- [1881 — Saratoga, New York]({{ '/artifacts/CG0004/' | relative_url }})
+  [![IMG_0694](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0694.jpeg)]({{ '/artifacts/CG0004/' | relative_url }})
 
-- [1882 — Yonkers, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0707.jpeg)
-  [![IMG_0707](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0707.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0707.jpeg)
+- [1882 — Yonkers, New York]({{ '/artifacts/CG0004/' | relative_url }})
+  [![IMG_0707](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0707.jpeg)]({{ '/artifacts/CG0004/' | relative_url }})
 
-- [1884? — Baldwin Street, Elmira, N.Y.](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0727.jpeg)
-  [![IMG_0727](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0727.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0727.jpeg)
+- [1884? — Baldwin Street, Elmira, N.Y.]({{ '/artifacts/S0046-19/' | relative_url }})
+  [![IMG_0727](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0727.jpeg)]({{ '/artifacts/S0046-19/' | relative_url }})
 
-- [1885?](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0728.jpeg)
-  [![IMG_0728](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0728.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0728.jpeg)
+- [1885?]({{ '/artifacts/S0047/' | relative_url }})
+  [![IMG_0728](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0728.jpeg)]({{ '/artifacts/S0047/' | relative_url }})
 
-- [1887? — Elizabethtown](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0729.jpeg)
-  [![IMG_0729](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0729.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0729.jpeg)
+- [1887? — Elizabethtown]({{ '/artifacts/S0047-002/' | relative_url }})
+  [![IMG_0729](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0729.jpeg)]({{ '/artifacts/S0047-002/' | relative_url }})
 
-- [1887 — Elizabethtown, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0730.jpeg)
-  [![IMG_0730](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0730.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0730.jpeg)
+- [1887 — Elizabethtown, New York]({{ '/artifacts/S0048/' | relative_url }})
+  [![IMG_0730](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0730.jpeg)]({{ '/artifacts/S0048/' | relative_url }})
 
-- [1888? — Watkins, 1888](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0739.jpeg)
-  [![IMG_0739](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0739.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0739.jpeg)
+- [1888? — Watkins, 1888]({{ '/artifacts/S0048-10/' | relative_url }})
+  [![IMG_0739](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0739.jpeg)]({{ '/artifacts/S0048-10/' | relative_url }})
 
-- [1889? — Brooklyn, 1889](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0740.jpeg)
-  [![IMG_0740](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0740.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0740.jpeg)
+- [1889? — Brooklyn, 1889]({{ '/artifacts/S0048-011/' | relative_url }})
+  [![IMG_0740](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0740.jpeg)]({{ '/artifacts/S0048-011/' | relative_url }})
 
-- [1889? — Brooklyn, N.Y.](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3344.jpeg)
-  [![IMG_3344](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3344.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3344.jpeg)
+- [1889? — Brooklyn, N.Y.]({{ '/artifacts/CG0008/' | relative_url }})
+  [![IMG_3344](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3344.jpeg)]({{ '/artifacts/CG0008/' | relative_url }})
 
-- [1889? — Brooklyn, N.Y.](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3345.jpeg)
-  [![IMG_3345](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3345.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3345.jpeg)
+- [1889? — Brooklyn, N.Y.]({{ '/artifacts/CG0008/' | relative_url }})
+  [![IMG_3345](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3345.jpeg)]({{ '/artifacts/CG0008/' | relative_url }})
 
 ### 1890s
 
-- [1890?](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0689.jpeg)
-  [![IMG_0689](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0689.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0689.jpeg)
+- [1890?]({{ '/artifacts/S0045_13/' | relative_url }})
+  [![IMG_0689](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0689.jpeg)]({{ '/artifacts/S0045_13/' | relative_url }})
 
-- [1890? — Saratoga Springs, NY](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0741.jpeg)
-  [![IMG_0741](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0741.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0741.jpeg)
+- [1890? — Saratoga Springs, NY]({{ '/artifacts/S0049/' | relative_url }})
+  [![IMG_0741](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0741.jpeg)]({{ '/artifacts/S0049/' | relative_url }})
 
-- [1891 — Saratoga Springs, N.Y.](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0774.jpeg)
-  [![IMG_0774](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0774.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0774.jpeg)
+- [1891 — Saratoga Springs, N.Y.]({{ '/artifacts/S0051/' | relative_url }})
+  [![IMG_0774](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0774.jpeg)]({{ '/artifacts/S0051/' | relative_url }})
 
-- [1892](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3358.jpeg)
-  [![IMG_3358](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3358.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3358.jpeg)
+- [1892]({{ '/artifacts/s0020-002/' | relative_url }})
+  [![IMG_3358](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3358.jpeg)]({{ '/artifacts/s0020-002/' | relative_url }})
 
-- [1894 — Saratoga Springs, N.Y.](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0776.jpeg)
-  [![IMG_0776](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0776.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0776.jpeg)
+- [1894 — Saratoga Springs, N.Y.]({{ '/artifacts/S0052/' | relative_url }})
+  [![IMG_0776](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0776.jpeg)]({{ '/artifacts/S0052/' | relative_url }})
 
-- [1894? — Saratoga Springs, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3357.jpeg)
-  [![IMG_3357](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3357.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3357.jpeg)
+- [1894? — Saratoga Springs, New York]({{ '/artifacts/S0020/' | relative_url }})
+  [![IMG_3357](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3357.jpeg)]({{ '/artifacts/S0020/' | relative_url }})
 
-- [1894?](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3359.jpeg)
-  [![IMG_3359](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3359.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3359.jpeg)
+- [1894?]({{ '/artifacts/S0020/' | relative_url }})
+  [![IMG_3359](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3359.jpeg)]({{ '/artifacts/S0020/' | relative_url }})
 
-- [1895 — Syracuse, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0792.jpeg)
-  [![IMG_0792](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0792.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0792.jpeg)
+- [1895 — Syracuse, New York]({{ '/artifacts/S0054/' | relative_url }})
+  [![IMG_0792](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0792.jpeg)]({{ '/artifacts/S0054/' | relative_url }})
 
-- [1895?](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0793.jpeg)
-  [![IMG_0793](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0793.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0793.jpeg)
+- [1895?]({{ '/artifacts/S0054-16/' | relative_url }})
+  [![IMG_0793](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0793.jpeg)]({{ '/artifacts/S0054-16/' | relative_url }})
 
-- [1896 — New York City](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3363.jpeg)
-  [![IMG_3363](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3363.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3363.jpeg)
+- [1896 — New York City]({{ '/artifacts/S0021-003/' | relative_url }})
+  [![IMG_3363](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3363.jpeg)]({{ '/artifacts/S0021-003/' | relative_url }})
 
-- [1897 — Rochester, N.Y. and New York City](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0795.jpeg)
-  [![IMG_0795](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0795.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0795.jpeg)
+- [1897 — Rochester, N.Y. and New York City]({{ '/artifacts/S0054-018/' | relative_url }})
+  [![IMG_0795](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0795.jpeg)]({{ '/artifacts/S0054-018/' | relative_url }})
 
-- [1897 — New York City, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3362.jpeg)
-  [![IMG_3362](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3362.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3362.jpeg)
+- [1897 — New York City, New York]({{ '/artifacts/S0021_002/' | relative_url }})
+  [![IMG_3362](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3362.jpeg)]({{ '/artifacts/S0021_002/' | relative_url }})
 
-- [1897 — New York City, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3374.jpeg)
-  [![IMG_3374](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3374.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3374.jpeg)
+- [1897 — New York City, New York]({{ '/artifacts/S0023/' | relative_url }})
+  [![IMG_3374](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3374.jpeg)]({{ '/artifacts/S0023/' | relative_url }})
 
-- [1897?](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3375.jpeg)
-  [![IMG_3375](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3375.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3375.jpeg)
+- [1897?]({{ '/artifacts/S0024_1/' | relative_url }})
+  [![IMG_3375](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3375.jpeg)]({{ '/artifacts/S0024_1/' | relative_url }})
 
-- [1897?](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3390.jpeg)
-  [![IMG_3390](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3390.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3390.jpeg)
+- [1897?]({{ '/artifacts/S0026-0012/' | relative_url }})
+  [![IMG_3390](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3390.jpeg)]({{ '/artifacts/S0026-0012/' | relative_url }})
 
-- [1897? — New York City](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3395.jpeg)
-  [![IMG_3395](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3395.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3395.jpeg)
+- [1897? — New York City]({{ '/artifacts/S0026-17/' | relative_url }})
+  [![IMG_3395](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3395.jpeg)]({{ '/artifacts/S0026-17/' | relative_url }})
 
-- [1898 — Rochester, N.Y.](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0809.jpeg)
-  [![IMG_0809](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0809.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0809.jpeg)
+- [1898 — Rochester, N.Y.]({{ '/artifacts/S0056/' | relative_url }})
+  [![IMG_0809](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0809.jpeg)]({{ '/artifacts/S0056/' | relative_url }})
 
 ### 1900s
 
-- [1900?](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0665.jpeg)
-  [![IMG_0665](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0665.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0665.jpeg)
+- [1900?]({{ '/artifacts/S0043-002/' | relative_url }})
+  [![IMG_0665](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0665.jpeg)]({{ '/artifacts/S0043-002/' | relative_url }})
 
-- [1900 — Thousand Islands, N.Y.](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0671.jpeg)
-  [![IMG_0671](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0671.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0671.jpeg)
+- [1900 — Thousand Islands, N.Y.]({{ '/artifacts/CG0002/' | relative_url }})
+  [![IMG_0671](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0671.jpeg)]({{ '/artifacts/CG0002/' | relative_url }})
 
-- [1900? — New York, N.Y.](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3386.jpeg)
-  [![IMG_3386](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3386.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3386.jpeg)
+- [1900? — New York, N.Y.]({{ '/artifacts/S0026/' | relative_url }})
+  [![IMG_3386](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3386.jpeg)]({{ '/artifacts/S0026/' | relative_url }})
 
-- [1901? — Buffalo, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0672.jpeg)
-  [![IMG_0672](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0672.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0672.jpeg)
+- [1901? — Buffalo, New York]({{ '/artifacts/S0043-016/' | relative_url }})
+  [![IMG_0672](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0672.jpeg)]({{ '/artifacts/S0043-016/' | relative_url }})
 
-- [1901 — Buffalo, N.Y.](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0673.jpeg)
-  [![IMG_0673](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0673.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0673.jpeg)
+- [1901 — Buffalo, N.Y.]({{ '/artifacts/CG0002/' | relative_url }})
+  [![IMG_0673](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0673.jpeg)]({{ '/artifacts/CG0002/' | relative_url }})
 
-- [1901? — Buffalo, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0674.jpeg)
-  [![IMG_0674](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0674.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0674.jpeg)
+- [1901? — Buffalo, New York]({{ '/artifacts/S0043-018/' | relative_url }})
+  [![IMG_0674](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0674.jpeg)]({{ '/artifacts/S0043-018/' | relative_url }})
 
-- [1901 — Buffalo, N.Y.](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0675.jpeg)
-  [![IMG_0675](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0675.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0675.jpeg)
+- [1901 — Buffalo, N.Y.]({{ '/artifacts/S0044/' | relative_url }})
+  [![IMG_0675](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0675.jpeg)]({{ '/artifacts/S0044/' | relative_url }})
 
-- [1901 — Buffalo, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0676.jpeg)
-  [![IMG_0676](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0676.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0676.jpeg)
+- [1901 — Buffalo, New York]({{ '/artifacts/S0044_3/' | relative_url }})
+  [![IMG_0676](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0676.jpeg)]({{ '/artifacts/S0044_3/' | relative_url }})
 
-- [1902? — Saratoga, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0677.jpeg)
-  [![IMG_0677](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0677.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0677.jpeg)
+- [1902? — Saratoga, New York]({{ '/artifacts/S0044_004/' | relative_url }})
+  [![IMG_0677](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0677.jpeg)]({{ '/artifacts/S0044_004/' | relative_url }})
 
-- [1905](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0683.jpeg)
-  [![IMG_0683](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0683.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0683.jpeg)
+- [1905]({{ '/artifacts/S0045_04/' | relative_url }})
+  [![IMG_0683](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0683.jpeg)]({{ '/artifacts/S0045_04/' | relative_url }})
 
-- [1905 — Syracuse, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0684.jpeg)
-  [![IMG_0684](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0684.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0684.jpeg)
+- [1905 — Syracuse, New York]({{ '/artifacts/S0045/' | relative_url }})
+  [![IMG_0684](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0684.jpeg)]({{ '/artifacts/S0045/' | relative_url }})
 
-- [1906 — Syracuse](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0692.jpeg)
-  [![IMG_0692](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0692.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0692.jpeg)
+- [1906 — Syracuse]({{ '/artifacts/S0045/' | relative_url }})
+  [![IMG_0692](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0692.jpeg)]({{ '/artifacts/S0045/' | relative_url }})
 
 ### 1910s
 
-- [1911? — New York, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3388.jpeg)
-  [![IMG_3388](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3388.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3388.jpeg)
+- [1911? — New York, New York]({{ '/artifacts/S0026/' | relative_url }})
+  [![IMG_3388](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3388.jpeg)]({{ '/artifacts/S0026/' | relative_url }})
 
-- [1911?](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3394.jpeg)
-  [![IMG_3394](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3394.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3394.jpeg)
+- [1911?]({{ '/artifacts/S0026/' | relative_url }})
+  [![IMG_3394](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3394.jpeg)]({{ '/artifacts/S0026/' | relative_url }})
 
 ### 1920s
 
-- [1922?](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3326.jpeg)
-  [![IMG_3326](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3326.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3326.jpeg)
+- [1922?]({{ '/artifacts/S0009_0001/' | relative_url }})
+  [![IMG_3326](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3326.jpeg)]({{ '/artifacts/S0009_0001/' | relative_url }})
 
-- [1923?](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0615.jpeg)
-  [![IMG_0615](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0615.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0615.jpeg)
+- [1923?]({{ '/artifacts/S0030-002/' | relative_url }})
+  [![IMG_0615](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0615.jpeg)]({{ '/artifacts/S0030-002/' | relative_url }})
 
-- [1925?](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0623.jpeg)
-  [![IMG_0623](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0623.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0623.jpeg)
+- [1925?]({{ '/artifacts/S0033-004/' | relative_url }})
+  [![IMG_0623](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0623.jpeg)]({{ '/artifacts/S0033-004/' | relative_url }})
 
-- [1926?](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0631.jpeg)
-  [![IMG_0631](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0631.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0631.jpeg)
+- [1926?]({{ '/artifacts/S0034-005/' | relative_url }})
+  [![IMG_0631](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0631.jpeg)]({{ '/artifacts/S0034-005/' | relative_url }})
 
-- [1927](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0635.jpeg)
-  [![IMG_0635](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0635.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0635.jpeg)
+- [1927]({{ '/artifacts/S0035-002/' | relative_url }})
+  [![IMG_0635](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0635.jpeg)]({{ '/artifacts/S0035-002/' | relative_url }})
 
-- [1927? — Utica (event), Albany (publisher)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0654.jpeg)
-  [![IMG_0654](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0654.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0654.jpeg)
+- [1927? — Utica (event), Albany (publisher)]({{ '/artifacts/AG005/' | relative_url }})
+  [![IMG_0654](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0654.jpeg)]({{ '/artifacts/AG005/' | relative_url }})
 
-- [1927? — New York State Teachers' Association history notes](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0655.jpeg)
-  [![IMG_0655](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0655.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0655.jpeg)
+- [1927? — New York State Teachers' Association history notes]({{ '/artifacts/AG006/' | relative_url }})
+  [![IMG_0655](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0655.jpeg)]({{ '/artifacts/AG006/' | relative_url }})
 
 ### 1940s
 
-- [1941](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0619.jpeg)
-  [![IMG_0619](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0619.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0619.jpeg)
+- [1941]({{ '/artifacts/S0031_001/' | relative_url }})
+  [![IMG_0619](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0619.jpeg)]({{ '/artifacts/S0031_001/' | relative_url }})
 
 ### 2000s
 
-- [2000 — New York City, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3397.jpeg)
-  [![IMG_3397](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3397.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3397.jpeg)
+- [2000 — New York City, New York]({{ '/artifacts/S0026-19/' | relative_url }})
+  [![IMG_3397](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3397.jpeg)]({{ '/artifacts/S0026-19/' | relative_url }})
 
 ### Undated
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0621.jpeg)
-  [![IMG_0621](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0621.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0621.jpeg)
+- [Undated]({{ '/artifacts/S0033_002/' | relative_url }})
+  [![IMG_0621](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0621.jpeg)]({{ '/artifacts/S0033_002/' | relative_url }})
 
-- [Undated — Rochester, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0627.jpeg)
-  [![IMG_0627](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0627.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0627.jpeg)
+- [Undated — Rochester, New York]({{ '/artifacts/S0034/' | relative_url }})
+  [![IMG_0627](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0627.jpeg)]({{ '/artifacts/S0034/' | relative_url }})
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0629.jpeg)
-  [![IMG_0629](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0629.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0629.jpeg)
+- [Undated]({{ '/artifacts/S0034_3/' | relative_url }})
+  [![IMG_0629](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0629.jpeg)]({{ '/artifacts/S0034_3/' | relative_url }})
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0633.jpeg)
-  [![IMG_0633](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0633.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0633.jpeg)
+- [Undated]({{ '/artifacts/S0034_07/' | relative_url }})
+  [![IMG_0633](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0633.jpeg)]({{ '/artifacts/S0034_07/' | relative_url }})
 
-- [Undated — NYS Teachers Association publications overview](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0638.jpeg)
-  [![IMG_0638](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0638.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0638.jpeg)
+- [Undated — NYS Teachers Association publications overview]({{ '/artifacts/AG004/' | relative_url }})
+  [![IMG_0638](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0638.jpeg)]({{ '/artifacts/AG004/' | relative_url }})
 
-- [Undated — NYS Teachers Association publications overview](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0640.jpeg)
-  [![IMG_0640](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0640.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0640.jpeg)
+- [Undated — NYS Teachers Association publications overview]({{ '/artifacts/AG004/' | relative_url }})
+  [![IMG_0640](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0640.jpeg)]({{ '/artifacts/AG004/' | relative_url }})
 
-- [Undated — NYS Teachers Association summary sheet](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0649.jpeg)
-  [![IMG_0649](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0649.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0649.jpeg)
+- [Undated — NYS Teachers Association summary sheet]({{ '/artifacts/AG004/' | relative_url }})
+  [![IMG_0649](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0649.jpeg)]({{ '/artifacts/AG004/' | relative_url }})
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0662.jpeg)
-  [![IMG_0662](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0662.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0662.jpeg)
+- [Undated]({{ '/artifacts/S0036-019/' | relative_url }})
+  [![IMG_0662](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0662.jpeg)]({{ '/artifacts/S0036-019/' | relative_url }})
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0663.jpeg)
-  [![IMG_0663](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0663.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0663.jpeg)
+- [Undated]({{ '/artifacts/S0042/' | relative_url }})
+  [![IMG_0663](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0663.jpeg)]({{ '/artifacts/S0042/' | relative_url }})
 
-- [Undated — Cliff Haven, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0680.jpeg)
-  [![IMG_0680](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0680.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0680.jpeg)
+- [Undated — Cliff Haven, New York]({{ '/artifacts/S0044-010/' | relative_url }})
+  [![IMG_0680](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0680.jpeg)]({{ '/artifacts/S0044-010/' | relative_url }})
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0681.jpeg)
-  [![IMG_0681](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0681.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0681.jpeg)
+- [Undated]({{ '/artifacts/S0044/' | relative_url }})
+  [![IMG_0681](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0681.jpeg)]({{ '/artifacts/S0044/' | relative_url }})
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0685.jpeg)
-  [![IMG_0685](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0685.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0685.jpeg)
+- [Undated]({{ '/artifacts/S0045/' | relative_url }})
+  [![IMG_0685](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0685.jpeg)]({{ '/artifacts/S0045/' | relative_url }})
 
-- [Undated — Fort William Henry Hotel, Fort Edward, N.Y.](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0726.jpeg)
-  [![IMG_0726](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0726.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0726.jpeg)
+- [Undated — Fort William Henry Hotel, Fort Edward, N.Y.]({{ '/artifacts/S0046-18/' | relative_url }})
+  [![IMG_0726](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0726.jpeg)]({{ '/artifacts/S0046-18/' | relative_url }})
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0771.jpeg)
-  [![IMG_0771](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0771.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0771.jpeg)
+- [Undated]({{ '/artifacts/S0050/' | relative_url }})
+  [![IMG_0771](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0771.jpeg)]({{ '/artifacts/S0050/' | relative_url }})
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0775.jpeg)
-  [![IMG_0775](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0775.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0775.jpeg)
+- [Undated]({{ '/artifacts/S0052/' | relative_url }})
+  [![IMG_0775](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0775.jpeg)]({{ '/artifacts/S0052/' | relative_url }})
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3338.jpeg)
-  [![IMG_3338](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3338.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3338.jpeg)
+- [Undated]({{ '/artifacts/S0015/' | relative_url }})
+  [![IMG_3338](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3338.jpeg)]({{ '/artifacts/S0015/' | relative_url }})
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3364.jpeg)
-  [![IMG_3364](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3364.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3364.jpeg)
+- [Undated]({{ '/artifacts/S0021/' | relative_url }})
+  [![IMG_3364](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3364.jpeg)]({{ '/artifacts/S0021/' | relative_url }})
 
-- [Undated — New York, N.Y.](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3376.jpeg)
-  [![IMG_3376](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3376.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3376.jpeg)
+- [Undated — New York, N.Y.]({{ '/artifacts/S0024/' | relative_url }})
+  [![IMG_3376](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3376.jpeg)]({{ '/artifacts/S0024/' | relative_url }})
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3378.jpeg)
-  [![IMG_3378](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3378.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3378.jpeg)
+- [Undated]({{ '/artifacts/S0026/' | relative_url }})
+  [![IMG_3378](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3378.jpeg)]({{ '/artifacts/S0026/' | relative_url }})
 
-- [Undated — New York, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3379.jpeg)
-  [![IMG_3379](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3379.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3379.jpeg)
+- [Undated — New York, New York]({{ '/artifacts/S0026-002/' | relative_url }})
+  [![IMG_3379](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3379.jpeg)]({{ '/artifacts/S0026-002/' | relative_url }})
 
-- [Undated — New York, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3381.jpeg)
-  [![IMG_3381](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3381.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3381.jpeg)
+- [Undated — New York, New York]({{ '/artifacts/S0026-04/' | relative_url }})
+  [![IMG_3381](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3381.jpeg)]({{ '/artifacts/S0026-04/' | relative_url }})
 
-- [Undated — New York, N.Y.](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3382.jpeg)
-  [![IMG_3382](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3382.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3382.jpeg)
+- [Undated — New York, N.Y.]({{ '/artifacts/S0026/' | relative_url }})
+  [![IMG_3382](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3382.jpeg)]({{ '/artifacts/S0026/' | relative_url }})
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3384.jpeg)
-  [![IMG_3384](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3384.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3384.jpeg)
+- [Undated]({{ '/artifacts/S0026-06/' | relative_url }})
+  [![IMG_3384](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3384.jpeg)]({{ '/artifacts/S0026-06/' | relative_url }})
 
-- [Undated — New York State](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3385.jpeg)
-  [![IMG_3385](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3385.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3385.jpeg)
+- [Undated — New York State]({{ '/artifacts/S0026/' | relative_url }})
+  [![IMG_3385](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3385.jpeg)]({{ '/artifacts/S0026/' | relative_url }})
 
-- [Undated — New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3387.jpeg)
-  [![IMG_3387](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3387.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3387.jpeg)
+- [Undated — New York]({{ '/artifacts/S0026_09/' | relative_url }})
+  [![IMG_3387](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3387.jpeg)]({{ '/artifacts/S0026_09/' | relative_url }})
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3389.jpeg)
-  [![IMG_3389](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3389.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3389.jpeg)
+- [Undated]({{ '/artifacts/S0026-11/' | relative_url }})
+  [![IMG_3389](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3389.jpeg)]({{ '/artifacts/S0026-11/' | relative_url }})
 
-- [Undated — New York, New York](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3391.jpeg)
-  [![IMG_3391](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3391.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3391.jpeg)
+- [Undated — New York, New York]({{ '/artifacts/S0026-13/' | relative_url }})
+  [![IMG_3391](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3391.jpeg)]({{ '/artifacts/S0026-13/' | relative_url }})
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3392.jpeg)
-  [![IMG_3392](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3392.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3392.jpeg)
+- [Undated]({{ '/artifacts/S0026/' | relative_url }})
+  [![IMG_3392](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3392.jpeg)]({{ '/artifacts/S0026/' | relative_url }})
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3393.jpeg)
-  [![IMG_3393](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3393.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3393.jpeg)
+- [Undated]({{ '/artifacts/S0026/' | relative_url }})
+  [![IMG_3393](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3393.jpeg)]({{ '/artifacts/S0026/' | relative_url }})
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3425.jpeg)
-  [![IMG_3425](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3425.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3425.jpeg)
+- [Undated]({{ '/artifacts/S0030-6/' | relative_url }})
+  [![IMG_3425](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3425.jpeg)]({{ '/artifacts/S0030-6/' | relative_url }})
 
-- [Undated](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3491.jpeg)
-  [![IMG_3491](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3491.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3491.jpeg)
+- [Undated]({{ '/artifacts/S0058/' | relative_url }})
+  [![IMG_3491](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3491.jpeg)]({{ '/artifacts/S0058/' | relative_url }})
 
 ---
 
@@ -315,202 +315,202 @@ This collection gathers materials across the archive that explicitly reference t
 
 ### Annual Meetings & Proceedings
 
-- [1900 — Thousand Islands, N.Y. (CG0002)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0671.jpeg)
-  [![IMG_0671](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0671.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0671.jpeg)
+- [1900 — Thousand Islands, N.Y. (CG0002)]({{ '/artifacts/CG0002/' | relative_url }})
+  [![IMG_0671](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0671.jpeg)]({{ '/artifacts/CG0002/' | relative_url }})
 
-- [1901 — Buffalo, N.Y. (CG0002)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0673.jpeg)
-  [![IMG_0673](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0673.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0673.jpeg)
+- [1901 — Buffalo, N.Y. (CG0002)]({{ '/artifacts/CG0002/' | relative_url }})
+  [![IMG_0673](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0673.jpeg)]({{ '/artifacts/CG0002/' | relative_url }})
 
-- [1881 — Saratoga, New York (CG0004)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0694.jpeg)
-  [![IMG_0694](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0694.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0694.jpeg)
+- [1881 — Saratoga, New York (CG0004)]({{ '/artifacts/CG0004/' | relative_url }})
+  [![IMG_0694](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0694.jpeg)]({{ '/artifacts/CG0004/' | relative_url }})
 
-- [1882 — Yonkers, New York (CG0004)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0707.jpeg)
-  [![IMG_0707](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0707.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0707.jpeg)
+- [1882 — Yonkers, New York (CG0004)]({{ '/artifacts/CG0004/' | relative_url }})
+  [![IMG_0707](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0707.jpeg)]({{ '/artifacts/CG0004/' | relative_url }})
 
-- [1922? (S0009_0001)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3326.jpeg)
-  [![IMG_3326](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3326.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3326.jpeg)
+- [1922? (S0009_0001)]({{ '/artifacts/S0009_0001/' | relative_url }})
+  [![IMG_3326](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3326.jpeg)]({{ '/artifacts/S0009_0001/' | relative_url }})
 
-- [Undated (S0015)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3338.jpeg)
-  [![IMG_3338](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3338.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3338.jpeg)
+- [Undated (S0015)]({{ '/artifacts/S0015/' | relative_url }})
+  [![IMG_3338](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3338.jpeg)]({{ '/artifacts/S0015/' | relative_url }})
 
-- [1894? — Saratoga Springs, New York (S0020)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3357.jpeg)
-  [![IMG_3357](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3357.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3357.jpeg)
+- [1894? — Saratoga Springs, New York (S0020)]({{ '/artifacts/S0020/' | relative_url }})
+  [![IMG_3357](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3357.jpeg)]({{ '/artifacts/S0020/' | relative_url }})
 
-- [Undated (S0021)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3364.jpeg)
-  [![IMG_3364](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3364.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3364.jpeg)
+- [Undated (S0021)]({{ '/artifacts/S0021/' | relative_url }})
+  [![IMG_3364](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3364.jpeg)]({{ '/artifacts/S0021/' | relative_url }})
 
-- [1897 — New York City, New York (S0021_002)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3362.jpeg)
-  [![IMG_3362](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3362.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3362.jpeg)
+- [1897 — New York City, New York (S0021_002)]({{ '/artifacts/S0021_002/' | relative_url }})
+  [![IMG_3362](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3362.jpeg)]({{ '/artifacts/S0021_002/' | relative_url }})
 
-- [1897? (S0024_1)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3375.jpeg)
-  [![IMG_3375](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3375.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3375.jpeg)
+- [1897? (S0024_1)]({{ '/artifacts/S0024_1/' | relative_url }})
+  [![IMG_3375](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3375.jpeg)]({{ '/artifacts/S0024_1/' | relative_url }})
 
-- [1897? (S0026-0012)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3390.jpeg)
-  [![IMG_3390](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3390.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3390.jpeg)
+- [1897? (S0026-0012)]({{ '/artifacts/S0026-0012/' | relative_url }})
+  [![IMG_3390](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3390.jpeg)]({{ '/artifacts/S0026-0012/' | relative_url }})
 
-- [1897? — New York City (S0026-17)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3395.jpeg)
-  [![IMG_3395](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3395.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3395.jpeg)
+- [1897? — New York City (S0026-17)]({{ '/artifacts/S0026-17/' | relative_url }})
+  [![IMG_3395](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3395.jpeg)]({{ '/artifacts/S0026-17/' | relative_url }})
 
-- [1926? (S0034-005)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0631.jpeg)
-  [![IMG_0631](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0631.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0631.jpeg)
+- [1926? (S0034-005)]({{ '/artifacts/S0034-005/' | relative_url }})
+  [![IMG_0631](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0631.jpeg)]({{ '/artifacts/S0034-005/' | relative_url }})
 
-- [Undated (S0042)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0663.jpeg)
-  [![IMG_0663](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0663.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0663.jpeg)
+- [Undated (S0042)]({{ '/artifacts/S0042/' | relative_url }})
+  [![IMG_0663](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0663.jpeg)]({{ '/artifacts/S0042/' | relative_url }})
 
-- [1900? (S0043-002)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0665.jpeg)
-  [![IMG_0665](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0665.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0665.jpeg)
+- [1900? (S0043-002)]({{ '/artifacts/S0043-002/' | relative_url }})
+  [![IMG_0665](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0665.jpeg)]({{ '/artifacts/S0043-002/' | relative_url }})
 
-- [1901? — Buffalo, New York (S0043-016)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0672.jpeg)
-  [![IMG_0672](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0672.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0672.jpeg)
+- [1901? — Buffalo, New York (S0043-016)]({{ '/artifacts/S0043-016/' | relative_url }})
+  [![IMG_0672](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0672.jpeg)]({{ '/artifacts/S0043-016/' | relative_url }})
 
-- [1901 — Buffalo, N.Y. (S0044)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0675.jpeg)
-  [![IMG_0675](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0675.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0675.jpeg)
+- [1901 — Buffalo, N.Y. (S0044)]({{ '/artifacts/S0044/' | relative_url }})
+  [![IMG_0675](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0675.jpeg)]({{ '/artifacts/S0044/' | relative_url }})
 
-- [Undated (S0044)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0681.jpeg)
-  [![IMG_0681](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0681.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0681.jpeg)
+- [Undated (S0044)]({{ '/artifacts/S0044/' | relative_url }})
+  [![IMG_0681](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0681.jpeg)]({{ '/artifacts/S0044/' | relative_url }})
 
-- [Undated — Cliff Haven, New York (S0044-010)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0680.jpeg)
-  [![IMG_0680](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0680.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0680.jpeg)
+- [Undated — Cliff Haven, New York (S0044-010)]({{ '/artifacts/S0044-010/' | relative_url }})
+  [![IMG_0680](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0680.jpeg)]({{ '/artifacts/S0044-010/' | relative_url }})
 
-- [1902? — Saratoga, New York (S0044_004)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0677.jpeg)
-  [![IMG_0677](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0677.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0677.jpeg)
+- [1902? — Saratoga, New York (S0044_004)]({{ '/artifacts/S0044_004/' | relative_url }})
+  [![IMG_0677](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0677.jpeg)]({{ '/artifacts/S0044_004/' | relative_url }})
 
-- [1905 — Syracuse, New York (S0045)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0684.jpeg)
-  [![IMG_0684](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0684.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0684.jpeg)
+- [1905 — Syracuse, New York (S0045)]({{ '/artifacts/S0045/' | relative_url }})
+  [![IMG_0684](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0684.jpeg)]({{ '/artifacts/S0045/' | relative_url }})
 
-- [1906 — Syracuse (S0045)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0692.jpeg)
-  [![IMG_0692](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0692.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0692.jpeg)
+- [1906 — Syracuse (S0045)]({{ '/artifacts/S0045/' | relative_url }})
+  [![IMG_0692](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0692.jpeg)]({{ '/artifacts/S0045/' | relative_url }})
 
-- [Undated (S0045)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0685.jpeg)
-  [![IMG_0685](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0685.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0685.jpeg)
+- [Undated (S0045)]({{ '/artifacts/S0045/' | relative_url }})
+  [![IMG_0685](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0685.jpeg)]({{ '/artifacts/S0045/' | relative_url }})
 
-- [1905 (S0045_04)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0683.jpeg)
-  [![IMG_0683](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0683.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0683.jpeg)
+- [1905 (S0045_04)]({{ '/artifacts/S0045_04/' | relative_url }})
+  [![IMG_0683](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0683.jpeg)]({{ '/artifacts/S0045_04/' | relative_url }})
 
-- [1890? (S0045_13)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0689.jpeg)
-  [![IMG_0689](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0689.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0689.jpeg)
+- [1890? (S0045_13)]({{ '/artifacts/S0045_13/' | relative_url }})
+  [![IMG_0689](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0689.jpeg)]({{ '/artifacts/S0045_13/' | relative_url }})
 
-- [Undated — Fort William Henry Hotel, Fort Edward, N.Y. (S0046-18)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0726.jpeg)
-  [![IMG_0726](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0726.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0726.jpeg)
+- [Undated — Fort William Henry Hotel, Fort Edward, N.Y. (S0046-18)]({{ '/artifacts/S0046-18/' | relative_url }})
+  [![IMG_0726](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0726.jpeg)]({{ '/artifacts/S0046-18/' | relative_url }})
 
-- [1884? — Baldwin Street, Elmira, N.Y. (S0046-19)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0727.jpeg)
-  [![IMG_0727](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0727.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0727.jpeg)
+- [1884? — Baldwin Street, Elmira, N.Y. (S0046-19)]({{ '/artifacts/S0046-19/' | relative_url }})
+  [![IMG_0727](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0727.jpeg)]({{ '/artifacts/S0046-19/' | relative_url }})
 
-- [1885? (S0047)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0728.jpeg)
-  [![IMG_0728](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0728.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0728.jpeg)
+- [1885? (S0047)]({{ '/artifacts/S0047/' | relative_url }})
+  [![IMG_0728](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0728.jpeg)]({{ '/artifacts/S0047/' | relative_url }})
 
-- [1887? — Elizabethtown (S0047-002)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0729.jpeg)
-  [![IMG_0729](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0729.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0729.jpeg)
+- [1887? — Elizabethtown (S0047-002)]({{ '/artifacts/S0047-002/' | relative_url }})
+  [![IMG_0729](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0729.jpeg)]({{ '/artifacts/S0047-002/' | relative_url }})
 
-- [1887 — Elizabethtown, New York (S0048)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0730.jpeg)
-  [![IMG_0730](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0730.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0730.jpeg)
+- [1887 — Elizabethtown, New York (S0048)]({{ '/artifacts/S0048/' | relative_url }})
+  [![IMG_0730](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0730.jpeg)]({{ '/artifacts/S0048/' | relative_url }})
 
-- [1891 — Saratoga Springs, N.Y. (S0051)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0774.jpeg)
-  [![IMG_0774](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0774.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0774.jpeg)
+- [1891 — Saratoga Springs, N.Y. (S0051)]({{ '/artifacts/S0051/' | relative_url }})
+  [![IMG_0774](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0774.jpeg)]({{ '/artifacts/S0051/' | relative_url }})
 
-- [1894 — Saratoga Springs, N.Y. (S0052)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0776.jpeg)
-  [![IMG_0776](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0776.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0776.jpeg)
+- [1894 — Saratoga Springs, N.Y. (S0052)]({{ '/artifacts/S0052/' | relative_url }})
+  [![IMG_0776](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0776.jpeg)]({{ '/artifacts/S0052/' | relative_url }})
 
-- [Undated (S0052)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0775.jpeg)
-  [![IMG_0775](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0775.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0775.jpeg)
+- [Undated (S0052)]({{ '/artifacts/S0052/' | relative_url }})
+  [![IMG_0775](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0775.jpeg)]({{ '/artifacts/S0052/' | relative_url }})
 
-- [1895 — Syracuse, New York (S0054)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0792.jpeg)
-  [![IMG_0792](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0792.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0792.jpeg)
+- [1895 — Syracuse, New York (S0054)]({{ '/artifacts/S0054/' | relative_url }})
+  [![IMG_0792](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0792.jpeg)]({{ '/artifacts/S0054/' | relative_url }})
 
-- [1897 — Rochester, N.Y. and New York City (S0054-018)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0795.jpeg)
-  [![IMG_0795](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0795.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0795.jpeg)
+- [1897 — Rochester, N.Y. and New York City (S0054-018)]({{ '/artifacts/S0054-018/' | relative_url }})
+  [![IMG_0795](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0795.jpeg)]({{ '/artifacts/S0054-018/' | relative_url }})
 
-- [1895? (S0054-16)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0793.jpeg)
-  [![IMG_0793](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0793.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0793.jpeg)
+- [1895? (S0054-16)]({{ '/artifacts/S0054-16/' | relative_url }})
+  [![IMG_0793](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0793.jpeg)]({{ '/artifacts/S0054-16/' | relative_url }})
 
-- [1898 — Rochester, N.Y. (S0056)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0809.jpeg)
-  [![IMG_0809](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0809.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0809.jpeg)
+- [1898 — Rochester, N.Y. (S0056)]({{ '/artifacts/S0056/' | relative_url }})
+  [![IMG_0809](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0809.jpeg)]({{ '/artifacts/S0056/' | relative_url }})
 
 ### Membership & Organization
 
-- [1896 — New York City (S0021-003)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3363.jpeg)
-  [![IMG_3363](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3363.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3363.jpeg)
+- [1896 — New York City (S0021-003)]({{ '/artifacts/S0021-003/' | relative_url }})
+  [![IMG_3363](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3363.jpeg)]({{ '/artifacts/S0021-003/' | relative_url }})
 
-- [Undated (S0026)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3378.jpeg)
-  [![IMG_3378](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3378.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3378.jpeg)
+- [Undated (S0026)]({{ '/artifacts/S0026/' | relative_url }})
+  [![IMG_3378](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3378.jpeg)]({{ '/artifacts/S0026/' | relative_url }})
 
-- [Undated — New York State (S0026)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3385.jpeg)
-  [![IMG_3385](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3385.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3385.jpeg)
+- [Undated — New York State (S0026)]({{ '/artifacts/S0026/' | relative_url }})
+  [![IMG_3385](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3385.jpeg)]({{ '/artifacts/S0026/' | relative_url }})
 
-- [Undated (S0026-06)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3384.jpeg)
-  [![IMG_3384](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3384.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3384.jpeg)
+- [Undated (S0026-06)]({{ '/artifacts/S0026-06/' | relative_url }})
+  [![IMG_3384](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3384.jpeg)]({{ '/artifacts/S0026-06/' | relative_url }})
 
-- [Undated — Rochester, New York (S0034)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0627.jpeg)
-  [![IMG_0627](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0627.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0627.jpeg)
+- [Undated — Rochester, New York (S0034)]({{ '/artifacts/S0034/' | relative_url }})
+  [![IMG_0627](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0627.jpeg)]({{ '/artifacts/S0034/' | relative_url }})
 
-- [1926? (S0034-005)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0631.jpeg)
-  [![IMG_0631](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0631.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0631.jpeg)
+- [1926? (S0034-005)]({{ '/artifacts/S0034-005/' | relative_url }})
+  [![IMG_0631](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0631.jpeg)]({{ '/artifacts/S0034-005/' | relative_url }})
 
-- [Undated (S0036-019)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0662.jpeg)
-  [![IMG_0662](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0662.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0662.jpeg)
+- [Undated (S0036-019)]({{ '/artifacts/S0036-019/' | relative_url }})
+  [![IMG_0662](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0662.jpeg)]({{ '/artifacts/S0036-019/' | relative_url }})
 
-- [1900? (S0043-002)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0665.jpeg)
-  [![IMG_0665](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0665.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0665.jpeg)
+- [1900? (S0043-002)]({{ '/artifacts/S0043-002/' | relative_url }})
+  [![IMG_0665](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0665.jpeg)]({{ '/artifacts/S0043-002/' | relative_url }})
 
-- [1901? — Buffalo, New York (S0043-018)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0674.jpeg)
-  [![IMG_0674](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0674.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0674.jpeg)
+- [1901? — Buffalo, New York (S0043-018)]({{ '/artifacts/S0043-018/' | relative_url }})
+  [![IMG_0674](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0674.jpeg)]({{ '/artifacts/S0043-018/' | relative_url }})
 
-- [1901 — Buffalo, New York (S0044_3)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0676.jpeg)
-  [![IMG_0676](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0676.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0676.jpeg)
+- [1901 — Buffalo, New York (S0044_3)]({{ '/artifacts/S0044_3/' | relative_url }})
+  [![IMG_0676](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0676.jpeg)]({{ '/artifacts/S0044_3/' | relative_url }})
 
-- [1892 (s0020-002)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3358.jpeg)
-  [![IMG_3358](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3358.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3358.jpeg)
+- [1892 (s0020-002)]({{ '/artifacts/s0020-002/' | relative_url }})
+  [![IMG_3358](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3358.jpeg)]({{ '/artifacts/s0020-002/' | relative_url }})
 
 ### Advocacy & Policy
 
-- [1927? — Utica (event), Albany (publisher) (AG005)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0654.jpeg)
-  [![IMG_0654](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0654.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0654.jpeg)
+- [1927? — Utica (event), Albany (publisher) (AG005)]({{ '/artifacts/AG005/' | relative_url }})
+  [![IMG_0654](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0654.jpeg)]({{ '/artifacts/AG005/' | relative_url }})
 
-- [1855 (S0014_005)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3337.jpeg)
-  [![IMG_3337](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3337.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3337.jpeg)
+- [1855 (S0014_005)]({{ '/artifacts/S0014_005/' | relative_url }})
+  [![IMG_3337](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3337.jpeg)]({{ '/artifacts/S0014_005/' | relative_url }})
 
-- [Undated (S0034_3)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0629.jpeg)
-  [![IMG_0629](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0629.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0629.jpeg)
+- [Undated (S0034_3)]({{ '/artifacts/S0034_3/' | relative_url }})
+  [![IMG_0629](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0629.jpeg)]({{ '/artifacts/S0034_3/' | relative_url }})
 
-- [Undated (S0050)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0771.jpeg)
-  [![IMG_0771](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0771.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0771.jpeg)
+- [Undated (S0050)]({{ '/artifacts/S0050/' | relative_url }})
+  [![IMG_0771](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0771.jpeg)]({{ '/artifacts/S0050/' | relative_url }})
 
 ### Publications & Periodicals
 
-- [Undated — NYS Teachers Association publications overview (AG004)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0638.jpeg)
-  [![IMG_0638](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0638.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0638.jpeg)
+- [Undated — NYS Teachers Association publications overview (AG004)]({{ '/artifacts/AG004/' | relative_url }})
+  [![IMG_0638](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0638.jpeg)]({{ '/artifacts/AG004/' | relative_url }})
 
-- [Undated — NYS Teachers Association publications overview (AG004)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0640.jpeg)
-  [![IMG_0640](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0640.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0640.jpeg)
+- [Undated — NYS Teachers Association publications overview (AG004)]({{ '/artifacts/AG004/' | relative_url }})
+  [![IMG_0640](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0640.jpeg)]({{ '/artifacts/AG004/' | relative_url }})
 
-- [1927? — New York State Teachers' Association history notes (AG006)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0655.jpeg)
-  [![IMG_0655](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0655.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0655.jpeg)
+- [1927? — New York State Teachers' Association history notes (AG006)]({{ '/artifacts/AG006/' | relative_url }})
+  [![IMG_0655](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0655.jpeg)]({{ '/artifacts/AG006/' | relative_url }})
 
-- [Undated — New York, N.Y. (S0026)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3382.jpeg)
-  [![IMG_3382](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3382.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3382.jpeg)
+- [Undated — New York, N.Y. (S0026)]({{ '/artifacts/S0026/' | relative_url }})
+  [![IMG_3382](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3382.jpeg)]({{ '/artifacts/S0026/' | relative_url }})
 
-- [Undated — New York, New York (S0026-04)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3381.jpeg)
-  [![IMG_3381](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3381.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3381.jpeg)
+- [Undated — New York, New York (S0026-04)]({{ '/artifacts/S0026-04/' | relative_url }})
+  [![IMG_3381](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3381.jpeg)]({{ '/artifacts/S0026-04/' | relative_url }})
 
-- [Undated — New York, New York (S0026-13)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3391.jpeg)
-  [![IMG_3391](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_3391.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_3391.jpeg)
+- [Undated — New York, New York (S0026-13)]({{ '/artifacts/S0026-13/' | relative_url }})
+  [![IMG_3391](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_3391.jpeg)]({{ '/artifacts/S0026-13/' | relative_url }})
 
-- [1941 (S0031_001)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0619.jpeg)
-  [![IMG_0619](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0619.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0619.jpeg)
+- [1941 (S0031_001)]({{ '/artifacts/S0031_001/' | relative_url }})
+  [![IMG_0619](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0619.jpeg)]({{ '/artifacts/S0031_001/' | relative_url }})
 
-- [Undated (S0042)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0663.jpeg)
-  [![IMG_0663](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0663.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0663.jpeg)
+- [Undated (S0042)]({{ '/artifacts/S0042/' | relative_url }})
+  [![IMG_0663](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0663.jpeg)]({{ '/artifacts/S0042/' | relative_url }})
 
-- [1905 (S0045_04)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0683.jpeg)
-  [![IMG_0683](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0683.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0683.jpeg)
+- [1905 (S0045_04)]({{ '/artifacts/S0045_04/' | relative_url }})
+  [![IMG_0683](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0683.jpeg)]({{ '/artifacts/S0045_04/' | relative_url }})
 
 ### Bound Volumes & Archival Notes
 
-- [Undated (S0042)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0663.jpeg)
-  [![IMG_0663](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0663.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0663.jpeg)
+- [Undated (S0042)]({{ '/artifacts/S0042/' | relative_url }})
+  [![IMG_0663](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0663.jpeg)]({{ '/artifacts/S0042/' | relative_url }})
 
-- [Undated (S0052)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0775.jpeg)
-  [![IMG_0775](https://raw.githubusercontent.com/zmuhls/cs-archive/main/derived/thumbs/IMG_0775.jpeg)](https://github.com/zmuhls/cs-archive/blob/main/derived/thumbs/IMG_0775.jpeg)
+- [Undated (S0052)]({{ '/artifacts/S0052/' | relative_url }})
+  [![IMG_0775](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/derived/thumbs/IMG_0775.jpeg)]({{ '/artifacts/S0052/' | relative_url }})
 
 ---
 

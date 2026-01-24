@@ -72,16 +72,16 @@ Index cards from the NYS Education Department documenting district registrations
 
 ### Browse by Page
 
-- [Page 1](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/District-Notecard-Records_page_1_20260118_011311.txt)
-- [Page 2](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/District-Notecard-Records_page_2_20260118_011311.txt) - Alexander High School
-- [Page 5](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/District-Notecard-Records_page_5_20260118_011311.txt) - Palatine Union School
-- [Page 10](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/District-Notecard-Records_page_10_20260118_011311.txt)
-- [Page 20](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/District-Notecard-Records_page_20_20260118_011311.txt)
-- [Page 30](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/District-Notecard-Records_page_30_20260118_011311.txt)
-- [Page 40](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/District-Notecard-Records_page_40_20260118_011311.txt)
-- [Page 50](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/District-Notecard-Records_page_50_20260118_011311.txt)
-- [Page 60](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/District-Notecard-Records_page_60_20260118_011311.txt)
-- [Page 63](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/District-Notecard-Records_page_63_20260118_011311.txt)
+- [Page 1]({{ '/collections/district-notecard-records/#page-1' | relative_url }})
+- [Page 2]({{ '/collections/district-notecard-records/#page-2' | relative_url }}) - Alexander High School
+- [Page 5]({{ '/collections/district-notecard-records/#page-5' | relative_url }}) - Palatine Union School
+- [Page 10]({{ '/collections/district-notecard-records/#page-10' | relative_url }})
+- [Page 20]({{ '/collections/district-notecard-records/#page-20' | relative_url }})
+- [Page 30]({{ '/collections/district-notecard-records/#page-30' | relative_url }})
+- [Page 40]({{ '/collections/district-notecard-records/#page-40' | relative_url }})
+- [Page 50]({{ '/collections/district-notecard-records/#page-50' | relative_url }})
+- [Page 60]({{ '/collections/district-notecard-records/#page-60' | relative_url }})
+- [Page 63]({{ '/collections/district-notecard-records/#page-63' | relative_url }})
 
 ---
 
@@ -109,56 +109,56 @@ Tables are organized by New York State county. Each county section includes mult
 
 **Western NY**
 
-- [Cattaraugus County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_6.md) (5 pages)
-- [Chautauqua County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_15.md) (5 pages)
-- [Erie County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_50.md) (4 pages)
-- [Genesee County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_64.md) (1 page)
-- [Niagara County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_105.md) (2 pages)
+- [Cattaraugus County]({{ '/collections/district-consolidation-data/#page-6' | relative_url }}) (5 pages)
+- [Chautauqua County]({{ '/collections/district-consolidation-data/#page-15' | relative_url }}) (5 pages)
+- [Erie County]({{ '/collections/district-consolidation-data/#page-50' | relative_url }}) (4 pages)
+- [Genesee County]({{ '/collections/district-consolidation-data/#page-64' | relative_url }}) (1 page)
+- [Niagara County]({{ '/collections/district-consolidation-data/#page-105' | relative_url }}) (2 pages)
 
 **Central NY**
 
-- [Broome County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_3.md) (3 pages)
-- [Cayuga County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_11.md) (4 pages)
-- [Chenango County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_23.md) (6 pages)
-- [Cortland County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_37.md) (3 pages)
-- [Madison County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_89.md) (6 pages)
-- [Oneida County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_107.md) (5 pages)
-- [Onondaga County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_112.md) (5 pages)
+- [Broome County]({{ '/collections/district-consolidation-data/#page-3' | relative_url }}) (3 pages)
+- [Cayuga County]({{ '/collections/district-consolidation-data/#page-11' | relative_url }}) (4 pages)
+- [Chenango County]({{ '/collections/district-consolidation-data/#page-23' | relative_url }}) (6 pages)
+- [Cortland County]({{ '/collections/district-consolidation-data/#page-37' | relative_url }}) (3 pages)
+- [Madison County]({{ '/collections/district-consolidation-data/#page-89' | relative_url }}) (6 pages)
+- [Oneida County]({{ '/collections/district-consolidation-data/#page-107' | relative_url }}) (5 pages)
+- [Onondaga County]({{ '/collections/district-consolidation-data/#page-112' | relative_url }}) (5 pages)
 
 **Southern Tier**
 
-- [Chemung County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_20.md) (3 pages)
-- [Delaware County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_40.md) (6 pages)
+- [Chemung County]({{ '/collections/district-consolidation-data/#page-20' | relative_url }}) (3 pages)
+- [Delaware County]({{ '/collections/district-consolidation-data/#page-40' | relative_url }}) (6 pages)
 
 **North Country**
 
-- [Clinton County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_29.md) (5 pages)
-- [Essex County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_54.md) (4 pages)
-- [Franklin County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_58.md) (3 pages)
-- [Hamilton County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_69.md) (2 pages)
-- [Jefferson County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_76.md) (5 pages)
-- [Lewis County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_81.md) (4 pages)
+- [Clinton County]({{ '/collections/district-consolidation-data/#page-29' | relative_url }}) (5 pages)
+- [Essex County]({{ '/collections/district-consolidation-data/#page-54' | relative_url }}) (4 pages)
+- [Franklin County]({{ '/collections/district-consolidation-data/#page-58' | relative_url }}) (3 pages)
+- [Hamilton County]({{ '/collections/district-consolidation-data/#page-69' | relative_url }}) (2 pages)
+- [Jefferson County]({{ '/collections/district-consolidation-data/#page-76' | relative_url }}) (5 pages)
+- [Lewis County]({{ '/collections/district-consolidation-data/#page-81' | relative_url }}) (4 pages)
 
 **Mohawk Valley**
 
-- [Fulton County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_61.md) (3 pages)
-- [Herkimer County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_71.md) (5 pages)
-- [Montgomery County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_98.md) (3 pages)
+- [Fulton County]({{ '/collections/district-consolidation-data/#page-61' | relative_url }}) (3 pages)
+- [Herkimer County]({{ '/collections/district-consolidation-data/#page-71' | relative_url }}) (5 pages)
+- [Montgomery County]({{ '/collections/district-consolidation-data/#page-98' | relative_url }}) (3 pages)
 
 **Hudson Valley**
 
-- [Columbia County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_34.md) (3 pages)
-- [Dutchess County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_46.md) (4 pages)
-- [Greene County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_65.md) (4 pages)
+- [Columbia County]({{ '/collections/district-consolidation-data/#page-34' | relative_url }}) (3 pages)
+- [Dutchess County]({{ '/collections/district-consolidation-data/#page-46' | relative_url }}) (4 pages)
+- [Greene County]({{ '/collections/district-consolidation-data/#page-65' | relative_url }}) (4 pages)
 
 **Finger Lakes**
 
-- [Livingston County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_85.md) (4 pages)
-- [Monroe County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_95.md) (3 pages)
+- [Livingston County]({{ '/collections/district-consolidation-data/#page-85' | relative_url }}) (4 pages)
+- [Monroe County]({{ '/collections/district-consolidation-data/#page-95' | relative_url }}) (3 pages)
 
 **Long Island**
 
-- [Nassau County](https://github.com/zmuhls/cs-archive/blob/main/output/ocr/tables/markdown/District-Consolidation-Data_100-116_page_101.md) (4 pages)
+- [Nassau County]({{ '/collections/district-consolidation-data/#page-101' | relative_url }}) (4 pages)
 
 ---
 

@@ -59,17 +59,17 @@ The Amityville collection contains 665 pages of board minutes. OCR transcription
 
 **Page Range:** 1-665
 
-- [Page 1](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/Amityville-Records_qwen-vl-plus_page_1.txt) (Test chart/header)
-- [Page 5](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/Amityville-Records_qwen-vl-plus_page_5.txt) (Board meeting)
-- [Page 10](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/Amityville-Records_qwen-vl-plus_page_10.txt)
-- [Page 50](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/Amityville-Records_qwen-vl-plus_page_50.txt)
-- [Page 100](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/Amityville-Records_qwen-vl-plus_page_100.txt)
-- [Page 200](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/Amityville-Records_qwen-vl-plus_page_200.txt)
-- [Page 300](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/Amityville-Records_qwen-vl-plus_page_300.txt)
-- [Page 400](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/Amityville-Records_qwen-vl-plus_page_400.txt)
-- [Page 500](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/Amityville-Records_qwen-vl-plus_page_500.txt)
-- [Page 600](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/Amityville-Records_qwen-vl-plus_page_600.txt)
-- [Page 665](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/Amityville-Records_qwen-vl-plus_page_665.txt)
+- [Page 1]({{ '/collections/amityville-records/#page-1' | relative_url }}) (Test chart/header)
+- [Page 5]({{ '/collections/amityville-records/#page-5' | relative_url }}) (Board meeting)
+- [Page 10]({{ '/collections/amityville-records/#page-10' | relative_url }})
+- [Page 50]({{ '/collections/amityville-records/#page-50' | relative_url }})
+- [Page 100]({{ '/collections/amityville-records/#page-100' | relative_url }})
+- [Page 200]({{ '/collections/amityville-records/#page-200' | relative_url }})
+- [Page 300]({{ '/collections/amityville-records/#page-300' | relative_url }})
+- [Page 400]({{ '/collections/amityville-records/#page-400' | relative_url }})
+- [Page 500]({{ '/collections/amityville-records/#page-500' | relative_url }})
+- [Page 600]({{ '/collections/amityville-records/#page-600' | relative_url }})
+- [Page 665]({{ '/collections/amityville-records/#page-665' | relative_url }})
 
 ---
 
@@ -105,43 +105,43 @@ Handwritten meeting minutes from School District No. 2 in South Kortright, docum
 
 **1810s** (7 pages)
 
-- [Page 1](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_1_20260118_011022.txt) (1815)
-- [Page 2](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_2_20260118_011022.txt) (1818)
-- [Page 3](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_3_20260118_011022.txt) (1817)
-- [Page 6](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_6_20260118_011022.txt) (1818)
-- [Page 7](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_7_20260118_011022.txt) (1819)
-- [Page 8](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_8_20260118_011022.txt)
-- [Page 10](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_10_20260118_011022.txt)
+- [Page 1]({{ '/collections/south-kortright-records/#page-1' | relative_url }}) (1815)
+- [Page 2]({{ '/collections/south-kortright-records/#page-2' | relative_url }}) (1818)
+- [Page 3]({{ '/collections/south-kortright-records/#page-3' | relative_url }}) (1817)
+- [Page 6]({{ '/collections/south-kortright-records/#page-6' | relative_url }}) (1818)
+- [Page 7]({{ '/collections/south-kortright-records/#page-7' | relative_url }}) (1819)
+- [Page 8]({{ '/collections/south-kortright-records/#page-8' | relative_url }})
+- [Page 10]({{ '/collections/south-kortright-records/#page-10' | relative_url }})
 
 **1820s** (19 pages)
 
-- [Page 9](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_9_20260118_011022.txt) (1825)
-- [Page 12](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_12_20260118_011022.txt) (1820)
-- [Page 13](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_13_20260118_011022.txt) (1821)
-- [Page 14](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_14_20260118_011022.txt) (1822)
-- [Page 15](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_15_20260118_011022.txt) (1822)
-- [Page 16](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_16_20260118_011022.txt)
-- [Page 17](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_17_20260118_011022.txt)
-- [Page 18](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_18_20260118_011022.txt)
-- [Page 19](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_19_20260118_011022.txt)
-- [Page 20](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_20_20260118_011022.txt)
+- [Page 9]({{ '/collections/south-kortright-records/#page-9' | relative_url }}) (1825)
+- [Page 12]({{ '/collections/south-kortright-records/#page-12' | relative_url }}) (1820)
+- [Page 13]({{ '/collections/south-kortright-records/#page-13' | relative_url }}) (1821)
+- [Page 14]({{ '/collections/south-kortright-records/#page-14' | relative_url }}) (1822)
+- [Page 15]({{ '/collections/south-kortright-records/#page-15' | relative_url }}) (1822)
+- [Page 16]({{ '/collections/south-kortright-records/#page-16' | relative_url }})
+- [Page 17]({{ '/collections/south-kortright-records/#page-17' | relative_url }})
+- [Page 18]({{ '/collections/south-kortright-records/#page-18' | relative_url }})
+- [Page 19]({{ '/collections/south-kortright-records/#page-19' | relative_url }})
+- [Page 20]({{ '/collections/south-kortright-records/#page-20' | relative_url }})
 
 **1830s** (6 pages)
 
-- [Page 32](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_32_20260118_011022.txt) (1830)
-- [Page 34](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_34_20260118_011022.txt) (1830)
-- [Page 35](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_35_20260118_011022.txt) (1831)
-- [Page 36](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_36_20260118_011022.txt) (1831)
-- [Page 37](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_37_20260118_011022.txt) (1833)
-- [Page 38](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_38_20260118_011022.txt)
+- [Page 32]({{ '/collections/south-kortright-records/#page-32' | relative_url }}) (1830)
+- [Page 34]({{ '/collections/south-kortright-records/#page-34' | relative_url }}) (1830)
+- [Page 35]({{ '/collections/south-kortright-records/#page-35' | relative_url }}) (1831)
+- [Page 36]({{ '/collections/south-kortright-records/#page-36' | relative_url }}) (1831)
+- [Page 37]({{ '/collections/south-kortright-records/#page-37' | relative_url }}) (1833)
+- [Page 38]({{ '/collections/south-kortright-records/#page-38' | relative_url }})
 
 **1840s** (1 page)
 
-- [Page 43](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_page_43_20260118_011022.txt) (1840)
+- [Page 43]({{ '/collections/south-kortright-records/#page-43' | relative_url }}) (1840)
 
 **Complete Collection**
 
-- [Full transcription](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/text/South-Kortright-Roll-13_20260118_011022_complete.txt) (all 43 pages)
+- [Full transcription]({{ '/collections/south-kortright-records/' | relative_url }}) (all 43 pages)
 
 ---
 

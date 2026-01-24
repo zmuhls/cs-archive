@@ -24,6 +24,7 @@ CSV_PATH = PROJECT_ROOT / 'csv' / 'images_inventory_labeled.csv'
 OCR_TEXT_DIR = PROJECT_ROOT / 'output' / 'ocr' / 'text'
 OCR_METADATA_DIR = PROJECT_ROOT / 'output' / 'ocr' / 'metadata'
 OUTPUT_PATH = PROJECT_ROOT / 'output' / 'collections' / 'nys-teachers-association.md'
+JEKYLL_OUTPUT_PATH = PROJECT_ROOT / 'collections' / 'nys-teachers-association.md'
 GITHUB_REPO = "zmuhls/cs-archive"
 BRANCH = "main"
 
@@ -200,32 +201,34 @@ def group_by_theme(items: List[dict]) -> Dict[str, List[dict]]:
 
 
 def format_thumbnail_url(filename: str) -> str:
-    """Generate GitHub raw URL for thumbnail."""
+    """Generate GitHub media URL for thumbnail (works with Git LFS)."""
     if not filename:
         return ""
 
-    # Remove any directory path, just get the filename
     base_filename = Path(filename).name
+    return f"https://media.githubusercontent.com/media/{GITHUB_REPO}/{BRANCH}/derived/thumbs/{base_filename}"
 
-    return f"https://raw.githubusercontent.com/{GITHUB_REPO}/{BRANCH}/derived/thumbs/{base_filename}"
 
+def format_artifact_url(artifact_group_id: str, jekyll: bool = False) -> str:
+    """Generate URL to the artifact markdown page.
 
-def format_fullsize_url(filename: str) -> str:
-    """Generate GitHub blob URL for full-size image."""
-    if not filename:
+    Args:
+        artifact_group_id: The artifact ID (e.g. S0045, AG004)
+        jekyll: If True, use Liquid relative_url filter for Jekyll rendering
+    """
+    if not artifact_group_id:
         return ""
 
-    # Remove any directory path, just get the filename
-    base_filename = Path(filename).name
+    if jekyll:
+        return "{{ '/artifacts/" + artifact_group_id + "/' | relative_url }}"
+    else:
+        return f"https://github.com/{GITHUB_REPO}/blob/{BRANCH}/_artifacts/{artifact_group_id}.md"
 
-    return f"https://github.com/{GITHUB_REPO}/blob/{BRANCH}/raw/scans/Kheel Center/img/{base_filename}"
 
-
-def format_item_markdown(item: dict, show_artifact_id: bool = False, indent: bool = False) -> str:
-    """Format a single item as markdown with thumbnail on separate line."""
+def format_item_markdown(item: dict, show_artifact_id: bool = False, jekyll: bool = False) -> str:
+    """Format a single item as markdown with thumbnail linking to artifact page."""
     year = item.get('extracted_date')
     uncertain = item.get('date_uncertain', False)
-    title = item.get('item_title', '').strip() or item.get('subject', '').strip() or 'Untitled'
     location = item.get('location_guess', '')
     filename = item.get('filename', '')
     artifact_id = item.get('artifact_group_id', '')
@@ -236,12 +239,12 @@ def format_item_markdown(item: dict, show_artifact_id: bool = False, indent: boo
     else:
         date_str = "Undated"
 
-    # Format image URLs - thumbnail for display, full-size for link
+    # Format URLs - thumbnail for display, artifact page for link
     thumb_url = format_thumbnail_url(filename)
-    fullsize_url = format_fullsize_url(filename)
+    artifact_url = format_artifact_url(artifact_id, jekyll=jekyll)
     base_filename = Path(filename).stem if filename else 'Unknown'
 
-    # Build markdown with thumbnail on separate indented line
+    # Build markdown with thumbnail linking to artifact page
     lines = []
 
     # First line: link with date and location
@@ -251,16 +254,19 @@ def format_item_markdown(item: dict, show_artifact_id: bool = False, indent: boo
     if show_artifact_id and artifact_id:
         link_text += f" ({artifact_id})"
 
-    lines.append(f"- [{link_text}]({fullsize_url})")
+    if artifact_url:
+        lines.append(f"- [{link_text}]({artifact_url})")
+    else:
+        lines.append(f"- {link_text}")
 
-    # Second line: thumbnail (indented)
-    if thumb_url and fullsize_url:
-        lines.append(f"  [![{base_filename}]({thumb_url})]({fullsize_url})")
+    # Second line: thumbnail linking to artifact page
+    if thumb_url and artifact_url:
+        lines.append(f"  [![{base_filename}]({thumb_url})]({artifact_url})")
 
     return "\n".join(lines)
 
 
-def format_chronological_section(decade_items: Dict[str, List[dict]]) -> str:
+def format_chronological_section(decade_items: Dict[str, List[dict]], jekyll: bool = False) -> str:
     """Generate markdown for chronological section."""
     lines = [
         "## Chronology (By Decade)",
@@ -276,13 +282,13 @@ def format_chronological_section(decade_items: Dict[str, List[dict]]) -> str:
         lines.append("")
 
         for item in items:
-            lines.append(format_item_markdown(item))
+            lines.append(format_item_markdown(item, jekyll=jekyll))
             lines.append("")
 
     return "\n".join(lines)
 
 
-def format_thematic_section(theme_items: Dict[str, List[dict]]) -> str:
+def format_thematic_section(theme_items: Dict[str, List[dict]], jekyll: bool = False) -> str:
     """Generate markdown for thematic section."""
     lines = [
         "## Thematic Groupings",
@@ -301,14 +307,19 @@ def format_thematic_section(theme_items: Dict[str, List[dict]]) -> str:
 
         for artifact_id, artifact_items in sorted(by_artifact.items()):
             for item in artifact_items:
-                lines.append(format_item_markdown(item, show_artifact_id=True))
+                lines.append(format_item_markdown(item, show_artifact_id=True, jekyll=jekyll))
                 lines.append("")
 
     return "\n".join(lines)
 
 
-def generate_markdown(items: List[dict]) -> str:
-    """Generate complete markdown file."""
+def generate_markdown(items: List[dict], jekyll: bool = False) -> str:
+    """Generate complete markdown file.
+
+    Args:
+        items: Enriched inventory items
+        jekyll: If True, generate Jekyll-compatible links using relative_url
+    """
     # Group items
     by_decade = group_by_decade(items)
     by_theme = group_by_theme(items)
@@ -338,10 +349,15 @@ def generate_markdown(items: List[dict]) -> str:
 
     # Build markdown
     sections = [
-        "<!-- This file is auto-generated by scripts/generate_nys_teachers_collection.py -->",
+        "<!-- This file is auto-generated by pipeline/scripts/generate_nys_teachers_collection.py -->",
         "",
-        "# New York State Teachers' Association — Curated Collection",
-        "",
+    ]
+
+    if not jekyll:
+        sections.append("# New York State Teachers' Association — Curated Collection")
+        sections.append("")
+
+    sections.extend([
         "This collection gathers materials across the archive that explicitly reference the New York State Teachers' Association (NYSTA), spanning 1845-1940s. Each entry links to the digitized artifact with a thumbnail preview.",
         "",
         "---",
@@ -350,10 +366,10 @@ def generate_markdown(items: List[dict]) -> str:
         "",
         "---",
         "",
-        format_chronological_section(by_decade),
+        format_chronological_section(by_decade, jekyll=jekyll),
         "---",
         "",
-        format_thematic_section(by_theme),
+        format_thematic_section(by_theme, jekyll=jekyll),
         "---",
         "",
         "## Notes",
@@ -361,9 +377,9 @@ def generate_markdown(items: List[dict]) -> str:
         "- **Scope**: Items include explicit \"New York State Teachers' Association,\" \"N.Y. State Teachers' Association,\" \"NYSTA,\" or clear NYS context.",
         "- **Sources**: Derived from `csv/images_inventory_labeled.csv` and OCR text outputs.",
         "- **Dates**: Extracted from OCR text and metadata. Uncertain dates marked with `?`.",
-        "- **Regenerate**: Run `python scripts/generate_nys_teachers_collection.py` to refresh.",
+        f"- **Regenerate**: Run `python pipeline/scripts/generate_nys_teachers_collection.py` to refresh.",
         ""
-    ]
+    ])
 
     return "\n".join(sections)
 
@@ -412,6 +428,19 @@ def generate_validation_report(items: List[dict]) -> str:
     return "\n".join(lines)
 
 
+JEKYLL_FRONTMATTER = """---
+layout: single
+title: New York State Teachers' Association
+description: Historical records from NYSTA spanning 1845-1940s
+permalink: /collections/nys-teachers-association/
+toc: true
+toc_label: "Collection Contents"
+toc_icon: "book"
+---
+
+"""
+
+
 def main():
     print("=" * 70)
     print("NYS Teachers Association Collection Generator")
@@ -433,14 +462,19 @@ def main():
     print(f"  Undated items: {undated}")
     print()
 
-    # Generate markdown
-    print("Generating collection markdown...")
-    markdown = generate_markdown(items)
-
-    # Write output
+    # Generate standalone markdown (GitHub links)
+    print("Generating standalone collection markdown...")
+    markdown = generate_markdown(items, jekyll=False)
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(markdown, encoding='utf-8')
-    print(f"  ✓ Written to: {OUTPUT_PATH}")
+    print(f"  Written to: {OUTPUT_PATH}")
+
+    # Generate Jekyll version (relative_url links)
+    print("Generating Jekyll collection page...")
+    jekyll_markdown = generate_markdown(items, jekyll=True)
+    JEKYLL_OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    JEKYLL_OUTPUT_PATH.write_text(JEKYLL_FRONTMATTER + jekyll_markdown, encoding='utf-8')
+    print(f"  Written to: {JEKYLL_OUTPUT_PATH}")
     print()
 
     # Generate validation report
@@ -448,7 +482,7 @@ def main():
     report = generate_validation_report(items)
     report_path = PROJECT_ROOT / 'output' / 'collections' / 'nys-teachers-validation.txt'
     report_path.write_text(report, encoding='utf-8')
-    print(f"  ✓ Report: {report_path}")
+    print(f"  Report: {report_path}")
     print()
 
     print("=" * 70)
