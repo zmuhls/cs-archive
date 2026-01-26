@@ -8,8 +8,6 @@ toc_label: "Pages"
 toc_icon: "sticky-note"
 ---
 
-# District Notecard Records
-
 **Document Type:** Administrative Notecards
 
 **Source:** NYS Archives Series B0594

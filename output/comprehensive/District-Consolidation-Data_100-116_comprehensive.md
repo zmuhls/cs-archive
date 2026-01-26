@@ -12,6 +12,8 @@ Statistical tables documenting school district consolidation across New York Sta
 
 ---
 
+
+
 ## Table of Contents
 
 - [Page 1](#page-1)
@@ -134,7 +136,6 @@ Statistical tables documenting school district consolidation across New York Sta
 ---
 
 ## Page 1
-
 ![Page 1](output/ocr/tables/images/District-Consolidation-Data_100-116_page_1.jpg)
 
 ### Transcription
@@ -171,7 +172,6 @@ Let me know if you need this transcribed into a specific table format or another
 ---
 
 ## Page 2
-
 ![Page 2](output/ocr/tables/images/District-Consolidation-Data_100-116_page_2.jpg)
 
 ### Transcription
@@ -200,7 +200,6 @@ Tarrytown - D. Tarrytown
 ---
 
 ## Page 3
-
 ![Page 3](output/ocr/tables/images/District-Consolidation-Data_100-116_page_3.jpg)
 
 ### Transcription
@@ -250,7 +249,6 @@ Consolidated Districts
 ---
 
 ## Page 4
-
 ![Page 4](output/ocr/tables/images/District-Consolidation-Data_100-116_page_4.jpg)
 
 ### Transcription
@@ -349,7 +347,6 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 5
-
 ![Page 5](output/ocr/tables/images/District-Consolidation-Data_100-116_page_5.jpg)
 
 ### Transcription
@@ -452,7 +449,6 @@ County
 ---
 
 ## Page 6
-
 ![Page 6](output/ocr/tables/images/District-Consolidation-Data_100-116_page_6.jpg)
 
 ### Transcription
@@ -479,7 +475,6 @@ No. of Unit
 ---
 
 ## Page 7
-
 ![Page 7](output/ocr/tables/images/District-Consolidation-Data_100-116_page_7.jpg)
 
 ### Transcription
@@ -503,7 +498,6 @@ Town School Units
 ---
 
 ## Page 8
-
 ![Page 8](output/ocr/tables/images/District-Consolidation-Data_100-116_page_8.jpg)
 
 ### Transcription
@@ -545,15 +539,6 @@ Below is the transcription of the tabular data from the document, preserving the
 | 1,2,3,4,5,6 | Coldepring | 28 August 1936 | 33 1913-14 | 1 Great Valley |
 | 1,2,3,4,5,6 | Coldepring | 20 January 1937 | 34 1913-14 | 1 Great Valley |
 
----
-
-**Notes:**
-
-- Pre-printed text includes headers such as "No. of Dist.", "NAME OF TOWN", "DATE OF SCHOOL-MEETING ORGANIZING DISTRICT", "DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT", and "No. new dist."
-- Filled-in text includes dates, names of towns, and other details handwritten in ink.
-- Blank fields are indicated as `[blank]` where no information is provided.
-- The document appears to be a historical record of district consolidations in Cattaragus County, with handwritten entries detailing the dates and names of towns involved in each consolidation.
-
 --- 
 
 This transcription maintains the structure and alignment of the original document, ensuring that all headers, labels, and data are accurately represented.
@@ -561,7 +546,6 @@ This transcription maintains the structure and alignment of the original documen
 ---
 
 ## Page 9
-
 ![Page 9](output/ocr/tables/images/District-Consolidation-Data_100-116_page_9.jpg)
 
 ### Transcription
@@ -617,7 +601,6 @@ This transcription maintains the structure and content of the original document 
 ---
 
 ## Page 10
-
 ![Page 10](output/ocr/tables/images/District-Consolidation-Data_100-116_page_10.jpg)
 
 ### Transcription
@@ -638,7 +621,6 @@ This transcription maintains the structure and content of the original document 
 ---
 
 ## Page 11
-
 ![Page 11](output/ocr/tables/images/District-Consolidation-Data_100-116_page_11.jpg)
 
 ### Transcription
@@ -667,7 +649,6 @@ Union Free Schools
 ---
 
 ## Page 12
-
 ![Page 12](output/ocr/tables/images/District-Consolidation-Data_100-116_page_12.jpg)
 
 ### Transcription
@@ -684,7 +665,6 @@ Town School Units
 ---
 
 ## Page 13
-
 ![Page 13](output/ocr/tables/images/District-Consolidation-Data_100-116_page_13.jpg)
 
 ### Transcription
@@ -733,7 +713,6 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 14
-
 ![Page 14](output/ocr/tables/images/District-Consolidation-Data_100-116_page_14.jpg)
 
 ### Transcription
@@ -820,7 +799,6 @@ Below is the transcription of the tabular data from the provided document, maint
 ---
 
 ## Page 15
-
 ![Page 15](output/ocr/tables/images/District-Consolidation-Data_100-116_page_15.jpg)
 
 ### Transcription
@@ -848,7 +826,6 @@ Union Free Schools
 ---
 
 ## Page 16
-
 ![Page 16](output/ocr/tables/images/District-Consolidation-Data_100-116_page_16.jpg)
 
 ### Transcription
@@ -879,7 +856,6 @@ Town School Units
 ---
 
 ## Page 17
-
 ![Page 17](output/ocr/tables/images/District-Consolidation-Data_100-116_page_17.jpg)
 
 ### Transcription
@@ -959,7 +935,6 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 18
-
 ![Page 18](output/ocr/tables/images/District-Consolidation-Data_100-116_page_18.jpg)
 
 ### Transcription
@@ -1021,7 +996,6 @@ Consolidated and Central Districts
 ---
 
 ## Page 19
-
 ![Page 19](output/ocr/tables/images/District-Consolidation-Data_100-116_page_19.jpg)
 
 ### Transcription
@@ -1109,7 +1083,6 @@ Page 41
 ---
 
 ## Page 20
-
 ![Page 20](output/ocr/tables/images/District-Consolidation-Data_100-116_page_20.jpg)
 
 ### Transcription
@@ -1135,7 +1108,6 @@ Union Free Schools
 ---
 
 ## Page 21
-
 ![Page 21](output/ocr/tables/images/District-Consolidation-Data_100-116_page_21.jpg)
 
 ### Transcription
@@ -1253,7 +1225,6 @@ Below is the transcription of the tabular data from the provided document, maint
 ---
 
 ## Page 22
-
 ![Page 22](output/ocr/tables/images/District-Consolidation-Data_100-116_page_22.jpg)
 
 ### Transcription
@@ -1435,7 +1406,6 @@ W.S. Schist
 ---
 
 ## Page 23
-
 ![Page 23](output/ocr/tables/images/District-Consolidation-Data_100-116_page_23.jpg)
 
 ### Transcription
@@ -1450,7 +1420,6 @@ Union Free Schools
 ---
 
 ## Page 24
-
 ![Page 24](output/ocr/tables/images/District-Consolidation-Data_100-116_page_24.jpg)
 
 ### Transcription
@@ -1470,7 +1439,6 @@ Town School Units
 ---
 
 ## Page 25
-
 ![Page 25](output/ocr/tables/images/District-Consolidation-Data_100-116_page_25.jpg)
 
 ### Transcription
@@ -1520,16 +1488,7 @@ Below is the transcription of the tabular data from the document, preserving the
 
 ---
 
-**Notes:**
-
-- Pre-printed text is in a lighter font, while handwritten entries are in a darker, cursive style.
-- Blank fields are indicated as `[blank]`.
-- The document includes handwritten
-
----
-
 ## Page 26
-
 ![Page 26](output/ocr/tables/images/District-Consolidation-Data_100-116_page_26.jpg)
 
 ### Transcription
@@ -1598,7 +1557,6 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 27
-
 ![Page 27](output/ocr/tables/images/District-Consolidation-Data_100-116_page_27.jpg)
 
 ### Transcription
@@ -1676,7 +1634,6 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 28
-
 ![Page 28](output/ocr/tables/images/District-Consolidation-Data_100-116_page_28.jpg)
 
 ### Transcription
@@ -1713,7 +1670,6 @@ Chenango County
 ---
 
 ## Page 29
-
 ![Page 29](output/ocr/tables/images/District-Consolidation-Data_100-116_page_29.jpg)
 
 ### Transcription
@@ -1742,7 +1698,6 @@ Union Free Schools
 ---
 
 ## Page 30
-
 ![Page 30](output/ocr/tables/images/District-Consolidation-Data_100-116_page_30.jpg)
 
 ### Transcription
@@ -1770,7 +1725,6 @@ Town School Units
 ---
 
 ## Page 31
-
 ![Page 31](output/ocr/tables/images/District-Consolidation-Data_100-116_page_31.jpg)
 
 ### Transcription
@@ -1909,7 +1863,6 @@ Central Rural Schools
 ---
 
 ## Page 32
-
 ![Page 32](output/ocr/tables/images/District-Consolidation-Data_100-116_page_32.jpg)
 
 ### Transcription
@@ -1989,7 +1942,6 @@ Consolidated Districts
 ---
 
 ## Page 33
-
 ![Page 33](output/ocr/tables/images/District-Consolidation-Data_100-116_page_33.jpg)
 
 ### Transcription
@@ -2029,7 +1981,6 @@ Consolidated and Central Districts
 ---
 
 ## Page 34
-
 ![Page 34](output/ocr/tables/images/District-Consolidation-Data_100-116_page_34.jpg)
 
 ### Transcription
@@ -2052,7 +2003,6 @@ Union Free Schools
 ---
 
 ## Page 35
-
 ![Page 35](output/ocr/tables/images/District-Consolidation-Data_100-116_page_35.jpg)
 
 ### Transcription
@@ -2080,7 +2030,6 @@ Town School Units
 ---
 
 ## Page 36
-
 ![Page 36](output/ocr/tables/images/District-Consolidation-Data_100-116_page_36.jpg)
 
 ### Transcription
@@ -2157,7 +2106,6 @@ Below is the transcription of the document, preserving the table structure and f
 ---
 
 ## Page 37
-
 ![Page 37](output/ocr/tables/images/District-Consolidation-Data_100-116_page_37.jpg)
 
 ### Transcription
@@ -2174,7 +2122,6 @@ Union Free Schools
 ---
 
 ## Page 38
-
 ![Page 38](output/ocr/tables/images/District-Consolidation-Data_100-116_page_38.jpg)
 
 ### Transcription
@@ -2249,7 +2196,6 @@ Below is the transcription of the document, preserving the table structure and f
 ---
 
 ## Page 39
-
 ![Page 39](output/ocr/tables/images/District-Consolidation-Data_100-116_page_39.jpg)
 
 ### Transcription
@@ -2315,7 +2261,6 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 40
-
 ![Page 40](output/ocr/tables/images/District-Consolidation-Data_100-116_page_40.jpg)
 
 ### Transcription
@@ -2336,7 +2281,6 @@ Union Free Schools
 ---
 
 ## Page 41
-
 ![Page 41](output/ocr/tables/images/District-Consolidation-Data_100-116_page_41.jpg)
 
 ### Transcription
@@ -2366,7 +2310,6 @@ Town School Units
 ---
 
 ## Page 42
-
 ![Page 42](output/ocr/tables/images/District-Consolidation-Data_100-116_page_42.jpg)
 
 ### Transcription
@@ -2416,7 +2359,6 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 43
-
 ![Page 43](output/ocr/tables/images/District-Consolidation-Data_100-116_page_43.jpg)
 
 ### Transcription
@@ -2467,7 +2409,6 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 44
-
 ![Page 44](output/ocr/tables/images/District-Consolidation-Data_100-116_page_44.jpg)
 
 ### Transcription
@@ -2502,7 +2443,6 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 45
-
 ![Page 45](output/ocr/tables/images/District-Consolidation-Data_100-116_page_45.jpg)
 
 ### Transcription
@@ -2523,7 +2463,6 @@ Delaware County
 ---
 
 ## Page 46
-
 ![Page 46](output/ocr/tables/images/District-Consolidation-Data_100-116_page_46.jpg)
 
 ### Transcription
@@ -2547,7 +2486,6 @@ Union Free Schools
 ---
 
 ## Page 47
-
 ![Page 47](output/ocr/tables/images/District-Consolidation-Data_100-116_page_47.jpg)
 
 ### Transcription
@@ -2568,7 +2506,6 @@ Town School Units
 ---
 
 ## Page 48
-
 ![Page 48](output/ocr/tables/images/District-Consolidation-Data_100-116_page_48.jpg)
 
 ### Transcription
@@ -2619,7 +2556,6 @@ This transcription accurately reflects the content and layout of the original do
 ---
 
 ## Page 49
-
 ![Page 49](output/ocr/tables/images/District-Consolidation-Data_100-116_page_49.jpg)
 
 ### Transcription
@@ -2653,7 +2589,6 @@ Dutchess County
 ---
 
 ## Page 50
-
 ![Page 50](output/ocr/tables/images/District-Consolidation-Data_100-116_page_50.jpg)
 
 ### Transcription
@@ -2695,7 +2630,6 @@ Union Free Schools
 ---
 
 ## Page 51
-
 ![Page 51](output/ocr/tables/images/District-Consolidation-Data_100-116_page_51.jpg)
 
 ### Transcription
@@ -2780,7 +2714,6 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 52
-
 ![Page 52](output/ocr/tables/images/District-Consolidation-Data_100-116_page_52.jpg)
 
 ### Transcription
@@ -2816,7 +2749,6 @@ Erie County
 ---
 
 ## Page 53
-
 ![Page 53](output/ocr/tables/images/District-Consolidation-Data_100-116_page_53.jpg)
 
 ### Transcription
@@ -2844,7 +2776,6 @@ Erie County
 ---
 
 ## Page 54
-
 ![Page 54](output/ocr/tables/images/District-Consolidation-Data_100-116_page_54.jpg)
 
 ### Transcription
@@ -2863,7 +2794,6 @@ Union Free Schools
 ---
 
 ## Page 55
-
 ![Page 55](output/ocr/tables/images/District-Consolidation-Data_100-116_page_55.jpg)
 
 ### Transcription
@@ -2882,7 +2812,6 @@ Union Free Schools
 ---
 
 ## Page 56
-
 ![Page 56](output/ocr/tables/images/District-Consolidation-Data_100-116_page_56.jpg)
 
 ### Transcription
@@ -2949,7 +2878,6 @@ Consolidated Districts
 ---
 
 ## Page 57
-
 ![Page 57](output/ocr/tables/images/District-Consolidation-Data_100-116_page_57.jpg)
 
 ### Transcription
@@ -2987,7 +2915,6 @@ County
 ---
 
 ## Page 58
-
 ![Page 58](output/ocr/tables/images/District-Consolidation-Data_100-116_page_58.jpg)
 
 ### Transcription
@@ -3017,7 +2944,6 @@ Union Free Schools
 ---
 
 ## Page 59
-
 ![Page 59](output/ocr/tables/images/District-Consolidation-Data_100-116_page_59.jpg)
 
 ### Transcription
@@ -3037,7 +2963,6 @@ Town School Units
 ---
 
 ## Page 60
-
 ![Page 60](output/ocr/tables/images/District-Consolidation-Data_100-116_page_60.jpg)
 
 ### Transcription
@@ -3134,7 +3059,6 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 61
-
 ![Page 61](output/ocr/tables/images/District-Consolidation-Data_100-116_page_61.jpg)
 
 ### Transcription
@@ -3184,7 +3108,6 @@ Below is the transcription of the tabular data from the provided document, maint
 ---
 
 ## Page 62
-
 ![Page 62](output/ocr/tables/images/District-Consolidation-Data_100-116_page_62.jpg)
 
 ### Transcription
@@ -3197,7 +3120,6 @@ Below is the transcription of the tabular data from the provided document, maint
 ---
 
 ## Page 63
-
 ![Page 63](output/ocr/tables/images/District-Consolidation-Data_100-116_page_63.jpg)
 
 ### Transcription
@@ -3210,7 +3132,6 @@ Below is the transcription of the tabular data from the provided document, maint
 ---
 
 ## Page 64
-
 ![Page 64](output/ocr/tables/images/District-Consolidation-Data_100-116_page_64.jpg)
 
 ### Transcription
@@ -3284,7 +3205,6 @@ This transcription ensures that the structure and content of the original docume
 ---
 
 ## Page 65
-
 ![Page 65](output/ocr/tables/images/District-Consolidation-Data_100-116_page_65.jpg)
 
 ### Transcription
@@ -3315,7 +3235,6 @@ Union Free Schools
 ---
 
 ## Page 66
-
 ![Page 66](output/ocr/tables/images/District-Consolidation-Data_100-116_page_66.jpg)
 
 ### Transcription
@@ -3333,7 +3252,6 @@ Town School Units
 ---
 
 ## Page 67
-
 ![Page 67](output/ocr/tables/images/District-Consolidation-Data_100-116_page_67.jpg)
 
 ### Transcription
@@ -3383,7 +3301,6 @@ Examples of handwritten notes:
 ---
 
 ## Page 68
-
 ![Page 68](output/ocr/tables/images/District-Consolidation-Data_100-116_page_68.jpg)
 
 ### Transcription
@@ -3411,7 +3328,6 @@ Page 131
 ---
 
 ## Page 69
-
 ![Page 69](output/ocr/tables/images/District-Consolidation-Data_100-116_page_69.jpg)
 
 ### Transcription
@@ -3435,7 +3351,6 @@ Union Free Schools
 ---
 
 ## Page 70
-
 ![Page 70](output/ocr/tables/images/District-Consolidation-Data_100-116_page_70.jpg)
 
 ### Transcription
@@ -3474,7 +3389,6 @@ Consolidated Districts
 ---
 
 ## Page 71
-
 ![Page 71](output/ocr/tables/images/District-Consolidation-Data_100-116_page_71.jpg)
 
 ### Transcription
@@ -3510,7 +3424,6 @@ Union Free Schools
 ---
 
 ## Page 72
-
 ![Page 72](output/ocr/tables/images/District-Consolidation-Data_100-116_page_72.jpg)
 
 ### Transcription
@@ -3537,7 +3450,6 @@ Town School Units
 ---
 
 ## Page 73
-
 ![Page 73](output/ocr/tables/images/District-Consolidation-Data_100-116_page_73.jpg)
 
 ### Transcription
@@ -3615,7 +3527,6 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 74
-
 ![Page 74](output/ocr/tables/images/District-Consolidation-Data_100-116_page_74.jpg)
 
 ### Transcription
@@ -3671,7 +3582,6 @@ This transcription preserves the table structure, column alignment, and handwrit
 ---
 
 ## Page 75
-
 ![Page 75](output/ocr/tables/images/District-Consolidation-Data_100-116_page_75.jpg)
 
 ### Transcription
@@ -3685,7 +3595,6 @@ This transcription preserves the table structure, column alignment, and handwrit
 ---
 
 ## Page 76
-
 ![Page 76](output/ocr/tables/images/District-Consolidation-Data_100-116_page_76.jpg)
 
 ### Transcription
@@ -3707,7 +3616,6 @@ Union Free Schools
 ---
 
 ## Page 77
-
 ![Page 77](output/ocr/tables/images/District-Consolidation-Data_100-116_page_77.jpg)
 
 ### Transcription
@@ -3739,7 +3647,6 @@ Town School Units
 ---
 
 ## Page 78
-
 ![Page 78](output/ocr/tables/images/District-Consolidation-Data_100-116_page_78.jpg)
 
 ### Transcription
@@ -3798,7 +3705,6 @@ This transcription maintains the original structure and formatting of the docume
 ---
 
 ## Page 79
-
 ![Page 79](output/ocr/tables/images/District-Consolidation-Data_100-116_page_79.jpg)
 
 ### Transcription
@@ -3871,7 +3777,6 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 80
-
 ![Page 80](output/ocr/tables/images/District-Consolidation-Data_100-116_page_80.jpg)
 
 ### Transcription
@@ -4010,7 +3915,6 @@ Jefferson County
 ---
 
 ## Page 81
-
 ![Page 81](output/ocr/tables/images/District-Consolidation-Data_100-116_page_81.jpg)
 
 ### Transcription
@@ -4044,7 +3948,6 @@ Union Free Schools
 ---
 
 ## Page 82
-
 ![Page 82](output/ocr/tables/images/District-Consolidation-Data_100-116_page_82.jpg)
 
 ### Transcription
@@ -4062,7 +3965,6 @@ Town School Units
 ---
 
 ## Page 83
-
 ![Page 83](output/ocr/tables/images/District-Consolidation-Data_100-116_page_83.jpg)
 
 ### Transcription
@@ -4129,7 +4031,6 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 84
-
 ![Page 84](output/ocr/tables/images/District-Consolidation-Data_100-116_page_84.jpg)
 
 ### Transcription
@@ -4177,7 +4078,6 @@ Consolidated and Central Districts
 ---
 
 ## Page 85
-
 ![Page 85](output/ocr/tables/images/District-Consolidation-Data_100-116_page_85.jpg)
 
 ### Transcription
@@ -4208,7 +4108,6 @@ Union Free Schools
 ---
 
 ## Page 86
-
 ![Page 86](output/ocr/tables/images/District-Consolidation-Data_100-116_page_86.jpg)
 
 ### Transcription
@@ -4229,7 +4128,6 @@ Town School Units
 ---
 
 ## Page 87
-
 ![Page 87](output/ocr/tables/images/District-Consolidation-Data_100-116_page_87.jpg)
 
 ### Transcription
@@ -4259,7 +4157,6 @@ Below is the transcription of the tabular data from the provided document, maint
 ---
 
 ## Page 88
-
 ![Page 88](output/ocr/tables/images/District-Consolidation-Data_100-116_page_88.jpg)
 
 ### Transcription
@@ -4329,7 +4226,6 @@ County 165
 ---
 
 ## Page 89
-
 ![Page 89](output/ocr/tables/images/District-Consolidation-Data_100-116_page_89.jpg)
 
 ### Transcription
@@ -4357,7 +4253,6 @@ Union Free Schools
 ---
 
 ## Page 90
-
 ![Page 90](output/ocr/tables/images/District-Consolidation-Data_100-116_page_90.jpg)
 
 ### Transcription
@@ -4379,7 +4274,6 @@ Town School Units
 ---
 
 ## Page 91
-
 ![Page 91](output/ocr/tables/images/District-Consolidation-Data_100-116_page_91.jpg)
 
 ### Transcription
@@ -4428,18 +4322,7 @@ Below is the transcription of the tabular data from the provided document, maint
 
 ---
 
-**Notes:**
-
-- Pre-printed text is indicated in bold or regular font.
-- Handwritten entries are noted where applicable.
-- Blank fields are marked as `[blank]`.
-- Dates and numbers are aligned according to their respective columns.
-- Remarks column includes additional notes or clarifications related to the district consolidation
-
----
-
 ## Page 92
-
 ![Page 92](output/ocr/tables/images/District-Consolidation-Data_100-116_page_92.jpg)
 
 ### Transcription
@@ -4491,7 +4374,6 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 93
-
 ![Page 93](output/ocr/tables/images/District-Consolidation-Data_100-116_page_93.jpg)
 
 ### Transcription
@@ -4549,7 +4431,6 @@ Page 173
 ---
 
 ## Page 94
-
 ![Page 94](output/ocr/tables/images/District-Consolidation-Data_100-116_page_94.jpg)
 
 ### Transcription
@@ -4574,7 +4455,6 @@ Madison County
 ---
 
 ## Page 95
-
 ![Page 95](output/ocr/tables/images/District-Consolidation-Data_100-116_page_95.jpg)
 
 ### Transcription
@@ -4615,7 +4495,6 @@ Union Free Schools
 ---
 
 ## Page 96
-
 ![Page 96](output/ocr/tables/images/District-Consolidation-Data_100-116_page_96.jpg)
 
 ### Transcription
@@ -4713,7 +4592,6 @@ Below is the transcription of the structured document, preserving the table/form
 ---
 
 ## Page 97
-
 ![Page 97](output/ocr/tables/images/District-Consolidation-Data_100-116_page_97.jpg)
 
 ### Transcription
@@ -4735,7 +4613,6 @@ Monroe County
 ---
 
 ## Page 98
-
 ![Page 98](output/ocr/tables/images/District-Consolidation-Data_100-116_page_98.jpg)
 
 ### Transcription
@@ -4763,7 +4640,6 @@ Union Free Schools
 ---
 
 ## Page 99
-
 ![Page 99](output/ocr/tables/images/District-Consolidation-Data_100-116_page_99.jpg)
 
 ### Transcription
@@ -4792,7 +4668,6 @@ Union Free Schools
 ---
 
 ## Page 100
-
 ![Page 100](output/ocr/tables/images/District-Consolidation-Data_100-116_page_100.jpg)
 
 ### Transcription
@@ -4830,7 +4705,6 @@ Consolidated Districts
 ---
 
 ## Page 101
-
 ![Page 101](output/ocr/tables/images/District-Consolidation-Data_100-116_page_101.jpg)
 
 ### Transcription
@@ -4873,7 +4747,6 @@ Consolidated Districts
 ---
 
 ## Page 102
-
 ![Page 102](output/ocr/tables/images/District-Consolidation-Data_100-116_page_102.jpg)
 
 ### Transcription
@@ -4935,7 +4808,6 @@ Union Free Schools
 ---
 
 ## Page 103
-
 ![Page 103](output/ocr/tables/images/District-Consolidation-Data_100-116_page_103.jpg)
 
 ### Transcription
@@ -4996,7 +4868,6 @@ Union Free Schools
 ---
 
 ## Page 104
-
 ![Page 104](output/ocr/tables/images/District-Consolidation-Data_100-116_page_104.jpg)
 
 ### Transcription
@@ -5038,7 +4909,6 @@ Consolidated Districts
 ---
 
 ## Page 105
-
 ![Page 105](output/ocr/tables/images/District-Consolidation-Data_100-116_page_105.jpg)
 
 ### Transcription
@@ -5069,7 +4939,6 @@ Union Free Schools
 ---
 
 ## Page 106
-
 ![Page 106](output/ocr/tables/images/District-Consolidation-Data_100-116_page_106.jpg)
 
 ### Transcription
@@ -5117,18 +4986,7 @@ Below is the transcription of the tabular data from the document, preserving the
 
 ---
 
-**Notes:**
-
-- Pre-printed text is indicated where visible in the original document.
-- Handwritten entries are transcribed as they appear, including dates, names, and remarks.
-- Blank fields are marked as `[blank]` where no information is present.
-- The table structure is maintained with clear column separation using `|`.
-- Alignment is preserved where meaningful, such as dates and remarks.
-
----
-
 ## Page 107
-
 ![Page 107](output/ocr/tables/images/District-Consolidation-Data_100-116_page_107.jpg)
 
 ### Transcription
@@ -5158,7 +5016,6 @@ Union Free Schools
 ---
 
 ## Page 108
-
 ![Page 108](output/ocr/tables/images/District-Consolidation-Data_100-116_page_108.jpg)
 
 ### Transcription
@@ -5185,7 +5042,6 @@ Town School Units
 ---
 
 ## Page 109
-
 ![Page 109](output/ocr/tables/images/District-Consolidation-Data_100-116_page_109.jpg)
 
 ### Transcription
@@ -5233,7 +5089,6 @@ Below is the transcription of the tabular data from the provided document, maint
 ---
 
 ## Page 110
-
 ![Page 110](output/ocr/tables/images/District-Consolidation-Data_100-116_page_110.jpg)
 
 ### Transcription
@@ -5331,7 +5186,6 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 111
-
 ![Page 111](output/ocr/tables/images/District-Consolidation-Data_100-116_page_111.jpg)
 
 ### Transcription
@@ -5471,7 +5325,6 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 112
-
 ![Page 112](output/ocr/tables/images/District-Consolidation-Data_100-116_page_112.jpg)
 
 ### Transcription
@@ -5510,7 +5363,6 @@ Union Free Schools
 ---
 
 ## Page 113
-
 ![Page 113](output/ocr/tables/images/District-Consolidation-Data_100-116_page_113.jpg)
 
 ### Transcription
@@ -5536,7 +5388,6 @@ Town School Units
 ---
 
 ## Page 114
-
 ![Page 114](output/ocr/tables/images/District-Consolidation-Data_100-116_page_114.jpg)
 
 ### Transcription
@@ -5608,7 +5459,6 @@ Consolidated Districts
 ---
 
 ## Page 115
-
 ![Page 115](output/ocr/tables/images/District-Consolidation-Data_100-116_page_115.jpg)
 
 ### Transcription
@@ -5681,7 +5531,6 @@ Candidate Districts
 ---
 
 ## Page 116
-
 ![Page 116](output/ocr/tables/images/District-Consolidation-Data_100-116_page_116.jpg)
 
 ### Transcription
@@ -5709,3 +5558,4 @@ Ouadaga County
 - The rest of the table is blank.
 
 ---
+

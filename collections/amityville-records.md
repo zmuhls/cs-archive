@@ -8,8 +8,6 @@ toc_label: "Pages"
 toc_icon: "file-alt"
 ---
 
-# Amityville Board of Education Records
-
 **Document Type:** Meeting Minutes
 
 **Source:** NYS Archives Series A4456

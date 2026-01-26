@@ -8,8 +8,6 @@ toc_label: "Pages"
 toc_icon: "table"
 ---
 
-# District Consolidation Data (Counties 100-116)
-
 **Document Type:** Statistical Tables
 
 **Source:** NYS Archives Series B0494

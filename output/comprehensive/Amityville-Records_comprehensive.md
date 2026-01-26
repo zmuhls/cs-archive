@@ -12,6 +12,8 @@ Meeting minutes and administrative records from the Amityville Union Free School
 
 ---
 
+
+
 ## Table of Contents
 
 - [Page 1](#page-1)
@@ -683,8 +685,7 @@ Meeting minutes and administrative records from the Amityville Union Free School
 ---
 
 ## Page 1
-
-![Page 1](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_1.png)
+![Page 1](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_1.png)
 
 ### Transcription
 
@@ -722,8 +723,7 @@ START
 ---
 
 ## Page 2
-
-![Page 2](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_2.png)
+![Page 2](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_2.png)
 
 ### Transcription
 
@@ -733,8 +733,7 @@ July 24, 1935
 ---
 
 ## Page 3
-
-![Page 3](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_3.png)
+![Page 3](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_3.png)
 
 ### Transcription
 
@@ -760,8 +759,7 @@ The following resolution was thereupon unanimously adopted:
 ---
 
 ## Page 4
-
-![Page 4](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_4.png)
+![Page 4](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_4.png)
 
 ### Transcription
 
@@ -788,8 +786,7 @@ High School 270
 ---
 
 ## Page 5
-
-![Page 5](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_5.png)
+![Page 5](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_5.png)
 
 ### Transcription
 
@@ -846,8 +843,7 @@ Bardens School Supplies Co. [illegible]
 ---
 
 ## Page 6
-
-![Page 6](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_6.png)
+![Page 6](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_6.png)
 
 ### Transcription
 
@@ -899,8 +895,7 @@ the request was granted subject to the approval of Mr. Huff.
 ---
 
 ## Page 7
-
-![Page 7](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_7.png)
+![Page 7](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_7.png)
 
 ### Transcription
 
@@ -923,8 +918,7 @@ On behalf of the blue Triangle Club of the Y.N.C.A., Mrs. Hartman asked authorit
 ---
 
 ## Page 8
-
-![Page 8](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_8.png)
+![Page 8](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_8.png)
 
 ### Transcription
 
@@ -959,8 +953,7 @@ Mr. Ruff reported that he had authorized the Fire and Drum Corps of the American
 ---
 
 ## Page 9
-
-![Page 9](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_9.png)
+![Page 9](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_9.png)
 
 ### Transcription
 
@@ -1011,8 +1004,7 @@ Charles E. Merrill Co.                  6.05
 ---
 
 ## Page 10
-
-![Page 10](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_10.png)
+![Page 10](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_10.png)
 
 ### Transcription
 
@@ -1054,8 +1046,7 @@ CLERK
 ---
 
 ## Page 11
-
-![Page 11](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_11.png)
+![Page 11](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_11.png)
 
 ### Transcription
 
@@ -1118,8 +1109,7 @@ Milford H. Ketcham 1,058.00
 ---
 
 ## Page 12
-
-![Page 12](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_12.png)
+![Page 12](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_12.png)
 
 ### Transcription
 
@@ -1151,8 +1141,7 @@ Moved, duly seconded and carried, that forty-one teachers be reimbursed for carf
 ---
 
 ## Page 13
-
-![Page 13](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_13.png)
+![Page 13](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_13.png)
 
 ### Transcription
 
@@ -1203,8 +1192,7 @@ Stevenson & Marsters, Inc.          12.48
 ---
 
 ## Page 14
-
-![Page 14](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_14.png)
+![Page 14](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_14.png)
 
 ### Transcription
 
@@ -1224,8 +1212,7 @@ Clerk.
 ---
 
 ## Page 15
-
-![Page 15](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_15.png)
+![Page 15](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_15.png)
 
 ### Transcription
 
@@ -1273,8 +1260,7 @@ District whether:
 ---
 
 ## Page 16
-
-![Page 16](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_16.png)
+![Page 16](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_16.png)
 
 ### Transcription
 
@@ -1292,8 +1278,7 @@ Clerk.
 ---
 
 ## Page 17
-
-![Page 17](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_17.png)
+![Page 17](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_17.png)
 
 ### Transcription
 
@@ -1335,8 +1320,7 @@ Clerk
 ---
 
 ## Page 18
-
-![Page 18](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_18.png)
+![Page 18](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_18.png)
 
 ### Transcription
 
@@ -1372,8 +1356,7 @@ There being no further business the meeting thereupon adjourned.
 ---
 
 ## Page 19
-
-![Page 19](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_19.png)
+![Page 19](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_19.png)
 
 ### Transcription
 
@@ -1430,8 +1413,7 @@ of the matter had approved the use of the auditorium by the team.
 ---
 
 ## Page 20
-
-![Page 20](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_20.png)
+![Page 20](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_20.png)
 
 ### Transcription
 
@@ -1500,8 +1482,7 @@ Roger Smith                   3.00
 ---
 
 ## Page 21
-
-![Page 21](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_21.png)
+![Page 21](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_21.png)
 
 ### Transcription
 
@@ -1538,8 +1519,7 @@ Certain recommendations affecting the detailed arrangement of the proposed grade
 ---
 
 ## Page 22
-
-![Page 22](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_22.png)
+![Page 22](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_22.png)
 
 ### Transcription
 
@@ -1552,8 +1532,7 @@ There is one further suggestion that I believe is worthy of the very serious con
 ---
 
 ## Page 23
-
-![Page 23](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_23.png)
+![Page 23](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_23.png)
 
 ### Transcription
 
@@ -1577,8 +1556,7 @@ DATE FILLED 4-4-94]
 ---
 
 ## Page 24
-
-![Page 24](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_24.png)
+![Page 24](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_24.png)
 
 ### Transcription
 
@@ -1619,8 +1597,7 @@ Clerk.
 ---
 
 ## Page 25
-
-![Page 25](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_25.png)
+![Page 25](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_25.png)
 
 ### Transcription
 
@@ -1658,8 +1635,7 @@ Letter received from Harold K. Chadwick and Alex. G. Webber of December 30, 1930
 ---
 
 ## Page 26
-
-![Page 26](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_26.png)
+![Page 26](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_26.png)
 
 ### Transcription
 
@@ -1686,8 +1662,7 @@ The President announced the following changes in the standing committees:
 ---
 
 ## Page 27
-
-![Page 27](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_27.png)
+![Page 27](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_27.png)
 
 ### Transcription
 
@@ -1730,8 +1705,7 @@ The following bills were read by the Clerk; ordered paid if found correct by the
 ---
 
 ## Page 28
-
-![Page 28](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_28.png)
+![Page 28](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_28.png)
 
 ### Transcription
 
@@ -1772,8 +1746,7 @@ Clerk.
 ---
 
 ## Page 29
-
-![Page 29](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_29.png)
+![Page 29](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_29.png)
 
 ### Transcription
 
@@ -1829,8 +1802,7 @@ accordingly.
 ---
 
 ## Page 30
-
-![Page 30](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_30.png)
+![Page 30](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_30.png)
 
 ### Transcription
 
@@ -1860,8 +1832,7 @@ On motion made, duly seconded and carried, it was voted that the minutes of the 
 ---
 
 ## Page 31
-
-![Page 31](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_31.png)
+![Page 31](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_31.png)
 
 ### Transcription
 
@@ -1915,8 +1886,7 @@ B. H. Jeffers                                                   1.00
 ---
 
 ## Page 32
-
-![Page 32](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_32.png)
+![Page 32](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_32.png)
 
 ### Transcription
 
@@ -1944,8 +1914,7 @@ DATE FILMED: 4-1-09]
 ---
 
 ## Page 33
-
-![Page 33](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_33.png)
+![Page 33](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_33.png)
 
 ### Transcription
 
@@ -1998,8 +1967,7 @@ fire rate on school buildings that refunds of insurance
 ---
 
 ## Page 34
-
-![Page 34](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_34.png)
+![Page 34](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_34.png)
 
 ### Transcription
 
@@ -2046,8 +2014,7 @@ Ella Bull 2300.00
 ---
 
 ## Page 35
-
-![Page 35](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_35.png)
+![Page 35](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_35.png)
 
 ### Transcription
 
@@ -2089,8 +2056,7 @@ Mr. Whitmore asked the Board to take action on the building program and recommen
 ---
 
 ## Page 36
-
-![Page 36](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_36.png)
+![Page 36](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_36.png)
 
 ### Transcription
 
@@ -2142,8 +2108,7 @@ John A. Ketcham 73.50
 ---
 
 ## Page 37
-
-![Page 37](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_37.png)
+![Page 37](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_37.png)
 
 ### Transcription
 
@@ -2182,8 +2147,7 @@ On motion made, duly seconded and carried, the Building and Grounds Committee we
 ---
 
 ## Page 38
-
-![Page 38](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_38.png)
+![Page 38](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_38.png)
 
 ### Transcription
 
@@ -2213,8 +2177,7 @@ Secretary
 ---
 
 ## Page 39
-
-![Page 39](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_39.png)
+![Page 39](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_39.png)
 
 ### Transcription
 
@@ -2249,8 +2212,7 @@ RESOLVED, that the Board of Education of Joint Union Free School District No. 6,
 ---
 
 ## Page 40
-
-![Page 40](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_40.png)
+![Page 40](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_40.png)
 
 ### Transcription
 
@@ -2266,8 +2228,7 @@ Acting Secretary.
 ---
 
 ## Page 41
-
-![Page 41](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_41.png)
+![Page 41](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_41.png)
 
 ### Transcription
 
@@ -2325,8 +2286,7 @@ a locker built in the room used by the Home Economics Department.
 ---
 
 ## Page 42
-
-![Page 42](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_42.png)
+![Page 42](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_42.png)
 
 ### Transcription
 
@@ -2393,8 +2353,7 @@ Conference and that the District pay his expenses.
 ---
 
 ## Page 43
-
-![Page 43](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_43.png)
+![Page 43](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_43.png)
 
 ### Transcription
 
@@ -2442,8 +2401,7 @@ Arthur H. Lundberg                       50.00
 ---
 
 ## Page 44
-
-![Page 44](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_44.png)
+![Page 44](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_44.png)
 
 ### Transcription
 
@@ -2481,8 +2439,7 @@ DATE FILMED: 4-19-61]
 ---
 
 ## Page 45
-
-![Page 45](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_45.png)
+![Page 45](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_45.png)
 
 ### Transcription
 
@@ -2521,8 +2478,7 @@ Laura L. Felske - Grade - 1,500.00.
 ---
 
 ## Page 46
-
-![Page 46](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_46.png)
+![Page 46](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_46.png)
 
 ### Transcription
 
@@ -2576,8 +2532,7 @@ There being no further business the meeting thereupon adjourned.
 ---
 
 ## Page 47
-
-![Page 47](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_47.png)
+![Page 47](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_47.png)
 
 ### Transcription
 
@@ -2619,8 +2574,7 @@ The Clerk read letter of District Superintendent Leonard J. Smith dated April 29
 ---
 
 ## Page 48
-
-![Page 48](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_48.png)
+![Page 48](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_48.png)
 
 ### Transcription
 
@@ -2688,8 +2642,7 @@ new one.
 ---
 
 ## Page 49
-
-![Page 49](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_49.png)
+![Page 49](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_49.png)
 
 ### Transcription
 
@@ -2723,8 +2676,7 @@ In a letter dated May 5th, George A. Brown made application for appointment an D
 ---
 
 ## Page 50
-
-![Page 50](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_50.png)
+![Page 50](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_50.png)
 
 ### Transcription
 
@@ -2770,8 +2722,7 @@ Clerk.
 ---
 
 ## Page 51
-
-![Page 51](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_51.png)
+![Page 51](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_51.png)
 
 ### Transcription
 
@@ -2813,8 +2764,7 @@ Clerk.
 ---
 
 ## Page 52
-
-![Page 52](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_52.png)
+![Page 52](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_52.png)
 
 ### Transcription
 
@@ -2868,8 +2818,7 @@ encumberances encroaching on the school property had agreed to
 ---
 
 ## Page 53
-
-![Page 53](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_53.png)
+![Page 53](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_53.png)
 
 ### Transcription
 
@@ -2894,8 +2843,7 @@ The Building and Grounds Committee reported that two additional outside classroo
 ---
 
 ## Page 54
-
-![Page 54](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_54.png)
+![Page 54](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_54.png)
 
 ### Transcription
 
@@ -2924,8 +2872,7 @@ The Teachers Committee reported no unexcusable absences for the month of May but
 ---
 
 ## Page 55
-
-![Page 55](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_55.png)
+![Page 55](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_55.png)
 
 ### Transcription
 
@@ -2996,8 +2943,7 @@ The Clerk was instructed to advertise for bids for supplying 175 gross tons of b
 ---
 
 ## Page 56
-
-![Page 56](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_56.png)
+![Page 56](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_56.png)
 
 ### Transcription
 
@@ -3045,8 +2991,7 @@ There being no further business the meeting thereupon adjourned.
 ---
 
 ## Page 57
-
-![Page 57](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_57.png)
+![Page 57](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_57.png)
 
 ### Transcription
 
@@ -3092,8 +3037,7 @@ Clerk
 ---
 
 ## Page 58
-
-![Page 58](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_58.png)
+![Page 58](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_58.png)
 
 ### Transcription
 
@@ -3150,8 +3094,7 @@ secure estimates for the following repairs:
 ---
 
 ## Page 59
-
-![Page 59](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_59.png)
+![Page 59](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_59.png)
 
 ### Transcription
 
@@ -3208,8 +3151,7 @@ prepare and execute contract accordingly.
 ---
 
 ## Page 60
-
-![Page 60](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_60.png)
+![Page 60](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_60.png)
 
 ### Transcription
 
@@ -3274,8 +3216,7 @@ Total - 186 days
 ---
 
 ## Page 61
-
-![Page 61](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_61.png)
+![Page 61](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_61.png)
 
 ### Transcription
 
@@ -3304,8 +3245,7 @@ The Board thereupon went into executive session for the preparation of a budget 
 ---
 
 ## Page 62
-
-![Page 62](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_62.png)
+![Page 62](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_62.png)
 
 ### Transcription
 
@@ -3354,8 +3294,7 @@ Emmanuel Hirsch                      156.00
 ---
 
 ## Page 63
-
-![Page 63](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_63.png)
+![Page 63](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_63.png)
 
 ### Transcription
 
@@ -3379,8 +3318,7 @@ CLERK.
 ---
 
 ## Page 64
-
-![Page 64](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_64.png)
+![Page 64](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_64.png)
 
 ### Transcription
 
@@ -3441,8 +3379,7 @@ at the same salaries as in effect the previous school year.
 ---
 
 ## Page 65
-
-![Page 65](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_65.png)
+![Page 65](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_65.png)
 
 ### Transcription
 
@@ -3479,8 +3416,7 @@ The minutes of the previous meeting read and no objections noted were ordered ad
 ---
 
 ## Page 66
-
-![Page 66](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_66.png)
+![Page 66](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_66.png)
 
 ### Transcription
 
@@ -3549,8 +3485,7 @@ The Buildings and Grounds Committee reported that the following repairs would be
 ---
 
 ## Page 67
-
-![Page 67](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_67.png)
+![Page 67](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_67.png)
 
 ### Transcription
 
@@ -3586,8 +3521,7 @@ The following bills were read by the Clerk and ordered referred to the Finance C
 ---
 
 ## Page 68
-
-![Page 68](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_68.png)
+![Page 68](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_68.png)
 
 ### Transcription
 
@@ -3622,8 +3556,7 @@ Secretary
 ---
 
 ## Page 69
-
-![Page 69](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_69.png)
+![Page 69](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_69.png)
 
 ### Transcription
 
@@ -3690,8 +3623,7 @@ of the Town of Oyster Bay for the year 1931 - 1932, is as follows:
 ---
 
 ## Page 70
-
-![Page 70](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_70.png)
+![Page 70](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_70.png)
 
 ### Transcription
 
@@ -3717,8 +3649,7 @@ IT IS FURTHER RESOLVED, that the District Clerk of this school district do and b
 ---
 
 ## Page 71
-
-![Page 71](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_71.png)
+![Page 71](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_71.png)
 
 ### Transcription
 
@@ -3855,8 +3786,7 @@ Alex Smith 2.00
 ---
 
 ## Page 72
-
-![Page 72](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_72.png)
+![Page 72](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_72.png)
 
 ### Transcription
 
@@ -3878,8 +3808,7 @@ Clerk.
 ---
 
 ## Page 73
-
-![Page 73](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_73.png)
+![Page 73](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_73.png)
 
 ### Transcription
 
@@ -3908,8 +3837,7 @@ The Board of Education of [illegible] Free School District No. [illegible] of [i
 ---
 
 ## Page 74
-
-![Page 74](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_74.png)
+![Page 74](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_74.png)
 
 ### Transcription
 
@@ -3956,8 +3884,7 @@ The Building and Grounds Committee recommended that the plans and specifications
 ---
 
 ## Page 75
-
-![Page 75](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_75.png)
+![Page 75](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_75.png)
 
 ### Transcription
 
@@ -3984,8 +3911,7 @@ Mrs. John Kierman of Amityville in a communication dated Sept. 21, 1931 requeste
 ---
 
 ## Page 76
-
-![Page 76](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_76.png)
+![Page 76](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_76.png)
 
 ### Transcription
 
@@ -4002,8 +3928,7 @@ There being no further business the meeting thereupon adjourned.
 ---
 
 ## Page 77
-
-![Page 77](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_77.png)
+![Page 77](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_77.png)
 
 ### Transcription
 
@@ -4038,8 +3963,7 @@ The Board heard report of Mrs. Hartman on visits made to neighboring schools to 
 ---
 
 ## Page 78
-
-![Page 78](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_78.png)
+![Page 78](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_78.png)
 
 ### Transcription
 
@@ -4096,8 +4020,7 @@ The MacMillan Company                    282.09
 ---
 
 ## Page 79
-
-![Page 79](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_79.png)
+![Page 79](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_79.png)
 
 ### Transcription
 
@@ -4143,8 +4066,7 @@ Clerk.
 ---
 
 ## Page 80
-
-![Page 80](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_80.png)
+![Page 80](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_80.png)
 
 ### Transcription
 
@@ -4222,8 +4144,7 @@ complying with the terms of the notice of sale was the bid of
 ---
 
 ## Page 81
-
-![Page 81](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_81.png)
+![Page 81](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_81.png)
 
 ### Transcription
 
@@ -4260,8 +4181,7 @@ KNOW ALL MEN BY THESE PRESENTS, that Joint Union Free School District No. 6, Tow
 ---
 
 ## Page 82
-
-![Page 82](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_82.png)
+![Page 82](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_82.png)
 
 ### Transcription
 
@@ -4276,8 +4196,7 @@ This bond may be registered as to principal only as well as to both principal an
 ---
 
 ## Page 83
-
-![Page 83](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_83.png)
+![Page 83](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_83.png)
 
 ### Transcription
 
@@ -4332,8 +4251,7 @@ transfer may be to bearer, after which this bond shall be
 ---
 
 ## Page 84
-
-![Page 84](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_84.png)
+![Page 84](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_84.png)
 
 ### Transcription
 
@@ -4378,8 +4296,7 @@ Signature of Registrar: __________________
 ---
 
 ## Page 85
-
-![Page 85](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_85.png)
+![Page 85](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_85.png)
 
 ### Transcription
 
@@ -4400,8 +4317,7 @@ The President announced that the Police Department did not have sufficient offic
 ---
 
 ## Page 86
-
-![Page 86](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_86.png)
+![Page 86](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_86.png)
 
 ### Transcription
 
@@ -4417,8 +4333,7 @@ There being no further business the meeting thereupon adjourned.
 ---
 
 ## Page 87
-
-![Page 87](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_87.png)
+![Page 87](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_87.png)
 
 ### Transcription
 
@@ -4475,8 +4390,7 @@ appeared before the Board and recommended that the trees be
 ---
 
 ## Page 88
-
-![Page 88](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_88.png)
+![Page 88](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_88.png)
 
 ### Transcription
 
@@ -4534,8 +4448,7 @@ indebtedness and for value received promises to pay to
 ---
 
 ## Page 89
-
-![Page 89](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_89.png)
+![Page 89](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_89.png)
 
 ### Transcription
 
@@ -4572,8 +4485,7 @@ corporate seal, attested by its Clerk, and this bond to be dated
 ---
 
 ## Page 90
-
-![Page 90](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_90.png)
+![Page 90](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_90.png)
 
 ### Transcription
 
@@ -4617,8 +4529,7 @@ wishes on a ballot furnished for that purpose.
 ---
 
 ## Page 91
-
-![Page 91](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_91.png)
+![Page 91](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_91.png)
 
 ### Transcription
 
@@ -4657,8 +4568,7 @@ Talens School Products, Inc. 248.92
 ---
 
 ## Page 92
-
-![Page 92](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_92.png)
+![Page 92](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_92.png)
 
 ### Transcription
 
@@ -4718,8 +4628,7 @@ The H. W. Wilson Co.                          4.50
 ---
 
 ## Page 93
-
-![Page 93](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_93.png)
+![Page 93](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_93.png)
 
 ### Transcription
 
@@ -4755,8 +4664,7 @@ Clerk
 ---
 
 ## Page 94
-
-![Page 94](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_94.png)
+![Page 94](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_94.png)
 
 ### Transcription
 
@@ -4833,8 +4741,7 @@ Indianapolis, IN 46202
 ---
 
 ## Page 95
-
-![Page 95](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_95.png)
+![Page 95](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_95.png)
 
 ### Transcription
 
@@ -4859,8 +4766,7 @@ NOV. 23, 1881
 ---
 
 ## Page 96
-
-![Page 96](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_96.png)
+![Page 96](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_96.png)
 
 ### Transcription
 
@@ -4900,8 +4806,7 @@ RESOLVED, that in accordance with the recommendation of the Building and Grounds
 ---
 
 ## Page 97
-
-![Page 97](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_97.png)
+![Page 97](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_97.png)
 
 ### Transcription
 
@@ -5040,8 +4945,7 @@ Total Low. 206786.60
 ---
 
 ## Page 98
-
-![Page 98](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_98.png)
+![Page 98](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_98.png)
 
 ### Transcription
 
@@ -5090,8 +4994,7 @@ The Amityville Chamber of Commerce in a communication dated November 28th asked 
 ---
 
 ## Page 99
-
-![Page 99](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_99.png)
+![Page 99](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_99.png)
 
 ### Transcription
 
@@ -5138,8 +5041,7 @@ Mildred L. Babcock                   19.11
 ---
 
 ## Page 100
-
-![Page 100](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_100.png)
+![Page 100](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_100.png)
 
 ### Transcription
 
@@ -5190,8 +5092,7 @@ There being no further business the meeting thereupon adjourned.
 ---
 
 ## Page 101
-
-![Page 101](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_101.png)
+![Page 101](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_101.png)
 
 ### Transcription
 
@@ -5223,8 +5124,7 @@ Messers. Len Curle and Phil Doyle of the National Variety Artists, Inc., 229 Wes
 ---
 
 ## Page 102
-
-![Page 102](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_102.png)
+![Page 102](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_102.png)
 
 ### Transcription
 
@@ -5324,8 +5224,7 @@ New York, N.Y.]
 ---
 
 ## Page 103
-
-![Page 103](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_103.png)
+![Page 103](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_103.png)
 
 ### Transcription
 
@@ -5348,8 +5247,7 @@ The President read letter received from Mr. Brown, relative to the writing of a 
 ---
 
 ## Page 104
-
-![Page 104](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_104.png)
+![Page 104](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_104.png)
 
 ### Transcription
 
@@ -5404,8 +5302,7 @@ Lewis Harr                                               30.00
 ---
 
 ## Page 105
-
-![Page 105](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_105.png)
+![Page 105](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_105.png)
 
 ### Transcription
 
@@ -5431,8 +5328,7 @@ There being no further business the meeting thereupon adjourned.
 ---
 
 ## Page 106
-
-![Page 106](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_106.png)
+![Page 106](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_106.png)
 
 ### Transcription
 
@@ -5460,8 +5356,7 @@ CLERK
 ---
 
 ## Page 107
-
-![Page 107](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_107.png)
+![Page 107](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_107.png)
 
 ### Transcription
 
@@ -5505,8 +5400,7 @@ Mr. Buff asked that the Board consider an experiment in the teaching of foreign 
 ---
 
 ## Page 108
-
-![Page 108](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_108.png)
+![Page 108](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_108.png)
 
 ### Transcription
 
@@ -5568,8 +5462,7 @@ Hall & McCreary Company 14.32
 ---
 
 ## Page 109
-
-![Page 109](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_109.png)
+![Page 109](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_109.png)
 
 ### Transcription
 
@@ -5611,8 +5504,7 @@ clerk
 ---
 
 ## Page 110
-
-![Page 110](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_110.png)
+![Page 110](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_110.png)
 
 ### Transcription
 
@@ -5650,8 +5542,7 @@ The President read letter of February 24th from Mr. Harold K. Chadwick of Columb
 ---
 
 ## Page 111
-
-![Page 111](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_111.png)
+![Page 111](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_111.png)
 
 ### Transcription
 
@@ -5689,8 +5580,7 @@ The Building and Grounds Committee read proposal of John Styles for the installi
 ---
 
 ## Page 112
-
-![Page 112](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_112.png)
+![Page 112](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_112.png)
 
 ### Transcription
 
@@ -5722,8 +5612,7 @@ The President invited Mr. Ruff to make an explanation of his school policy. Mr. 
 ---
 
 ## Page 113
-
-![Page 113](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_113.png)
+![Page 113](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_113.png)
 
 ### Transcription
 
@@ -5771,8 +5660,7 @@ Edelman's Dept. Store 3.00
 ---
 
 ## Page 114
-
-![Page 114](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_114.png)
+![Page 114](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_114.png)
 
 ### Transcription
 
@@ -5819,8 +5707,7 @@ Clerk.
 ---
 
 ## Page 115
-
-![Page 115](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_115.png)
+![Page 115](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_115.png)
 
 ### Transcription
 
@@ -5862,8 +5749,7 @@ Ethel Hendriksom " 4 1400/
 ---
 
 ## Page 116
-
-![Page 116](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_116.png)
+![Page 116](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_116.png)
 
 ### Transcription
 
@@ -5910,8 +5796,7 @@ There being no further business the meeting thereupon adjourned.
 ---
 
 ## Page 117
-
-![Page 117](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_117.png)
+![Page 117](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_117.png)
 
 ### Transcription
 
@@ -5971,8 +5856,7 @@ to notify the insurance company accordingly.
 ---
 
 ## Page 118
-
-![Page 118](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_118.png)
+![Page 118](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_118.png)
 
 ### Transcription
 
@@ -5995,8 +5879,7 @@ On motion made, seconded and carried, it was voted that in motion made, seconded
 ---
 
 ## Page 119
-
-![Page 119](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_119.png)
+![Page 119](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_119.png)
 
 ### Transcription
 
@@ -6043,8 +5926,7 @@ Van Valkenburg                                    544.60
 ---
 
 ## Page 120
-
-![Page 120](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_120.png)
+![Page 120](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_120.png)
 
 ### Transcription
 
@@ -6072,8 +5954,7 @@ DATE FILMED - 4-4-04]
 ---
 
 ## Page 121
-
-![Page 121](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_121.png)
+![Page 121](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_121.png)
 
 ### Transcription
 
@@ -6114,8 +5995,7 @@ In a communication dated May 4th, Mr. Lewis Ingles, Architect, recommended the f
 ---
 
 ## Page 122
-
-![Page 122](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_122.png)
+![Page 122](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_122.png)
 
 ### Transcription
 
@@ -6190,8 +6070,7 @@ to pay same.
 ---
 
 ## Page 123
-
-![Page 123](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_123.png)
+![Page 123](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_123.png)
 
 ### Transcription
 
@@ -6265,8 +6144,7 @@ A. W. Lottman 16.15
 ---
 
 ## Page 124
-
-![Page 124](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_124.png)
+![Page 124](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_124.png)
 
 ### Transcription
 
@@ -6289,8 +6167,7 @@ Clerk.
 ---
 
 ## Page 125
-
-![Page 125](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_125.png)
+![Page 125](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_125.png)
 
 ### Transcription
 
@@ -6324,8 +6201,7 @@ Mr. Ruff reported that it would be necessary to engage the services of a band an
 ---
 
 ## Page 126
-
-![Page 126](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_126.png)
+![Page 126](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_126.png)
 
 ### Transcription
 
@@ -6378,8 +6254,7 @@ The following bills were read by the Clerk and ordered referred to the Finance C
 ---
 
 ## Page 127
-
-![Page 127](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_127.png)
+![Page 127](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_127.png)
 
 ### Transcription
 
@@ -6415,8 +6290,7 @@ Clerk
 ---
 
 ## Page 128
-
-![Page 128](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_128.png)
+![Page 128](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_128.png)
 
 ### Transcription
 
@@ -6458,8 +6332,7 @@ Letter of Long Island Lighting Company with reference to methods of billing read
 ---
 
 ## Page 129
-
-![Page 129](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_129.png)
+![Page 129](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_129.png)
 
 ### Transcription
 
@@ -6488,8 +6361,7 @@ It was moved, seconded and carried, that a balance of $125.48 in an old saving a
 ---
 
 ## Page 130
-
-![Page 130](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_130.png)
+![Page 130](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_130.png)
 
 ### Transcription
 
@@ -6542,8 +6414,7 @@ ANSI and ISO TEST CHART No. 2
 ---
 
 ## Page 131
-
-![Page 131](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_131.png)
+![Page 131](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_131.png)
 
 ### Transcription
 
@@ -6603,8 +6474,7 @@ Amount to be raised by taxation.........................$48,354.00
 ---
 
 ## Page 132
-
-![Page 132](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_132.png)
+![Page 132](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_132.png)
 
 ### Transcription
 
@@ -6690,8 +6560,7 @@ Hicksville, New York 11801
 ---
 
 ## Page 133
-
-![Page 133](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_133.png)
+![Page 133](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_133.png)
 
 ### Transcription
 
@@ -6733,8 +6602,7 @@ James Fitzpatrick was nominated and unanimously elected Truant Officer at a sala
 ---
 
 ## Page 134
-
-![Page 134](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_134.png)
+![Page 134](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_134.png)
 
 ### Transcription
 
@@ -6808,8 +6676,7 @@ Total Expenses ............................... $134,278.00
 ---
 
 ## Page 135
-
-![Page 135](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_135.png)
+![Page 135](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_135.png)
 
 ### Transcription
 
@@ -6893,8 +6760,7 @@ DATE FILMED: 4-11-04]
 ---
 
 ## Page 136
-
-![Page 136](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_136.png)
+![Page 136](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_136.png)
 
 ### Transcription
 
@@ -6930,8 +6796,7 @@ The President announced the appointment of Mr. Whitmore as a member of the Teach
 ---
 
 ## Page 137
-
-![Page 137](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_137.png)
+![Page 137](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_137.png)
 
 ### Transcription
 
@@ -6969,8 +6834,7 @@ Clerk
 ---
 
 ## Page 138
-
-![Page 138](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_138.png)
+![Page 138](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_138.png)
 
 ### Transcription
 
@@ -7035,8 +6899,7 @@ Art. 12 File
 ---
 
 ## Page 139
-
-![Page 139](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_139.png)
+![Page 139](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_139.png)
 
 ### Transcription
 
@@ -7086,8 +6949,7 @@ add $175. to bid.
 ---
 
 ## Page 140
-
-![Page 140](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_140.png)
+![Page 140](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_140.png)
 
 ### Transcription
 
@@ -7128,8 +6990,7 @@ Clerk
 ---
 
 ## Page 141
-
-![Page 141](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_141.png)
+![Page 141](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_141.png)
 
 ### Transcription
 
@@ -7183,8 +7044,7 @@ Mr. Lewis Inglee appeared before the Board and stated that plans and specificati
 ---
 
 ## Page 142
-
-![Page 142](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_142.png)
+![Page 142](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_142.png)
 
 ### Transcription
 
@@ -7206,8 +7066,7 @@ DUE FILMED 1-11-94]
 ---
 
 ## Page 143
-
-![Page 143](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_143.png)
+![Page 143](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_143.png)
 
 ### Transcription
 
@@ -7236,8 +7095,7 @@ The President instructed the Teachers Committee to take charge and arrange for a
 ---
 
 ## Page 144
-
-![Page 144](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_144.png)
+![Page 144](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_144.png)
 
 ### Transcription
 
@@ -7618,8 +7476,7 @@ AND/OR ISO TEST CHART No. 2
 ---
 
 ## Page 145
-
-![Page 145](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_145.png)
+![Page 145](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_145.png)
 
 ### Transcription
 
@@ -7671,8 +7528,7 @@ steam boiler, for the sum of $300.
 ---
 
 ## Page 146
-
-![Page 146](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_146.png)
+![Page 146](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_146.png)
 
 ### Transcription
 
@@ -7685,8 +7541,7 @@ There being no further business, on motion the meeting voted to adjourn.
 ---
 
 ## Page 147
-
-![Page 147](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_147.png)
+![Page 147](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_147.png)
 
 ### Transcription
 
@@ -7717,8 +7572,7 @@ The Clerk read communicated of the Board of Education of Seaford, dated Sept. 22
 ---
 
 ## Page 148
-
-![Page 148](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_148.png)
+![Page 148](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_148.png)
 
 ### Transcription
 
@@ -7755,8 +7609,7 @@ IT IS FURTHER RESOLVED, that the District Clerk of this school district and he h
 ---
 
 ## Page 149
-
-![Page 149](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_149.png)
+![Page 149](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_149.png)
 
 ### Transcription
 
@@ -7816,8 +7669,7 @@ necessary to have contractor operate an additional bus.
 ---
 
 ## Page 150
-
-![Page 150](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_150.png)
+![Page 150](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_150.png)
 
 ### Transcription
 
@@ -7854,8 +7706,7 @@ Moved, seconded and carried, that due to the contingency existing with respect t
 ---
 
 ## Page 151
-
-![Page 151](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_151.png)
+![Page 151](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_151.png)
 
 ### Transcription
 
@@ -8015,8 +7866,7 @@ Ditto, Inc.                            6.17
 ---
 
 ## Page 152
-
-![Page 152](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_152.png)
+![Page 152](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_152.png)
 
 ### Transcription
 
@@ -8047,8 +7897,7 @@ There being no further business, the meeting motion voted to adjourn.
 ---
 
 ## Page 153
-
-![Page 153](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_153.png)
+![Page 153](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_153.png)
 
 ### Transcription
 
@@ -8088,8 +7937,7 @@ The Clerk reported that in accordance with instructions of the Board he had comm
 ---
 
 ## Page 154
-
-![Page 154](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_154.png)
+![Page 154](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_154.png)
 
 ### Transcription
 
@@ -8112,8 +7960,7 @@ Moved, seconded and carried, that the Building and Grounds Committee be empowere
 ---
 
 ## Page 155
-
-![Page 155](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_155.png)
+![Page 155](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_155.png)
 
 ### Transcription
 
@@ -8176,8 +8023,7 @@ Remington Rand, Inc. 3.00
 ---
 
 ## Page 156
-
-![Page 156](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_156.png)
+![Page 156](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_156.png)
 
 ### Transcription
 
@@ -8210,8 +8056,7 @@ Clerk.
 ---
 
 ## Page 157
-
-![Page 157](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_157.png)
+![Page 157](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_157.png)
 
 ### Transcription
 
@@ -8279,8 +8124,7 @@ made
 ---
 
 ## Page 158
-
-![Page 158](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_158.png)
+![Page 158](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_158.png)
 
 ### Transcription
 
@@ -8346,8 +8190,7 @@ Amityville have felt for her,
 ---
 
 ## Page 159
-
-![Page 159](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_159.png)
+![Page 159](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_159.png)
 
 ### Transcription
 
@@ -8386,8 +8229,7 @@ It was moved, seconded and carried, that Miss Brown be engaged as dental hygieni
 ---
 
 ## Page 160
-
-![Page 160](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_160.png)
+![Page 160](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_160.png)
 
 ### Transcription
 
@@ -8435,8 +8277,7 @@ Clifford Baxter 300.00
 ---
 
 ## Page 161
-
-![Page 161](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_161.png)
+![Page 161](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_161.png)
 
 ### Transcription
 
@@ -8466,8 +8307,7 @@ Clerk
 ---
 
 ## Page 162
-
-![Page 162](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_162.png)
+![Page 162](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_162.png)
 
 ### Transcription
 
@@ -8525,8 +8365,7 @@ JANES AND NO TEST CHART NO. 7
 ---
 
 ## Page 163
-
-![Page 163](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_163.png)
+![Page 163](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_163.png)
 
 ### Transcription
 
@@ -8549,8 +8388,7 @@ Acting Clerk
 ---
 
 ## Page 164
-
-![Page 164](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_164.png)
+![Page 164](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_164.png)
 
 ### Transcription
 
@@ -8582,8 +8420,7 @@ The Clerk reported that pursuant to resolution communication had been sent to th
 ---
 
 ## Page 165
-
-![Page 165](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_165.png)
+![Page 165](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_165.png)
 
 ### Transcription
 
@@ -8640,8 +8477,7 @@ Building and Grounds Committee.
 ---
 
 ## Page 166
-
-![Page 166](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_166.png)
+![Page 166](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_166.png)
 
 ### Transcription
 
@@ -8687,8 +8523,7 @@ New York Telephone Co.                                 40.49
 ---
 
 ## Page 167
-
-![Page 167](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_167.png)
+![Page 167](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_167.png)
 
 ### Transcription
 
@@ -8742,8 +8577,7 @@ Rochester, New York 14604
 ---
 
 ## Page 168
-
-![Page 168](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_168.png)
+![Page 168](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_168.png)
 
 ### Transcription
 
@@ -8791,8 +8625,7 @@ Tire Service Shop                                17.50
 ---
 
 ## Page 169
-
-![Page 169](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_169.png)
+![Page 169](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_169.png)
 
 ### Transcription
 
@@ -8848,8 +8681,7 @@ The Teachers Committee recommended that contracts be tendered to the present tea
 ---
 
 ## Page 170
-
-![Page 170](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_170.png)
+![Page 170](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_170.png)
 
 ### Transcription
 
@@ -8903,8 +8735,7 @@ It was moved, duly seconded and carried, that Miss Emily Gunther be granted a le
 ---
 
 ## Page 171
-
-![Page 171](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_171.png)
+![Page 171](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_171.png)
 
 ### Transcription
 
@@ -8918,8 +8749,7 @@ Act. Clerk
 ---
 
 ## Page 172
-
-![Page 172](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_172.png)
+![Page 172](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_172.png)
 
 ### Transcription
 
@@ -8974,8 +8804,7 @@ teachers be paid accordingly. Motion unanimously carried.
 ---
 
 ## Page 173
-
-![Page 173](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_173.png)
+![Page 173](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_173.png)
 
 ### Transcription
 
@@ -9008,8 +8837,7 @@ The Clerk read the recommendations made by the School Burse in her report for th
 ---
 
 ## Page 174
-
-![Page 174](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_174.png)
+![Page 174](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_174.png)
 
 ### Transcription
 
@@ -9070,8 +8898,7 @@ L. I. Adding Machine & Type Company 125.00
 ---
 
 ## Page 175
-
-![Page 175](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_175.png)
+![Page 175](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_175.png)
 
 ### Transcription
 
@@ -9092,8 +8919,7 @@ Clerk.
 ---
 
 ## Page 176
-
-![Page 176](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_176.png)
+![Page 176](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_176.png)
 
 ### Transcription
 
@@ -9125,8 +8951,7 @@ The President declared the meeting adjourned.
 ---
 
 ## Page 177
-
-![Page 177](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_177.png)
+![Page 177](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_177.png)
 
 ### Transcription
 
@@ -9158,8 +8983,7 @@ The Teachers Committee reported no unexcusable absences for the month of March b
 ---
 
 ## Page 178
-
-![Page 178](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_178.png)
+![Page 178](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_178.png)
 
 ### Transcription
 
@@ -9197,8 +9021,7 @@ This motion unanimously carried.
 ---
 
 ## Page 179
-
-![Page 179](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_179.png)
+![Page 179](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_179.png)
 
 ### Transcription
 
@@ -9237,8 +9060,7 @@ Alex Smith                                 2.00
 ---
 
 ## Page 180
-
-![Page 180](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_180.png)
+![Page 180](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_180.png)
 
 ### Transcription
 
@@ -9268,8 +9090,7 @@ The Vice President declared the meeting adjourned.
 ---
 
 ## Page 181
-
-![Page 181](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_181.png)
+![Page 181](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_181.png)
 
 ### Transcription
 
@@ -9305,8 +9126,7 @@ Mrs. Hartman moved and Mrs. Burns seconded the motion that there be paid out of 
 ---
 
 ## Page 182
-
-![Page 182](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_182.png)
+![Page 182](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_182.png)
 
 ### Transcription
 
@@ -9343,8 +9163,7 @@ Sam's Tailor Shop                                  3.10
 ---
 
 ## Page 183
-
-![Page 183](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_183.png)
+![Page 183](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_183.png)
 
 ### Transcription
 
@@ -9374,8 +9193,7 @@ The Chairman declared the meeting adjourned.
 ---
 
 ## Page 184
-
-![Page 184](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_184.png)
+![Page 184](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_184.png)
 
 ### Transcription
 
@@ -9414,8 +9232,7 @@ The President read application of Mr. George A. Brown for the appointment of sch
 ---
 
 ## Page 185
-
-![Page 185](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_185.png)
+![Page 185](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_185.png)
 
 ### Transcription
 
@@ -9439,8 +9256,7 @@ After a considerable discussion on the question of whether one or two kindergart
 ---
 
 ## Page 186
-
-![Page 186](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_186.png)
+![Page 186](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_186.png)
 
 ### Transcription
 
@@ -9488,8 +9304,7 @@ The President declared the meeting adjourned.
 ---
 
 ## Page 187
-
-![Page 187](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_187.png)
+![Page 187](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_187.png)
 
 ### Transcription
 
@@ -9542,8 +9357,7 @@ $816.14
 ---
 
 ## Page 188
-
-![Page 188](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_188.png)
+![Page 188](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_188.png)
 
 ### Transcription
 
@@ -9585,8 +9399,7 @@ Mr. Whitmore moved and Mr. Axtell seconded the motion that the bids be referred 
 ---
 
 ## Page 189
-
-![Page 189](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_189.png)
+![Page 189](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_189.png)
 
 ### Transcription
 
@@ -9644,8 +9457,7 @@ The President declared the meeting adjourned.
 ---
 
 ## Page 190
-
-![Page 190](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_190.png)
+![Page 190](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_190.png)
 
 ### Transcription
 
@@ -9703,8 +9515,7 @@ paid accordingly. Motion carried.
 ---
 
 ## Page 191
-
-![Page 191](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_191.png)
+![Page 191](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_191.png)
 
 ### Transcription
 
@@ -9769,8 +9580,7 @@ building by
 ---
 
 ## Page 192
-
-![Page 192](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_192.png)
+![Page 192](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_192.png)
 
 ### Transcription
 
@@ -9860,8 +9670,7 @@ $36,198.00
 ---
 
 ## Page 193
-
-![Page 193](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_193.png)
+![Page 193](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_193.png)
 
 ### Transcription
 
@@ -9911,8 +9720,7 @@ The President declared the meeting adjourned.
 ---
 
 ## Page 194
-
-![Page 194](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_194.png)
+![Page 194](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_194.png)
 
 ### Transcription
 
@@ -9970,8 +9778,7 @@ elected Treasurer.
 ---
 
 ## Page 195
-
-![Page 195](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_195.png)
+![Page 195](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_195.png)
 
 ### Transcription
 
@@ -10045,8 +9852,7 @@ Total maintenance of plant ......................... $3,550.00
 ---
 
 ## Page 196
-
-![Page 196](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_196.png)
+![Page 196](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_196.png)
 
 ### Transcription
 
@@ -10089,8 +9895,7 @@ Amount to be raised by tax on property ................. $100,377.00
 ---
 
 ## Page 197
-
-![Page 197](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_197.png)
+![Page 197](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_197.png)
 
 ### Transcription
 
@@ -10136,8 +9941,7 @@ J. P. Le Brun, Inc.                  96.78
 ---
 
 ## Page 198
-
-![Page 198](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_198.png)
+![Page 198](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_198.png)
 
 ### Transcription
 
@@ -10160,8 +9964,7 @@ Clerk.
 ---
 
 ## Page 199
-
-![Page 199](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_199.png)
+![Page 199](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_199.png)
 
 ### Transcription
 
@@ -10197,8 +10000,7 @@ The Building and Grounds Committee reported progress in the construction of the 
 ---
 
 ## Page 200
-
-![Page 200](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_200.png)
+![Page 200](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_200.png)
 
 ### Transcription
 
@@ -10228,8 +10030,7 @@ Clerk.
 ---
 
 ## Page 201
-
-![Page 201](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_201.png)
+![Page 201](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_201.png)
 
 ### Transcription
 
@@ -10253,8 +10054,7 @@ Mr. Whitmore moved and Mr. Axtell seconded the motion that a special district me
 ---
 
 ## Page 202
-
-![Page 202](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_202.png)
+![Page 202](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_202.png)
 
 ### Transcription
 
@@ -10290,8 +10090,7 @@ The President declared the meeting adjourned.
 ---
 
 ## Page 203
-
-![Page 203](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_203.png)
+![Page 203](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_203.png)
 
 ### Transcription
 
@@ -10323,8 +10122,7 @@ The this point in the proceedings Mr. Inglee entered and began to take part in t
 ---
 
 ## Page 204
-
-![Page 204](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_204.png)
+![Page 204](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_204.png)
 
 ### Transcription
 
@@ -10355,8 +10153,7 @@ The Teachers Committee reported no unexcusable absences for the 14th of Septembe
 ---
 
 ## Page 205
-
-![Page 205](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_205.png)
+![Page 205](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_205.png)
 
 ### Transcription
 
@@ -10383,8 +10180,7 @@ Mr. Ruff asked authority to close the schools on Friday, October 27th to permit 
 ---
 
 ## Page 206
-
-![Page 206](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_206.png)
+![Page 206](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_206.png)
 
 ### Transcription
 
@@ -10429,8 +10225,7 @@ Cortes Ward Company, Inc.            16.88
 ---
 
 ## Page 207
-
-![Page 207](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_207.png)
+![Page 207](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_207.png)
 
 ### Transcription
 
@@ -10478,8 +10273,7 @@ Willet F. Whitmore,
 ---
 
 ## Page 208
-
-![Page 208](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_208.png)
+![Page 208](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_208.png)
 
 ### Transcription
 
@@ -10504,8 +10298,7 @@ WHEREAS, the Board of Education of Joint Union Free School District No. 6, Towns
 ---
 
 ## Page 209
-
-![Page 209](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_209.png)
+![Page 209](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_209.png)
 
 ### Transcription
 
@@ -10534,8 +10327,7 @@ IT IS FURTHER RESOLVED, that the tax rate in and for the Joint Union High School
 ---
 
 ## Page 210
-
-![Page 210](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_210.png)
+![Page 210](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_210.png)
 
 ### Transcription
 
@@ -10554,8 +10346,7 @@ Clerk.
 ---
 
 ## Page 211
-
-![Page 211](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_211.png)
+![Page 211](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_211.png)
 
 ### Transcription
 
@@ -10597,8 +10388,7 @@ The Clerk reported that following the adoption of the tax rate at the October 10
 ---
 
 ## Page 212
-
-![Page 212](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_212.png)
+![Page 212](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_212.png)
 
 ### Transcription
 
@@ -10621,8 +10411,7 @@ The President reported that permission had been given the Amityville Tarrytown A
 ---
 
 ## Page 213
-
-![Page 213](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_213.png)
+![Page 213](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_213.png)
 
 ### Transcription
 
@@ -10671,8 +10460,7 @@ Van Valeskburgh, Inc. 29.66
 ---
 
 ## Page 214
-
-![Page 214](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_214.png)
+![Page 214](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_214.png)
 
 ### Transcription
 
@@ -10690,8 +10478,7 @@ The President thereupon declared the meeting adjourned.
 ---
 
 ## Page 215
-
-![Page 215](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_215.png)
+![Page 215](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_215.png)
 
 ### Transcription
 
@@ -10751,8 +10538,7 @@ unanimously carried,
 ---
 
 ## Page 216
-
-![Page 216](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_216.png)
+![Page 216](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_216.png)
 
 ### Transcription
 
@@ -10816,8 +10602,7 @@ motion unanimously carried.
 ---
 
 ## Page 217
-
-![Page 217](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_217.png)
+![Page 217](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_217.png)
 
 ### Transcription
 
@@ -10838,8 +10623,7 @@ Mrs. Hartman moved and Mr. Haeb seconded the motion that the President and Clerk
 ---
 
 ## Page 218
-
-![Page 218](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_218.png)
+![Page 218](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_218.png)
 
 ### Transcription
 
@@ -10884,8 +10668,7 @@ Remington Rand, Inc. 4.00
 ---
 
 ## Page 219
-
-![Page 219](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_219.png)
+![Page 219](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_219.png)
 
 ### Transcription
 
@@ -10915,8 +10698,7 @@ The President thereupon declared the meeting adjourned.
 ---
 
 ## Page 220
-
-![Page 220](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_220.png)
+![Page 220](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_220.png)
 
 ### Transcription
 
@@ -10974,8 +10756,7 @@ committee was a fire hazard.
 ---
 
 ## Page 221
-
-![Page 221](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_221.png)
+![Page 221](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_221.png)
 
 ### Transcription
 
@@ -11001,8 +10782,7 @@ The Clerk read letter of the Health and Physical Education Division of the State
 ---
 
 ## Page 222
-
-![Page 222](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_222.png)
+![Page 222](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_222.png)
 
 ### Transcription
 
@@ -11042,8 +10822,7 @@ The President thereupon declared the meeting adjourned.
 ---
 
 ## Page 223
-
-![Page 223](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_223.png)
+![Page 223](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_223.png)
 
 ### Transcription
 
@@ -11079,8 +10858,7 @@ The final bill of the James McCullagh Company for the heating and ventilating co
 ---
 
 ## Page 224
-
-![Page 224](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_224.png)
+![Page 224](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_224.png)
 
 ### Transcription
 
@@ -11136,8 +10914,7 @@ The Building and Grounds Committee recommended that the three transformers in th
 ---
 
 ## Page 225
-
-![Page 225](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_225.png)
+![Page 225](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_225.png)
 
 ### Transcription
 
@@ -11160,8 +10937,7 @@ The Clerk presented the following bills which were ordered referred to the Finan
 ---
 
 ## Page 226
-
-![Page 226](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_226.png)
+![Page 226](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_226.png)
 
 ### Transcription
 
@@ -11228,8 +11004,7 @@ The President declared the meeting adjourned.
 ---
 
 ## Page 227
-
-![Page 227](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_227.png)
+![Page 227](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_227.png)
 
 ### Transcription
 
@@ -11263,8 +11038,7 @@ Statement of school cafeteria was submitted showing a profit for the month of Fe
 ---
 
 ## Page 228
-
-![Page 228](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_228.png)
+![Page 228](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_228.png)
 
 ### Transcription
 
@@ -11296,8 +11070,7 @@ Allyn & Bacon                            23.10
 ---
 
 ## Page 229
-
-![Page 229](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_229.png)
+![Page 229](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_229.png)
 
 ### Transcription
 
@@ -11348,8 +11121,7 @@ Clerk
 ---
 
 ## Page 230
-
-![Page 230](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_230.png)
+![Page 230](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_230.png)
 
 ### Transcription
 
@@ -11392,8 +11164,7 @@ Mrs. Hartman moved and Mr. Whitmore seconded the motion that the reports be acce
 ---
 
 ## Page 231
-
-![Page 231](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_231.png)
+![Page 231](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_231.png)
 
 ### Transcription
 
@@ -11530,8 +11301,7 @@ $1,400.00
 ---
 
 ## Page 232
-
-![Page 232](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_232.png)
+![Page 232](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_232.png)
 
 ### Transcription
 
@@ -11566,8 +11336,7 @@ Prentice-Hall, Inc.           6.50
 ---
 
 ## Page 233
-
-![Page 233](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_233.png)
+![Page 233](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_233.png)
 
 ### Transcription
 
@@ -11608,8 +11377,7 @@ The President thereupon declared the meeting adjourned.
 ---
 
 ## Page 234
-
-![Page 234](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_234.png)
+![Page 234](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_234.png)
 
 ### Transcription
 
@@ -11643,8 +11411,7 @@ The Building and Grounds Committee reported that the Obelisk Waterproofing Compa
 ---
 
 ## Page 235
-
-![Page 235](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_235.png)
+![Page 235](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_235.png)
 
 ### Transcription
 
@@ -11706,8 +11473,7 @@ unanimously carried.
 ---
 
 ## Page 236
-
-![Page 236](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_236.png)
+![Page 236](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_236.png)
 
 ### Transcription
 
@@ -11765,8 +11531,7 @@ adjourned.
 ---
 
 ## Page 237
-
-![Page 237](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_237.png)
+![Page 237](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_237.png)
 
 ### Transcription
 
@@ -11798,8 +11563,7 @@ The Building and Grounds Committee reported that pursuant to resolution a rough 
 ---
 
 ## Page 238
-
-![Page 238](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_238.png)
+![Page 238](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_238.png)
 
 ### Transcription
 
@@ -11822,8 +11586,7 @@ Mr. Axtell brought up the question of keeping the school courts open during the 
 ---
 
 ## Page 239
-
-![Page 239](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_239.png)
+![Page 239](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_239.png)
 
 ### Transcription
 
@@ -11878,8 +11641,7 @@ Harry W. Leigh 275.00
 ---
 
 ## Page 240
-
-![Page 240](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_240.png)
+![Page 240](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_240.png)
 
 ### Transcription
 
@@ -11928,8 +11690,7 @@ The President thereupon declared the meeting adjourned.
 ---
 
 ## Page 241
-
-![Page 241](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_241.png)
+![Page 241](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_241.png)
 
 ### Transcription
 
@@ -12001,8 +11762,7 @@ New York 17, N.Y.
 ---
 
 ## Page 242
-
-![Page 242](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_242.png)
+![Page 242](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_242.png)
 
 ### Transcription
 
@@ -12019,8 +11779,7 @@ Mr. Case moved and Mr. Whitmore seconded the motion that there be submitted to t
 ---
 
 ## Page 243
-
-![Page 243](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_243.png)
+![Page 243](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_243.png)
 
 ### Transcription
 
@@ -12071,8 +11830,7 @@ Clerk
 ---
 
 ## Page 244
-
-![Page 244](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_244.png)
+![Page 244](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_244.png)
 
 ### Transcription
 
@@ -12107,8 +11865,7 @@ On motion of Mrs. Hartman, Dr. Theodore D. Reed was nominated for Health Officer
 ---
 
 ## Page 245
-
-![Page 245](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_245.png)
+![Page 245](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_245.png)
 
 ### Transcription
 
@@ -12131,8 +11888,7 @@ Mr. Inglee in a brief address stated that this would probably be the last time h
 ---
 
 ## Page 246
-
-![Page 246](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_246.png)
+![Page 246](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_246.png)
 
 ### Transcription
 
@@ -12339,8 +12095,7 @@ Cler
 ---
 
 ## Page 247
-
-![Page 247](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_247.png)
+![Page 247](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_247.png)
 
 ### Transcription
 
@@ -12411,8 +12166,7 @@ Payment of interest—on short term loans 1,100.00
 ---
 
 ## Page 248
-
-![Page 248](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_248.png)
+![Page 248](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_248.png)
 
 ### Transcription
 
@@ -12462,8 +12216,7 @@ Amount to be raised by taxation ....................... $801,715.00
 ---
 
 ## Page 249
-
-![Page 249](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_249.png)
+![Page 249](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_249.png)
 
 ### Transcription
 
@@ -12486,8 +12239,7 @@ The Clerk submitted letter of the Board of Education of Lindenhurst asking for p
 ---
 
 ## Page 250
-
-![Page 250](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_250.png)
+![Page 250](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_250.png)
 
 ### Transcription
 
@@ -12518,8 +12270,7 @@ Mr. Whitmore moved and Mr. Axtell seconded the motion that on the purchase of su
 ---
 
 ## Page 251
-
-![Page 251](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_251.png)
+![Page 251](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_251.png)
 
 ### Transcription
 
@@ -12554,8 +12305,7 @@ Mr. Whitmore moved and Mr. Axtell seconded the motion that the Building and Grou
 ---
 
 ## Page 252
-
-![Page 252](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_252.png)
+![Page 252](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_252.png)
 
 ### Transcription
 
@@ -12592,8 +12342,7 @@ The President declared the meeting adjourned.
 ---
 
 ## Page 253
-
-![Page 253](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_253.png)
+![Page 253](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_253.png)
 
 ### Transcription
 
@@ -12618,8 +12367,7 @@ The Clerk read communication of the Board of Assessors of the Town of Babylon, d
 ---
 
 ## Page 254
-
-![Page 254](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_254.png)
+![Page 254](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_254.png)
 
 ### Transcription
 
@@ -12651,8 +12399,7 @@ The Purchasing Committee reported that Montgomery & Company had been awarded an 
 ---
 
 ## Page 255
-
-![Page 255](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_255.png)
+![Page 255](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_255.png)
 
 ### Transcription
 
@@ -12684,8 +12431,7 @@ WHEREAS, the Board of Education is so advised that the total valuation of taxabl
 ---
 
 ## Page 256
-
-![Page 256](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_256.png)
+![Page 256](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_256.png)
 
 ### Transcription
 
@@ -12717,8 +12463,7 @@ The L. W. Singer Company 24.09
 ---
 
 ## Page 257
-
-![Page 257](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_257.png)
+![Page 257](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_257.png)
 
 ### Transcription
 
@@ -12747,8 +12492,7 @@ The President declared the meeting adjourned.
 ---
 
 ## Page 258
-
-![Page 258](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_258.png)
+![Page 258](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_258.png)
 
 ### Transcription
 
@@ -12811,8 +12555,7 @@ carried.
 ---
 
 ## Page 259
-
-![Page 259](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_259.png)
+![Page 259](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_259.png)
 
 ### Transcription
 
@@ -12847,8 +12590,7 @@ Mr. Case recommended that any major repairs to the roof of the High School Audit
 ---
 
 ## Page 260
-
-![Page 260](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_260.png)
+![Page 260](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_260.png)
 
 ### Transcription
 
@@ -12879,8 +12621,7 @@ Mr. Ketcham moved and Mr. Case seconded the motion that the School Cafeteria Dep
 ---
 
 ## Page 261
-
-![Page 261](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_261.png)
+![Page 261](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_261.png)
 
 ### Transcription
 
@@ -12931,8 +12672,7 @@ So. Bay Consolid'd. Wat. Co.                          18.21
 ---
 
 ## Page 262
-
-![Page 262](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_262.png)
+![Page 262](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_262.png)
 
 ### Transcription
 
@@ -12989,8 +12729,7 @@ Clerk
 ---
 
 ## Page 263
-
-![Page 263](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_263.png)
+![Page 263](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_263.png)
 
 ### Transcription
 
@@ -13051,8 +12790,7 @@ of requiring a certified check with each bid was deliberated on. It.
 ---
 
 ## Page 264
-
-![Page 264](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_264.png)
+![Page 264](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_264.png)
 
 ### Transcription
 
@@ -13083,8 +12821,7 @@ Mr. Ruff reported that the Ladies Auxiliary of the Amityville Lerion had request
 ---
 
 ## Page 265
-
-![Page 265](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_265.png)
+![Page 265](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_265.png)
 
 ### Transcription
 
@@ -13145,8 +12882,7 @@ N. Westermann Co., Inc.                      1.00
 ---
 
 ## Page 266
-
-![Page 266](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_266.png)
+![Page 266](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_266.png)
 
 ### Transcription
 
@@ -13168,8 +12904,7 @@ Secretary
 ---
 
 ## Page 267
-
-![Page 267](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_267.png)
+![Page 267](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_267.png)
 
 ### Transcription
 
@@ -13232,8 +12967,7 @@ $18,000[illegible] and let the contract accordingly.
 ---
 
 ## Page 268
-
-![Page 268](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_268.png)
+![Page 268](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_268.png)
 
 ### Transcription
 
@@ -13266,8 +13000,7 @@ Mr. Hanb moved and Mr. Whitmore seconded the motion that the contract be awarded
 ---
 
 ## Page 269
-
-![Page 269](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_269.png)
+![Page 269](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_269.png)
 
 ### Transcription
 
@@ -13298,8 +13031,7 @@ Mr. Ruff reported that the Triangle Boys had asked for permission to use the Gra
 ---
 
 ## Page 270
-
-![Page 270](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_270.png)
+![Page 270](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_270.png)
 
 ### Transcription
 
@@ -13369,8 +13101,7 @@ Henry W. Leirh 342.00
 ---
 
 ## Page 271
-
-![Page 271](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_271.png)
+![Page 271](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_271.png)
 
 ### Transcription
 
@@ -13384,8 +13115,7 @@ The Vice President thereupon adjourned the meeting.
 ---
 
 ## Page 272
-
-![Page 272](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_272.png)
+![Page 272](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_272.png)
 
 ### Transcription
 
@@ -13457,8 +13187,7 @@ from Mr. Milford H. Kotehan:
 ---
 
 ## Page 273
-
-![Page 273](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_273.png)
+![Page 273](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_273.png)
 
 ### Transcription
 
@@ -13481,8 +13210,7 @@ Mrs. Hartman submitted the cafeteria report for the period ending December 31, 1
 ---
 
 ## Page 274
-
-![Page 274](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_274.png)
+![Page 274](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_274.png)
 
 ### Transcription
 
@@ -13523,8 +13251,7 @@ Henry W. Leigh                                     270.00
 ---
 
 ## Page 275
-
-![Page 275](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_275.png)
+![Page 275](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_275.png)
 
 ### Transcription
 
@@ -13542,8 +13269,7 @@ DATE FILMED: 4-4-99]
 ---
 
 ## Page 276
-
-![Page 276](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_276.png)
+![Page 276](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_276.png)
 
 ### Transcription
 
@@ -13605,8 +13331,7 @@ unanimously carried.
 ---
 
 ## Page 277
-
-![Page 277](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_277.png)
+![Page 277](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_277.png)
 
 ### Transcription
 
@@ -13646,8 +13371,7 @@ The Building and Grounds Committee submitted the following
 ---
 
 ## Page 278
-
-![Page 278](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_278.png)
+![Page 278](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_278.png)
 
 ### Transcription
 
@@ -13718,8 +13442,7 @@ Underwood Elliott Fisher Co. 7.75
 ---
 
 ## Page 279
-
-![Page 279](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_279.png)
+![Page 279](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_279.png)
 
 ### Transcription
 
@@ -13779,8 +13502,7 @@ The President thereupon declared the meeting adjourned.
 ---
 
 ## Page 280
-
-![Page 280](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_280.png)
+![Page 280](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_280.png)
 
 ### Transcription
 
@@ -13824,8 +13546,7 @@ Mrs. Hartman moved and Mr. Case seconded the motion that the report be received,
 ---
 
 ## Page 281
-
-![Page 281](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_281.png)
+![Page 281](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_281.png)
 
 ### Transcription
 
@@ -13874,8 +13595,7 @@ Edward Cage                                           2,375.00
 ---
 
 ## Page 282
-
-![Page 282](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_282.png)
+![Page 282](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_282.png)
 
 ### Transcription
 
@@ -13966,8 +13686,7 @@ Mrs. Hartman recommended that the mens rest room in the Grammar School building 
 ---
 
 ## Page 283
-
-![Page 283](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_283.png)
+![Page 283](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_283.png)
 
 ### Transcription
 
@@ -14028,8 +13747,7 @@ The President thereupon declined the meeting adjourned.
 ---
 
 ## Page 284
-
-![Page 284](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_284.png)
+![Page 284](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_284.png)
 
 ### Transcription
 
@@ -14075,8 +13793,7 @@ The President announced that the base bid represented the cost of renovating the
 ---
 
 ## Page 285
-
-![Page 285](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_285.png)
+![Page 285](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_285.png)
 
 ### Transcription
 
@@ -14143,8 +13860,7 @@ generous offer. This motion unanimously carried.
 ---
 
 ## Page 286
-
-![Page 286](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_286.png)
+![Page 286](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_286.png)
 
 ### Transcription
 
@@ -14208,8 +13924,7 @@ This motion unanimously carried.
 ---
 
 ## Page 287
-
-![Page 287](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_287.png)
+![Page 287](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_287.png)
 
 ### Transcription
 
@@ -14234,8 +13949,7 @@ Mr. Ruff recommended that Miss Konman and Mr. Kittla be designated as chaprons f
 ---
 
 ## Page 288
-
-![Page 288](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_288.png)
+![Page 288](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_288.png)
 
 ### Transcription
 
@@ -14298,8 +14012,7 @@ FULL COPY OF THE RECORDS OF AMITYVILLE
 ---
 
 ## Page 289
-
-![Page 289](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_289.png)
+![Page 289](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_289.png)
 
 ### Transcription
 
@@ -14330,8 +14043,7 @@ The President thereupon declared the meeting adjourned.
 ---
 
 ## Page 290
-
-![Page 290](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_290.png)
+![Page 290](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_290.png)
 
 ### Transcription
 
@@ -14394,8 +14106,7 @@ motion unanimously carried.
 ---
 
 ## Page 291
-
-![Page 291](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_291.png)
+![Page 291](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_291.png)
 
 ### Transcription
 
@@ -14425,8 +14136,7 @@ Mrs. Hartman moved and Mr. Whitmore seconded the motion that the report be recei
 ---
 
 ## Page 292
-
-![Page 292](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_292.png)
+![Page 292](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_292.png)
 
 ### Transcription
 
@@ -14473,8 +14183,7 @@ L. I. Institutional Equip. Co. 16.87
 ---
 
 ## Page 293
-
-![Page 293](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_293.png)
+![Page 293](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_293.png)
 
 ### Transcription
 
@@ -14497,8 +14206,7 @@ The President thereupon adjourned the meeting.
 ---
 
 ## Page 294
-
-![Page 294](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_294.png)
+![Page 294](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_294.png)
 
 ### Transcription
 
@@ -14558,8 +14266,7 @@ and Mr. Haab
 ---
 
 ## Page 295
-
-![Page 295](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_295.png)
+![Page 295](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_295.png)
 
 ### Transcription
 
@@ -14590,8 +14297,7 @@ Mr. Axte[l] moved and Mr. Hanb seconded the motion that 110 gallons of floor soa
 ---
 
 ## Page 296
-
-![Page 296](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_296.png)
+![Page 296](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_296.png)
 
 ### Transcription
 
@@ -14645,8 +14351,7 @@ ANSI and ISO TEST CHART No. 2
 ---
 
 ## Page 297
-
-![Page 297](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_297.png)
+![Page 297](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_297.png)
 
 ### Transcription
 
@@ -14688,8 +14393,7 @@ The President thereupon declared the meeting adjourned.
 ---
 
 ## Page 298
-
-![Page 298](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_298.png)
+![Page 298](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_298.png)
 
 ### Transcription
 
@@ -14727,8 +14431,7 @@ Mr. Moran and Mr. Hudson, Trustees of the Village of Amityville, appeared before
 ---
 
 ## Page 299
-
-![Page 299](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_299.png)
+![Page 299](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_299.png)
 
 ### Transcription
 
@@ -14741,8 +14444,7 @@ The Board at this time prepared a budget for the coming school year. Mrs. Arrell
 ---
 
 ## Page 300
-
-![Page 300](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_300.png)
+![Page 300](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_300.png)
 
 ### Transcription
 
@@ -14761,8 +14463,7 @@ The President therewith declared the meeting adjourned.
 ---
 
 ## Page 301
-
-![Page 301](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_301.png)
+![Page 301](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_301.png)
 
 ### Transcription
 
@@ -14794,8 +14495,7 @@ R. A. Gardiner, Acting Clerk
 ---
 
 ## Page 302
-
-![Page 302](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_302.png)
+![Page 302](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_302.png)
 
 ### Transcription
 
@@ -14832,8 +14532,7 @@ On motion of Mr. Haub, James Fitzpatrick was nominated for Truant Officer at a s
 ---
 
 ## Page 303
-
-![Page 303](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_303.png)
+![Page 303](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_303.png)
 
 ### Transcription
 
@@ -14976,8 +14675,7 @@ Total estimated State aid ..................... $14,000.00
 ---
 
 ## Page 304
-
-![Page 304](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_304.png)
+![Page 304](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_304.png)
 
 ### Transcription
 
@@ -15015,8 +14713,7 @@ Mrs. Hartman moved and Mr. Ketcham seconded the motion that the report of the Te
 ---
 
 ## Page 305
-
-![Page 305](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_305.png)
+![Page 305](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_305.png)
 
 ### Transcription
 
@@ -15082,8 +14779,7 @@ The President thereupon declared the meeting adjourned.
 ---
 
 ## Page 306
-
-![Page 306](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_306.png)
+![Page 306](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_306.png)
 
 ### Transcription
 
@@ -15158,8 +14854,7 @@ DATE FILMED: 1-4-94]
 ---
 
 ## Page 307
-
-![Page 307](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_307.png)
+![Page 307](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_307.png)
 
 ### Transcription
 
@@ -15237,8 +14932,7 @@ The President thereupon declared the meeting adjourned.
 ---
 
 ## Page 308
-
-![Page 308](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_308.png)
+![Page 308](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_308.png)
 
 ### Transcription
 
@@ -15313,8 +15007,7 @@ MICROFILM
 ---
 
 ## Page 309
-
-![Page 309](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_309.png)
+![Page 309](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_309.png)
 
 ### Transcription
 
@@ -15328,8 +15021,7 @@ Aug 21, 1930
 ---
 
 ## Page 310
-
-![Page 310](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_310.png)
+![Page 310](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_310.png)
 
 ### Transcription
 
@@ -15399,8 +15091,7 @@ These will be the appointments unless some member prefers a change.
 ---
 
 ## Page 311
-
-![Page 311](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_311.png)
+![Page 311](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_311.png)
 
 ### Transcription
 
@@ -15436,8 +15127,7 @@ Motion made by Dr. Van Dyck, seconded and carried, that a committee be appointed
 ---
 
 ## Page 312
-
-![Page 312](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_312.png)
+![Page 312](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_312.png)
 
 ### Transcription
 
@@ -15487,8 +15177,7 @@ Clerk
 ---
 
 ## Page 313
-
-![Page 313](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_313.png)
+![Page 313](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_313.png)
 
 ### Transcription
 
@@ -15528,8 +15217,7 @@ Mr. Hemmond, representing the local branch of the Knights of the Ku Klux Klan, a
 ---
 
 ## Page 314
-
-![Page 314](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_314.png)
+![Page 314](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_314.png)
 
 ### Transcription
 
@@ -15591,8 +15279,7 @@ moving picture machine, be accepted.
 ---
 
 ## Page 315
-
-![Page 315](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_315.png)
+![Page 315](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_315.png)
 
 ### Transcription
 
@@ -15642,8 +15329,7 @@ C. R. Warren
 ---
 
 ## Page 316
-
-![Page 316](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_316.png)
+![Page 316](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_316.png)
 
 ### Transcription
 
@@ -15701,8 +15387,7 @@ teachers' at the same rate as they are now receiving.
 ---
 
 ## Page 317
-
-![Page 317](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_317.png)
+![Page 317](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_317.png)
 
 ### Transcription
 
@@ -15754,8 +15439,7 @@ Clerk.
 ---
 
 ## Page 318
-
-![Page 318](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_318.png)
+![Page 318](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_318.png)
 
 ### Transcription
 
@@ -15800,8 +15484,7 @@ CHECK No. 1386
 ---
 
 ## Page 319
-
-![Page 319](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_319.png)
+![Page 319](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_319.png)
 
 ### Transcription
 
@@ -15855,8 +15538,7 @@ supplies are necessary to repaint the halls and class rooms.
 ---
 
 ## Page 320
-
-![Page 320](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_320.png)
+![Page 320](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_320.png)
 
 ### Transcription
 
@@ -15883,8 +15565,7 @@ Clark.
 ---
 
 ## Page 321
-
-![Page 321](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_321.png)
+![Page 321](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_321.png)
 
 ### Transcription
 
@@ -15943,8 +15624,7 @@ DATE FILLED 1-4-94]
 ---
 
 ## Page 322
-
-![Page 322](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_322.png)
+![Page 322](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_322.png)
 
 ### Transcription
 
@@ -15987,8 +15667,7 @@ Treasurer's report read and approved.
 ---
 
 ## Page 323
-
-![Page 323](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_323.png)
+![Page 323](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_323.png)
 
 ### Transcription
 
@@ -16017,8 +15696,7 @@ DATE FILMED 4-11-04]
 ---
 
 ## Page 324
-
-![Page 324](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_324.png)
+![Page 324](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_324.png)
 
 ### Transcription
 
@@ -16070,8 +15748,7 @@ C.R. Warren
 ---
 
 ## Page 325
-
-![Page 325](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_325.png)
+![Page 325](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_325.png)
 
 ### Transcription
 
@@ -16111,8 +15788,7 @@ Motion made by Mr. Vogel, seconded and carried, that contract for all work with 
 ---
 
 ## Page 326
-
-![Page 326](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_326.png)
+![Page 326](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_326.png)
 
 ### Transcription
 
@@ -16149,8 +15825,7 @@ DATE FILLED 1-1-04]
 ---
 
 ## Page 327
-
-![Page 327](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_327.png)
+![Page 327](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_327.png)
 
 ### Transcription
 
@@ -16178,8 +15853,7 @@ Clerk
 ---
 
 ## Page 328
-
-![Page 328](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_328.png)
+![Page 328](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_328.png)
 
 ### Transcription
 
@@ -16225,8 +15899,7 @@ Dr. Hood was nominated for Health Officer by Dr. Van Dyck and the nomination was
 ---
 
 ## Page 329
-
-![Page 329](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_329.png)
+![Page 329](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_329.png)
 
 ### Transcription
 
@@ -16259,8 +15932,7 @@ Hartwell & Lestor, Inc. 360.78
 ---
 
 ## Page 330
-
-![Page 330](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_330.png)
+![Page 330](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_330.png)
 
 ### Transcription
 
@@ -16289,8 +15961,7 @@ Clock
 ---
 
 ## Page 331
-
-![Page 331](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_331.png)
+![Page 331](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_331.png)
 
 ### Transcription
 
@@ -16326,8 +15997,7 @@ Clerk read letter received from Architect Inglee in regard to the work which the
 ---
 
 ## Page 332
-
-![Page 332](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_332.png)
+![Page 332](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_332.png)
 
 ### Transcription
 
@@ -16365,8 +16035,7 @@ RESOLVED, that the Principal of the Grammar School, under the immediate directio
 ---
 
 ## Page 333
-
-![Page 333](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_333.png)
+![Page 333](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_333.png)
 
 ### Transcription
 
@@ -16386,8 +16055,7 @@ Clerk
 ---
 
 ## Page 334
-
-![Page 334](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_334.png)
+![Page 334](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_334.png)
 
 ### Transcription
 
@@ -16439,8 +16107,7 @@ on the assessment roll of the Town of Oyster Bay for
 ---
 
 ## Page 335
-
-![Page 335](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_335.png)
+![Page 335](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_335.png)
 
 ### Transcription
 
@@ -16477,8 +16144,7 @@ C.R. W
 ---
 
 ## Page 336
-
-![Page 336](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_336.png)
+![Page 336](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_336.png)
 
 ### Transcription
 
@@ -16517,8 +16183,7 @@ CLERK
 ---
 
 ## Page 337
-
-![Page 337](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_337.png)
+![Page 337](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_337.png)
 
 ### Transcription
 
@@ -16550,8 +16215,7 @@ On motion of Mr. Groey, seconded and carried, it was resolved that the purchase 
 ---
 
 ## Page 338
-
-![Page 338](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_338.png)
+![Page 338](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_338.png)
 
 ### Transcription
 
@@ -16712,8 +16376,7 @@ New York 19, N.Y.]
 ---
 
 ## Page 339
-
-![Page 339](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_339.png)
+![Page 339](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_339.png)
 
 ### Transcription
 
@@ -16746,8 +16409,7 @@ On motion of Dr. Van Dyck, seconded and carried, it was
 ---
 
 ## Page 340
-
-![Page 340](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_340.png)
+![Page 340](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_340.png)
 
 ### Transcription
 
@@ -16776,8 +16438,7 @@ On motion of Mr. Greey, seconded and carried, they were ordered paid.
 ---
 
 ## Page 341
-
-![Page 341](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_341.png)
+![Page 341](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_341.png)
 
 ### Transcription
 
@@ -16829,8 +16490,7 @@ Chas. E. Houghtaling Record Cards 4.42
 ---
 
 ## Page 342
-
-![Page 342](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_342.png)
+![Page 342](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_342.png)
 
 ### Transcription
 
@@ -16872,8 +16532,7 @@ District, by the K. K. K.
 ---
 
 ## Page 343
-
-![Page 343](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_343.png)
+![Page 343](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_343.png)
 
 ### Transcription
 
@@ -16900,8 +16559,7 @@ Dr. Van Dyck read statement outlining the duties of juniors, as follows:
 ---
 
 ## Page 344
-
-![Page 344](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_344.png)
+![Page 344](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_344.png)
 
 ### Transcription
 
@@ -16932,8 +16590,7 @@ Motion made by Mr. Vogel, seconded and carried, that a letter be written to the 
 ---
 
 ## Page 345
-
-![Page 345](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_345.png)
+![Page 345](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_345.png)
 
 ### Transcription
 
@@ -16967,8 +16624,7 @@ Motion duly made, seconded and carried, that the two Aero view pictures of Amity
 ---
 
 ## Page 346
-
-![Page 346](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_346.png)
+![Page 346](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_346.png)
 
 ### Transcription
 
@@ -17006,8 +16662,7 @@ MICROCOPY RESOLUTION TEST CHART
 ---
 
 ## Page 347
-
-![Page 347](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_347.png)
+![Page 347](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_347.png)
 
 ### Transcription
 
@@ -17045,8 +16700,7 @@ MICROCOPY RESOLUTION TEST CHART
 ---
 
 ## Page 348
-
-![Page 348](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_348.png)
+![Page 348](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_348.png)
 
 ### Transcription
 
@@ -17064,8 +16718,7 @@ Clerk
 ---
 
 ## Page 349
-
-![Page 349](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_349.png)
+![Page 349](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_349.png)
 
 ### Transcription
 
@@ -17103,8 +16756,7 @@ A delegation of citizens of North Amityville appeared before the Board with a re
 ---
 
 ## Page 350
-
-![Page 350](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_350.png)
+![Page 350](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_350.png)
 
 ### Transcription
 
@@ -17142,8 +16794,7 @@ Very truly yours,
 ---
 
 ## Page 351
-
-![Page 351](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_351.png)
+![Page 351](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_351.png)
 
 ### Transcription
 
@@ -17174,8 +16825,7 @@ Flushing, New York 11354
 ---
 
 ## Page 352
-
-![Page 352](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_352.png)
+![Page 352](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_352.png)
 
 ### Transcription
 
@@ -17223,8 +16873,7 @@ Clerk
 ---
 
 ## Page 353
-
-![Page 353](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_353.png)
+![Page 353](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_353.png)
 
 ### Transcription
 
@@ -17282,8 +16931,7 @@ absence to
 ---
 
 ## Page 354
-
-![Page 354](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_354.png)
+![Page 354](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_354.png)
 
 ### Transcription
 
@@ -17323,8 +16971,7 @@ Cambridge Botanical Supply Co. 25.08
 ---
 
 ## Page 355
-
-![Page 355](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_355.png)
+![Page 355](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_355.png)
 
 ### Transcription
 
@@ -17360,8 +17007,7 @@ The Building Committee recommended that the certificates be paid and on motion d
 ---
 
 ## Page 356
-
-![Page 356](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_356.png)
+![Page 356](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_356.png)
 
 ### Transcription
 
@@ -17416,8 +17062,7 @@ Baltimore, Maryland 21202
 ---
 
 ## Page 357
-
-![Page 357](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_357.png)
+![Page 357](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_357.png)
 
 ### Transcription
 
@@ -17797,8 +17442,7 @@ B22
 ---
 
 ## Page 358
-
-![Page 358](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_358.png)
+![Page 358](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_358.png)
 
 ### Transcription
 
@@ -17840,8 +17484,7 @@ Charles H. Ditzen Co. 7.63
 ---
 
 ## Page 359
-
-![Page 359](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_359.png)
+![Page 359](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_359.png)
 
 ### Transcription
 
@@ -17890,8 +17533,7 @@ Total - $777.75
 ---
 
 ## Page 360
-
-![Page 360](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_360.png)
+![Page 360](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_360.png)
 
 ### Transcription
 
@@ -17973,8 +17615,7 @@ SERVICES CAMERA OPERATOR
 ---
 
 ## Page 361
-
-![Page 361](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_361.png)
+![Page 361](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_361.png)
 
 ### Transcription
 
@@ -17995,8 +17636,7 @@ There being no further business, the meeting ther[e]on adjourned.
 ---
 
 ## Page 362
-
-![Page 362](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_362.png)
+![Page 362](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_362.png)
 
 ### Transcription
 
@@ -18029,8 +17669,7 @@ Hicksville, New York 11801
 ---
 
 ## Page 363
-
-![Page 363](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_363.png)
+![Page 363](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_363.png)
 
 ### Transcription
 
@@ -18411,8 +18050,7 @@ B22
 ---
 
 ## Page 364
-
-![Page 364](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_364.png)
+![Page 364](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_364.png)
 
 ### Transcription
 
@@ -18466,8 +18104,7 @@ Clerk
 ---
 
 ## Page 365
-
-![Page 365](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_365.png)
+![Page 365](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_365.png)
 
 ### Transcription
 
@@ -18514,8 +18151,7 @@ Mrs. Ralph Gardiner [illegible]
 ---
 
 ## Page 366
-
-![Page 366](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_366.png)
+![Page 366](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_366.png)
 
 ### Transcription
 
@@ -18569,8 +18205,7 @@ Mr. Fronman the matter of his absences.
 ---
 
 ## Page 367
-
-![Page 367](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_367.png)
+![Page 367](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_367.png)
 
 ### Transcription
 
@@ -18616,8 +18251,7 @@ There being no further business, the meeting thereupon adjourned.
 ---
 
 ## Page 368
-
-![Page 368](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_368.png)
+![Page 368](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_368.png)
 
 ### Transcription
 
@@ -18669,8 +18303,7 @@ George A. Brown, Principal
 ---
 
 ## Page 369
-
-![Page 369](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_369.png)
+![Page 369](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_369.png)
 
 ### Transcription
 
@@ -18689,8 +18322,7 @@ $57.50
 ---
 
 ## Page 370
-
-![Page 370](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_370.png)
+![Page 370](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_370.png)
 
 ### Transcription
 
@@ -18743,8 +18375,7 @@ Any student who is absent an unreasonable amount of the remaining time or neglec
 ---
 
 ## Page 371
-
-![Page 371](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_371.png)
+![Page 371](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_371.png)
 
 ### Transcription
 
@@ -18767,8 +18398,7 @@ MICROCC
 ---
 
 ## Page 372
-
-![Page 372](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_372.png)
+![Page 372](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_372.png)
 
 ### Transcription
 
@@ -18824,8 +18454,7 @@ School grounds.
 ---
 
 ## Page 373
-
-![Page 373](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_373.png)
+![Page 373](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_373.png)
 
 ### Transcription
 
@@ -18879,8 +18508,7 @@ Clerk
 ---
 
 ## Page 374
-
-![Page 374](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_374.png)
+![Page 374](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_374.png)
 
 ### Transcription
 
@@ -18936,8 +18564,7 @@ per year, effective as of January 2, 1926.
 ---
 
 ## Page 375
-
-![Page 375](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_375.png)
+![Page 375](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_375.png)
 
 ### Transcription
 
@@ -18968,8 +18595,7 @@ There being no further business, the meeting thorenupon adjourned.
 ---
 
 ## Page 376
-
-![Page 376](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_376.png)
+![Page 376](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_376.png)
 
 ### Transcription
 
@@ -19000,8 +18626,7 @@ Mrs. Theodore Axtell is entitled to 13 days' salary at $5 a day - $65
 ---
 
 ## Page 377
-
-![Page 377](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_377.png)
+![Page 377](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_377.png)
 
 ### Transcription
 
@@ -19033,8 +18658,7 @@ George A. Brown, Principal
 ---
 
 ## Page 378
-
-![Page 378](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_378.png)
+![Page 378](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_378.png)
 
 ### Transcription
 
@@ -19093,8 +18717,7 @@ a check for $100.00 was ordered sent her in payment.
 ---
 
 ## Page 379
-
-![Page 379](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_379.png)
+![Page 379](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_379.png)
 
 ### Transcription
 
@@ -19204,8 +18827,7 @@ Clerk
 ---
 
 ## Page 380
-
-![Page 380](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_380.png)
+![Page 380](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_380.png)
 
 ### Transcription
 
@@ -19222,8 +18844,7 @@ Superintendent, Principal
 ---
 
 ## Page 381
-
-![Page 381](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_381.png)
+![Page 381](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_381.png)
 
 ### Transcription
 
@@ -19276,8 +18897,7 @@ on account of Illness.
 ---
 
 ## Page 382
-
-![Page 382](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_382.png)
+![Page 382](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_382.png)
 
 ### Transcription
 
@@ -19312,8 +18932,7 @@ to me left in the office for you next year.
 ---
 
 ## Page 383
-
-![Page 383](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_383.png)
+![Page 383](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_383.png)
 
 ### Transcription
 
@@ -19345,8 +18964,7 @@ Clerk.
 ---
 
 ## Page 384
-
-![Page 384](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_384.png)
+![Page 384](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_384.png)
 
 ### Transcription
 
@@ -19410,8 +19028,7 @@ School Graduation Exercises.
 ---
 
 ## Page 385
-
-![Page 385](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_385.png)
+![Page 385](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_385.png)
 
 ### Transcription
 
@@ -19443,8 +19060,7 @@ There being no further business, the meeting thereupon adjourned.
 ---
 
 ## Page 386
-
-![Page 386](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_386.png)
+![Page 386](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_386.png)
 
 ### Transcription
 
@@ -19497,8 +19113,7 @@ Rochester, New York 14609
 ---
 
 ## Page 387
-
-![Page 387](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_387.png)
+![Page 387](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_387.png)
 
 ### Transcription
 
@@ -19541,8 +19156,7 @@ APPLIED IMAGE, INC.
 ---
 
 ## Page 388
-
-![Page 388](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_388.png)
+![Page 388](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_388.png)
 
 ### Transcription
 
@@ -19586,8 +19200,7 @@ Mr. Ralph Gardiner was nominated and unanimously elected Treasurer at a salary o
 ---
 
 ## Page 389
-
-![Page 389](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_389.png)
+![Page 389](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_389.png)
 
 ### Transcription
 
@@ -19650,8 +19263,7 @@ FLUSHING, NEW YORK 11354
 ---
 
 ## Page 390
-
-![Page 390](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_390.png)
+![Page 390](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_390.png)
 
 ### Transcription
 
@@ -19687,8 +19299,7 @@ The Vice President thereupon declared the resolution duly adopted
 ---
 
 ## Page 391
-
-![Page 391](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_391.png)
+![Page 391](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_391.png)
 
 ### Transcription
 
@@ -19718,8 +19329,7 @@ Pittsburgh, New York 15235]
 ---
 
 ## Page 392
-
-![Page 392](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_392.png)
+![Page 392](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_392.png)
 
 ### Transcription
 
@@ -19771,8 +19381,7 @@ with the election of the necessary committees.
 ---
 
 ## Page 393
-
-![Page 393](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_393.png)
+![Page 393](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_393.png)
 
 ### Transcription
 
@@ -19831,8 +19440,7 @@ The Vice President thereupon declared the resolution duly adopted.
 ---
 
 ## Page 394
-
-![Page 394](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_394.png)
+![Page 394](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_394.png)
 
 ### Transcription
 
@@ -19896,8 +19504,7 @@ The Vice President thereupon declared the resolution duly adopted.
 ---
 
 ## Page 395
-
-![Page 395](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_395.png)
+![Page 395](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_395.png)
 
 ### Transcription
 
@@ -19933,8 +19540,7 @@ Motion made, duly seconded and carried, that any business transacted at this mee
 ---
 
 ## Page 396
-
-![Page 396](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_396.png)
+![Page 396](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_396.png)
 
 ### Transcription
 
@@ -19975,8 +19581,7 @@ Cl[erk]
 ---
 
 ## Page 397
-
-![Page 397](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_397.png)
+![Page 397](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_397.png)
 
 ### Transcription
 
@@ -20042,8 +19647,7 @@ unanimous.
 ---
 
 ## Page 398
-
-![Page 398](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_398.png)
+![Page 398](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_398.png)
 
 ### Transcription
 
@@ -20076,8 +19680,7 @@ WHEREAS, the Board of Assessors of the Town of Babylon have certified that the v
 ---
 
 ## Page 399
-
-![Page 399](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_399.png)
+![Page 399](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_399.png)
 
 ### Transcription
 
@@ -20104,8 +19707,7 @@ Mr. Ruff spoke to the Board on it and recommended that school be closed one day,
 ---
 
 ## Page 400
-
-![Page 400](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_400.png)
+![Page 400](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_400.png)
 
 ### Transcription
 
@@ -20136,8 +19738,7 @@ Treasurer's report read and approved. The Treasurer stated that it would be nece
 ---
 
 ## Page 401
-
-![Page 401](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_401.png)
+![Page 401](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_401.png)
 
 ### Transcription
 
@@ -20175,8 +19776,7 @@ There being no further business - the meeting therupon adjourned.
 ---
 
 ## Page 402
-
-![Page 402](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_402.png)
+![Page 402](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_402.png)
 
 ### Transcription
 
@@ -20192,8 +19792,7 @@ Mr. Brugaw - Absent Sept. 28 - Out of town - Classes dismissed
 ---
 
 ## Page 403
-
-![Page 403](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_403.png)
+![Page 403](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_403.png)
 
 ### Transcription
 
@@ -20247,8 +19846,7 @@ full power to act.
 ---
 
 ## Page 404
-
-![Page 404](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_404.png)
+![Page 404](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_404.png)
 
 ### Transcription
 
@@ -20271,8 +19869,7 @@ There being no further business, the meeting thereupon adjourned.
 ---
 
 ## Page 405
-
-![Page 405](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_405.png)
+![Page 405](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_405.png)
 
 ### Transcription
 
@@ -20310,8 +19907,7 @@ Binghamton, New York 13901
 ---
 
 ## Page 406
-
-![Page 406](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_406.png)
+![Page 406](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_406.png)
 
 ### Transcription
 
@@ -20368,8 +19964,7 @@ on Christmas Eve.
 ---
 
 ## Page 407
-
-![Page 407](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_407.png)
+![Page 407](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_407.png)
 
 ### Transcription
 
@@ -20432,8 +20027,7 @@ There being no further business, the meeting was adjourned.
 ---
 
 ## Page 408
-
-![Page 408](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_408.png)
+![Page 408](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_408.png)
 
 ### Transcription
 
@@ -20452,8 +20046,7 @@ Mrs. Kimmo taught for Miss Armstrong November 4, inst.
 ---
 
 ## Page 409
-
-![Page 409](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_409.png)
+![Page 409](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_409.png)
 
 ### Transcription
 
@@ -20471,8 +20064,7 @@ Mr. Bergman - " 22 r.m. 23 - Sick - Students took charge of classes
 ---
 
 ## Page 410
-
-![Page 410](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_410.png)
+![Page 410](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_410.png)
 
 ### Transcription
 
@@ -20517,8 +20109,7 @@ Mr. Miles, Johns-Manville representative was called before the Board and the dec
 ---
 
 ## Page 411
-
-![Page 411](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_411.png)
+![Page 411](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_411.png)
 
 ### Transcription
 
@@ -20550,8 +20141,7 @@ Clerk
 ---
 
 ## Page 412
-
-![Page 412](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_412.png)
+![Page 412](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_412.png)
 
 ### Transcription
 
@@ -20579,8 +20169,7 @@ Our cost for doing this work amounts to $707.00, and if favored with your order 
 ---
 
 ## Page 413
-
-![Page 413](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_413.png)
+![Page 413](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_413.png)
 
 ### Transcription
 
@@ -20612,8 +20201,7 @@ DATE FILMED 1-11-04]
 ---
 
 ## Page 414
-
-![Page 414](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_414.png)
+![Page 414](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_414.png)
 
 ### Transcription
 
@@ -20647,8 +20235,7 @@ By-Laws Committee reported progress.
 ---
 
 ## Page 415
-
-![Page 415](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_415.png)
+![Page 415](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_415.png)
 
 ### Transcription
 
@@ -20663,8 +20250,7 @@ There being no further business therupon adjourned.
 ---
 
 ## Page 416
-
-![Page 416](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_416.png)
+![Page 416](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_416.png)
 
 ### Transcription
 
@@ -20694,8 +20280,7 @@ Rochester, New York 14604
 ---
 
 ## Page 417
-
-![Page 417](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_417.png)
+![Page 417](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_417.png)
 
 ### Transcription
 
@@ -20721,8 +20306,7 @@ Mrs. Repalje taught
 ---
 
 ## Page 418
-
-![Page 418](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_418.png)
+![Page 418](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_418.png)
 
 ### Transcription
 
@@ -20754,8 +20338,7 @@ Teachers' Committee reported no inexorable absences for the month of January, 19
 ---
 
 ## Page 419
-
-![Page 419](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_419.png)
+![Page 419](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_419.png)
 
 ### Transcription
 
@@ -20782,8 +20365,7 @@ There being no further business, the meeting thereupon adjourned.
 ---
 
 ## Page 420
-
-![Page 420](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_420.png)
+![Page 420](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_420.png)
 
 ### Transcription
 
@@ -20814,8 +20396,7 @@ Rochester, New York 14605
 ---
 
 ## Page 421
-
-![Page 421](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_421.png)
+![Page 421](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_421.png)
 
 ### Transcription
 
@@ -20849,8 +20430,7 @@ AMITYVILLE, N.Y., February 3, 1927
 ---
 
 ## Page 422
-
-![Page 422](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_422.png)
+![Page 422](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_422.png)
 
 ### Transcription
 
@@ -20897,8 +20477,7 @@ Article 8 adopted by a vote of five to naught.
 ---
 
 ## Page 423
-
-![Page 423](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_423.png)
+![Page 423](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_423.png)
 
 ### Transcription
 
@@ -20947,8 +20526,7 @@ Mr. Carwell moved that no contracts be given Mrs. Gardiner because of the remark
 ---
 
 ## Page 424
-
-![Page 424](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_424.png)
+![Page 424](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_424.png)
 
 ### Transcription
 
@@ -20971,8 +20549,7 @@ by - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 ---
 
 ## Page 425
-
-![Page 425](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_425.png)
+![Page 425](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_425.png)
 
 ### Transcription
 
@@ -21015,8 +20592,7 @@ Teachers' Committee reported no inexcusable absences and that Mrs. Ralph Gardine
 ---
 
 ## Page 426
-
-![Page 426](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_426.png)
+![Page 426](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_426.png)
 
 ### Transcription
 
@@ -21036,8 +20612,7 @@ Vine Frantzton
 ---
 
 ## Page 427
-
-![Page 427](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_427.png)
+![Page 427](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_427.png)
 
 ### Transcription
 
@@ -21061,8 +20636,7 @@ AMITYVILLE, N.Y., March 3, 1877
 ---
 
 ## Page 428
-
-![Page 428](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_428.png)
+![Page 428](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_428.png)
 
 ### Transcription
 
@@ -21098,8 +20672,7 @@ There being no further business, the meeting thereupon adjourned.
 ---
 
 ## Page 429
-
-![Page 429](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_429.png)
+![Page 429](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_429.png)
 
 ### Transcription
 
@@ -21155,8 +20728,7 @@ Motion duly made, seconded and carried, that a letter be sent to the Honorable G
 ---
 
 ## Page 430
-
-![Page 430](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_430.png)
+![Page 430](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_430.png)
 
 ### Transcription
 
@@ -21184,8 +20756,7 @@ Clerk.
 ---
 
 ## Page 431
-
-![Page 431](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_431.png)
+![Page 431](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_431.png)
 
 ### Transcription
 
@@ -21220,8 +20791,7 @@ duly seconded by Mr. Inglis and on vote adopted.
 ---
 
 ## Page 432
-
-![Page 432](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_432.png)
+![Page 432](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_432.png)
 
 ### Transcription
 
@@ -21236,8 +20806,7 @@ WHEREAS, the said Board of Education of such district, after conference had with
 ---
 
 ## Page 433
-
-![Page 433](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_433.png)
+![Page 433](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_433.png)
 
 ### Transcription
 
@@ -21276,8 +20845,7 @@ DATE FILMED 4-11-94]
 ---
 
 ## Page 434
-
-![Page 434](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_434.png)
+![Page 434](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_434.png)
 
 ### Transcription
 
@@ -21312,8 +20880,7 @@ On motion made, duly seconded and carried, it was moved that $50.00 be spent for
 ---
 
 ## Page 435
-
-![Page 435](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_435.png)
+![Page 435](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_435.png)
 
 ### Transcription
 
@@ -21350,8 +20917,7 @@ Mr. Carwell reported that the by-laws were being printed.
 ---
 
 ## Page 436
-
-![Page 436](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_436.png)
+![Page 436](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_436.png)
 
 ### Transcription
 
@@ -21376,8 +20942,7 @@ MICROCOPY RESOLUTION TEST CHART
 ---
 
 ## Page 437
-
-![Page 437](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_437.png)
+![Page 437](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_437.png)
 
 ### Transcription
 
@@ -21419,8 +20984,7 @@ Huntington, New York 11743
 ---
 
 ## Page 438
-
-![Page 438](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_438.png)
+![Page 438](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_438.png)
 
 ### Transcription
 
@@ -21438,8 +21002,7 @@ Clerk.
 ---
 
 ## Page 439
-
-![Page 439](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_439.png)
+![Page 439](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_439.png)
 
 ### Transcription
 
@@ -21499,8 +21062,7 @@ the regular meeting was resumed.
 ---
 
 ## Page 440
-
-![Page 440](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_440.png)
+![Page 440](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_440.png)
 
 ### Transcription
 
@@ -21517,8 +21079,7 @@ Mrs. Repelje taught 1 day - $111.73
 ---
 
 ## Page 441
-
-![Page 441](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_441.png)
+![Page 441](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_441.png)
 
 ### Transcription
 
@@ -21540,8 +21101,7 @@ Krs. Repalje taught April 6
 ---
 
 ## Page 442
-
-![Page 442](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_442.png)
+![Page 442](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_442.png)
 
 ### Transcription
 
@@ -21579,9 +21139,9 @@ Yours respectfully,
 
 ---
 
-## Page 443
 
-![Page 443](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_443.png)
+## Page 443
+![Page 443](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_443.png)
 
 ### Transcription
 
@@ -21638,8 +21198,7 @@ to place it on an eight period day.
 ---
 
 ## Page 444
-
-![Page 444](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_444.png)
+![Page 444](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_444.png)
 
 ### Transcription
 
@@ -21666,8 +21225,7 @@ APPLIED IMAGE, INC.
 ---
 
 ## Page 445
-
-![Page 445](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_445.png)
+![Page 445](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_445.png)
 
 ### Transcription
 
@@ -21842,8 +21400,7 @@ Classes dismissed
 ---
 
 ## Page 446
-
-![Page 446](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_446.png)
+![Page 446](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_446.png)
 
 ### Transcription
 
@@ -21890,8 +21447,7 @@ Alice Wall 2000.00 "
 ---
 
 ## Page 447
-
-![Page 447](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_447.png)
+![Page 447](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_447.png)
 
 ### Transcription
 
@@ -21928,8 +21484,7 @@ Clerk
 ---
 
 ## Page 448
-
-![Page 448](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_448.png)
+![Page 448](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_448.png)
 
 ### Transcription
 
@@ -21985,8 +21540,7 @@ Respectfully submitted
 ---
 
 ## Page 449
-
-![Page 449](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_449.png)
+![Page 449](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_449.png)
 
 ### Transcription
 
@@ -22004,8 +21558,7 @@ Acting Clerk.
 ---
 
 ## Page 450
-
-![Page 450](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_450.png)
+![Page 450](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_450.png)
 
 ### Transcription
 
@@ -22061,8 +21614,7 @@ Yours very truly,
 ---
 
 ## Page 451
-
-![Page 451](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_451.png)
+![Page 451](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_451.png)
 
 ### Transcription
 
@@ -22093,8 +21645,7 @@ The Treasurer's report was read and approved.
 ---
 
 ## Page 452
-
-![Page 452](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_452.png)
+![Page 452](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_452.png)
 
 ### Transcription
 
@@ -22131,8 +21682,7 @@ The following budget with necessary expenses for the school year 1927-1928 was p
 ---
 
 ## Page 453
-
-![Page 453](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_453.png)
+![Page 453](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_453.png)
 
 ### Transcription
 
@@ -22162,8 +21712,7 @@ DATE FILMED 4-14-04]
 ---
 
 ## Page 454
-
-![Page 454](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_454.png)
+![Page 454](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_454.png)
 
 ### Transcription
 
@@ -22179,8 +21728,7 @@ A. W. Ruff
 ---
 
 ## Page 455
-
-![Page 455](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_455.png)
+![Page 455](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_455.png)
 
 ### Transcription
 
@@ -22224,8 +21772,7 @@ Dr. Reed was unanimously elected Medical Officer at a salary of $300. per year.
 ---
 
 ## Page 456
-
-![Page 456](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_456.png)
+![Page 456](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_456.png)
 
 ### Transcription
 
@@ -22251,8 +21798,7 @@ Long Island Lighting Co. 15.05
 ---
 
 ## Page 457
-
-![Page 457](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_457.png)
+![Page 457](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_457.png)
 
 ### Transcription
 
@@ -22292,8 +21838,7 @@ After discussion of the matter and on motion duly made, seconded and carried, it
 ---
 
 ## Page 458
-
-![Page 458](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_458.png)
+![Page 458](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_458.png)
 
 ### Transcription
 
@@ -22316,8 +21861,7 @@ Secretary
 ---
 
 ## Page 459
-
-![Page 459](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_459.png)
+![Page 459](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_459.png)
 
 ### Transcription
 
@@ -22345,8 +21889,7 @@ Bidder . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 ---
 
 ## Page 460
-
-![Page 460](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_460.png)
+![Page 460](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_460.png)
 
 ### Transcription
 
@@ -22379,8 +21922,7 @@ There being no further business, the meeting thereupon adjourned.
 ---
 
 ## Page 461
-
-![Page 461](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_461.png)
+![Page 461](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_461.png)
 
 ### Transcription
 
@@ -22435,8 +21977,7 @@ aforesaid, which were authorised to be issued at the Special
 ---
 
 ## Page 462
-
-![Page 462](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_462.png)
+![Page 462](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_462.png)
 
 ### Transcription
 
@@ -22461,8 +22002,7 @@ At this time the President declared a recess to permit the Teachers' Committee t
 ---
 
 ## Page 463
-
-![Page 463](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_463.png)
+![Page 463](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_463.png)
 
 ### Transcription
 
@@ -22510,8 +22050,7 @@ APRIL 11, 19[?]
 ---
 
 ## Page 464
-
-![Page 464](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_464.png)
+![Page 464](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_464.png)
 
 ### Transcription
 
@@ -22544,8 +22083,7 @@ DATE FILLED 4-11-94]
 ---
 
 ## Page 465
-
-![Page 465](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_465.png)
+![Page 465](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_465.png)
 
 ### Transcription
 
@@ -22606,8 +22144,7 @@ year, except where state pays Nothing.
 ---
 
 ## Page 466
-
-![Page 466](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_466.png)
+![Page 466](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_466.png)
 
 ### Transcription
 
@@ -22636,8 +22173,7 @@ Temporary Secretary.
 ---
 
 ## Page 467
-
-![Page 467](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_467.png)
+![Page 467](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_467.png)
 
 ### Transcription
 
@@ -22673,8 +22209,7 @@ $0.00 per pupil from District
 ---
 
 ## Page 468
-
-![Page 468](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_468.png)
+![Page 468](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_468.png)
 
 ### Transcription
 
@@ -22709,8 +22244,7 @@ Real Property $ 540,870.00
 ---
 
 ## Page 469
-
-![Page 469](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_469.png)
+![Page 469](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_469.png)
 
 ### Transcription
 
@@ -22738,8 +22272,7 @@ Secretary
 ---
 
 ## Page 470
-
-![Page 470](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_470.png)
+![Page 470](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_470.png)
 
 ### Transcription
 
@@ -22774,8 +22307,7 @@ Teachers' Committee reported &c inexcusable absences for the month of September 
 ---
 
 ## Page 471
-
-![Page 471](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_471.png)
+![Page 471](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_471.png)
 
 ### Transcription
 
@@ -22808,8 +22340,7 @@ The Treasurer's report was read and approved.
 ---
 
 ## Page 472
-
-![Page 472](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_472.png)
+![Page 472](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_472.png)
 
 ### Transcription
 
@@ -22830,8 +22361,7 @@ Miss Edelman - Absent September 26 - Sick -- 27,28 - Holidays - Mrs. Rapalye tau
 ---
 
 ## Page 473
-
-![Page 473](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_473.png)
+![Page 473](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_473.png)
 
 ### Transcription
 
@@ -22846,8 +22376,7 @@ Mrs. Rapalye taught three days            $15.00  #64
 ---
 
 ## Page 474
-
-![Page 474](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_474.png)
+![Page 474](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_474.png)
 
 ### Transcription
 
@@ -22897,8 +22426,7 @@ The Wood Lumber Company 20.40
 ---
 
 ## Page 475
-
-![Page 475](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_475.png)
+![Page 475](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_475.png)
 
 ### Transcription
 
@@ -22941,8 +22469,7 @@ Secretary
 ---
 
 ## Page 476
-
-![Page 476](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_476.png)
+![Page 476](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_476.png)
 
 ### Transcription
 
@@ -22990,8 +22517,7 @@ Motion made, duly seconded and carried, that the report be accepted and placed o
 ---
 
 ## Page 477
-
-![Page 477](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_477.png)
+![Page 477](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_477.png)
 
 ### Transcription
 
@@ -23057,8 +22583,7 @@ F. M. Ambrose Company                                               31.84
 ---
 
 ## Page 478
-
-![Page 478](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_478.png)
+![Page 478](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_478.png)
 
 ### Transcription
 
@@ -23105,8 +22630,7 @@ MICROCOPY RESOLUTION TEST CHART
 ---
 
 ## Page 479
-
-![Page 479](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_479.png)
+![Page 479](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_479.png)
 
 ### Transcription
 
@@ -23129,8 +22653,7 @@ Miss Sophia Berwind taught 13½ days - $6.50
 ---
 
 ## Page 480
-
-![Page 480](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_480.png)
+![Page 480](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_480.png)
 
 ### Transcription
 
@@ -23179,8 +22702,7 @@ OCEAN COUNTY, NEW JERSEY]
 ---
 
 ## Page 481
-
-![Page 481](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_481.png)
+![Page 481](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_481.png)
 
 ### Transcription
 
@@ -23235,8 +22757,7 @@ Secretary.
 ---
 
 ## Page 482
-
-![Page 482](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_482.png)
+![Page 482](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_482.png)
 
 ### Transcription
 
@@ -23270,8 +22791,7 @@ Motion made, duly seconded and carried, that the Finance Committee, in conjuncti
 ---
 
 ## Page 483
-
-![Page 483](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_483.png)
+![Page 483](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_483.png)
 
 ### Transcription
 
@@ -23697,8 +23217,7 @@ Miss Derwin taught Grade 6A thirteen days
 ---
 
 ## Page 484
-
-![Page 484](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_484.png)
+![Page 484](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_484.png)
 
 ### Transcription
 
@@ -23731,8 +23250,7 @@ Nov.2,3,4,7,9,10,11,14,15,16,17
 ---
 
 ## Page 485
-
-![Page 485](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_485.png)
+![Page 485](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_485.png)
 
 ### Transcription
 
@@ -23851,8 +23369,7 @@ Secretary.
 ---
 
 ## Page 486
-
-![Page 486](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_486.png)
+![Page 486](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_486.png)
 
 ### Transcription
 
@@ -23882,8 +23399,7 @@ Mr. Inglee reported that the Amityville Dahlia and Flower Society desired the us
 ---
 
 ## Page 487
-
-![Page 487](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_487.png)
+![Page 487](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_487.png)
 
 ### Transcription
 
@@ -23908,8 +23424,7 @@ In some cases, however, I find a number of students who have joined together and
 ---
 
 ## Page 488
-
-![Page 488](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_488.png)
+![Page 488](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_488.png)
 
 ### Transcription
 
@@ -23940,8 +23455,7 @@ Irwin Esmond
 ---
 
 ## Page 489
-
-![Page 489](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_489.png)
+![Page 489](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_489.png)
 
 ### Transcription
 
@@ -23956,8 +23470,7 @@ Mrs. Devier - Absent December 7 P.M. - Sick Classes dismissed
 ---
 
 ## Page 490
-
-![Page 490](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_490.png)
+![Page 490](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_490.png)
 
 ### Transcription
 
@@ -23991,8 +23504,7 @@ Motion made, duly seconded and carried, that the action taken at the regular mee
 ---
 
 ## Page 491
-
-![Page 491](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_491.png)
+![Page 491](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_491.png)
 
 ### Transcription
 
@@ -24047,8 +23559,7 @@ Secretary.
 ---
 
 ## Page 492
-
-![Page 492](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_492.png)
+![Page 492](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_492.png)
 
 ### Transcription
 
@@ -24090,8 +23601,7 @@ Teachers' Committee recommended that Miss Edith Knott be held in abeyance, pendi
 ---
 
 ## Page 493
-
-![Page 493](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_493.png)
+![Page 493](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_493.png)
 
 ### Transcription
 
@@ -24133,8 +23643,7 @@ Mr. Carswell brought to the attention of the Board the treatment accorded Anyvil
 ---
 
 ## Page 494
-
-![Page 494](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_494.png)
+![Page 494](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_494.png)
 
 ### Transcription
 
@@ -24179,8 +23688,7 @@ Wesley S. Jackson                                      32.00
 ---
 
 ## Page 495
-
-![Page 495](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_495.png)
+![Page 495](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_495.png)
 
 ### Transcription
 
@@ -24207,8 +23715,7 @@ DATE FILMED - 4-11-94]
 ---
 
 ## Page 496
-
-![Page 496](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_496.png)
+![Page 496](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_496.png)
 
 ### Transcription
 
@@ -24234,8 +23741,7 @@ Total: 15.00
 ---
 
 ## Page 497
-
-![Page 497](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_497.png)
+![Page 497](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_497.png)
 
 ### Transcription
 
@@ -24260,8 +23766,7 @@ Mrs. Custer
 ---
 
 ## Page 498
-
-![Page 498](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_498.png)
+![Page 498](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_498.png)
 
 ### Transcription
 
@@ -24314,8 +23819,7 @@ teachers be paid accordingly.
 ---
 
 ## Page 499
-
-![Page 499](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_499.png)
+![Page 499](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_499.png)
 
 ### Transcription
 
@@ -24387,8 +23891,7 @@ Rochester, New York 14604
 ---
 
 ## Page 500
-
-![Page 500](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_500.png)
+![Page 500](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_500.png)
 
 ### Transcription
 
@@ -24405,8 +23908,7 @@ Mrs. Robinson taught 1 day
 ---
 
 ## Page 501
-
-![Page 501](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_501.png)
+![Page 501](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_501.png)
 
 ### Transcription
 
@@ -24460,8 +23962,7 @@ Mrs. MacGallvary - Absent February 29 - Sick
 ---
 
 ## Page 502
-
-![Page 502](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_502.png)
+![Page 502](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_502.png)
 
 ### Transcription
 
@@ -24504,8 +24005,7 @@ Secretary.
 ---
 
 ## Page 503
-
-![Page 503](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_503.png)
+![Page 503](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_503.png)
 
 ### Transcription
 
@@ -24539,8 +24039,7 @@ On motion duly made, seconded and carried, it was resolved that the report of th
 ---
 
 ## Page 504
-
-![Page 504](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_504.png)
+![Page 504](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_504.png)
 
 ### Transcription
 
@@ -24572,8 +24071,7 @@ Mr. Ruff reported that a number of the curtains in the Grammar School needed rep
 ---
 
 ## Page 505
-
-![Page 505](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_505.png)
+![Page 505](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_505.png)
 
 ### Transcription
 
@@ -24615,8 +24113,7 @@ The University of Chicago Press 3.37
 ---
 
 ## Page 506
-
-![Page 506](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_506.png)
+![Page 506](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_506.png)
 
 ### Transcription
 
@@ -24644,8 +24141,7 @@ Classes taught by other high school teachers
 ---
 
 ## Page 507
-
-![Page 507](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_507.png)
+![Page 507](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_507.png)
 
 ### Transcription
 
@@ -24691,8 +24187,7 @@ DATE FILMED: 4-11-94
 ---
 
 ## Page 508
-
-![Page 508](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_508.png)
+![Page 508](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_508.png)
 
 ### Transcription
 
@@ -24749,8 +24244,7 @@ Secretary
 ---
 
 ## Page 509
-
-![Page 509](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_509.png)
+![Page 509](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_509.png)
 
 ### Transcription
 
@@ -24790,8 +24284,7 @@ Teachers' Committee recommended that contract for School Nurse be offered to Mis
 ---
 
 ## Page 510
-
-![Page 510](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_510.png)
+![Page 510](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_510.png)
 
 ### Transcription
 
@@ -24854,8 +24347,7 @@ Nurse
 ---
 
 ## Page 511
-
-![Page 511](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_511.png)
+![Page 511](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_511.png)
 
 ### Transcription
 
@@ -24879,8 +24371,7 @@ Secretary.
 ---
 
 ## Page 512
-
-![Page 512](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_512.png)
+![Page 512](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_512.png)
 
 ### Transcription
 
@@ -24940,8 +24431,7 @@ east, 152.35 feet to the land now or formerly
 ---
 
 ## Page 513
-
-![Page 513](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_513.png)
+![Page 513](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_513.png)
 
 ### Transcription
 
@@ -24999,8 +24489,7 @@ evidences of indebtedness to mature on the first day of
 ---
 
 ## Page 514
-
-![Page 514](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_514.png)
+![Page 514](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_514.png)
 
 ### Transcription
 
@@ -25019,8 +24508,7 @@ Secretary.
 ---
 
 ## Page 515
-
-![Page 515](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_515.png)
+![Page 515](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_515.png)
 
 ### Transcription
 
@@ -25056,8 +24544,7 @@ Motion made, duly seconded and carried, that contracts be offered to the respect
 ---
 
 ## Page 516
-
-![Page 516](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_516.png)
+![Page 516](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_516.png)
 
 ### Transcription
 
@@ -25090,8 +24577,7 @@ On motion made, duly seconded and carried, it was resolved that the Sum of $200.
 ---
 
 ## Page 517
-
-![Page 517](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_517.png)
+![Page 517](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_517.png)
 
 ### Transcription
 
@@ -25144,8 +24630,7 @@ Secretary
 ---
 
 ## Page 518
-
-![Page 518](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_518.png)
+![Page 518](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_518.png)
 
 ### Transcription
 
@@ -25177,8 +24662,7 @@ The Secretary read letter received from Winfred M. O'Rourke, R.W., Night Nurse o
 ---
 
 ## Page 519
-
-![Page 519](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_519.png)
+![Page 519](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_519.png)
 
 ### Transcription
 
@@ -25206,8 +24690,7 @@ Motion made, duly seconded and carried, that the Building and Grounds Committee 
 ---
 
 ## Page 520
-
-![Page 520](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_520.png)
+![Page 520](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_520.png)
 
 ### Transcription
 
@@ -25250,8 +24733,7 @@ Long Island Sun & South Shore Post                     39.70
 ---
 
 ## Page 521
-
-![Page 521](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_521.png)
+![Page 521](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_521.png)
 
 ### Transcription
 
@@ -25296,8 +24778,7 @@ transacted at a regular meeting.
 ---
 
 ## Page 522
-
-![Page 522](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_522.png)
+![Page 522](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_522.png)
 
 ### Transcription
 
@@ -25324,8 +24805,7 @@ There being no further business, the Board thereupon adjourned.
 ---
 
 ## Page 523
-
-![Page 523](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_523.png)
+![Page 523](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_523.png)
 
 ### Transcription
 
@@ -25376,8 +24856,7 @@ Secretary
 ---
 
 ## Page 524
-
-![Page 524](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_524.png)
+![Page 524](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_524.png)
 
 ### Transcription
 
@@ -25411,8 +24890,7 @@ There being no further business, the meeting thereupon adjourned.
 ---
 
 ## Page 525
-
-![Page 525](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_525.png)
+![Page 525](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_525.png)
 
 ### Transcription
 
@@ -25449,8 +24927,7 @@ The Board at a meeting held on June 21, 1928, informally authorised the followin
 ---
 
 ## Page 526
-
-![Page 526](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_526.png)
+![Page 526](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_526.png)
 
 ### Transcription
 
@@ -25830,8 +25307,7 @@ APRIL AND NOV TEST CHART NO. 2
 ---
 
 ## Page 527
-
-![Page 527](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_527.png)
+![Page 527](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_527.png)
 
 ### Transcription
 
@@ -25879,8 +25355,7 @@ Secretary
 ---
 
 ## Page 528
-
-![Page 528](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_528.png)
+![Page 528](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_528.png)
 
 ### Transcription
 
@@ -25926,8 +25401,7 @@ Attorney, for execution by Mr. Haff.
 ---
 
 ## Page 529
-
-![Page 529](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_529.png)
+![Page 529](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_529.png)
 
 ### Transcription
 
@@ -25971,8 +25445,7 @@ APPLIED IMAGE, INC.
 ---
 
 ## Page 530
-
-![Page 530](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_530.png)
+![Page 530](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_530.png)
 
 ### Transcription
 
@@ -25986,8 +25459,7 @@ Clerk
 ---
 
 ## Page 531
-
-![Page 531](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_531.png)
+![Page 531](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_531.png)
 
 ### Transcription
 
@@ -26031,8 +25503,7 @@ school would be $7.15 per ton.
 ---
 
 ## Page 532
-
-![Page 532](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_532.png)
+![Page 532](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_532.png)
 
 ### Transcription
 
@@ -26055,8 +25526,7 @@ A discussion ensued at this time in regard to the defective plaster situation an
 ---
 
 ## Page 533
-
-![Page 533](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_533.png)
+![Page 533](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_533.png)
 
 ### Transcription
 
@@ -26075,8 +25545,7 @@ G. R. Warren.
 ---
 
 ## Page 534
-
-![Page 534](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_534.png)
+![Page 534](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_534.png)
 
 ### Transcription
 
@@ -26109,8 +25578,7 @@ There being no further business, the Board thereupon adjourned.
 ---
 
 ## Page 535
-
-![Page 535](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_535.png)
+![Page 535](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_535.png)
 
 ### Transcription
 
@@ -26148,8 +25616,7 @@ There being no further business, the meeting thereupon adjourned.
 ---
 
 ## Page 536
-
-![Page 536](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_536.png)
+![Page 536](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_536.png)
 
 ### Transcription
 
@@ -26194,8 +25661,7 @@ Total: 7
 ---
 
 ## Page 537
-
-![Page 537](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_537.png)
+![Page 537](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_537.png)
 
 ### Transcription
 
@@ -26238,8 +25704,7 @@ Motion made, duly seconded and carried, that the By-Laws as in effect the previo
 ---
 
 ## Page 538
-
-![Page 538](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_538.png)
+![Page 538](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_538.png)
 
 ### Transcription
 
@@ -26286,8 +25751,7 @@ Clerk
 ---
 
 ## Page 539
-
-![Page 539](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_539.png)
+![Page 539](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_539.png)
 
 ### Transcription
 
@@ -26348,8 +25812,7 @@ without change by the Board of Education on the
 ---
 
 ## Page 540
-
-![Page 540](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_540.png)
+![Page 540](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_540.png)
 
 ### Transcription
 
@@ -26384,8 +25847,7 @@ The Clerk read letter of Mr. Charles Pence, Engineer, who certified for payment 
 ---
 
 ## Page 541
-
-![Page 541](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_541.png)
+![Page 541](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_541.png)
 
 ### Transcription
 
@@ -26421,8 +25883,7 @@ Motion made, duly seconded and carried, that the Transportation Committee advert
 ---
 
 ## Page 542
-
-![Page 542](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_542.png)
+![Page 542](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_542.png)
 
 ### Transcription
 
@@ -26475,8 +25936,7 @@ found correct:
 ---
 
 ## Page 543
-
-![Page 543](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_543.png)
+![Page 543](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_543.png)
 
 ### Transcription
 
@@ -26508,8 +25968,7 @@ Clerk.
 ---
 
 ## Page 544
-
-![Page 544](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_544.png)
+![Page 544](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_544.png)
 
 ### Transcription
 
@@ -26560,8 +26019,7 @@ Motion made, duly seconded and carried, that the bid be accepted and that contra
 ---
 
 ## Page 545
-
-![Page 545](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_545.png)
+![Page 545](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_545.png)
 
 ### Transcription
 
@@ -26590,8 +26048,7 @@ Secretary
 ---
 
 ## Page 546
-
-![Page 546](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_546.png)
+![Page 546](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_546.png)
 
 ### Transcription
 
@@ -26644,8 +26101,7 @@ of the Grade School Building.
 ---
 
 ## Page 547
-
-![Page 547](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_547.png)
+![Page 547](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_547.png)
 
 ### Transcription
 
@@ -26674,18 +26130,14 @@ Motion made, duly seconded and carried, that the report of the Committee be acce
 ---
 
 ## Page 548
-
-![Page 548](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_548.png)
+![Page 548](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_548.png)
 
 ### Transcription
-
-
 
 ---
 
 ## Page 549
-
-![Page 549](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_549.png)
+![Page 549](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_549.png)
 
 ### Transcription
 
@@ -26729,8 +26181,7 @@ Thaddeus Davids Ink Co. 7.87
 ---
 
 ## Page 550
-
-![Page 550](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_550.png)
+![Page 550](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_550.png)
 
 ### Transcription
 
@@ -26788,8 +26239,7 @@ J. Wamser
 ---
 
 ## Page 551
-
-![Page 551](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_551.png)
+![Page 551](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_551.png)
 
 ### Transcription
 
@@ -26849,8 +26299,7 @@ On motion made, duly seconded and carried, the President
 ---
 
 ## Page 552
-
-![Page 552](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_552.png)
+![Page 552](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_552.png)
 
 ### Transcription
 
@@ -26904,8 +26353,7 @@ Bardeen School Supplies, Inc. 40.00
 ---
 
 ## Page 553
-
-![Page 553](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_553.png)
+![Page 553](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_553.png)
 
 ### Transcription
 
@@ -26963,8 +26411,7 @@ Clerk.
 ---
 
 ## Page 554
-
-![Page 554](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_554.png)
+![Page 554](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_554.png)
 
 ### Transcription
 
@@ -26996,8 +26443,7 @@ The Clerk read letter of Mr. E. T. Bregaw to Mr. Clinton Ingles, informing the B
 ---
 
 ## Page 555
-
-![Page 555](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_555.png)
+![Page 555](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_555.png)
 
 ### Transcription
 
@@ -27027,8 +26473,7 @@ On motion made, duly seconded and carried, the Principal was authorized to spend
 ---
 
 ## Page 556
-
-![Page 556](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_556.png)
+![Page 556](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_556.png)
 
 ### Transcription
 
@@ -27066,8 +26511,7 @@ Chris Grenbel 2.00
 ---
 
 ## Page 557
-
-![Page 557](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_557.png)
+![Page 557](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_557.png)
 
 ### Transcription
 
@@ -27120,8 +26564,7 @@ Clerk
 ---
 
 ## Page 558
-
-![Page 558](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_558.png)
+![Page 558](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_558.png)
 
 ### Transcription
 
@@ -27173,8 +26616,7 @@ matter be left in the hands of the Building Committee for final action.
 ---
 
 ## Page 559
-
-![Page 559](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_559.png)
+![Page 559](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_559.png)
 
 ### Transcription
 
@@ -27232,8 +26674,7 @@ Secretary
 ---
 
 ## Page 560
-
-![Page 560](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_560.png)
+![Page 560](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_560.png)
 
 ### Transcription
 
@@ -27291,8 +26732,7 @@ and that such notice be published in the following form:
 ---
 
 ## Page 561
-
-![Page 561](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_561.png)
+![Page 561](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_561.png)
 
 ### Transcription
 
@@ -27303,8 +26743,7 @@ NOTICE OF PETITION OF THE BOARD OF EDUCATION OF JOINT UNION NUMBER 27, BAYPORT, 
 ---
 
 ## Page 562
-
-![Page 562](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_562.png)
+![Page 562](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_562.png)
 
 ### Transcription
 
@@ -27508,8 +26947,7 @@ Edward Day, his wife
 ---
 
 ## Page 563
-
-![Page 563](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_563.png)
+![Page 563](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_563.png)
 
 ### Transcription
 
@@ -27553,8 +26991,7 @@ Clerk
 ---
 
 ## Page 564
-
-![Page 564](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_564.png)
+![Page 564](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_564.png)
 
 ### Transcription
 
@@ -27591,8 +27028,7 @@ Report of the School Nurse for the month of January was read by Mrs. Hartman. On
 ---
 
 ## Page 565
-
-![Page 565](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_565.png)
+![Page 565](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_565.png)
 
 ### Transcription
 
@@ -27634,8 +27070,7 @@ Edward R. Gage                                          7.00
 ---
 
 ## Page 566
-
-![Page 566](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_566.png)
+![Page 566](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_566.png)
 
 ### Transcription
 
@@ -27669,8 +27104,7 @@ Clerk
 ---
 
 ## Page 567
-
-![Page 567](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_567.png)
+![Page 567](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_567.png)
 
 ### Transcription
 
@@ -27723,8 +27157,7 @@ be offered contracts at the respective salaries, as stated:
 ---
 
 ## Page 568
-
-![Page 568](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_568.png)
+![Page 568](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_568.png)
 
 ### Transcription
 
@@ -27775,8 +27208,7 @@ C. A. Waver
 ---
 
 ## Page 569
-
-![Page 569](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_569.png)
+![Page 569](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_569.png)
 
 ### Transcription
 
@@ -27826,8 +27258,7 @@ Rochester, New York 14604
 ---
 
 ## Page 570
-
-![Page 570](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_570.png)
+![Page 570](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_570.png)
 
 ### Transcription
 
@@ -27856,8 +27287,7 @@ Samuel T. Haff $ 752.46
 ---
 
 ## Page 571
-
-![Page 571](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_571.png)
+![Page 571](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_571.png)
 
 ### Transcription
 
@@ -27913,8 +27343,7 @@ There being no further business, the meeting thereupon adjourned.
 ---
 
 ## Page 572
-
-![Page 572](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_572.png)
+![Page 572](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_572.png)
 
 ### Transcription
 
@@ -27943,8 +27372,7 @@ The Clerk read letter of Mr. Harry Paul Finchel in regard to the "Condemnation o
 ---
 
 ## Page 573
-
-![Page 573](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_573.png)
+![Page 573](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_573.png)
 
 ### Transcription
 
@@ -27966,8 +27394,7 @@ B23
 ---
 
 ## Page 574
-
-![Page 574](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_574.png)
+![Page 574](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_574.png)
 
 ### Transcription
 
@@ -27990,8 +27417,7 @@ Mr. Ruff reported that the school buses were loading on Ireland Place and that i
 ---
 
 ## Page 575
-
-![Page 575](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_575.png)
+![Page 575](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_575.png)
 
 ### Transcription
 
@@ -28029,8 +27455,7 @@ A. S. Dick & Co.                                         20.19
 ---
 
 ## Page 576
-
-![Page 576](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_576.png)
+![Page 576](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_576.png)
 
 ### Transcription
 
@@ -28073,8 +27498,7 @@ C. H. Warrick
 ---
 
 ## Page 577
-
-![Page 577](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_577.png)
+![Page 577](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_577.png)
 
 ### Transcription
 
@@ -28109,8 +27533,7 @@ Catherine Miller, 5th Grade 1,800.00
 ---
 
 ## Page 578
-
-![Page 578](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_578.png)
+![Page 578](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_578.png)
 
 ### Transcription
 
@@ -28137,8 +27560,7 @@ Those options together with the ones received at the April meeting were taken un
 ---
 
 ## Page 579
-
-![Page 579](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_579.png)
+![Page 579](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_579.png)
 
 ### Transcription
 
@@ -28175,8 +27597,7 @@ Regents Publishing Co. 6.20
 ---
 
 ## Page 580
-
-![Page 580](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_580.png)
+![Page 580](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_580.png)
 
 ### Transcription
 
@@ -28216,8 +27637,7 @@ C. F. Waring
 ---
 
 ## Page 581
-
-![Page 581](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_581.png)
+![Page 581](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_581.png)
 
 ### Transcription
 
@@ -28256,8 +27676,7 @@ Moved, seconded and carried, that the Coward property comprising 9.3 acres be su
 ---
 
 ## Page 582
-
-![Page 582](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_582.png)
+![Page 582](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_582.png)
 
 ### Transcription
 
@@ -28304,8 +27723,7 @@ MICROCOPY RESOLUTION TEST CHART
 ---
 
 ## Page 583
-
-![Page 583](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_583.png)
+![Page 583](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_583.png)
 
 ### Transcription
 
@@ -28328,8 +27746,7 @@ Beginning at a point on the easterly side of Broadway, 166.45 feet northwesterly
 ---
 
 ## Page 584
-
-![Page 584](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_584.png)
+![Page 584](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_584.png)
 
 ### Transcription
 
@@ -28342,8 +27759,7 @@ HILL I
 ---
 
 ## Page 585
-
-![Page 585](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_585.png)
+![Page 585](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_585.png)
 
 ### Transcription
 
@@ -28364,8 +27780,7 @@ Beginning on the easterly side of Broadway, there running from the intersection 
 ---
 
 ## Page 586
-
-![Page 586](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_586.png)
+![Page 586](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_586.png)
 
 ### Transcription
 
@@ -28376,8 +27791,7 @@ Beginning on the easterly side of Broadway, there running from the intersection 
 ---
 
 ## Page 587
-
-![Page 587](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_587.png)
+![Page 587](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_587.png)
 
 ### Transcription
 
@@ -28407,8 +27821,7 @@ RESOLVED that the Board of Education of Joint Union Free School District No. 6, 
 ---
 
 ## Page 588
-
-![Page 588](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_588.png)
+![Page 588](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_588.png)
 
 ### Transcription
 
@@ -28453,8 +27866,7 @@ system of the City of New York. Moved seconded and carried, that due to the long
 ---
 
 ## Page 589
-
-![Page 589](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_589.png)
+![Page 589](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_589.png)
 
 ### Transcription
 
@@ -28481,8 +27893,7 @@ Moved, seconded and carried, that the Board donate to each member of the Track T
 ---
 
 ## Page 590
-
-![Page 590](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_590.png)
+![Page 590](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_590.png)
 
 ### Transcription
 
@@ -28520,8 +27931,7 @@ New flooring in two of the class rooms on the first floor of the Grammar School 
 ---
 
 ## Page 591
-
-![Page 591](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_591.png)
+![Page 591](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_591.png)
 
 ### Transcription
 
@@ -28540,8 +27950,7 @@ The question of the adoption of the foregoing resolution
 ---
 
 ## Page 592
-
-![Page 592](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_592.png)
+![Page 592](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_592.png)
 
 ### Transcription
 
@@ -28585,8 +27994,7 @@ Alex Smith 2.00
 ---
 
 ## Page 593
-
-![Page 593](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_593.png)
+![Page 593](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_593.png)
 
 ### Transcription
 
@@ -28611,8 +28019,7 @@ C. [illegible]                              Clerk.
 ---
 
 ## Page 594
-
-![Page 594](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_594.png)
+![Page 594](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_594.png)
 
 ### Transcription
 
@@ -28652,8 +28059,7 @@ The Clerk read the applications for reappointment of
 ---
 
 ## Page 595
-
-![Page 595](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_595.png)
+![Page 595](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_595.png)
 
 ### Transcription
 
@@ -28701,8 +28107,7 @@ Other Expense of Operating Plant 25.00
 ---
 
 ## Page 596
-
-![Page 596](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_596.png)
+![Page 596](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_596.png)
 
 ### Transcription
 
@@ -28748,8 +28153,7 @@ Moved, duly seconded and carried, that the By-Laws as in effect the previous sch
 ---
 
 ## Page 597
-
-![Page 597](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_597.png)
+![Page 597](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_597.png)
 
 ### Transcription
 
@@ -28792,8 +28196,7 @@ ANSI AND ISO TEST CHART No. 2
 ---
 
 ## Page 598
-
-![Page 598](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_598.png)
+![Page 598](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_598.png)
 
 ### Transcription
 
@@ -28827,8 +28230,7 @@ C. [illegible] Clerk.
 ---
 
 ## Page 599
-
-![Page 599](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_599.png)
+![Page 599](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_599.png)
 
 ### Transcription
 
@@ -28868,8 +28270,7 @@ WHEREAS, the Board of Assessors of the Town of Babylon have certified that the v
 ---
 
 ## Page 600
-
-![Page 600](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_600.png)
+![Page 600](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_600.png)
 
 ### Transcription
 
@@ -28886,8 +28287,7 @@ IT IS FURTHER RESOLVED, that the District Clerk of this School district be and h
 ---
 
 ## Page 601
-
-![Page 601](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_601.png)
+![Page 601](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_601.png)
 
 ### Transcription
 
@@ -28927,8 +28327,7 @@ Clerk
 ---
 
 ## Page 602
-
-![Page 602](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_602.png)
+![Page 602](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_602.png)
 
 ### Transcription
 
@@ -28970,8 +28369,7 @@ Maple Floor 5/4 x 24, Two Class Rooms, the sum of $750.00 or
 ---
 
 ## Page 603
-
-![Page 603](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_603.png)
+![Page 603](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_603.png)
 
 ### Transcription
 
@@ -29025,8 +28423,7 @@ CLERK
 ---
 
 ## Page 604
-
-![Page 604](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_604.png)
+![Page 604](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_604.png)
 
 ### Transcription
 
@@ -29065,8 +28462,7 @@ Mr. Coit and Mr. Ingles were appointed as the Committee.
 ---
 
 ## Page 605
-
-![Page 605](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_605.png)
+![Page 605](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_605.png)
 
 ### Transcription
 
@@ -29122,8 +28518,7 @@ teachers be paid accordingly.
 ---
 
 ## Page 606
-
-![Page 606](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_606.png)
+![Page 606](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_606.png)
 
 ### Transcription
 
@@ -29154,8 +28549,7 @@ Florence Hartman 59.60
 ---
 
 ## Page 607
-
-![Page 607](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_607.png)
+![Page 607](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_607.png)
 
 ### Transcription
 
@@ -29217,8 +28611,7 @@ The Western Union Telegraph Co.      4.50
 ---
 
 ## Page 608
-
-![Page 608](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_608.png)
+![Page 608](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_608.png)
 
 ### Transcription
 
@@ -29239,8 +28632,7 @@ DATE FILMED: 4-14-04]
 ---
 
 ## Page 609
-
-![Page 609](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_609.png)
+![Page 609](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_609.png)
 
 ### Transcription
 
@@ -29296,8 +28688,7 @@ Troy on October 14th and 15th.
 ---
 
 ## Page 610
-
-![Page 610](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_610.png)
+![Page 610](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_610.png)
 
 ### Transcription
 
@@ -29346,8 +28737,7 @@ salary of $2,000.00 per annum effective October 14, 1929.
 ---
 
 ## Page 611
-
-![Page 611](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_611.png)
+![Page 611](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_611.png)
 
 ### Transcription
 
@@ -29386,8 +28776,7 @@ Dudley Lock Corporation 12.07
 ---
 
 ## Page 612
-
-![Page 612](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_612.png)
+![Page 612](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_612.png)
 
 ### Transcription
 
@@ -29469,8 +28858,7 @@ Binghamton, New York 13901
 ---
 
 ## Page 613
-
-![Page 613](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_613.png)
+![Page 613](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_613.png)
 
 ### Transcription
 
@@ -29506,8 +28894,7 @@ Clerk.
 ---
 
 ## Page 614
-
-![Page 614](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_614.png)
+![Page 614](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_614.png)
 
 ### Transcription
 
@@ -29546,8 +28933,7 @@ There being no further business the meeting therupon adjourned.
 ---
 
 ## Page 615
-
-![Page 615](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_615.png)
+![Page 615](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_615.png)
 
 ### Transcription
 
@@ -29602,8 +28988,7 @@ accordingly.
 ---
 
 ## Page 616
-
-![Page 616](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_616.png)
+![Page 616](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_616.png)
 
 ### Transcription
 
@@ -29637,8 +29022,7 @@ Waldau's Print Shop 4.00
 ---
 
 ## Page 617
-
-![Page 617](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_617.png)
+![Page 617](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_617.png)
 
 ### Transcription
 
@@ -29695,8 +29079,7 @@ Clerk
 ---
 
 ## Page 618
-
-![Page 618](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_618.png)
+![Page 618](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_618.png)
 
 ### Transcription
 
@@ -29753,8 +29136,7 @@ itemization of material and time.
 ---
 
 ## Page 619
-
-![Page 619](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_619.png)
+![Page 619](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_619.png)
 
 ### Transcription
 
@@ -29793,8 +29175,7 @@ Remington Rand Pub. Service, Inc. 750.00
 ---
 
 ## Page 620
-
-![Page 620](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_620.png)
+![Page 620](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_620.png)
 
 ### Transcription
 
@@ -29826,8 +29207,7 @@ Clerk.
 ---
 
 ## Page 621
-
-![Page 621](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_621.png)
+![Page 621](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_621.png)
 
 ### Transcription
 
@@ -29859,8 +29239,7 @@ The Clerk read letter of Mrs. Joseph Mehler of South Bay-View Avenue requesting 
 ---
 
 ## Page 622
-
-![Page 622](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_622.png)
+![Page 622](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_622.png)
 
 ### Transcription
 
@@ -29885,8 +29264,7 @@ Mr. Harry Paul Fischel and associate, Mr. Oliver, appeared before the Board and 
 ---
 
 ## Page 623
-
-![Page 623](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_623.png)
+![Page 623](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_623.png)
 
 ### Transcription
 
@@ -29910,8 +29288,7 @@ The Building and Grounds Committee in conjunction with Mr. Lewis Ingles submitte
 ---
 
 ## Page 624
-
-![Page 624](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_624.png)
+![Page 624](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_624.png)
 
 ### Transcription
 
@@ -29968,8 +29345,7 @@ Clerk
 ---
 
 ## Page 625
-
-![Page 625](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_625.png)
+![Page 625](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_625.png)
 
 ### Transcription
 
@@ -30025,8 +29401,7 @@ Esther Brown High School 2,100.00
 ---
 
 ## Page 626
-
-![Page 626](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_626.png)
+![Page 626](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_626.png)
 
 ### Transcription
 
@@ -30059,8 +29434,7 @@ CLERK
 ---
 
 ## Page 627
-
-![Page 627](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_627.png)
+![Page 627](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_627.png)
 
 ### Transcription
 
@@ -30116,8 +29490,7 @@ Dear Sir:
 ---
 
 ## Page 628
-
-![Page 628](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_628.png)
+![Page 628](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_628.png)
 
 ### Transcription
 
@@ -30144,8 +29517,7 @@ Total: 7
 ---
 
 ## Page 629
-
-![Page 629](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_629.png)
+![Page 629](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_629.png)
 
 ### Transcription
 
@@ -30193,8 +29565,7 @@ Moved, duly seconded and carried, that the Purchasing Committee purchase the equ
 ---
 
 ## Page 630
-
-![Page 630](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_630.png)
+![Page 630](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_630.png)
 
 ### Transcription
 
@@ -30217,8 +29588,7 @@ The Building and Grounds Committee reported that the auditorium floor of the Gra
 ---
 
 ## Page 631
-
-![Page 631](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_631.png)
+![Page 631](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_631.png)
 
 ### Transcription
 
@@ -30254,8 +29624,7 @@ Motion made, duly seconded and carried, that effective as of April 1, 1930, Miss
 ---
 
 ## Page 632
-
-![Page 632](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_632.png)
+![Page 632](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_632.png)
 
 ### Transcription
 
@@ -30300,8 +29669,7 @@ Printers' Ink Publishing Co., Inc. 5.00
 ---
 
 ## Page 633
-
-![Page 633](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_633.png)
+![Page 633](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_633.png)
 
 ### Transcription
 
@@ -30346,8 +29714,7 @@ Clerk.
 ---
 
 ## Page 634
-
-![Page 634](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_634.png)
+![Page 634](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_634.png)
 
 ### Transcription
 
@@ -30387,8 +29754,7 @@ RESOLVED, that said Twenty-five thousand dollars ($25,000) coupon bonds of said 
 ---
 
 ## Page 635
-
-![Page 635](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_635.png)
+![Page 635](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_635.png)
 
 ### Transcription
 
@@ -30450,8 +29816,7 @@ APPLIED IMAGE, INC.
 ---
 
 ## Page 636
-
-![Page 636](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_636.png)
+![Page 636](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_636.png)
 
 ### Transcription
 
@@ -30464,8 +29829,7 @@ This bond may be registered as to principal only as well as to both principal an
 ---
 
 ## Page 637
-
-![Page 637](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_637.png)
+![Page 637](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_637.png)
 
 ### Transcription
 
@@ -30509,8 +29873,7 @@ President
 ---
 
 ## Page 638
-
-![Page 638](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_638.png)
+![Page 638](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_638.png)
 
 ### Transcription
 
@@ -30529,8 +29892,7 @@ Signature of Registrar: __________________
 ---
 
 ## Page 639
-
-![Page 639](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_639.png)
+![Page 639](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_639.png)
 
 ### Transcription
 
@@ -30545,8 +29907,7 @@ Late of Registry:  Name of Registered Owner:  Signature of Registrar:
 ---
 
 ## Page 640
-
-![Page 640](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_640.png)
+![Page 640](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_640.png)
 
 ### Transcription
 
@@ -30580,8 +29941,7 @@ Clerk.
 ---
 
 ## Page 641
-
-![Page 641](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_641.png)
+![Page 641](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_641.png)
 
 ### Transcription
 
@@ -30635,8 +29995,7 @@ two additional teachers be secured.
 ---
 
 ## Page 642
-
-![Page 642](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_642.png)
+![Page 642](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_642.png)
 
 ### Transcription
 
@@ -30665,8 +30024,7 @@ Cornell Countryman 1.00
 ---
 
 ## Page 643
-
-![Page 643](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_643.png)
+![Page 643](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_643.png)
 
 ### Transcription
 
@@ -30707,8 +30065,7 @@ G. R. Warren, Clerk
 ---
 
 ## Page 644
-
-![Page 644](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_644.png)
+![Page 644](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_644.png)
 
 ### Transcription
 
@@ -30765,8 +30122,7 @@ Clerk be authorized to prepare and issue contract accordingly.
 ---
 
 ## Page 645
-
-![Page 645](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_645.png)
+![Page 645](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_645.png)
 
 ### Transcription
 
@@ -30815,8 +30171,7 @@ Martha Helena Ruizo
 ---
 
 ## Page 646
-
-![Page 646](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_646.png)
+![Page 646](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_646.png)
 
 ### Transcription
 
@@ -30888,8 +30243,7 @@ G. Schirmer, Inc.                      2.70
 ---
 
 ## Page 647
-
-![Page 647](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_647.png)
+![Page 647](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_647.png)
 
 ### Transcription
 
@@ -30926,8 +30280,7 @@ Notes:
 ---
 
 ## Page 648
-
-![Page 648](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_648.png)
+![Page 648](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_648.png)
 
 ### Transcription
 
@@ -30984,8 +30337,7 @@ Wilbur F. Heinley and Norman D. Heff on a fifty-fifty basis.
 ---
 
 ## Page 649
-
-![Page 649](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_649.png)
+![Page 649](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_649.png)
 
 ### Transcription
 
@@ -31037,8 +30389,7 @@ Truant Officer                     300.00
 ---
 
 ## Page 650
-
-![Page 650](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_650.png)
+![Page 650](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_650.png)
 
 ### Transcription
 
@@ -31108,8 +30459,7 @@ $ 17925.00
 ---
 
 ## Page 651
-
-![Page 651](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_651.png)
+![Page 651](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_651.png)
 
 ### Transcription
 
@@ -31152,8 +30502,7 @@ Clerk
 ---
 
 ## Page 652
-
-![Page 652](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_652.png)
+![Page 652](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_652.png)
 
 ### Transcription
 
@@ -31185,8 +30534,7 @@ Motion made, duly seconded and carried, that the Peerless Unit Ventilating Compa
 ---
 
 ## Page 653
-
-![Page 653](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_653.png)
+![Page 653](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_653.png)
 
 ### Transcription
 
@@ -31213,8 +30561,7 @@ RESOLVED that at the Annual District Meeting of the Inhabitants of Joint Union F
 ---
 
 ## Page 654
-
-![Page 654](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_654.png)
+![Page 654](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_654.png)
 
 ### Transcription
 
@@ -31243,8 +30590,7 @@ FURTHER RESOLVED, that the Clerk of the Board of Education be directed to cause 
 ---
 
 ## Page 655
-
-![Page 655](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_655.png)
+![Page 655](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_655.png)
 
 ### Transcription
 
@@ -31263,8 +30609,7 @@ C. A. Warner
 ---
 
 ## Page 656
-
-![Page 656](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_656.png)
+![Page 656](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_656.png)
 
 ### Transcription
 
@@ -31318,8 +30663,7 @@ William Torns 165.00
 ---
 
 ## Page 657
-
-![Page 657](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_657.png)
+![Page 657](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_657.png)
 
 ### Transcription
 
@@ -31342,8 +30686,7 @@ DATE FILMED 4-11-04]
 ---
 
 ## Page 658
-
-![Page 658](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_658.png)
+![Page 658](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_658.png)
 
 ### Transcription
 
@@ -31390,8 +30733,7 @@ James Fitzpatrick was nominated and unanimously elected Trustee Officer at a sal
 ---
 
 ## Page 659
-
-![Page 659](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_659.png)
+![Page 659](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_659.png)
 
 ### Transcription
 
@@ -31415,8 +30757,7 @@ The Clerk read the budget of expenses for the school year 1930-31, as adopted by
 ---
 
 ## Page 660
-
-![Page 660](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_660.png)
+![Page 660](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_660.png)
 
 ### Transcription
 
@@ -31451,8 +30792,7 @@ The Clerk read letter of Harry Paul Fishel asking that he be paid the balance ow
 ---
 
 ## Page 661
-
-![Page 661](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_661.png)
+![Page 661](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_661.png)
 
 ### Transcription
 
@@ -31494,8 +30834,7 @@ Chris Haab                                          109.19
 ---
 
 ## Page 662
-
-![Page 662](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_662.png)
+![Page 662](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_662.png)
 
 ### Transcription
 
@@ -31522,8 +30861,7 @@ DATE FILLED 4-4-94]
 ---
 
 ## Page 663
-
-![Page 663](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_663.png)
+![Page 663](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_663.png)
 
 ### Transcription
 
@@ -31562,8 +30900,7 @@ Clerk
 ---
 
 ## Page 664
-
-![Page 664](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_664.png)
+![Page 664](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_664.png)
 
 ### Transcription
 
@@ -31629,11 +30966,11 @@ T. Arthur W. Ruff           5400     75.00
 ---
 
 ## Page 665
-
-![Page 665](tinker-cookbook/data/nys_archives/images/Amityville-Records/page_665.png)
+![Page 665](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/tinker-cookbook/data/nys_archives/images/Amityville-Records/page_665.png)
 
 ### Transcription
 
 The image provided is completely black with no visible text or content. Therefore, it is not possible to transcribe any text from this image. If there is additional context or a different image that contains the text you wish to transcribe, please provide it, and I will be happy to assist you.
 
 ---
+

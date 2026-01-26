@@ -8,8 +8,6 @@ toc_label: "Pages"
 toc_icon: "scroll"
 ---
 
-# South Kortright School District Records (Roll 13)
-
 **Document Type:** School District Records
 
 **Source:** NYS Archives Series A4645
