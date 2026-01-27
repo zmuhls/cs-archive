@@ -1,0 +1,858 @@
+---
+layout: default
+title: "Timeline: From Charity to Commonwealth"
+permalink: /timeline/
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    :root {
+      --ink-black: #1a1a1a;
+      --parchment: #f5f0e6;
+      --aged-paper: #e8e0d0;
+      --sepia: #704214;
+      --sepia-light: #8b6914;
+      --slate: #4a5568;
+      --faded-red: #8b4049;
+      --colonial-blue: #2c4a6e;
+      --archive-gold: #b8860b;
+      --timeline-line: #c4b89a;
+    }
+
+    .timeline-wrapper * {
+      box-sizing: border-box;
+    }
+
+    .timeline-wrapper {
+      font-family: 'Source Sans 3', -apple-system, sans-serif;
+      background: var(--parchment);
+      color: var(--ink-black);
+      line-height: 1.7;
+      font-size: 17px;
+      margin: -2rem -2rem 0 -2rem;
+    }
+
+    /* Header */
+    .timeline-header {
+      background: linear-gradient(180deg, var(--ink-black) 0%, #2d2d2d 100%);
+      color: var(--parchment);
+      padding: 4rem 2rem 5rem;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .timeline-header::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: url("data:image/svg+xml,%3Csvg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+      opacity: 0.03;
+      pointer-events: none;
+    }
+
+    .timeline-header h1 {
+      font-family: 'Libre Baskerville', Georgia, serif;
+      font-size: clamp(2rem, 5vw, 3.2rem);
+      font-weight: 400;
+      letter-spacing: 0.02em;
+      margin-bottom: 1rem;
+      position: relative;
+    }
+
+    .timeline-header .subtitle {
+      font-size: 1.1rem;
+      opacity: 0.85;
+      max-width: 700px;
+      margin: 0 auto 2rem;
+      font-weight: 300;
+    }
+
+    .date-range {
+      font-family: 'Libre Baskerville', Georgia, serif;
+      font-size: 1.4rem;
+      color: var(--archive-gold);
+      letter-spacing: 0.15em;
+    }
+
+    /* Navigation Tabs */
+    .era-nav {
+      background: var(--aged-paper);
+      border-bottom: 1px solid var(--timeline-line);
+      padding: 0 1rem;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+    }
+
+    .era-nav-inner {
+      max-width: 1200px;
+      margin: 0 auto;
+      display: flex;
+      gap: 0;
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+
+    .era-nav-inner::-webkit-scrollbar {
+      display: none;
+    }
+
+    .era-tab {
+      padding: 1rem 1.5rem;
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: var(--slate);
+      background: none;
+      border: none;
+      cursor: pointer;
+      white-space: nowrap;
+      border-bottom: 3px solid transparent;
+      transition: all 0.2s ease;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .era-tab:hover {
+      color: var(--sepia);
+      background: rgba(112, 66, 20, 0.05);
+    }
+
+    .era-tab.active {
+      color: var(--sepia);
+      border-bottom-color: var(--sepia);
+    }
+
+    /* Main Timeline */
+    .timeline-container {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 3rem 1.5rem;
+    }
+
+    .era-section {
+      margin-bottom: 4rem;
+      scroll-margin-top: 80px;
+    }
+
+    .era-header {
+      text-align: center;
+      margin-bottom: 3rem;
+      padding-bottom: 2rem;
+      border-bottom: 2px solid var(--timeline-line);
+    }
+
+    .era-header h2 {
+      font-family: 'Libre Baskerville', Georgia, serif;
+      font-size: 1.8rem;
+      color: var(--sepia);
+      margin-bottom: 0.5rem;
+    }
+
+    .era-header .era-dates {
+      font-size: 1rem;
+      color: var(--slate);
+      letter-spacing: 0.1em;
+    }
+
+    .era-header p {
+      max-width: 700px;
+      margin: 1rem auto 0;
+      color: var(--slate);
+    }
+
+    /* Timeline Events */
+    .timeline-track {
+      position: relative;
+      padding-left: 2rem;
+    }
+
+    .timeline-track::before {
+      content: '';
+      position: absolute;
+      left: 6px;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      background: linear-gradient(180deg, var(--timeline-line) 0%, var(--sepia-light) 50%, var(--timeline-line) 100%);
+    }
+
+    .timeline-event {
+      position: relative;
+      margin-bottom: 2.5rem;
+      padding-left: 2rem;
+    }
+
+    .timeline-event::before {
+      content: '';
+      position: absolute;
+      left: -2rem;
+      top: 0.4rem;
+      width: 14px;
+      height: 14px;
+      background: var(--parchment);
+      border: 3px solid var(--sepia);
+      border-radius: 50%;
+      transition: all 0.3s ease;
+    }
+
+    .timeline-event:hover::before {
+      background: var(--sepia);
+      transform: scale(1.2);
+    }
+
+    .timeline-event.major::before {
+      width: 18px;
+      height: 18px;
+      left: calc(-2rem - 2px);
+      border-width: 4px;
+      border-color: var(--colonial-blue);
+    }
+
+    .timeline-event.major:hover::before {
+      background: var(--colonial-blue);
+    }
+
+    .timeline-event.catastrophe::before {
+      border-color: var(--faded-red);
+    }
+
+    .timeline-event.catastrophe:hover::before {
+      background: var(--faded-red);
+    }
+
+    .event-year {
+      font-family: 'Libre Baskerville', Georgia, serif;
+      font-size: 1.3rem;
+      color: var(--sepia);
+      font-weight: 700;
+      margin-bottom: 0.3rem;
+    }
+
+    .event-title {
+      font-family: 'Libre Baskerville', Georgia, serif;
+      font-size: 1.15rem;
+      color: var(--ink-black);
+      margin-bottom: 0.5rem;
+      line-height: 1.4;
+    }
+
+    .event-description {
+      color: var(--slate);
+      font-size: 0.95rem;
+      line-height: 1.75;
+    }
+
+    .event-description p {
+      margin-bottom: 0.75rem;
+    }
+
+    .event-description p:last-child {
+      margin-bottom: 0;
+    }
+
+    .event-source {
+      margin-top: 0.75rem;
+      font-size: 0.85rem;
+      color: var(--sepia-light);
+      font-style: italic;
+    }
+
+    .event-source a {
+      color: var(--colonial-blue);
+      text-decoration: none;
+      border-bottom: 1px dotted var(--colonial-blue);
+    }
+
+    .event-source a:hover {
+      border-bottom-style: solid;
+    }
+
+    /* Expandable Details */
+    .event-details {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.4s ease;
+    }
+
+    .event-details.expanded {
+      max-height: 1000px;
+    }
+
+    .expand-btn {
+      background: none;
+      border: none;
+      color: var(--colonial-blue);
+      font-size: 0.9rem;
+      cursor: pointer;
+      padding: 0.5rem 0;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      font-family: inherit;
+    }
+
+    .expand-btn:hover {
+      text-decoration: underline;
+    }
+
+    .expand-btn svg {
+      transition: transform 0.3s ease;
+    }
+
+    .expand-btn.expanded svg {
+      transform: rotate(180deg);
+    }
+
+    /* Key Figures Box */
+    .key-figures {
+      background: var(--aged-paper);
+      border-left: 4px solid var(--archive-gold);
+      padding: 1rem 1.25rem;
+      margin-top: 1rem;
+      font-size: 0.9rem;
+    }
+
+    .key-figures strong {
+      color: var(--sepia);
+    }
+
+    /* Themes Legend */
+    .timeline-legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+      justify-content: center;
+      padding: 1.5rem;
+      background: var(--aged-paper);
+      border-radius: 4px;
+      margin-bottom: 3rem;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.85rem;
+      color: var(--slate);
+    }
+
+    .legend-dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      border: 3px solid;
+    }
+
+    .legend-dot.founding {
+      border-color: var(--sepia);
+    }
+
+    .legend-dot.major {
+      border-color: var(--colonial-blue);
+    }
+
+    .legend-dot.catastrophe {
+      border-color: var(--faded-red);
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .timeline-header {
+        padding: 3rem 1.5rem 4rem;
+      }
+
+      .timeline-container {
+        padding: 2rem 1rem;
+      }
+
+      .era-tab {
+        padding: 0.8rem 1rem;
+        font-size: 0.8rem;
+      }
+
+      .timeline-track {
+        padding-left: 1.5rem;
+      }
+
+      .timeline-event {
+        padding-left: 1.5rem;
+      }
+
+      .timeline-event::before {
+        left: -1.5rem;
+      }
+
+      .timeline-event.major::before {
+        left: calc(-1.5rem - 2px);
+      }
+    }
+  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Sans+3:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="timeline-wrapper">
+
+<header class="timeline-header">
+  <h1>From Charity to Commonwealth</h1>
+  <p class="subtitle">The Development of Public Education in New York State: From Colonial Charity Schools to State-Centralized Systems</p>
+  <div class="date-range">1784 — 1948</div>
+</header>
+
+<nav class="era-nav" aria-label="Timeline eras">
+  <div class="era-nav-inner">
+    <button class="era-tab active" data-era="foundations">Foundations</button>
+    <button class="era-tab" data-era="common-school">Common School Era</button>
+    <button class="era-tab" data-era="reform">Reform &amp; Conflict</button>
+    <button class="era-tab" data-era="consolidation">Consolidation</button>
+  </div>
+</nav>
+
+<main class="timeline-container">
+
+  <div class="timeline-legend">
+    <div class="legend-item">
+      <span class="legend-dot founding"></span>
+      <span>Legislative &amp; Institutional Development</span>
+    </div>
+    <div class="legend-item">
+      <span class="legend-dot major"></span>
+      <span>Major Structural Reform</span>
+    </div>
+    <div class="legend-item">
+      <span class="legend-dot catastrophe"></span>
+      <span>Catastrophe or Reversal</span>
+    </div>
+  </div>
+
+  <!-- ERA 1: Foundations -->
+  <section class="era-section" id="foundations">
+    <div class="era-header">
+      <h2>I. Foundations of State Oversight</h2>
+      <div class="era-dates">1784 – 1812</div>
+      <p>The establishment of constitutional frameworks for education in the new republic, from the creation of the Board of Regents to the first permanent funding mechanisms.</p>
+    </div>
+
+    <div class="timeline-track">
+
+      <article class="timeline-event major">
+        <div class="event-year">1784</div>
+        <h3 class="event-title">Creation of the Board of Regents</h3>
+        <div class="event-description">
+          <p>The New York State Legislature creates the Board of Regents of the University of the State of New York—the first such body in the nation. Initially tasked with governing Columbia College (formerly King's College), the Regents would eventually oversee all educational institutions in the state.</p>
+          <button class="expand-btn" aria-expanded="false">
+            Read more
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M2 4l4 4 4-4"/></svg>
+          </button>
+          <div class="event-details">
+            <p>The act designated the governor, lieutenant governor, president of the senate, speaker of the assembly, mayors of Albany and New York, attorney general, secretary of state, and twenty-four other persons as the Board of Regents. This unwieldy body of ex officio and appointed members proved difficult to manage, leading to reforms in 1787.</p>
+            <div class="key-figures">
+              <strong>Key Figures:</strong> Governor George Clinton; Alexander Hamilton (Regent)
+            </div>
+          </div>
+        </div>
+        <div class="event-source">Source: <a href="https://www.nysed.gov/about/history-usny.html">NYSED History of USNY</a></div>
+      </article>
+
+      <article class="timeline-event">
+        <div class="event-year">1787</div>
+        <h3 class="event-title">Reorganization of the Regents</h3>
+        <div class="event-description">
+          <p>The legislature reorganizes the Board of Regents, relieving it of direct operating responsibility for Columbia College and empowering it to "visit and inspect all the colleges, academies, and schools" in the state. This establishes the Regents' supervisory rather than administrative role—a distinction that persists today.</p>
+        </div>
+        <div class="event-source">Source: <a href="https://www.archives.nysed.gov/creator-authority/new-york-state-education-department">NYS Archives: Education Department</a></div>
+      </article>
+
+      <article class="timeline-event">
+        <div class="event-year">1795</div>
+        <h3 class="event-title">First State Aid to Common Schools</h3>
+        <div class="event-description">
+          <p>Governor George Clinton signs legislation appropriating $50,000 annually for five years to encourage the establishment of common schools. Town citizens create school districts, each receiving state and matching town subsidies in proportion to pupil attendance. Within a few years, over 1,300 schools enrolling almost 60,000 pupils qualify for aid.</p>
+          <button class="expand-btn" aria-expanded="false">
+            Read more
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M2 4l4 4 4-4"/></svg>
+          </button>
+          <div class="event-details">
+            <p>This represents the first systematic state support for elementary education in New York. However, the program expires in 1800 without renewal, leaving local communities to fund schools independently for several years.</p>
+          </div>
+        </div>
+        <div class="event-source">Source: <a href="https://considerthesourceny.org/using-primary-sources/researching-history-your-school/development-elementary-and-secondary-education-new-york">Consider the Source: Development of Education in NY</a></div>
+      </article>
+
+      <article class="timeline-event catastrophe">
+        <div class="event-year">1800</div>
+        <h3 class="event-title">Lapse of State Aid Program</h3>
+        <div class="event-description">
+          <p>The 1795 program of state aid to common schools expires without renewal. Schools do not necessarily close, but the brief experiment in systematic state support ends, leaving a gap that reformers would work to fill over the next decade.</p>
+        </div>
+      </article>
+
+      <article class="timeline-event major">
+        <div class="event-year">1805</div>
+        <h3 class="event-title">Creation of the Common School Fund</h3>
+        <div class="event-description">
+          <p>The legislature authorizes the comptroller to sell certain state lands and use the proceeds to establish a "permanent fund for the support of public schools." This Common School Fund provides an enduring financial foundation that will support New York education for generations.</p>
+          <button class="expand-btn" aria-expanded="false">
+            Read more
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M2 4l4 4 4-4"/></svg>
+          </button>
+          <div class="event-details">
+            <p>Unlike the temporary 1795 appropriation, the Common School Fund creates a permanent endowment. By 1812, the annual income of the Fund approaches $50,000, enabling a comprehensive revival of state support for common schools.</p>
+          </div>
+        </div>
+        <div class="event-source">Source: <a href="https://www.archives.nysed.gov/creator-authority/new-york-state-education-department">NYS Archives: Education Department</a></div>
+      </article>
+
+      <article class="timeline-event major">
+        <div class="event-year">1805</div>
+        <h3 class="event-title">Founding of the Free School Society</h3>
+        <div class="event-description">
+          <p>On April 9, the New York State Legislature incorporates the Free School Society of New York, founded by philanthropic citizens including Mayor DeWitt Clinton, who serves as its first president. The Society's mission: to provide education for poor children "who do not belong to, or are not provided for by, any religious society."</p>
+          <button class="expand-btn" aria-expanded="false">
+            Read more
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M2 4l4 4 4-4"/></svg>
+          </button>
+          <div class="event-details">
+            <p>The Society adopts the Lancasterian (monitorial) system of instruction, developed by English educator Joseph Lancaster. Under this method, a single teacher instructs older pupils, or monitors, who in turn instruct squads of younger pupils. One teacher could serve several hundred students—an economical approach appealing to the Society's promoters.</p>
+            <p>The first school opens on May 19, 1806, in an apartment on what is now Madison Street. By 1815, the Free Schools receive $3,708.14 from the state as their share of the Common School Fund.</p>
+            <div class="key-figures">
+              <strong>Key Figures:</strong> DeWitt Clinton (President); Colonel Henry Rutgers (benefactor who donated lots for the first schoolhouse)
+            </div>
+          </div>
+        </div>
+        <div class="event-source">Source: <a href="https://www.encyclopedia.com/history/news-wires-white-papers-and-books/new-york-free-school-society-1805">Encyclopedia.com: NY Free School Society</a></div>
+      </article>
+
+      <article class="timeline-event">
+        <div class="event-year">1809</div>
+        <h3 class="event-title">Dedication of Free School No. 1</h3>
+        <div class="event-description">
+          <p>DeWitt Clinton speaks at the dedication ceremony for New York Free School No. 1 on December 11. The building, valued at $10,000 (donated by the city), accommodates 500 children under a single teacher using the Lancasterian system—a spectacle "which had never before been exhibited on the American continent."</p>
+        </div>
+        <div class="event-source">Source: <a href="https://www.encyclopedia.com/history/news-wires-white-papers-and-books/new-york-free-school-society-1805">Encyclopedia.com: NY Free School Society</a></div>
+      </article>
+
+      <article class="timeline-event major">
+        <div class="event-year">1812</div>
+        <h3 class="event-title">Common School Act</h3>
+        <div class="event-description">
+          <p>On June 19, the Common School Act establishes a statewide system of public elementary schools. The act creates the office of Superintendent of Common Schools, divides towns into school districts, and provides for state and local funding (supplemented by tuition "rate bills"). Many present-day school districts date to this law.</p>
+          <button class="expand-btn" aria-expanded="false">
+            Read more
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M2 4l4 4 4-4"/></svg>
+          </button>
+          <div class="event-details">
+            <p>A legislative commission points to "the remote and thinly populated parts of the state" as areas where "education stands greatly in need of encouragement," noting that dispersed populations "make it difficult so to establish schools" effectively. This rural emphasis remains a theme well into the twentieth century.</p>
+            <p>The act introduces the "district system" of local governance: each district elects trustees who hire teachers, maintain schoolhouses, and manage rate bills. This hyper-local control creates enormous variation in quality depending on community wealth and commitment.</p>
+            <div class="key-figures">
+              <strong>First Superintendent:</strong> Gideon Hawley (appointed 1813, served until 1821)
+            </div>
+          </div>
+        </div>
+        <div class="event-source">Source: <a href="https://www.newyorkalmanack.com/2025/03/new-york-common-schools-history/">New York Almanack: Common Schools History</a></div>
+      </article>
+
+      <article class="timeline-event">
+        <div class="event-year">1813</div>
+        <h3 class="event-title">Creation of the Literature Fund</h3>
+        <div class="event-description">
+          <p>The Legislature creates a "Literature Fund" to provide regular state subsidies to academies (secondary schools). This action precedes the common school system in prioritizing advanced education—reflecting the Regents' early focus on colleges and academies over elementary schools.</p>
+        </div>
+        <div class="event-source">Source: <a href="https://www.newyorkalmanack.com/2025/03/new-york-common-schools-history/">New York Almanack: Common Schools History</a></div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- ERA 2: Common School Era -->
+  <section class="era-section" id="common-school">
+    <div class="era-header">
+      <h2>II. The Common School Era</h2>
+      <div class="era-dates">1812 – 1853</div>
+      <p>Expansion of the district system, evolution of the Free School Society, and growing debates over religion, funding, and the meaning of "public" education.</p>
+    </div>
+
+    <div class="timeline-track">
+
+      <article class="timeline-event">
+        <div class="event-year">1818</div>
+        <h3 class="event-title">Creation of the New York State Library</h3>
+        <div class="event-description">
+          <p>The Legislature establishes the New York State Library, which will eventually be placed under Regents' control in 1844. The Library becomes a major repository for educational records and historical manuscripts.</p>
+        </div>
+      </article>
+
+      <article class="timeline-event">
+        <div class="event-year">1826</div>
+        <h3 class="event-title">Free School Society Becomes Public School Society</h3>
+        <div class="event-description">
+          <p>The Free School Society changes its name to the Public School Society, signaling an ideological shift. No longer merely providing charity education for the poor, the Society now conceives its mission as operating public schools for all—though in practice it remains a private organization operating with public funds.</p>
+          <button class="expand-btn" aria-expanded="false">
+            Read more
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M2 4l4 4 4-4"/></svg>
+          </button>
+          <div class="event-details">
+            <p>This transition from "free school for the poor" to "public school for all" marks a conceptual revolution. Yet it also sets up tensions: can a private philanthropic organization truly serve as the vehicle for universal public education? The Society's quasi-monopoly in New York City education will generate increasing controversy.</p>
+          </div>
+        </div>
+        <div class="event-source">Source: <a href="https://archive.org/stream/newyorkpublicsch00palmrich/newyorkpublicsch00palmrich_djvu.txt">Palmer, <em>The New York Public School</em> (1905)</a></div>
+      </article>
+
+      <article class="timeline-event major">
+        <div class="event-year">1840–1842</div>
+        <h3 class="event-title">The School Wars: Catholic Challenge to the Public School Society</h3>
+        <div class="event-description">
+          <p>Bishop John Hughes leads a political battle demanding either the removal of Protestant religious instruction from Public School Society schools or state funding for separate Catholic schools. Governor William Seward supports the Catholic position, proposing that "the children of foreigners" be educated by teachers "speaking the same language with themselves."</p>
+          <button class="expand-btn" aria-expanded="false">
+            Read more
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M2 4l4 4 4-4"/></svg>
+          </button>
+          <div class="event-details">
+            <p>The controversy reveals deep tensions in the "common school" ideal. The Public School Society's curriculum features readings from the Protestant King James Bible, Protestant hymns, and textbooks that Catholics consider slanderous to their faith. Yet removing religion entirely threatens Protestant understandings of moral education.</p>
+            <p>Hughes argues that Catholics pay double—taxes for public schools they cannot use, plus tuition for parochial schools. Seward's State Superintendent John Spencer proposes that the solution is genuinely democratic control: elected local school boards rather than a private philanthropic society.</p>
+            <div class="key-figures">
+              <strong>Key Figures:</strong> Bishop John Hughes; Governor William Seward; State Superintendent John Spencer; William Maclay (bill sponsor)
+            </div>
+          </div>
+        </div>
+        <div class="event-source">Source: <a href="https://janos.nyc/2015/04/10/today-in-nyc-history-the-great-school-wars-religious-edition-1842/">janos.nyc: The Great School Wars</a></div>
+      </article>
+
+      <article class="timeline-event major">
+        <div class="event-year">1842</div>
+        <h3 class="event-title">The Maclay Act: Creation of the NYC Board of Education</h3>
+        <div class="event-description">
+          <p>On April 11, Governor Seward signs the Maclay Act, creating an elective Board of Education for New York City with ward-based school boards. The act provides that no public funds shall go to schools teaching religion—resolving the immediate conflict by satisfying neither Catholics nor Protestants entirely.</p>
+          <button class="expand-btn" aria-expanded="false">
+            Read more
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M2 4l4 4 4-4"/></svg>
+          </button>
+          <div class="event-details">
+            <p>The Maclay Act creates the first truly public school system in New York City—one governed by elected officials rather than private trustees. However, the Public School Society continues operating alongside the new system for another decade.</p>
+            <p>Nativist riots follow the bill's passage. A young Walt Whitman, editing the <em>New York Aurora</em>, denounces the Catholic influence: "shall these dregs of foreign filth... be permitted to dictate what Tammany must do?"</p>
+            <p>Bishop Hughes, having lost the battle for public funding, turns to building an independent Catholic school system—establishing the dual public/private structure that characterizes American education to this day.</p>
+          </div>
+        </div>
+        <div class="event-source">Source: <a href="https://en.wikipedia.org/wiki/History_of_education_in_New_York_City">Wikipedia: History of Education in NYC</a></div>
+      </article>
+
+      <article class="timeline-event major">
+        <div class="event-year">1853</div>
+        <h3 class="event-title">Union Free School Act & Dissolution of Public School Society</h3>
+        <div class="event-description">
+          <p>The Union Free School Act permits common school districts to consolidate into "union free school districts." The Public School Society is absorbed by the New York City Board of Education, ending the Society's nearly fifty-year role as the primary provider of public education in the city.</p>
+        </div>
+        <div class="event-source">Source: <a href="https://www.archives.nysed.gov/creator-authority/new-york-state-education-department">NYS Archives: Education Department</a></div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- ERA 3: Reform & Conflict -->
+  <section class="era-section" id="reform">
+    <div class="era-header">
+      <h2>III. Reform, Expansion, and the Question of Compulsion</h2>
+      <div class="era-dates">1854 – 1903</div>
+      <p>The creation of state supervisory structures, elimination of tuition, compulsory attendance laws, and constitutional enshrinement of free public education.</p>
+    </div>
+
+    <div class="timeline-track">
+
+      <article class="timeline-event major">
+        <div class="event-year">1854</div>
+        <h3 class="event-title">Department of Public Instruction Created</h3>
+        <div class="event-description">
+          <p>The superintendent's responsibilities are transferred to a newly created Department of Public Instruction under a Superintendent of Public Instruction elected by the legislature. The superintendent also serves as an ex officio Regent. This creates a dual administrative structure—the Department overseeing common schools, the Regents overseeing academies and colleges—that will generate confusion until 1904.</p>
+        </div>
+        <div class="event-source">Source: <a href="https://www.archives.nysed.gov/creator-authority/new-york-state-education-department">NYS Archives: Education Department</a></div>
+      </article>
+
+      <article class="timeline-event major">
+        <div class="event-year">1867</div>
+        <h3 class="event-title">Elimination of Tuition Statewide</h3>
+        <div class="event-description">
+          <p>Tuition "rate bills" are abolished throughout New York State. All elementary schools become free, supported entirely by state aid and local property taxes. After decades of debate, the principle of universal free education is finally realized.</p>
+          <button class="expand-btn" aria-expanded="false">
+            Read more
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M2 4l4 4 4-4"/></svg>
+          </button>
+          <div class="event-details">
+            <p>Most cities had eliminated tuition in the 1840s and 1850s, but rural districts continued charging rate bills that excluded poorer families. The 1867 law completes the ideological shift from "free school" (charity for the poor) to "public school" (universal entitlement).</p>
+            <p>Following an 1867 state law requiring free common school education, demand for qualified teachers increases dramatically, leading to establishment of additional normal schools.</p>
+          </div>
+        </div>
+        <div class="event-source">Source: <a href="https://considerthesourceny.org/using-primary-sources/researching-history-your-school/development-elementary-and-secondary-education-new-york">Consider the Source: Development of Education</a></div>
+      </article>
+
+      <article class="timeline-event major">
+        <div class="event-year">1874</div>
+        <h3 class="event-title">First Compulsory Attendance Law</h3>
+        <div class="event-description">
+          <p>New York adopts its first compulsory school attendance law, requiring children ages 8–14 to attend school. The required curriculum includes reading, spelling, writing, English grammar, and arithmetic.</p>
+          <button class="expand-btn" aria-expanded="false">
+            Read more
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M2 4l4 4 4-4"/></svg>
+          </button>
+          <div class="event-details">
+            <p>Compulsory attendance proves difficult to enforce. City schools are so overcrowded they turn away eligible applicants and have no way to accommodate truants. Children evade the law by claiming "lawful occupations" as bootblacks, newsboys, or street vendors.</p>
+            <p>A contemporary report notes that "since the enforcement of the Compulsory Education Law, the number following these occupations has increased very greatly." Such occupations "are used as a subterfuge to evade the law."</p>
+          </div>
+        </div>
+        <div class="event-source">Source: <a href="https://www.tenement.org/blog/gettin-schooled-a-history-lesson/">Tenement Museum: Gettin' Schooled</a></div>
+      </article>
+
+      <article class="timeline-event major">
+        <div class="event-year">1894</div>
+        <h3 class="event-title">Constitutional Mandate for Free Common Schools</h3>
+        <div class="event-description">
+          <p>The revised State Constitution makes explicit provision for a "system of free common schools, wherein all the children of this state may be educated." This constitutional language elevates education from statutory provision to fundamental law.</p>
+          <button class="expand-btn" aria-expanded="false">
+            Read more
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M2 4l4 4 4-4"/></svg>
+          </button>
+          <div class="event-details">
+            <p>The 1894 Constitution also continues the Board of Regents as a constitutional body with powers to be defined by the legislature. The constitutional conventions of 1867 and 1894 both consider and reject proposals to unify elementary, secondary, and higher education under one administration.</p>
+          </div>
+        </div>
+        <div class="event-source">Source: <a href="https://www.archives.nysed.gov/creator-authority/new-york-state-education-department">NYS Archives: Education Department</a></div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- ERA 4: Consolidation -->
+  <section class="era-section" id="consolidation">
+    <div class="era-header">
+      <h2>IV. Consolidation and Catastrophe</h2>
+      <div class="era-dates">1904 – 1918</div>
+      <p>Administrative unification, the trauma of the 1911 Capitol Fire, and continuing efforts at district consolidation.</p>
+    </div>
+
+    <div class="timeline-track">
+
+      <article class="timeline-event major">
+        <div class="event-year">1904</div>
+        <h3 class="event-title">Unification Act: Creation of the State Education Department</h3>
+        <div class="event-description">
+          <p>The Unification Act abolishes the Department of Public Instruction and creates the State Education Department, headed by a Commissioner of Education who serves as chief executive officer of the Board of Regents. Andrew S. Draper becomes the first Commissioner.</p>
+          <button class="expand-btn" aria-expanded="false">
+            Read more
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M2 4l4 4 4-4"/></svg>
+          </button>
+          <div class="event-details">
+            <p>This fulfills Governor Roosevelt's vision of unified educational administration. The Regents become a policy-making body; the Commissioner serves as chief administrative officer. This structure persists to the present day.</p>
+            <p>Commissioner Draper raises standards, adjusts curriculum to ensure job-readiness and citizenship, strengthens teacher training, and establishes a statewide teacher retirement system.</p>
+            <div class="key-figures">
+              <strong>First Commissioner:</strong> Andrew S. Draper (1904–1913)
+            </div>
+          </div>
+        </div>
+        <div class="event-source">Source: <a href="https://www.archives.nysed.gov/creator-authority/new-york-state-education-department">NYS Archives: Education Department</a></div>
+      </article>
+
+      <article class="timeline-event catastrophe">
+        <div class="event-year">1911</div>
+        <h3 class="event-title">The Capitol Fire: Destruction of the State Library</h3>
+        <div class="event-description">
+          <p>On March 29, a fire rages through the New York State Capitol in Albany, destroying the west wing including the Assembly Chamber and—most devastatingly—the New York State Library. An estimated 450,000–800,000 books and 270,000–300,000 manuscripts are lost, including irreplaceable documents of New York's colonial and early state history.</p>
+          <button class="expand-btn" aria-expanded="false">
+            Read more
+            <svg width="12" height="12" viewBox="0 0 12 12" fill="currentColor"><path d="M2 4l4 4 4-4"/></svg>
+          </button>
+          <div class="event-details">
+            <p>The fire begins around 2:10 a.m., possibly caused by defective electrical wiring dating from 1886. Samuel Abbott, a 78-year-old Civil War veteran serving as night watchman, is the only fatality. About 125 firefighters respond; sheets of scorched paper drift over a 20-mile radius.</p>
+            <p>Destroyed materials include: Dutch colonial records (1630–1664), English colonial legislative papers, Revolutionary War documents, legislative papers from 1777 to 1910, Council of Appointment papers, and nearly the entire manuscript collection—"the largest and most important body of archives in the possession of the State."</p>
+            <p>Some documents survive: the Preliminary Emancipation Proclamation and Washington's Farewell Address are rescued from a fireproof safe. State Archivist A.J.F. van Laer and antiquarian I.N. Phelps Stokes lead salvage operations, recovering charred materials that still smell of smoke today.</p>
+            <div class="key-figures">
+              <strong>Salvage Heroes:</strong> A.J.F. van Laer (State Archivist); I.N. Phelps Stokes; Arthur C. Parker (State Museum archaeologist)
+            </div>
+          </div>
+        </div>
+        <div class="event-source">Source: <a href="https://www.newyorkfamilyhistory.org/blog/fire-new-york-state-library">NY Genealogical Society: Fire at the State Library</a>; <a href="https://en.wikipedia.org/wiki/1911_New_York_State_Capitol_fire">Wikipedia: 1911 Capitol Fire</a></div>
+      </article>
+
+      <article class="timeline-event">
+        <div class="event-year">1913</div>
+        <h3 class="event-title">Central Rural School Act</h3>
+        <div class="event-description">
+          <p>The Central Rural School Act encourages rural school districts to consolidate and form more efficient units. This provides a legislative framework for addressing the persistent problem of small, underfunded rural schools.</p>
+        </div>
+        <div class="event-source">Source: <a href="https://considerthesourceny.org/using-primary-sources/researching-history-your-school/milestones-history-education">Consider the Source: Milestones</a></div>
+      </article>
+
+    </div>
+  </section>
+
+</main>
+
+</div>
+
+<script>
+// Era navigation tabs
+document.querySelectorAll('.era-tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    // Remove active class from all tabs
+    document.querySelectorAll('.era-tab').forEach(t => t.classList.remove('active'));
+    // Add active class to clicked tab
+    tab.classList.add('active');
+
+    // Scroll to corresponding section
+    const eraId = tab.dataset.era;
+    const section = document.getElementById(eraId);
+    if (section) {
+      section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+});
+
+// Expand/collapse event details
+document.querySelectorAll('.expand-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const details = btn.nextElementSibling;
+    const isExpanded = btn.getAttribute('aria-expanded') === 'true';
+
+    btn.setAttribute('aria-expanded', !isExpanded);
+    btn.classList.toggle('expanded');
+    details.classList.toggle('expanded');
+  });
+});
+
+// Update active tab on scroll
+const observerOptions = {
+  root: null,
+  rootMargin: '-100px 0px -66%',
+  threshold: 0
+};
+
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      const id = entry.target.getAttribute('id');
+      document.querySelectorAll('.era-tab').forEach(tab => {
+        tab.classList.remove('active');
+        if (tab.dataset.era === id) {
+          tab.classList.add('active');
+        }
+      });
+    }
+  });
+}, observerOptions);
+
+document.querySelectorAll('.era-section').forEach(section => {
+  observer.observe(section);
+});
+</script>
+
+</body>
+</html>

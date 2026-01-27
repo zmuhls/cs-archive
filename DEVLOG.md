@@ -1,148 +1,377 @@
-# Development Log
+# tinker devlog
 
-Chronological record of changes, decisions, and progress on the OCR pipeline enhancement.
-
----
-
-## 2024-12-24: Project Planning Session
-
-### Context
-Assessed current OCR pipeline state. Found:
-- 635 OCR outputs (PDFs: 98.8% confidence, Images: 23% success rate)
-- Hallucination patterns in some outputs (repetitive lines)
-- Session-based artifact grouping defaults to time proximity (90-second threshold)
-- Single model (qwen/qwen-vl-plus) with no fallback
-
-### Decisions Made
-1. **Priority**: Artifact collation first, then human-in-the-loop, then multi-model ensemble
-2. **Curation approach**: Human-in-the-loop (review flagged items, correct errors)
-3. **Model stack**: Multi-model ensemble using Qwen models via OpenRouter
-   - Primary: `qwen/qwen-vl-plus` (current)
-   - Secondary: `qwen/qwen-vl-max` (higher quality for challenging docs)
-4. **Todo tracking**: Kanban sections in CLAUDE.md (In Progress / Backlog / Done)
-
-### Artifacts Created
-- Added Kanban todo section to CLAUDE.md
-- Created plan at `~/.claude/plans/delightful-scribbling-mccarthy.md`
-
-### Next Steps
-- Stage 1: Add artifact collation columns to inventory schema
-- Create `scripts/refine_artifact_groups.py`
+development notes for fine-tuning vision-language models on historical archival materials
 
 ---
 
-## 2024-12-24: Stage 1 Complete - Artifact Collation System
+## project overview
 
-### Context
-Implementing artifact collation as the first priority from the planning session.
+this project explores fine-tuning Qwen3-VL-30B-A3B-Instruct for transcribing historical documents from the Common School Archive, a collection documenting the administrative history of New York State's public school system from the early 19th century through mid-20th century consolidation efforts.
 
-### Changes Made
-- `scripts/build_images_inventory.py`: Added 4 new fields to ImageRow dataclass
-  - artifact_link_type (session_default, visual_match, content_overlap, manual_curation)
-  - artifact_confidence (0.0-1.0)
-  - needs_review (boolean)
-  - parent_artifact_id (for hierarchical groupings)
-- `scripts/merge_image_labels.py`: Updated to preserve new columns with defaults
-- `scripts/migrate_inventory_schema.py`: Created to migrate existing CSV (384 rows)
-- `scripts/refine_artifact_groups.py`: Created for text-similarity-based grouping
-  - Found 12 content-based groups
-  - Flagged 14 items for human review
-- `scripts/consolidate_artifacts.py`: Added link type handling
-  - New flags: --skip-review, --confident-only
-  - Tracks confident_link_ratio and link_types per artifact
-- `AGENTS.md`: Added DEVLOG update instructions
-- `DEVLOG.md`: Created for development history
-
-### Results
-- Inventory schema now has 32 columns (was 28)
-- 25 images updated with content_overlap link type
-- Review queue generated at csv/artifact_review_queue.csv
-- S0026 session test: revealed fragmented artifact IDs from LLM labeling
-
-### Next Steps
-- Stage 2: Human-in-the-loop review workflow
-  - scripts/generate_review_queues.py for OCR hallucination detection
-  - scripts/apply_corrections.py for ingesting curated corrections
+the work advances three interconnected goals:
+1. **methodological transparency** - documenting the full pipeline from archival digitization to fine-tuned model, suitable for DH quarterly publication
+2. **local-first AI research** - demonstrating how institutions can develop specialized transcription capabilities without relying on proprietary black-box services
+3. **reproducible fine-tuning** - contributing to the tinker-cookbook ecosystem with recipes tailored to archival document types
 
 ---
 
-## Log Template
+## archival materials: four document types
 
-```markdown
-## YYYY-MM-DD: [Brief Title]
+the Common School Archive contains heterogeneous materials requiring distinct transcription strategies. we have identified four primary document classes for fine-tuning:
 
-### Context
-[What prompted this work]
+### 1. notecards (B0594 - District Notecard Records)
 
-### Changes Made
-- [File]: [Description of change]
+index cards with typed headers and handwritten action entries tracking individual school district administrative history.
 
-### Decisions
-- [Key decision and rationale]
+**characteristics:**
+- typed header with school name and county (e.g., "Deaser Union School (Albany Co.)")
+- chronological handwritten entries with abbreviated dates
+- action notation using historical abbreviations: "adm" (admitted), "appli" (application), "adv" (advanced), "M-1", "M-P" (classification codes)
+- mixed media: typewritten structure with cursive fill-in
 
-### Next Steps
-- [What comes next]
+**transcription challenges:**
+- date format variability: "19 July 1926", "4/30/59", "4 Nov. 1926"
+- abbreviated actions requiring expansion or preservation
+- faded ink, overlapping entries, correction marks
+
+**parser status:** implemented in `parsers/notecards.py` with date extraction, school/county metadata, and action classification
+
+### 2. ledgers and tables (B0494 - District-Consolidation-Data)
+
+tabular records documenting school district consolidations, mergers, and closures across New York State.
+
+**characteristics:**
+- column-based layout with district names, dates, action types
+- variable separators: pipes, tabs, multiple spaces
+- header rows with standardized vocabulary: "District", "Date", "Action", "County"
+- spans multiple decades of consolidation activity (1940s-1960s)
+
+**transcription challenges:**
+- column alignment detection in degraded scans
+- distinguishing header rows from data
+- handling merged cells and spanning entries
+- OCR noise in ruled line detection
+
+**parser status:** implemented in `parsers/tables.py` with separator detection, header inference, and row extraction
+
+### 3. handwritten minutes (South-Kortright style)
+
+19th-century school district meeting minutes written in period cursive, following formal parliamentary structure.
+
+**characteristics:**
+- opening statement identifying meeting location, date, and participants ("At a meeting of the inhabitants or freeholders of School District No. 2...")
+- numbered vote resolutions: "Vote 1st. That the trustees shall have to hire who they please..."
+- adjournment notation
+- archaic spellings and abbreviations ("ye", "rec'd", "&c.")
+
+**transcription challenges:**
+- 19th-century cursive letterforms
+- period spelling variations requiring diplomatic vs. normalized output
+- ink degradation over 150+ years
+- understanding vote numbering conventions (1st, 2nd, 3rd, etc.)
+
+**parser status:** implemented in `parsers/meeting_minutes.py` with vote extraction, opening/adjournment detection, and date parsing
+
+### 4. typewritten minutes
+
+mid-20th century meeting records produced on typewriters, representing the transition from handwritten to mechanized documentation.
+
+**characteristics:**
+- standard business letter formatting
+- clearer text but with typewriter-specific artifacts
+- carbon copy degradation
+- institutional letterhead and stamps
+- mixed handwritten annotations and signatures
+
+**transcription challenges:**
+- strike-through and overtype corrections
+- carbon copy fading
+- handwritten marginalia alongside typed text
+- distinguishing original typing from later additions
+
+**parser status:** pending - will extend meeting_minutes parser with typewriter-specific preprocessing
+
+---
+
+## why Qwen3-VL-30B-A3B-Instruct
+
+selected this model for historical OCR based on architectural fit:
+
+| feature | relevance to archival materials |
+|---------|--------------------------------|
+| **A3B (Active 3B params)** | 30B total parameters but only 3B active per forward pass - enables training on academic GPU budgets |
+| **high-resolution support** | native 1280px+ processing preserves fine cursive details critical for 19th-century handwriting |
+| **multilingual pretraining** | exposed to diverse scripts during pretraining (Latin variants, Gothic, etc.) |
+| **32K context window** | handles full-page transcriptions without chunking, preserving document structure |
+| **efficient training** | LoRA fine-tuning with rank 64 yields strong results in 3-5 epochs |
+
+the model's mixture-of-experts architecture aligns with the heterogeneous nature of archival collections - different "experts" may activate for different document types without explicit routing.
+
+---
+
+## tinker api: training infrastructure
+
+using Thinking Machines Lab's Tinker platform for distributed fine-tuning. key advantages for this project:
+
+**infrastructure abstraction:**
+```python
+import tinker
+service_client = tinker.ServiceClient()
+training_client = service_client.create_lora_training_client(
+    base_model="Qwen/Qwen3-VL-30B-A3B-Instruct",
+    rank=64,  # higher rank for complex visual-text alignment
+)
+```
+
+the API handles:
+- distributed training across GPU clusters
+- gradient accumulation and optimizer state management
+- checkpoint serialization and weight export
+
+**local control preserved:**
+- all training data remains local until explicitly sent
+- loss functions, data augmentation, prompt engineering happen client-side
+- full access to weights for local deployment post-training
+
+**workflow:**
+1. prepare training examples locally (image + ground truth transcription pairs)
+2. send batches via API for forward/backward passes
+3. accumulate gradients, step optimizer via API
+4. export fine-tuned LoRA weights for local inference
+
+this division of labor keeps sensitive archival materials under institutional control while leveraging scalable compute.
+
+---
+
+## training configuration rationale
+
+optimized hyperparameters for historical document transcription:
+
+```python
+@chz.chz
+class HistoricalOCRExperimentConfig:
+    learning_rate: float = 1e-4      # conservative for long sequences
+    lora_rank: int = 64              # high rank for visual grounding
+    batch_size: int = 4              # small due to long sequences + images
+    max_length: int = 16384          # full-page transcription support
+    num_epochs: int = 3              # quick convergence with quality data
+    max_image_size: int = 1280       # preserve fine handwriting details
+    enhance_contrast: bool = True    # handle faded historical documents
+    contrast_factor: float = 1.3     # moderate boost for degraded ink
+```
+
+**key decisions:**
+
+*lower learning rate (1e-4 vs typical 5e-4):* historical documents have idiosyncratic patterns that can be overfit quickly. slower learning preserves the model's general visual understanding while adapting to period-specific letterforms.
+
+*higher LoRA rank (64 vs typical 16-32):* transcription requires tight visual-text alignment. higher rank provides more capacity for learning the mapping between visual cursive strokes and corresponding text tokens.
+
+*longer max_length (16384):* full-page transcriptions regularly exceed 3000 tokens. truncating would lose document structure and create training/inference mismatch.
+
+*contrast enhancement:* archival scans frequently suffer from faded ink against aged paper. adaptive contrast preprocessing recovers legibility without manual per-image tuning.
+
+---
+
+## transcription modes
+
+three output modes support different research uses:
+
+**diplomatic** (default):
+preserves all original features - archaic spellings, abbreviations, line breaks
+```
+ye olde shoppe → ye olde shoppe
+```
+use case: linguistic analysis, paleographic study, legal/archival citation
+
+**normalized:**
+modernizes spelling, expands abbreviations
+```
+ye olde shoppe → the old shop
+```
+use case: full-text search, accessibility, downstream NLP
+
+**structured:**
+JSON-style output with uncertainty markers
+```
+the old [?]hop
+```
+use case: quality control, human-in-the-loop correction, confidence estimation
+
+mode selection happens at training time via system prompt, enabling single model to serve multiple output requirements.
+
+---
+
+## data pipeline
+
+### local data organization
+```
+common_school_archive/
+├── notecards/
+│   ├── images/
+│   │   ├── B0594_001.jpg
+│   │   └── ...
+│   └── transcriptions/
+│       ├── B0594_001.txt
+│       └── ...
+├── ledgers/
+│   ├── images/
+│   └── transcriptions/
+├── handwritten_minutes/
+│   ├── images/
+│   └── transcriptions/
+└── typewritten_minutes/
+    ├── images/
+    └── transcriptions/
+```
+
+### training invocation
+```bash
+export TINKER_API_KEY=your_key
+
+python -m tinker_cookbook.recipes.historical_ocr.train \
+    experiment_dir=./experiments \
+    data_source=local \
+    data_dir=/path/to/common_school_archive \
+    ocr_mode=diplomatic \
+    max_image_size=1280 \
+    enhance_contrast=True
 ```
 
 ---
 
-## 2026-01-18: README overhaul and link hub
+## evaluation metrics
 
-### Context
-The root README was minimal and lacked cross-links to the curated collections, browse pages, and generated outputs. A more presentable, one-stop entry point was requested.
+tracking three complementary metrics:
 
-### Changes Made
-- readme.md: Rewrote intro with purpose, scope, and archival sources; added Collections overview; added a comprehensive One‑Stop Link Hub covering curated pages, browse/search/map, outputs, inventories, prompts, and developer docs; included concise build instructions.
+1. **Character Error Rate (CER):** primary metric for OCR quality
+   - edit distance between predicted and ground truth at character level
+   - handles insertions, deletions, substitutions
+   - sensitive to minor transcription variations
 
-### Decisions
-- Favor repository-relative links to existing markdown and output directories to keep navigation consistent inside GitHub and the local repo.
-- Keep build commands lightweight in README and direct deeper technical details to CLAUDE.md and AGENTS.md.
+2. **Word Error Rate (WER):** secondary, more interpretable
+   - edit distance at word level
+   - better correlates with downstream usability
+   - less sensitive to spacing/punctuation
 
-### Next Steps
-- Optional: add link-check CI or a lightweight script under `scripts/` to verify README links remain valid as files move.
+3. **Negative Log-Likelihood (NLL):** tracked automatically during training
+   - model confidence measure
+   - useful for detecting overfitting
+   - correlates with but doesn't replace CER/WER
+
+custom evaluators extend `SamplingClientEvaluator` for document-type-specific assessment:
+```python
+class CERDocumentEvaluator(SamplingClientEvaluator):
+    async def __call__(self, sampling_client):
+        # compute CER on held-out set
+        ...
+```
 
 ---
 
-## 2026-01-19: Jekyll link audit, card images, and 3-collection alignment
+## toward openness and transparency
 
-### Context
-Internal links broke under GitHub Pages due to missing `baseurl` handling, and item/collection cards rendered without images. The collections model has been updated to three buckets that needed consistent naming across pages.
+this project embodies principles for responsible AI research in cultural heritage contexts:
 
-### Changes Made
-- _config.yml: Added `include: [derived/thumbs]` so thumbnail assets are published with the site.
-- _includes/artifact-card.html: Use local thumbnails via `derived/thumbs/{{ filename }}` when available, falling back to the remote `thumbnail` field.
-- _layouts/artifact.html: Same local-first thumbnail logic for the gallery image sources; keep `image.full` as external link target.
-- index.md:
-  - Converted all internal links to `{{ '...path...' | relative_url }}` for GitHub Pages compatibility.
-  - Added representative images to the three collection cards (derived thumbs) and styling for a top-of-card image.
-  - Standardized the label to “NYS Teachers’ Association”.
-- browse/index.md: Switched to `relative_url` links and updated the Collections section to reflect the three-collection model (Local District Governance, Administrative Data & Statistics, NYS Teachers’ Association).
-- collections/index.md: Switched internal links to `relative_url`; standardized naming and map links.
-- collections/district-consolidation.md: Fixed county browse link to use `relative_url`.
-- _data/navigation.yml: Standardized the collection label to “NYS Teachers’ Association”.
+### open methodology
+- full training pipeline documented in tinker-cookbook
+- hyperparameter rationale explained, not just listed
+- failure modes and limitations acknowledged
 
-### Decisions
-- Prefer locally published thumbnails under `derived/thumbs/` to avoid external hotlinking and CORS/content-type surprises; publish only thumbs (not full images) to keep the site light.
-- Use Liquid’s `relative_url` consistently in content pages to respect `baseurl` on GitHub Pages.
-- Keep `image.full` links as GitHub-hosted raw URLs to avoid shipping large binaries in the site build.
+### local-first architecture
+- archival materials never leave institutional control
+- fine-tuned weights can be exported for fully local inference
+- no ongoing dependence on external API for production use
 
-### Next Steps
-- Add a quick link-check step (optional script under `scripts/`) to scan for absolute `/...` links and suggest `relative_url` replacements.
-- Confirm card images work across a handful of random artifacts; if any are missing `filename`, ensure the remote `thumbnail` fallback renders.
-- Consider a homepage hero collage or header overlay using a few curated thumbnails with more descriptive `alt` text.
-- Decide whether to remove or update the legacy `docs/` Jekyll copy to reduce confusion (root build is canonical via Actions).
+### reproducibility
+- deterministic train/test splits with documented seeds
+- versioned parser implementations
+- configuration files capture full experiment state
 
-## 2026-01-19: Mark legacy docs/ copy
+### appropriate automation
+- AI transcription as assistance, not replacement for expertise
+- uncertainty markers enable human verification
+- diplomatic mode preserves source fidelity
 
-### Context
-Two Jekyll copies existed (root and `docs/`). The root site is the only deployed source via GitHub Actions. We marked `docs/` as legacy to prevent confusion while ensuring the live site remains unaffected.
+---
 
-### Changes Made
-- Added `docs/README.md` explaining deprecation and pointing to the canonical site.
-- Updated `docs/index.md` with a clear notice and link to https://zmuhls.github.io/cs-archive/.
+## development timeline
 
-### Decisions
-- Keep `docs/` in-repo for now (marked as legacy); root `_config.yml` already excludes it from the build, so production is unaffected.
+### phase 1: parser development (completed)
+- implemented NotecardParser for B0594 records
+- implemented TableParser for B0494 consolidation data
+- implemented MeetingMinutesParser for South-Kortright documents
+- established ParsedDocument/ParsedEntry data structures
 
-### Next Steps
-- Optional: Remove `docs/` after confirming no scripts or workflows still rely on it.
+### phase 2: training infrastructure (completed)
+
+- integrated historical_ocr recipe into tinker-cookbook
+- configured Qwen3-VL-30B-A3B training parameters
+- established local data pipeline and preprocessing
+- fixed inference.py SamplingClient API (create_sampling_client, num_samples, renderer/tokenizer decode)
+
+### phase 3: fine-tuning experiments (current)
+
+- completed LoRA fine-tuning run (rank 64, 3 epochs, lr 0.0001) on 578 training samples
+- holdout evaluation on 244 unseen pages (2026-01-24):
+  - overall: fine-tuned CER 57.25% vs baseline 61.01% (+6% relative improvement)
+  - typed minutes: 1.22% CER vs 23.58% baseline (strongest category, near-perfect)
+  - handwritten minutes: 114.89% vs 117.57% (marginal, both struggle on 1831 cursive)
+  - tables: 38.08% vs 38.63% (negligible difference)
+  - notecards: 74.79% vs 64.28% (regression, only 3 holdout pages available)
+- key finding: fine-tuned model eliminates preamble hallucination and produces cleaner output format
+- key finding: notecard regression suggests overfitting with limited holdout coverage
+
+### phase 4: evaluation and publication (next)
+
+- larger holdout runs (25+ per type) for typed minutes and tables
+- error analysis by document type and era
+- cross-document-type transfer experiments
+- methodological commentary for DH quarterly
+- weight release under appropriate license
+
+---
+
+## notes for DH quarterly methodology section
+
+key themes for the article:
+
+1. **heterogeneous archives require heterogeneous approaches** - the four document types demand different preprocessing, prompting, and evaluation strategies despite sharing an OCR objective
+
+2. **fine-tuning democratizes specialized transcription** - institutions can develop capabilities matching their collections without enterprise contracts or perpetual API dependencies
+
+3. **transparency enables critique** - publishing the full pipeline (data preparation, training config, evaluation protocol) allows the DH community to assess, replicate, and improve upon results
+
+4. **diplomatic vs. normalized is a research question** - the choice of transcription mode encodes scholarly values; fine-tuning enables per-project customization rather than one-size-fits-all
+
+5. **model architecture matters for archives** - Qwen3-VL's mixture-of-experts design aligns with collection heterogeneity in ways that warrant theorization
+
+---
+
+## open questions
+
+- how much training data per document type yields diminishing returns?
+- does multi-document-type training improve or harm per-type performance?
+- can structured output mode enable effective active learning?
+- what is the right granularity: page-level vs. entry-level training?
+- how do results transfer to other archival collections?
+
+---
+
+## references
+
+- Thinking Machines Lab. (2025). Tinker. https://thinkingmachines.ai/tinker/
+- tinker-cookbook historical_ocr recipe: `tinker_cookbook/recipes/historical_ocr/`
+- Common School Archive finding aids: [pending link]
+- Qwen3-VL model card: https://huggingface.co/Qwen/Qwen3-VL-30B-A3B-Instruct
+
+---
+
+*last updated: 2026-01-27*
+
+---
+
+## update 2026-01-27
+
+- Fix: Updated image links in `output/comprehensive/District-Consolidation-Data_100-116_comprehensive.md` to use repository-relative paths (`../ocr/tables/images/...`) instead of `raw.githubusercontent.com` which returned 404s on GitHub.
+- Rationale: Keep comprehensive markdown self-contained and renderable on GitHub; avoid `raw` endpoints that can fail and prefer paths resolvable within the repo.
+- Next: Audit remaining comprehensive files and generation scripts to standardize image URL patterns (use relative paths for repo images; `media.githubusercontent.com` for LFS-backed assets).

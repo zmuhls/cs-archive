@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Collections"
     url: /collections/
+  - title: "Timeline"
+    url: /timeline/
   - title: "Map"
     url: /map/
   - title: "Browse"
