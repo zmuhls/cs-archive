@@ -52,7 +52,11 @@ def extract_page_number(filename: str) -> int:
     return 0
 
 def get_image_path(collection_key: str, page_num: int) -> str | None:
-    """Get relative path to a page image from project root."""
+    """Get GitHub-media URL for a page image.
+
+    Uses https://media.githubusercontent.com to ensure images render in GitHub
+    for both regular and LFS-backed files.
+    """
     config = COLLECTIONS.get(collection_key)
     if not config or not config["image_folder"]:
         return None
@@ -65,14 +69,20 @@ def get_image_path(collection_key: str, page_num: int) -> str | None:
         img_name = f"{collection_key}_page_{page_num}.jpg"
         local_path = PROJECT_ROOT / folder / img_name
         if local_path.exists():
-            return f"{folder}/{img_name}"
+            return (
+                f"https://media.githubusercontent.com/media/zmuhls/cs-archive/main/"
+                f"{folder}/{img_name}"
+            )
     else:
         # NYS Archives uses page_N.png
         for ext in ['.png', '.jpg', '.jpeg']:
             img_name = f"page_{page_num}{ext}"
             local_path = PROJECT_ROOT / folder / img_name
             if local_path.exists():
-                return f"{folder}/{img_name}"
+                return (
+                    f"https://media.githubusercontent.com/media/zmuhls/cs-archive/main/"
+                    f"{folder}/{img_name}"
+                )
 
     return None
 
