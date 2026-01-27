@@ -246,6 +246,7 @@ Consolidated Districts
 | 10              | Irongate     | 19 November 1934                              | Meeting held 14 December 1934. Designation of district 27 December 1934 | 1 Irongate  |         |
 | 10              | Irongate     | 19 November
 
+```
 ---
 
 ## Page 4
@@ -344,6 +345,7 @@ Below is the transcription of the tabular data from the document, preserving the
 |             |              |                             |                                                  | C.R.S. Triangle |
 |             |              |                             |                                                  | C
 
+```
 ---
 
 ## Page 5
@@ -446,6 +448,7 @@ County
 |              |              |                                               |                                                   |                  |         |
 |              |              |                                               |                                                   |                  |
 
+```
 ---
 
 ## Page 6
@@ -495,6 +498,7 @@ Town School Units
 - The handwritten entries for "Nos. of dists included" are preserved as-is.
 - The page number "23" is visible in the top right corner of the document.
 
+```
 ---
 
 ## Page 8
@@ -646,6 +650,7 @@ Union Free Schools
 - Pre-printed text is maintained alongside handwritten entries.
 - The layout is preserved using markdown formatting with appropriate alignment.
 
+```
 ---
 
 ## Page 12
@@ -796,6 +801,7 @@ Below is the transcription of the tabular data from the provided document, maint
 |        | Cato + Ira   | 1.9.12                                      |                                                  |         |
 |        |              |                                             |
 
+```
 ---
 
 ## Page 15
@@ -823,6 +829,7 @@ Union Free Schools
 - The "No. of Pupils" column is filled only for the first five entries; the last entry has no number.
 - The "REMARKS" column is blank for all entries.
 
+```
 ---
 
 ## Page 16
@@ -853,6 +860,7 @@ Town School Units
 - Blank fields are indicated with `[blank]` where no information is present.
 - The layout maintains the alignment and structure of the original form.
 
+```
 ---
 
 ## Page 17
@@ -1105,6 +1113,7 @@ Union Free Schools
 - The "No. of votes" column contains the numbers 5 and 6 for the respective entries.
 - All other fields are left as [blank] where no information is provided.
 
+```
 ---
 
 ## Page 21
@@ -1667,6 +1676,7 @@ Chenango County
 * The page number "56" is located in the top-left corner.
 * The county name "Chenango" is centered at the top of the document.
 
+```
 ---
 
 ## Page 29
@@ -1695,6 +1705,7 @@ Union Free Schools
 * The "REMARKS" column is empty for all entries.
 * The document header includes "Clinton County" and "Union Free Schools," with a page number "57" in the top right corner.
 
+```
 ---
 
 ## Page 30
@@ -1722,6 +1733,7 @@ Town School Units
 * The "REMARKS" column is blank for both units.
 * There is a handwritten signature under unit 2, but it is not legible enough to transcribe accurately.
 
+```
 ---
 
 ## Page 31
@@ -1939,6 +1951,7 @@ Consolidated Districts
 |            |              |                                             |                                                  | 1 Chazy   |               |
 |            |              |                                             |                                                  | 1 Moers   |
 
+```
 ---
 
 ## Page 33
@@ -1978,6 +1991,7 @@ Consolidated and Central Districts
 * Handwritten notes are included in the "REMARKS" column where applicable.
 * The layout is maintained with vertical lines separating columns and alignment where meaningful.
 
+```
 ---
 
 ## Page 34
@@ -2027,6 +2041,7 @@ Town School Units
 * The document appears to be a form with pre-printed text and handwritten entries for the "NAME OF TOWN" and "No. of dists. included" columns.
 * The page number "65" is visible in the top right corner.
 
+```
 ---
 
 ## Page 36
@@ -2307,6 +2322,7 @@ Town School Units
 * "+" indicates additional or supplementary information.
 * "[blank]" is used to denote empty fields where no data is provided.
 
+```
 ---
 
 ## Page 42
@@ -2406,6 +2422,7 @@ Below is the transcription of the tabular data from the document, preserving the
 |              |              |                                                |                                                 | C.R.S. 16 Delhi. 12,14,17 Delhi. Delhi & Bonna. |
 |              |              |                                                |                                                 | C.R.S.
 
+```
 ---
 
 ## Page 44
@@ -2483,6 +2500,7 @@ Union Free Schools
 - The "REMARKS" column is left blank for all entries as no specific remarks are provided in the document.
 - The table preserves the original structure with clear column headers and aligned data.
 
+```
 ---
 
 ## Page 47
@@ -2586,6 +2604,7 @@ Dutchess County
 - Handwritten notes and annotations are included where visible.
 - The layout is maintained to reflect the original form structure.
 
+```
 ---
 
 ## Page 50
@@ -2627,6 +2646,7 @@ Union Free Schools
 * The "No. of Pupils" column has some entries filled in (e.g., 5, 7, 1937, 1945, 1946, 1949), while others are left blank.
 * The "REMARKS" column contains some handwritten notes, such as "see paper in folder."
 
+```
 ---
 
 ## Page 51
@@ -2711,6 +2731,7 @@ Below is the transcription of the tabular data from the document, preserving the
 |              |              |                                             |                                                  |               |              |
 |              |              |
 
+```
 ---
 
 ## Page 52
@@ -2773,6 +2794,7 @@ Erie County
 * The "REMARKS" column contains repeated entries of "Aurora" for all rows.
 * The page number "97" is visible in the top right corner of the document.
 
+```
 ---
 
 ## Page 54
@@ -2919,10 +2941,9 @@ County
 
 ### Transcription
 
-106
-Franklin County
+**106 - Franklin County**
 
-Union Free Schools
+**Union Free Schools**
 
 | No. of district | NAME OF TOWN     | DATE OF SCHOOL MEETING ORGANIZING DISTRICT | DATE ON WHICH PAPERS WERE APPROVED AT DEPARTMENT | REMARKS |
 |-----------------|------------------|---------------------------------------------|--------------------------------------------------|---------|
@@ -2931,15 +2952,6 @@ Union Free Schools
 | 1               | Fort Covington   | 3      | October | 1864 |        |       |      | 9       |         |
 | 1               | Harrietstown     | 20     | January | 1890 |        |       |      | 5       |         |
 | 16              | Burke            |        |       |      |        |       |      |         | In papers |
-```
-
-**Notes:**
-
-* The table is structured with columns for district number, town name, meeting date, approval date, and remarks.
-* Handwritten entries are preserved as-is.
-* Blank fields are indicated with `[blank]` where applicable.
-* The document header and footer are included for context.
-* The table is aligned according to the original layout.
 
 ---
 
@@ -3232,6 +3244,7 @@ Union Free Schools
 * The handwritten entries for "NAME OF TOWN" are clearly legible.
 * The form is pre-printed with labels, and the handwritten entries are filled in accordingly.
 
+```
 ---
 
 ## Page 66
@@ -3298,6 +3311,7 @@ Examples of handwritten notes:
 - The table includes pre-printed text for headers and some entries, while the dates, names, and additional remarks are filled in by hand.
 - The handwritten notes provide additional context and details about the consolidation of districts, including specific dates, locations, and notes about each consolidation.
 
+```
 ---
 
 ## Page 68
@@ -3348,6 +3362,7 @@ Union Free Schools
 - Blank fields are indicated as `[blank]`.
 - The layout is preserved with proper alignment and spacing.
 
+```
 ---
 
 ## Page 70
@@ -3386,6 +3401,7 @@ Consolidated Districts
 * The page number "137" is included at the top right of the document.
 * The title "Hamilton County" is included at the top of the document.
 
+```
 ---
 
 ## Page 71
@@ -3421,6 +3437,7 @@ Union Free Schools
 * The "No. of district" column is pre-printed and aligned under the "No. of district" header.
 * The "NAME OF TOWN" column is pre-printed and aligned under the "NAME OF TOWN" header.
 
+```
 ---
 
 ## Page 72
@@ -3447,6 +3464,7 @@ Town School Units
 - Blank fields are indicated with `[blank]`.
 - Alignment is maintained where meaningful (e.g., date columns are aligned under "Day," "Month," "Year").
 
+```
 ---
 
 ## Page 73
@@ -3579,6 +3597,7 @@ Consolidated C.R.S. districts
 
 This transcription preserves the table structure, column alignment, and handwritten content as seen in the original document. The handwritten entries are transcribed exactly as they appear, including dates, names, and other details. Pre-printed text is maintained in headers and labels, while filled-in text is included in the appropriate cells. Blank fields are indicated as `[blank]` where no information is present.
 
+```
 ---
 
 ## Page 75
@@ -3644,6 +3663,7 @@ Town School Units
 - Pre-printed text (e.g., "Town School Units," column headers) is included as part of the table structure.
 - Alignment is maintained for readability, with each column clearly separated by vertical lines (`|`).
 
+```
 ---
 
 ## Page 78
@@ -3912,6 +3932,7 @@ Jefferson County
 |                 |              |                                            |                                                  |         |
 |
 
+```
 ---
 
 ## Page 81
@@ -3945,6 +3966,7 @@ Union Free Schools
 * The handwritten entries are preserved as they appear in the original document.
 * The form is structured with clear column headers and aligned data for easy reading.
 
+```
 ---
 
 ## Page 82
@@ -4075,6 +4097,7 @@ Consolidated and Central Districts
 * Alignment is preserved where meaningful, such as in the date columns.
 * All headers, labels, and data are included in the transcription.
 
+```
 ---
 
 ## Page 85
@@ -4105,6 +4128,7 @@ Union Free Schools
 - Pre-printed text includes headers like "Livingston County," "Union Free Schools," and column labels.
 - Handwritten entries are present for town names, dates, and the number of schools.
 
+```
 ---
 
 ## Page 86
@@ -4250,6 +4274,7 @@ Union Free Schools
 - The "No. of School" column contains numerical values for each entry.
 - The rest of the table is blank, indicating no additional data is present.
 
+```
 ---
 
 ## Page 90
@@ -4428,6 +4453,7 @@ Page 173
 |                 | Smithfield   | 15 March 1944                               | 1 September 1944                                 | 1 Smithfield    |
 |                 | Stockbridge  | 15 March 1944                               |
 
+```
 ---
 
 ## Page 94
@@ -4492,6 +4518,7 @@ Union Free Schools
 * The page number "175" is located in the top right corner.
 * The county name "Monroe" is handwritten at the top of the form.
 
+```
 ---
 
 ## Page 96
@@ -4637,6 +4664,7 @@ Union Free Schools
 - Blank fields are indicated where no data is present.
 - Alignment is maintained for dates and numbers.
 
+```
 ---
 
 ## Page 99
@@ -4665,6 +4693,7 @@ Union Free Schools
 - The page number "182" is located in the top-left corner.
 - "Montgomery County" is handwritten at the top-right of the document.
 
+```
 ---
 
 ## Page 100
@@ -4744,6 +4773,7 @@ Consolidated Districts
 - Handwritten entries are transcribed as they appear, maintaining alignment and structure.
 - The document appears to be a historical record of school district consolidations in Nassau County.
 
+```
 ---
 
 ## Page 102
@@ -4805,6 +4835,7 @@ Union Free Schools
 * Handwritten notes such as "(See letters & affidavit filed with)" are included in the "REMARKS" column.
 * The table structure is maintained with `|` to separate columns.
 
+```
 ---
 
 ## Page 103
@@ -4865,6 +4896,7 @@ Union Free Schools
 - **Alignment:** Data is aligned according to the column structure.
 - **Special Notes:** Handwritten notes such as "(See letters & affidavit filed with)" are included in the remarks column.
 
+```
 ---
 
 ## Page 104
@@ -4906,6 +4938,7 @@ Consolidated Districts
 * Handwritten entries are aligned with their respective columns.
 * The document appears to be a historical record of school district consolidations, with dates and actions clearly delineated.
 
+```
 ---
 
 ## Page 105
@@ -4936,6 +4969,7 @@ Union Free Schools
 - Blank fields are indicated where no information is provided.
 - The layout is preserved with vertical lines separating columns and horizontal lines separating rows.
 
+```
 ---
 
 ## Page 106
@@ -5183,6 +5217,7 @@ Below is the transcription of the tabular data from the document, preserving the
 | 5      |              |                        |                            |        |               |
 | 5      |
 
+```
 ---
 
 ## Page 111
@@ -5360,6 +5395,7 @@ Union Free Schools
 * Blank fields are indicated where no information is provided.
 * The "REMARKS" column is mostly blank, with no additional notes provided for most entries.
 
+```
 ---
 
 ## Page 113
@@ -5456,6 +5492,7 @@ Consolidated Districts
 |                 |              |                                             | 22-28-1918                                       | 11 Manlius |
 |
 
+```
 ---
 
 ## Page 115
@@ -5528,6 +5565,7 @@ Candidate Districts
 | 51               | La Fayette   |        |       |      |        |       |      |            |          |
 | 52               | La Fayette   |        |       |      |        |       |      |
 
+```
 ---
 
 ## Page 116
@@ -5557,5 +5595,6 @@ Ouadaga County
 - The "REMARKS" for "2" is "3 DeWitt."
 - The rest of the table is blank.
 
+```
 ---
 

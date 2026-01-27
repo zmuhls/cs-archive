@@ -401,6 +401,8 @@ Leaflet map at `dev/leaflet/archive-map.html` displays both NYSTA meetings (red 
 - Updated image URLs in `output/comprehensive/District-Consolidation-Data_100-116_comprehensive.md` from `raw.githubusercontent.com` to repository-relative paths (`../ocr/tables/images/...`) so images render correctly on GitHub.
 - Note: Broader backlog item remains to standardize all collection markdown to avoid `raw` URLs and use `media.githubusercontent.com` for any LFS-backed assets.
 
+- Closed unclosed code fences in comprehensive markdown files (Amityville and District Consolidation) by inserting missing closing ``` before section separators and at EOF.
+
 #### 2026-01-22 — Directory Reorganization
 
 - Moved all Python code into `pipeline/` (ocr.py, process_archive.py, ocr_config.yaml, requirements.txt, scripts/)

@@ -375,3 +375,5 @@ key themes for the article:
 - Fix: Updated image links in `output/comprehensive/District-Consolidation-Data_100-116_comprehensive.md` to use repository-relative paths (`../ocr/tables/images/...`) instead of `raw.githubusercontent.com` which returned 404s on GitHub.
 - Rationale: Keep comprehensive markdown self-contained and renderable on GitHub; avoid `raw` endpoints that can fail and prefer paths resolvable within the repo.
 - Next: Audit remaining comprehensive files and generation scripts to standardize image URL patterns (use relative paths for repo images; `media.githubusercontent.com` for LFS-backed assets).
+
+- Fix: Closed unclosed triple-backtick code fences in comprehensive markdown files (`Amityville-Records_comprehensive.md`, `District-Consolidation-Data_100-116_comprehensive.md`) to ensure proper GitHub rendering.

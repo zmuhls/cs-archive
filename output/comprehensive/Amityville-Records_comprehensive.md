@@ -720,6 +720,7 @@ START
 [FROM TEST CHART]
 [1951 CHART NO. 2]
 
+```
 ---
 
 ## Page 2
@@ -950,6 +951,7 @@ Mr. Ruff reported that he had authorized the Fire and Drum Corps of the American
 [stamp: Applied Image Inc.]
 [illegible]
 
+```
 ---
 
 ## Page 9
@@ -1043,6 +1045,7 @@ CLERK
 [DATE FILMED 4-14-94]
 [APPLIED IMAGE, INC. 11501 East Main Street, Huntington, New York 11743]
 
+```
 ---
 
 ## Page 11
@@ -1829,6 +1832,7 @@ On motion made, duly seconded and carried, it was voted that the minutes of the 
 [illegible section at bottom left]
 [illegible section at bottom right]
 
+```
 ---
 
 ## Page 31
@@ -2436,6 +2440,7 @@ NIGHT FILMED BY GOOD SHEPHERD WORK SERVICES
 CAMERA OPERATOR: M. LITZ
 DATE FILMED: 4-19-61]
 
+```
 ---
 
 ## Page 45
@@ -2639,6 +2644,7 @@ new one.
 [stamp: Amityville Common School District]
 [illegible]
 
+```
 ---
 
 ## Page 49
@@ -3413,6 +3419,7 @@ The minutes of the previous meeting read and no objections noted were ordered ad
 [DATE FILMED: 4-4-94]
 [APPLIED IMAGE INC., 1111 Main Street, Suite 1400, St. Louis, MO 63101]
 
+```
 ---
 
 ## Page 66
@@ -3783,6 +3790,7 @@ Alex Smith 2.00
 [ILLEGIBLE] 1.0
 [ILLEGIBLE] 1
 
+```
 ---
 
 ## Page 72
@@ -3908,6 +3916,7 @@ Mrs. John Kierman of Amityville in a communication dated Sept. 21, 1931 requeste
 [stamp: Amityville Common School District]
 [illegible]
 
+```
 ---
 
 ## Page 76
@@ -4017,6 +4026,7 @@ The MacMillan Company                    282.09
 [stamp: Common School District Records]
 [illegible]
 
+```
 ---
 
 ## Page 79
@@ -4625,6 +4635,7 @@ The H. W. Wilson Co.                          4.50
 [stamp: Applied Image, Inc.]
 [illegible]
 
+```
 ---
 
 ## Page 93
@@ -4991,6 +5002,7 @@ The Amityville Chamber of Commerce in a communication dated November 28th asked 
 [APPLIED IMAGE, INC.]
 [103-23 LITTLETON ROAD, LITTLETON, NEW HAMPSHIRE 03051]
 
+```
 ---
 
 ## Page 99
@@ -5853,6 +5865,7 @@ to notify the insurance company accordingly.
 [illegible - 180 consecutive lines unreadable]
 [
 
+```
 ---
 
 ## Page 118
@@ -6251,6 +6264,7 @@ The following bills were read by the Clerk and ordered referred to the Finance C
 [stamp: Common School District No. 10]
 [illegible]
 
+```
 ---
 
 ## Page 127
@@ -7063,6 +7077,7 @@ MICROFILMED BY COMMERCIAL MICROFILMING
 1-11-94
 DUE FILMED 1-11-94]
 
+```
 ---
 
 ## Page 143
@@ -7863,6 +7878,7 @@ Ditto, Inc.                            6.17
 [APPLIED IMAGE, INC.]
 [APPLIED IMAGE, INC.
 
+```
 ---
 
 ## Page 152
@@ -8226,6 +8242,7 @@ It was moved, seconded and carried, that Miss Brown be engaged as dental hygieni
 [illegible - 176 consecutive lines unreadable]
 [
 
+```
 ---
 
 ## Page 160
@@ -8385,6 +8402,7 @@ Acting Clerk
 [illegible - 271 consecutive lines unreadable]
 [il
 
+```
 ---
 
 ## Page 164
@@ -10385,6 +10403,7 @@ The Clerk reported that following the adoption of the tax rate at the October 10
 
 [Note: The last sentence is cut off in the image and cannot be fully transcribed.]
 
+```
 ---
 
 ## Page 212
@@ -12396,6 +12415,7 @@ The Purchasing Committee reported that Montgomery & Company had been awarded an 
 [stamp: Applied Image, Inc.]
 [illegible]
 
+```
 ---
 
 ## Page 255
@@ -12726,6 +12746,7 @@ Clerk
 [Microcopy Resolution Test Chart ANSI and ISO Test Chart No. 7]
 [Applied Image, Inc. 1071 East Main Street, Rochester, New York 14604]
 
+```
 ---
 
 ## Page 263
@@ -12879,6 +12900,7 @@ N. Westermann Co., Inc.                      1.00
 [stamp: Applied Image, Inc.]
 [illegible]
 
+```
 ---
 
 ## Page 266
@@ -13328,6 +13350,7 @@ unanimously carried.
 [illegible section at bottom left]
 [illegible section at bottom right]
 
+```
 ---
 
 ## Page 277
@@ -15621,6 +15644,7 @@ to investigate
 [stamp: FILE COPY OF THE RECORDS OF ARMITVILLE
 DATE FILLED 1-4-94]
 
+```
 ---
 
 ## Page 322
@@ -16032,6 +16056,7 @@ RESOLVED, that the Principal of the Grammar School, under the immediate directio
 [IMAGE, INC.]
 [AMSO AND ISO TEST CHART No. 2]
 
+```
 ---
 
 ## Page 333
@@ -16373,6 +16398,7 @@ New York 19, N.Y.]
 [illegible] 1.25
 [illegible]
 
+```
 ---
 
 ## Page 339
@@ -16715,6 +16741,7 @@ Clerk
 [stamp: Common School District Records, 1800s-1900s]
 [illegible]
 
+```
 ---
 
 ## Page 349
@@ -18395,6 +18422,7 @@ MICROCOPY RESOLUTION TEST CHART
 INST. 2
 MICROCC
 
+```
 ---
 
 ## Page 372
@@ -18592,6 +18620,7 @@ There being no further business, the meeting thorenupon adjourned.
 
 [Note: The document appears to be a copy of meeting minutes from the Antiville High School district, likely from the late 19th or early 20th century. The archaic spelling ("thorenupon" for "thereupon") and formatting are preserved as requested. The signature at the bottom is illegible, so it's marked as [illegible].]
 
+```
 ---
 
 ## Page 376
@@ -19025,6 +19054,7 @@ School Graduation Exercises.
 [HIGHLY FILMED BY GOOD SHEPHERD NEWS SERVICE]  
 [APPLIED IMAGE, INC.]
 
+```
 ---
 
 ## Page 385
@@ -19326,6 +19356,7 @@ ONOMA OPERATOR: Mailing Room]
 10331 Main Street
 Pittsburgh, New York 15235]
 
+```
 ---
 
 ## Page 392
@@ -19677,6 +19708,7 @@ WHEREAS, the Board of Assessors of the Town of Babylon have certified that the v
 
 [Note: The last sentence is cut off in the image and cannot be fully transcribed.]
 
+```
 ---
 
 ## Page 399
@@ -19773,6 +19805,7 @@ There being no further business - the meeting therupon adjourned.
 [signature: Clerk]
 [illegible]
 
+```
 ---
 
 ## Page 402
@@ -20842,6 +20875,7 @@ MICROFILMED BY GOLD SHEPHERD MICROFILM
 CAMERA GEARMAN OF VICTORIA, B.C.
 DATE FILMED 4-11-94]
 
+```
 ---
 
 ## Page 434
@@ -21444,6 +21478,7 @@ Alice Wall 2000.00 "
 [Microcop Resolution Test Chart No. 2]
 [Applied Image, Inc. 1000 E. New York Ave., Paterson, N.J. 07501]
 
+```
 ---
 
 ## Page 447
@@ -21709,6 +21744,7 @@ Clerk
 [stamp: FILE COPY OF THE RECORDS OF APT. VILLAGE
 DATE FILMED 4-14-04]
 
+```
 ---
 
 ## Page 454
@@ -22080,6 +22116,7 @@ HIGH SCHOOL OPERATED BY GOOD HARBOR UNION
 CREAMERY, INC. AT ANNIVILLE, N.Y.
 DATE FILLED 4-11-94]
 
+```
 ---
 
 ## Page 465
@@ -22580,6 +22617,7 @@ F. M. Ambrose Company                                               31.84
 [stamp: Rochester Common School District]
 [illegible]
 
+```
 ---
 
 ## Page 478
@@ -22699,6 +22737,7 @@ There being no further business, the meeting thereupon adjourned.
 DATE FILLED 1-4-94
 OCEAN COUNTY, NEW JERSEY]
 
+```
 ---
 
 ## Page 481
@@ -22788,6 +22827,7 @@ Motion made, duly seconded and carried, that the Finance Committee, in conjuncti
 [DATE FILLED: 4-14-07]
 [APPLIED IMAGE, INC. MICROFILMED BY GOOD SHEPHERD WORK SERVICES]
 
+```
 ---
 
 ## Page 483
@@ -23556,6 +23596,7 @@ Secretary.
 [illegible - 192 consecutive lines unreadable]
 [illeg
 
+```
 ---
 
 ## Page 492
@@ -23712,6 +23753,7 @@ MICROFILMED BY GOOD SHEPHERD WORK SERVICES
 COVER OPERATOR - P. MOLLOY
 DATE FILMED - 4-11-94]
 
+```
 ---
 
 ## Page 496
@@ -24627,6 +24669,7 @@ Secretary
 [stamp: Meeting Adjourned]
 [illegible]
 
+```
 ---
 
 ## Page 518
@@ -25880,6 +25923,7 @@ Motion made, duly seconded and carried, that the Transportation Committee advert
 
 [Note: The document appears to be a transcription of a meeting minute from the New York State Common School system, likely from the early 20th century based on the date mentioned (1939). The original document seems to have been microfilmed, as indicated by the "MICROFILMED BY GOOD SHEPHERD WORK SERVICES" stamp on the left side. The text is presented in a formal, typewritten style typical of official records from that era.]
 
+```
 ---
 
 ## Page 542
@@ -26440,6 +26484,7 @@ The Clerk read letter of Mr. E. T. Bregaw to Mr. Clinton Ingles, informing the B
 
 [Note: The document contains standard formatting typical of official meeting minutes from the early 20th century, including formal language and specific roles within the Board of Education. The transcription preserves all original capitalization, punctuation, and archaic spellings as instructed.]
 
+```
 ---
 
 ## Page 555
@@ -28629,6 +28674,7 @@ MICROFILMED BY GOOD SHEPHERD WORK SERVICES
 CAMERA OPERATOR: YOUNG
 DATE FILMED: 4-14-04]
 
+```
 ---
 
 ## Page 609
@@ -29938,6 +29984,7 @@ Clerk.
 [stamp: Common School District Records, April 1844]
 [illegible]
 
+```
 ---
 
 ## Page 641
@@ -30277,6 +30324,7 @@ Notes:
 - The [stamp] indicates an official seal or mark from the school district.
 - The [illegible] section likely contains additional information that could not be transcribed from the image.
 
+```
 ---
 
 ## Page 648
@@ -30386,6 +30434,7 @@ Truant Officer                     300.00
 
 [Note: The document appears to be a financial record or meeting minutes from the Amityville school district, detailing contracts awarded for various school improvements and the adoption of a budget for the 1930-31 school year. The text is presented in a typewritten format typical of official records from the early 20th century.]
 
+```
 ---
 
 ## Page 650
@@ -30683,6 +30732,7 @@ MICROFILMED BY GOOD SHEPHERD WORK SERVICES
 ON A MICROFILM CAMERA OPERATED BY NOLAN HANSON
 DATE FILMED 4-11-04]
 
+```
 ---
 
 ## Page 658
@@ -30754,6 +30804,7 @@ The Clerk read the budget of expenses for the school year 1930-31, as adopted by
 [DATE FILMED: 4-14-94]
 [APPLIED IMAGE, INC. 19th & Main Streets Roslyn, New York 11576]
 
+```
 ---
 
 ## Page 660
@@ -30858,6 +30909,7 @@ INTERPRETED BY GOOD SHEPHERD UNIT SERVICES
 CREAM CITY, WISCONSIN
 DATE FILLED 4-4-94]
 
+```
 ---
 
 ## Page 663
