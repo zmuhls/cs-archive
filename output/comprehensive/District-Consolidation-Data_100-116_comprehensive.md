@@ -136,7 +136,7 @@ Statistical tables documenting school district consolidation across New York Sta
 ---
 
 ## Page 1
-![Page 1](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_1.jpg)
+![Page 1](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_1.jpg)
 
 ### Transcription
 
@@ -172,7 +172,7 @@ Let me know if you need this transcribed into a specific table format or another
 ---
 
 ## Page 2
-![Page 2](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_2.jpg)
+![Page 2](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_2.jpg)
 
 ### Transcription
 
@@ -200,7 +200,7 @@ Tarrytown - D. Tarrytown
 ---
 
 ## Page 3
-![Page 3](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_3.jpg)
+![Page 3](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_3.jpg)
 
 ### Transcription
 
@@ -250,7 +250,7 @@ Consolidated Districts
 ---
 
 ## Page 4
-![Page 4](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_4.jpg)
+![Page 4](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_4.jpg)
 
 ### Transcription
 
@@ -349,7 +349,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 5
-![Page 5](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_5.jpg)
+![Page 5](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_5.jpg)
 
 ### Transcription
 
@@ -452,7 +452,7 @@ County
 ---
 
 ## Page 6
-![Page 6](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_6.jpg)
+![Page 6](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_6.jpg)
 
 ### Transcription
 
@@ -478,7 +478,7 @@ No. of Unit
 ---
 
 ## Page 7
-![Page 7](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_7.jpg)
+![Page 7](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_7.jpg)
 
 ### Transcription
 
@@ -502,7 +502,7 @@ Town School Units
 ---
 
 ## Page 8
-![Page 8](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_8.jpg)
+![Page 8](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_8.jpg)
 
 ### Transcription
 
@@ -550,7 +550,7 @@ This transcription maintains the structure and alignment of the original documen
 ---
 
 ## Page 9
-![Page 9](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_9.jpg)
+![Page 9](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_9.jpg)
 
 ### Transcription
 
@@ -605,7 +605,7 @@ This transcription maintains the structure and content of the original document 
 ---
 
 ## Page 10
-![Page 10](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_10.jpg)
+![Page 10](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_10.jpg)
 
 ### Transcription
 
@@ -625,7 +625,7 @@ This transcription maintains the structure and content of the original document 
 ---
 
 ## Page 11
-![Page 11](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_11.jpg)
+![Page 11](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_11.jpg)
 
 ### Transcription
 
@@ -654,7 +654,7 @@ Union Free Schools
 ---
 
 ## Page 12
-![Page 12](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_12.jpg)
+![Page 12](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_12.jpg)
 
 ### Transcription
 
@@ -670,7 +670,7 @@ Town School Units
 ---
 
 ## Page 13
-![Page 13](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_13.jpg)
+![Page 13](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_13.jpg)
 
 ### Transcription
 
@@ -718,7 +718,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 14
-![Page 14](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_14.jpg)
+![Page 14](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_14.jpg)
 
 ### Transcription
 
@@ -805,7 +805,7 @@ Below is the transcription of the tabular data from the provided document, maint
 ---
 
 ## Page 15
-![Page 15](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_15.jpg)
+![Page 15](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_15.jpg)
 
 ### Transcription
 
@@ -833,7 +833,7 @@ Union Free Schools
 ---
 
 ## Page 16
-![Page 16](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_16.jpg)
+![Page 16](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_16.jpg)
 
 ### Transcription
 
@@ -864,7 +864,7 @@ Town School Units
 ---
 
 ## Page 17
-![Page 17](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_17.jpg)
+![Page 17](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_17.jpg)
 
 ### Transcription
 
@@ -943,7 +943,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 18
-![Page 18](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_18.jpg)
+![Page 18](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_18.jpg)
 
 ### Transcription
 
@@ -1004,7 +1004,7 @@ Consolidated and Central Districts
 ---
 
 ## Page 19
-![Page 19](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_19.jpg)
+![Page 19](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_19.jpg)
 
 ### Transcription
 
@@ -1091,7 +1091,7 @@ Page 41
 ---
 
 ## Page 20
-![Page 20](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_20.jpg)
+![Page 20](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_20.jpg)
 
 ### Transcription
 
@@ -1117,7 +1117,7 @@ Union Free Schools
 ---
 
 ## Page 21
-![Page 21](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_21.jpg)
+![Page 21](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_21.jpg)
 
 ### Transcription
 
@@ -1234,7 +1234,7 @@ Below is the transcription of the tabular data from the provided document, maint
 ---
 
 ## Page 22
-![Page 22](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_22.jpg)
+![Page 22](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_22.jpg)
 
 ### Transcription
 
@@ -1415,7 +1415,7 @@ W.S. Schist
 ---
 
 ## Page 23
-![Page 23](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_23.jpg)
+![Page 23](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_23.jpg)
 
 ### Transcription
 
@@ -1429,7 +1429,7 @@ Union Free Schools
 ---
 
 ## Page 24
-![Page 24](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_24.jpg)
+![Page 24](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_24.jpg)
 
 ### Transcription
 
@@ -1448,7 +1448,7 @@ Town School Units
 ---
 
 ## Page 25
-![Page 25](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_25.jpg)
+![Page 25](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_25.jpg)
 
 ### Transcription
 
@@ -1498,7 +1498,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 26
-![Page 26](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_26.jpg)
+![Page 26](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_26.jpg)
 
 ### Transcription
 
@@ -1566,7 +1566,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 27
-![Page 27](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_27.jpg)
+![Page 27](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_27.jpg)
 
 ### Transcription
 
@@ -1643,7 +1643,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 28
-![Page 28](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_28.jpg)
+![Page 28](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_28.jpg)
 
 ### Transcription
 
@@ -1680,7 +1680,7 @@ Chenango County
 ---
 
 ## Page 29
-![Page 29](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_29.jpg)
+![Page 29](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_29.jpg)
 
 ### Transcription
 
@@ -1709,7 +1709,7 @@ Union Free Schools
 ---
 
 ## Page 30
-![Page 30](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_30.jpg)
+![Page 30](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_30.jpg)
 
 ### Transcription
 
@@ -1737,7 +1737,7 @@ Town School Units
 ---
 
 ## Page 31
-![Page 31](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_31.jpg)
+![Page 31](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_31.jpg)
 
 ### Transcription
 
@@ -1875,7 +1875,7 @@ Central Rural Schools
 ---
 
 ## Page 32
-![Page 32](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_32.jpg)
+![Page 32](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_32.jpg)
 
 ### Transcription
 
@@ -1955,7 +1955,7 @@ Consolidated Districts
 ---
 
 ## Page 33
-![Page 33](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_33.jpg)
+![Page 33](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_33.jpg)
 
 ### Transcription
 
@@ -1995,7 +1995,7 @@ Consolidated and Central Districts
 ---
 
 ## Page 34
-![Page 34](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_34.jpg)
+![Page 34](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_34.jpg)
 
 ### Transcription
 
@@ -2017,7 +2017,7 @@ Union Free Schools
 ---
 
 ## Page 35
-![Page 35](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_35.jpg)
+![Page 35](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_35.jpg)
 
 ### Transcription
 
@@ -2045,7 +2045,7 @@ Town School Units
 ---
 
 ## Page 36
-![Page 36](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_36.jpg)
+![Page 36](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_36.jpg)
 
 ### Transcription
 
@@ -2121,7 +2121,7 @@ Below is the transcription of the document, preserving the table structure and f
 ---
 
 ## Page 37
-![Page 37](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_37.jpg)
+![Page 37](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_37.jpg)
 
 ### Transcription
 
@@ -2137,7 +2137,7 @@ Union Free Schools
 ---
 
 ## Page 38
-![Page 38](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_38.jpg)
+![Page 38](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_38.jpg)
 
 ### Transcription
 
@@ -2211,7 +2211,7 @@ Below is the transcription of the document, preserving the table structure and f
 ---
 
 ## Page 39
-![Page 39](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_39.jpg)
+![Page 39](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_39.jpg)
 
 ### Transcription
 
@@ -2276,7 +2276,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 40
-![Page 40](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_40.jpg)
+![Page 40](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_40.jpg)
 
 ### Transcription
 
@@ -2296,7 +2296,7 @@ Union Free Schools
 ---
 
 ## Page 41
-![Page 41](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_41.jpg)
+![Page 41](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_41.jpg)
 
 ### Transcription
 
@@ -2326,7 +2326,7 @@ Town School Units
 ---
 
 ## Page 42
-![Page 42](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_42.jpg)
+![Page 42](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_42.jpg)
 
 ### Transcription
 
@@ -2375,7 +2375,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 43
-![Page 43](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_43.jpg)
+![Page 43](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_43.jpg)
 
 ### Transcription
 
@@ -2426,7 +2426,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 44
-![Page 44](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_44.jpg)
+![Page 44](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_44.jpg)
 
 ### Transcription
 
@@ -2460,7 +2460,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 45
-![Page 45](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_45.jpg)
+![Page 45](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_45.jpg)
 
 ### Transcription
 
@@ -2480,7 +2480,7 @@ Delaware County
 ---
 
 ## Page 46
-![Page 46](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_46.jpg)
+![Page 46](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_46.jpg)
 
 ### Transcription
 
@@ -2504,7 +2504,7 @@ Union Free Schools
 ---
 
 ## Page 47
-![Page 47](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_47.jpg)
+![Page 47](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_47.jpg)
 
 ### Transcription
 
@@ -2524,7 +2524,7 @@ Town School Units
 ---
 
 ## Page 48
-![Page 48](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_48.jpg)
+![Page 48](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_48.jpg)
 
 ### Transcription
 
@@ -2574,7 +2574,7 @@ This transcription accurately reflects the content and layout of the original do
 ---
 
 ## Page 49
-![Page 49](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_49.jpg)
+![Page 49](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_49.jpg)
 
 ### Transcription
 
@@ -2608,7 +2608,7 @@ Dutchess County
 ---
 
 ## Page 50
-![Page 50](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_50.jpg)
+![Page 50](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_50.jpg)
 
 ### Transcription
 
@@ -2650,7 +2650,7 @@ Union Free Schools
 ---
 
 ## Page 51
-![Page 51](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_51.jpg)
+![Page 51](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_51.jpg)
 
 ### Transcription
 
@@ -2735,7 +2735,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 52
-![Page 52](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_52.jpg)
+![Page 52](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_52.jpg)
 
 ### Transcription
 
@@ -2770,7 +2770,7 @@ Erie County
 ---
 
 ## Page 53
-![Page 53](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_53.jpg)
+![Page 53](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_53.jpg)
 
 ### Transcription
 
@@ -2798,7 +2798,7 @@ Erie County
 ---
 
 ## Page 54
-![Page 54](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_54.jpg)
+![Page 54](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_54.jpg)
 
 ### Transcription
 
@@ -2816,7 +2816,7 @@ Union Free Schools
 ---
 
 ## Page 55
-![Page 55](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_55.jpg)
+![Page 55](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_55.jpg)
 
 ### Transcription
 
@@ -2834,7 +2834,7 @@ Union Free Schools
 ---
 
 ## Page 56
-![Page 56](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_56.jpg)
+![Page 56](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_56.jpg)
 
 ### Transcription
 
@@ -2900,7 +2900,7 @@ Consolidated Districts
 ---
 
 ## Page 57
-![Page 57](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_57.jpg)
+![Page 57](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_57.jpg)
 
 ### Transcription
 
@@ -2937,7 +2937,7 @@ County
 ---
 
 ## Page 58
-![Page 58](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_58.jpg)
+![Page 58](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_58.jpg)
 
 ### Transcription
 
@@ -2956,7 +2956,7 @@ County
 ---
 
 ## Page 59
-![Page 59](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_59.jpg)
+![Page 59](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_59.jpg)
 
 ### Transcription
 
@@ -2975,7 +2975,7 @@ Town School Units
 ---
 
 ## Page 60
-![Page 60](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_60.jpg)
+![Page 60](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_60.jpg)
 
 ### Transcription
 
@@ -3071,7 +3071,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 61
-![Page 61](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_61.jpg)
+![Page 61](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_61.jpg)
 
 ### Transcription
 
@@ -3120,7 +3120,7 @@ Below is the transcription of the tabular data from the provided document, maint
 ---
 
 ## Page 62
-![Page 62](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_62.jpg)
+![Page 62](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_62.jpg)
 
 ### Transcription
 
@@ -3132,7 +3132,7 @@ Below is the transcription of the tabular data from the provided document, maint
 ---
 
 ## Page 63
-![Page 63](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_63.jpg)
+![Page 63](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_63.jpg)
 
 ### Transcription
 
@@ -3144,7 +3144,7 @@ Below is the transcription of the tabular data from the provided document, maint
 ---
 
 ## Page 64
-![Page 64](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_64.jpg)
+![Page 64](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_64.jpg)
 
 ### Transcription
 
@@ -3217,7 +3217,7 @@ This transcription ensures that the structure and content of the original docume
 ---
 
 ## Page 65
-![Page 65](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_65.jpg)
+![Page 65](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_65.jpg)
 
 ### Transcription
 
@@ -3248,7 +3248,7 @@ Union Free Schools
 ---
 
 ## Page 66
-![Page 66](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_66.jpg)
+![Page 66](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_66.jpg)
 
 ### Transcription
 
@@ -3265,7 +3265,7 @@ Town School Units
 ---
 
 ## Page 67
-![Page 67](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_67.jpg)
+![Page 67](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_67.jpg)
 
 ### Transcription
 
@@ -3315,7 +3315,7 @@ Examples of handwritten notes:
 ---
 
 ## Page 68
-![Page 68](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_68.jpg)
+![Page 68](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_68.jpg)
 
 ### Transcription
 
@@ -3342,7 +3342,7 @@ Page 131
 ---
 
 ## Page 69
-![Page 69](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_69.jpg)
+![Page 69](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_69.jpg)
 
 ### Transcription
 
@@ -3366,7 +3366,7 @@ Union Free Schools
 ---
 
 ## Page 70
-![Page 70](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_70.jpg)
+![Page 70](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_70.jpg)
 
 ### Transcription
 
@@ -3405,7 +3405,7 @@ Consolidated Districts
 ---
 
 ## Page 71
-![Page 71](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_71.jpg)
+![Page 71](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_71.jpg)
 
 ### Transcription
 
@@ -3441,7 +3441,7 @@ Union Free Schools
 ---
 
 ## Page 72
-![Page 72](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_72.jpg)
+![Page 72](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_72.jpg)
 
 ### Transcription
 
@@ -3468,7 +3468,7 @@ Town School Units
 ---
 
 ## Page 73
-![Page 73](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_73.jpg)
+![Page 73](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_73.jpg)
 
 ### Transcription
 
@@ -3545,7 +3545,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 74
-![Page 74](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_74.jpg)
+![Page 74](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_74.jpg)
 
 ### Transcription
 
@@ -3601,7 +3601,7 @@ This transcription preserves the table structure, column alignment, and handwrit
 ---
 
 ## Page 75
-![Page 75](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_75.jpg)
+![Page 75](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_75.jpg)
 
 ### Transcription
 
@@ -3614,7 +3614,7 @@ This transcription preserves the table structure, column alignment, and handwrit
 ---
 
 ## Page 76
-![Page 76](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_76.jpg)
+![Page 76](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_76.jpg)
 
 ### Transcription
 
@@ -3635,7 +3635,7 @@ Union Free Schools
 ---
 
 ## Page 77
-![Page 77](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_77.jpg)
+![Page 77](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_77.jpg)
 
 ### Transcription
 
@@ -3667,7 +3667,7 @@ Town School Units
 ---
 
 ## Page 78
-![Page 78](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_78.jpg)
+![Page 78](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_78.jpg)
 
 ### Transcription
 
@@ -3725,7 +3725,7 @@ This transcription maintains the original structure and formatting of the docume
 ---
 
 ## Page 79
-![Page 79](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_79.jpg)
+![Page 79](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_79.jpg)
 
 ### Transcription
 
@@ -3797,7 +3797,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 80
-![Page 80](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_80.jpg)
+![Page 80](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_80.jpg)
 
 ### Transcription
 
@@ -3936,7 +3936,7 @@ Jefferson County
 ---
 
 ## Page 81
-![Page 81](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_81.jpg)
+![Page 81](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_81.jpg)
 
 ### Transcription
 
@@ -3970,7 +3970,7 @@ Union Free Schools
 ---
 
 ## Page 82
-![Page 82](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_82.jpg)
+![Page 82](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_82.jpg)
 
 ### Transcription
 
@@ -3987,7 +3987,7 @@ Town School Units
 ---
 
 ## Page 83
-![Page 83](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_83.jpg)
+![Page 83](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_83.jpg)
 
 ### Transcription
 
@@ -4053,7 +4053,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 84
-![Page 84](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_84.jpg)
+![Page 84](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_84.jpg)
 
 ### Transcription
 
@@ -4101,7 +4101,7 @@ Consolidated and Central Districts
 ---
 
 ## Page 85
-![Page 85](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_85.jpg)
+![Page 85](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_85.jpg)
 
 ### Transcription
 
@@ -4132,7 +4132,7 @@ Union Free Schools
 ---
 
 ## Page 86
-![Page 86](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_86.jpg)
+![Page 86](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_86.jpg)
 
 ### Transcription
 
@@ -4152,7 +4152,7 @@ Town School Units
 ---
 
 ## Page 87
-![Page 87](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_87.jpg)
+![Page 87](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_87.jpg)
 
 ### Transcription
 
@@ -4181,7 +4181,7 @@ Below is the transcription of the tabular data from the provided document, maint
 ---
 
 ## Page 88
-![Page 88](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_88.jpg)
+![Page 88](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_88.jpg)
 
 ### Transcription
 
@@ -4250,7 +4250,7 @@ County 165
 ---
 
 ## Page 89
-![Page 89](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_89.jpg)
+![Page 89](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_89.jpg)
 
 ### Transcription
 
@@ -4278,7 +4278,7 @@ Union Free Schools
 ---
 
 ## Page 90
-![Page 90](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_90.jpg)
+![Page 90](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_90.jpg)
 
 ### Transcription
 
@@ -4299,7 +4299,7 @@ Town School Units
 ---
 
 ## Page 91
-![Page 91](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_91.jpg)
+![Page 91](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_91.jpg)
 
 ### Transcription
 
@@ -4348,7 +4348,7 @@ Below is the transcription of the tabular data from the provided document, maint
 ---
 
 ## Page 92
-![Page 92](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_92.jpg)
+![Page 92](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_92.jpg)
 
 ### Transcription
 
@@ -4399,7 +4399,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 93
-![Page 93](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_93.jpg)
+![Page 93](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_93.jpg)
 
 ### Transcription
 
@@ -4457,7 +4457,7 @@ Page 173
 ---
 
 ## Page 94
-![Page 94](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_94.jpg)
+![Page 94](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_94.jpg)
 
 ### Transcription
 
@@ -4481,7 +4481,7 @@ Madison County
 ---
 
 ## Page 95
-![Page 95](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_95.jpg)
+![Page 95](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_95.jpg)
 
 ### Transcription
 
@@ -4522,7 +4522,7 @@ Union Free Schools
 ---
 
 ## Page 96
-![Page 96](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_96.jpg)
+![Page 96](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_96.jpg)
 
 ### Transcription
 
@@ -4619,7 +4619,7 @@ Below is the transcription of the structured document, preserving the table/form
 ---
 
 ## Page 97
-![Page 97](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_97.jpg)
+![Page 97](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_97.jpg)
 
 ### Transcription
 
@@ -4640,7 +4640,7 @@ Monroe County
 ---
 
 ## Page 98
-![Page 98](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_98.jpg)
+![Page 98](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_98.jpg)
 
 ### Transcription
 
@@ -4668,7 +4668,7 @@ Union Free Schools
 ---
 
 ## Page 99
-![Page 99](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_99.jpg)
+![Page 99](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_99.jpg)
 
 ### Transcription
 
@@ -4697,7 +4697,7 @@ Union Free Schools
 ---
 
 ## Page 100
-![Page 100](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_100.jpg)
+![Page 100](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_100.jpg)
 
 ### Transcription
 
@@ -4734,7 +4734,7 @@ Consolidated Districts
 ---
 
 ## Page 101
-![Page 101](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_101.jpg)
+![Page 101](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_101.jpg)
 
 ### Transcription
 
@@ -4777,7 +4777,7 @@ Consolidated Districts
 ---
 
 ## Page 102
-![Page 102](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_102.jpg)
+![Page 102](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_102.jpg)
 
 ### Transcription
 
@@ -4839,7 +4839,7 @@ Union Free Schools
 ---
 
 ## Page 103
-![Page 103](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_103.jpg)
+![Page 103](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_103.jpg)
 
 ### Transcription
 
@@ -4900,7 +4900,7 @@ Union Free Schools
 ---
 
 ## Page 104
-![Page 104](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_104.jpg)
+![Page 104](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_104.jpg)
 
 ### Transcription
 
@@ -4942,7 +4942,7 @@ Consolidated Districts
 ---
 
 ## Page 105
-![Page 105](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_105.jpg)
+![Page 105](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_105.jpg)
 
 ### Transcription
 
@@ -4973,7 +4973,7 @@ Union Free Schools
 ---
 
 ## Page 106
-![Page 106](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_106.jpg)
+![Page 106](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_106.jpg)
 
 ### Transcription
 
@@ -5021,7 +5021,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 107
-![Page 107](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_107.jpg)
+![Page 107](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_107.jpg)
 
 ### Transcription
 
@@ -5050,7 +5050,7 @@ Union Free Schools
 ---
 
 ## Page 108
-![Page 108](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_108.jpg)
+![Page 108](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_108.jpg)
 
 ### Transcription
 
@@ -5076,7 +5076,7 @@ Town School Units
 ---
 
 ## Page 109
-![Page 109](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_109.jpg)
+![Page 109](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_109.jpg)
 
 ### Transcription
 
@@ -5123,7 +5123,7 @@ Below is the transcription of the tabular data from the provided document, maint
 ---
 
 ## Page 110
-![Page 110](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_110.jpg)
+![Page 110](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_110.jpg)
 
 ### Transcription
 
@@ -5221,7 +5221,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 111
-![Page 111](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_111.jpg)
+![Page 111](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_111.jpg)
 
 ### Transcription
 
@@ -5360,7 +5360,7 @@ Below is the transcription of the tabular data from the document, preserving the
 ---
 
 ## Page 112
-![Page 112](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_112.jpg)
+![Page 112](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_112.jpg)
 
 ### Transcription
 
@@ -5399,7 +5399,7 @@ Union Free Schools
 ---
 
 ## Page 113
-![Page 113](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_113.jpg)
+![Page 113](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_113.jpg)
 
 ### Transcription
 
@@ -5424,7 +5424,7 @@ Town School Units
 ---
 
 ## Page 114
-![Page 114](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_114.jpg)
+![Page 114](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_114.jpg)
 
 ### Transcription
 
@@ -5496,7 +5496,7 @@ Consolidated Districts
 ---
 
 ## Page 115
-![Page 115](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_115.jpg)
+![Page 115](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_115.jpg)
 
 ### Transcription
 
@@ -5569,7 +5569,7 @@ Candidate Districts
 ---
 
 ## Page 116
-![Page 116](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_116.jpg)
+![Page 116](https://raw.githubusercontent.com/zmuhls/cs-archive/main/output/ocr/tables/images/District-Consolidation-Data_100-116_page_116.jpg)
 
 ### Transcription
 

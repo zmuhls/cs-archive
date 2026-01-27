@@ -52,10 +52,10 @@ def extract_page_number(filename: str) -> int:
     return 0
 
 def get_image_path(collection_key: str, page_num: int) -> str | None:
-    """Get GitHub-media URL for a page image.
+    """Get a GitHub URL for a page image.
 
-    Uses https://media.githubusercontent.com to ensure images render in GitHub
-    for both regular and LFS-backed files.
+    - Non-LFS assets (e.g., output/ocr/tables/images) → raw.githubusercontent.com
+    - LFS-backed assets (e.g., tinker-cookbook images) → media.githubusercontent.com
     """
     config = COLLECTIONS.get(collection_key)
     if not config or not config["image_folder"]:
@@ -69,8 +69,9 @@ def get_image_path(collection_key: str, page_num: int) -> str | None:
         img_name = f"{collection_key}_page_{page_num}.jpg"
         local_path = PROJECT_ROOT / folder / img_name
         if local_path.exists():
+            # Non-LFS: use raw for direct binary
             return (
-                f"https://media.githubusercontent.com/media/zmuhls/cs-archive/main/"
+                f"https://raw.githubusercontent.com/zmuhls/cs-archive/main/"
                 f"{folder}/{img_name}"
             )
     else:
@@ -79,6 +80,7 @@ def get_image_path(collection_key: str, page_num: int) -> str | None:
             img_name = f"page_{page_num}{ext}"
             local_path = PROJECT_ROOT / folder / img_name
             if local_path.exists():
+                # NYS images are LFS-backed → use media
                 return (
                     f"https://media.githubusercontent.com/media/zmuhls/cs-archive/main/"
                     f"{folder}/{img_name}"
