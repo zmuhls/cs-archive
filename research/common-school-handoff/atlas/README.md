@@ -1,0 +1,32 @@
+# Common School Archive atlas
+
+An offline-first Leaflet atlas for studying New York State's common schools, district organization, and the administrative record. **Open `index.html` in a browser after extracting this folder.** A static HTTP server is optional: `python3 -m http.server 8000` from this folder, then open http://localhost:8000. There is no account, database, tile server, CDN call, or runtime network requirement. Source links require internet access when opened.
+
+## What the atlas shows
+
+- The county layer uses generalized **2024** Census reference boundaries. Historical periods are evidence filters, not a claim that these polygons were historical school districts or historical county boundaries. Date filtering is against event-year bounds, never against the ledger's overall catalog span; unknown dates have their own view.
+- Coverage consists of **116 PDF positions, 2 front-matter pages, 6 apparent retake pairs, 29 filed county sections** in the available Broome–Onondaga extract. The last visible original folio is 215. The **96 grouped ledger sections** group adjacent scan positions under a reviewed or provisional heading. They are not 96 distinct school actions, and the extract is not the whole bound register.
+- The 19 selected scan examples have individual date-stage labels and uncertainty notes; they aren't a complete event census. Source citations distinguish scanned page position and printed folio where observed. County of filing is not county of each predecessor district, and a county association is not a meeting-site location.
+- Three schoolhouse-area junction proxies (S), for Kinderhook District 6, Davenport District 14, and former Gregorytown District 4, are approximate. No marker is a building footprint, meeting venue or proof that a school operated on a particular date. See each disclosure for sources and uncertainty.
+- The 1910 annual-report chain is indexed separately from the Capitol fire and does not establish the origin or survival of particular records.
+- Additional collections include South Kortright District records (Delaware), Amityville Board records (Suffolk), and statewide NYSTA and supplementary B0594 collections. The atlas links to the historical material rather than republishing archival scans. Collection-level anchors don't imply item-level geocoding.
+- The 1911 Capitol fire is an archival break: B0554 describes the documented effort to reconstruct district-formation material from local records and refers to B0494. The map does not assert the fire caused centralization.
+
+The [Clarkson 1887 district pilot](../monroe-1887-pilot/) is a separate source-limited demonstration. Neither app includes the separately licensed Newberry county snapshots.
+
+## Rebuild and test
+
+1. Edit curated `data/context.json` and source CSVs, retaining an event label, record-period label (or explicit unknown), county of filing/place semantics, source URL, locator, and review note.
+2. `python3 tools/build_data.py` validates and regenerates `data/bundle.js`; `node --check atlas.js` checks application syntax. Bundling as local JS rather than a fetch means the atlas starts directly from `file://`, including offline.
+3. To reproduce the county GeoJSON, download the official archive below, install `pyshp==2.3.1` in a Python virtual environment, and run `python3 tools/build_counties.py /path/to/cb_2024_us_county_20m.zip`. The generator retains only FIPS state 36, without inferring historical geometry. Run step 2 again.
+4. Run `python3 tests/browser.py` with Playwright Python and a Chromium engine. Set `CHROMIUM_BIN` to override its default engine and `ATLAS_SCREENSHOTS` to a directory for screenshots. Current packaged build passed the local-file, zero-external-request, desktop/mobile, county/period/type search behavior, diagnostics fallback, and provenance checks in Chromium. See `TESTING.md` for exact assertions and limits.
+
+## Sources and durability
+
+- [Common School Archive source repository](https://github.com/zmuhls/cs-archive) and [collection index](https://zmuhls.github.io/cs-archive/collections/); [B0494 source scan](https://media.githubusercontent.com/media/zmuhls/cs-archive/main/raw/scans/NYS%20Archives/B0494/District-Consolidation-Data_100-116.pdf). Files in `data/` describe the checked extract.
+- [B0554 finding aid](https://findingaids.nysed.gov/do/12e4a6bf-5743-5329-ac8c-80978a0cb3ab), [NYS State Library Fire Collection](https://nysl.nysed.gov/msscfa/sc10867), [state aid certification finding aid](https://findingaids.nysed.gov/do/cc78947a-6aa9-513a-a6cc-1a4e06b5283e), [NYSED reorganization history](https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume1.pdf).
+- Geometry: [Census cartographic boundaries](https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html); [2024 national 1:20m source archive](https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_county_20m.zip), SHA-256 `c9a54fd95422436b8822e0b070a45a9bc3de08eb13f943cdba66e7a9c2a135ff`. Derived local geometry is for reference, not survey accuracy.
+- Implementation reference: [Hauntologies of New York](https://hauntologies-nyc.ailab-452.workers.dev/). Its separate list, meaningful empty states, source details, historical vs imagery date distinction, and map failure controls informed this atlas. Contribution and admin workflows were deliberately not brought over.
+- Library: Leaflet 1.9.4, [version-matched API](https://leafletjs.com/reference-1.9.4.html) and [upstream package](https://registry.npmjs.org/leaflet/-/leaflet-1.9.4.tgz), SHA-256 `84c65a256e50657896f54c33bd857b6849ebe94c817803be818bf32a3dde0b77`. Its BSD 2-Clause license is in `vendor/leaflet/LICENSE`.
+
+This package is MIT-licensed **for original atlas code**, with separate rights and credits for third-party code and source materials. A link to an archive does not assert permission to republish a scan. CSV references and record summaries are not a blanket license for linked material.

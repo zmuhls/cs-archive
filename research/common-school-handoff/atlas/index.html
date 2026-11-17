@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Common School Archive | New York State atlas</title>
+<link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="atlas.css">
+<script defer src="vendor/leaflet/leaflet.js"></script>
+<script defer src="data/bundle.js"></script>
+<script defer src="atlas.js"></script>
+</head>
+<body>
+<a class="skip" href="#records">Skip to source records</a>
+<header class="masthead"><div><h1>Common School Archive</h1><p>A historical atlas of New York’s school districts</p></div><span class="state-name">New York State</span></header>
+<nav aria-label="Historical evidence periods" class="periods" id="periods">
+<button aria-pressed="true" data-key="all">All periods</button>
+<button aria-pressed="false" data-key="common">Early common schools <span>1812–1852</span></button>
+<button aria-pressed="false" data-key="union">Union free schools <span>1853–1910</span></button>
+<button aria-pressed="false" data-key="fire">Fire &amp; reconstruction <span>1911–1924</span></button>
+<button aria-pressed="false" data-key="aid">Centralization expands <span>1925–1946</span></button>
+<button aria-pressed="false" data-key="plan">Statewide planning <span>1947–1954</span></button>
+<button aria-pressed="false" data-key="unknown">Undated <span>Browse sections</span></button>
+</nav>
+<main class="atlas" id="atlas">
+<section class="map-panel" aria-labelledby="map-caption">
+<div class="map-frame"><div id="map" tabindex="0" role="region" aria-label="Interactive reference map. County select in the records panel provides equivalent navigation."></div><p id="map-failure" hidden role="status">Map unavailable. Search and county filters still work.</p>
+<button id="reset-map" class="map-reset" type="button">Fit New York</button>
+<div class="map-legend" aria-label="Map legend"><strong>County evidence</strong><span><i class="swatch indexed"></i>Record in current view</span><span><i class="swatch coverage"></i>Indexed B0494 section</span><span><i class="swatch absent"></i>No indexed evidence in this view</span></div>
+</div>
+<div class="map-notice"><p id="map-caption"><strong>Modern county boundaries.</strong> Periods filter historical evidence, not historical district boundaries. County shading is not a count of districts or events.</p><label class="point-control" id="points-control" hidden><input type="checkbox" id="points" checked> Show sourced sites</label><p id="site-key" class="site-key" hidden><span aria-hidden="true">S</span> Schoolhouse &nbsp; <span class="legend-meeting" aria-hidden="true">M</span> Meeting site &nbsp; Dashed border: approximate. A number counts records at one marker.</p></div>
+</section>
+<section class="records-panel" id="records" aria-labelledby="record-title">
+<div class="record-controls">
+<div class="field"><label for="county">County</label><select id="county"><option value="">All counties and statewide</option></select></div>
+<div class="field"><label for="search">Search records</label><input id="search" type="search" placeholder="County, district, or keyword" autocomplete="off"></div>
+<div class="field inline"><label for="kind">Type</label><select id="kind"><option value="">All types</option></select><button class="text-button" id="clear" type="button">Clear filters</button></div>
+</div>
+<div class="results"><h2 id="record-title">Records</h2><p class="coverage-note" id="period-detail">Browse source records and scan sections by county. Date filters use dates of events, not the register’s catalog span.</p>
+<p class="results-count" id="results-count" role="status" aria-live="polite"></p>
+<div id="record-list"></div>
+</div>
+</section>
+</main>
+<footer class="sources"><strong>Scope of the digital extract:</strong> B0494 contains 116 PDF positions, 2 front-matter pages and 6 apparent retake pairs. The 29 filed county sections run from Broome to Onondaga; the last visible printed folio is 215. Neither an absent county nor an undated entry implies that an event did not occur. See <a href="data/B0494_county_page_index.csv" download>the page index</a>, <a href="https://findingaids.nysed.gov/do/12e4a6bf-5743-5329-ac8c-80978a0cb3ab">the NY State Archives finding aid</a>, and <a href="https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html">the 2024 Census cartographic boundary files</a>.</footer>
+<noscript><p class="no-js">JavaScript is needed for the interactive atlas. <a href="data/B0494_county_page_index.csv">Open the ledger page index</a> or <a href="data/context.json">open the contextual source records</a>.</p></noscript>
+</body></html>

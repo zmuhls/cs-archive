@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Clarkson District 4 | 1887 pilot</title>
+<link rel="stylesheet" href="vendor/leaflet/leaflet.css"><link rel="stylesheet" href="pilot.css">
+<script defer src="vendor/leaflet/leaflet.js"></script><script defer src="data/bundle.js"></script><script defer src="pilot.js"></script>
+</head>
+<body>
+<header><h1>Clarkson District 4</h1><p>One district as drawn on J. B. Beers &amp; Co.’s 1887 map of Monroe County</p></header>
+<p class="notice"><strong>Approximate study trace.</strong> This is the mapmaker’s 1887 representation, not a legal boundary, a current district, or the location of a later meeting.</p>
+<main>
+<section aria-labelledby="modern-heading">
+<h2 id="modern-heading">Registered trace</h2>
+<label><input id="show-controls" type="checkbox" checked> Show fit and check points</label>
+<div id="map" role="region" aria-label="Clarkson locality map, 1887 traced district with modern reference limits" tabindex="0"></div>
+<p id="map-off" hidden>Map unavailable. The raster and registration evidence are still available.</p>
+<p>Gold dashed polygon: 1887 trace. Gray outlines: modern township reference. F: fit point. C: check point unused in the fit.</p>
+</section>
+<section aria-labelledby="printed-heading">
+<h2 id="printed-heading">Source as printed</h2>
+<label><input id="show-trace" type="checkbox" checked> Outline the four traced sides</label>
+<div class="crop">
+<img src="data/loc-district4-crop.jpg" alt="The printed DIST. N°. 4 sits within a differently colored area outlined with dashed sides; the smaller SCHOOL N°. 4 label is separate.">
+<svg viewBox="0 0 1400 1420" aria-hidden="true"><polygon points="464,92 1362,94 1355,738 455,737"></polygon></svg>
+</div>
+<p>Library of Congress, Geography and Map Division. <a href="https://www.loc.gov/item/2013593279/">Catalog</a> · <a href="data/loc-title-and-index.png">Printed title and place-symbol key</a></p>
+</section>
+</main>
+<section class="report">
+<h2>What the registration can support</h2>
+<p>Five paired controls locate the trace. Three other paired crossings were withheld and used to check it.</p>
+<p id="metrics" aria-live="polite">5 fitting points; 3 check points. See methods for measured residuals.</p>
+<p>Check-point errors are not a confidence interval or a bound on the positions of the historic sides. Use the polygon only for neighborhood-scale orientation.</p>
+<div class="table-wrap"><table><caption>Paired historical and modern feature checks</caption><thead><tr><th scope="col">Feature</th><th scope="col">Role</th><th scope="col">Residual</th></tr></thead><tbody id="controls-table"></tbody></table></div>
+<p><a href="data/district4-1887.geojson" download>Download approximate GeoJSON trace</a> · <a href="README.md">Read methods and rights</a> · <a href="data/loc-clarkson-control-frame.png">View historical control frame</a></p>
+</section>
+</body>
+</html>

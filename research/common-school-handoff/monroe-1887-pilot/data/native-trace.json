@@ -1,0 +1,12 @@
+{
+  "label_as_printed": "DIST. N°. 4",
+  "source_date": "1887",
+  "county": "Monroe",
+  "town": "Clarkson",
+  "source_item": "https://www.loc.gov/item/2013593279/",
+  "source_raster": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd380:g3803:g3803m:la000520/345,3660,1400,1420/1400,/0/default.jpg",
+  "source_crop_origin_full_px": [345,3660],
+  "gcp_frame_origin_quarter_px": [87,887],
+  "trace_native_crop_px": [[464,92],[1362,94],[1355,738],[455,737],[464,92]],
+  "interpretation": "Manually digitized along the center of the rectangular dashed delimitation and color transition printed around the DIST. N°. 4 label. The top follows the outer edge of the colored district where it meets the Clarkson/Hamlin line. This traces the mapmaker's 1887 representation, not a legal determination or a school building location."
+}

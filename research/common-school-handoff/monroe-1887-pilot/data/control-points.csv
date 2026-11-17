@@ -1,0 +1,9 @@
+feature,x,y,lon,lat,mode
+County Line and West Ridge,7,352,-77.9965459,43.2547776,fit
+Redman and West Ridge,243,453,-77.9639139,43.2460396,holdout
+Lake and West Ridge,529,566,-77.9276959,43.2331236,fit
+Sweden Walker and West Ridge,799,653,-77.8901529,43.2253716,holdout
+Lake and Clarkson Hamlin Town Line,563,48,-77.9210679,43.2845076,fit
+Lake and Lawrence,565,130,-77.9212559,43.2773016,holdout
+Sweden Walker and Lawrence,945,127,-77.8701619,43.2769856,fit
+Clarkson-Hamlin line at Monroe-Orleans county line,4,51,-77.995698,43.284963,fit
