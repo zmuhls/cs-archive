@@ -27,6 +27,28 @@
       }
     ]
   },
+  "Allegany": {
+    "paragraphs": [
+      "Black Creek's classroom continued long after its district entered a larger administrative unit. The Allegany County Historical Society identifies photographs of a primary room and an advanced room at Black Creek in about 1932–33. [1] The 1958 state plan lists New Hudson Common District 4 among the original constituents of Cuba Central, gives the meeting as October 14, 1937 and designation as October 21, and says the district began operating in 1938–39. [2] A 1960 court opinion records third-grade pupils assigned from Cuba to District 4 in 1952–55, and recounts later local discussions about the school's use. It says the central board discontinued the school effective June 1, 1960 and dismisses a challenge to that action. [3] The court opinion recounts later classroom use, but the photo captions do not establish the building’s precise location."
+    ],
+    "sources": [
+      {
+        "locator": "primary and advanced rooms, circa 1932–33",
+        "title": "Allegany County Historical Society, Black Creek School photographs",
+        "url": "https://www.alleganyhistory.org/index.php/places/schools/p-t237/new-hudson-schools/2476-black-creek-school"
+      },
+      {
+        "locator": "printed p. 39 / PDF p. 41",
+        "title": "NYSED Master Plan, 1958",
+        "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume1.pdf#page=41"
+      },
+      {
+        "locator": "pp. 159–163, August 25, 1960 opinion",
+        "title": "Botens v. Board of Education, 26 Misc. 2d 158",
+        "url": "https://hallapproved.com/ny/cases/supreme-court/1960/6307233/"
+      }
+    ]
+  },
   "Bronx": {
     "paragraphs": [
       "City Island’s first public school opened on Main Street in 1839, when the island was part of the Town of Pelham in Westchester County, not Bronx County. The town enlarged it in 1847 and replaced it in 1860 with a school at Main and Orchard streets. When New York City annexed City Island in 1895, that school was one of nine former Westchester schools brought into the city’s Twenty-fourth Ward. The Board of Education then planned a replacement for the aging frame building. Public School 102 was built in 1897–98 and renumbered Public School 17 in 1903.",
@@ -47,6 +69,28 @@
         "locator": "First, second, and third island schoolhouses",
         "title": "City Island Nautical Museum, PS 17 School Photos",
         "url": "https://www.cityislandmuseum.org/copy-of-city-island-business-storie"
+      }
+    ]
+  },
+  "Broome": {
+    "paragraphs": [
+      "Vestal's centralized district and its high-school building did not begin on the same day. The B0494 ledger records a district laid out April 30, 1936 and a meeting held May 19. Its handwritten designation date appears to be June 16, while a later state plan prints June 6; the difference remains unresolved. [1] [2] The plan reports 811 votes for, 474 against and three blank or void, with operation in 1936–37. A town anniversary history gives the same affirmative and negative counts, but does not establish an independent signed return. [3] It describes a further building phase: Vestal Central High School opened January 3, 1939, and the first class graduated in June 1940. The same local account says the town's one-room-school era was over by 1940, a broad retrospective statement rather than a dated closure record for every building. The location of the 1936 meeting is not established."
+    ],
+    "sources": [
+      {
+        "locator": "PDF p. 4, top Vestal entry; folio not legible",
+        "title": "NYS Archives B0494, Broome",
+        "url": "https://media.githubusercontent.com/media/zmuhls/cs-archive/main/raw/scans/NYS%20Archives/B0494/District-Consolidation-Data_100-116.pdf#page=4"
+      },
+      {
+        "locator": "printed p. 65 / PDF p. 67",
+        "title": "NYSED Master Plan, 1958",
+        "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume1.pdf#page=67"
+      },
+      {
+        "locator": "PDF p. 2",
+        "title": "Margaret Hadsell, 3 R’s in One Room, Vestal anniversary history",
+        "url": "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/5420/Tov/2436c1e5-ebab-476b-9799-e1b14fdcba05/No._4_-_3_R_s_in_One_Room.pdf?disposition=inline#page=2"
       }
     ]
   },
@@ -530,6 +574,50 @@
       }
     ]
   },
+  "Lewis": {
+    "paragraphs": [
+      "Lowville's administrative consolidation did not necessarily mean an immediate end to every local classroom. The 1958 state plan reports a June 25, 1952 meeting, a 982–363 vote with two blank or void, and operation beginning in 1952–53; it includes Harrisburg Common District 4 among the original constituents. [1] A later Harrisburg town plan identifies District 4 as Windecker and says it continued to teach grades 1–6, averaging about 25 pupils, until 1958. [2] A USGS West Lowville map labels a School No. 4 near Windecker along Route 177; it is a useful geographic lead, not a deed or proof of uninterrupted use. [3] The town account's reported grade span and end year still need school registers or board minutes. The sources do not say where the 1952 vote took place. The state plan's designation date precedes its meeting date as printed and should not be silently reordered."
+    ],
+    "sources": [
+      {
+        "locator": "printed pp. 371–372 / PDF pp. 373–374",
+        "title": "NYSED Master Plan, 1958",
+        "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume1.pdf#page=373"
+      },
+      {
+        "locator": "printed p. 4 / PDF p. 5",
+        "title": "Town of Harrisburg Comprehensive Plan",
+        "url": "https://lewiscountyny.gov/wp-content/uploads/2026/02/Town-of-HARRISBURG-Plan-Final.pdf#page=5"
+      },
+      {
+        "locator": "1943 base, photoinspected 1980; School No. 4 near Windecker",
+        "title": "USGS West Lowville quadrangle",
+        "url": "https://prd-tnm.s3.amazonaws.com/StagedProducts/Maps/HistoricalTopo/PDF/NY/24000/NY_West%20Lowville_137010_1943_24000_geo.pdf"
+      }
+    ]
+  },
+  "Livingston": {
+    "paragraphs": [
+      "In Caledonia, school governance, the cost of buildings and later centralization were distinct questions. A 1919 court decision describes how the 1917 township-school law combined the town's districts under one board; a District 3 taxpayer challenged the allocation of District 5's school-building debt, and the court upheld the levy. [1] The Caledonia-Mumford district's local history later describes separate 1930s debates over a new District 5 building, including a site change after poor ground conditions, and reports that the new school opened in October 1939. [2] The state plan records a meeting about the Caledonia-Mumford central district on June 23, 1950, reports a 798–181 vote and lists District 5 among the original constituents. [3] Its designation date is printed as June 7, before the meeting; that sequence is preserved as the plan states it. The earlier township unit and lawsuit were not themselves the 1950 centralization or proof of its meeting venue."
+    ],
+    "sources": [
+      {
+        "locator": "pp. 698–702, 1919 opinion",
+        "title": "Wadsworth v. Menzie, 105 Misc. 697",
+        "url": "https://hallapproved.com/ny/cases/supreme-court/1919/5574796/"
+      },
+      {
+        "locator": "Part II, District 5 building and 1939 opening",
+        "title": "Caledonia-Mumford school history, from Big Springs Museum files",
+        "url": "https://resources.finalsite.net/images/v1701345031/calmumorg/hatntryqzpzslevvqvo6/school_history.pdf"
+      },
+      {
+        "locator": "printed p. 379 / PDF p. 381",
+        "title": "NYSED Master Plan, 1958",
+        "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume1.pdf#page=381"
+      }
+    ]
+  },
   "Madison": {
     "paragraphs": [
       "Madison village’s schools changed from an older union-free institution to a rural central district. An 1899 county history says Union Free School District 1 was organized on December 7, 1878, and describes its school building’s earlier use. [1] The district’s retrospective history reports that a December 20, 1930 vote approved a central rural school, 265 to 53, and that the 1939 addition was accompanied by the closing of schools in Madison, Madison Center and Bouckville. [2] Those dates describe different stages of reorganization and operation, not a single event. For research into the wider county, the Madison County records office describes school records, mostly financial reports, dating approximately 1829–1950. [3] The catalog description does not establish that a particular vote return or individual district record survives."
@@ -638,6 +726,38 @@
         "locator": "2015 interview with Town of Niagara Historical Society, opening paragraphs",
         "title": "Niagara School No. 2 Museum",
         "url": "https://www.wnypapers.com/news/article/featured/2015/08/07/121648/pieces-of-the-past-niagara-school-no.-2-museum"
+      }
+    ]
+  },
+  "Oneida": {
+    "paragraphs": [
+      "Whitesboro’s school history spans earlier local schooling, centralization and later annexation. A 1912 county history lists Whitesboro among places with union, high or graded schools. [1] A 2026 Senate commemorative resolution says the Whitesboro Central School District was established on May 11, 1936. [2] The state’s 1958 master plan, however, records a central-district meeting on June 14, 1935, designation on June 20 and operation in 1935–36. [3] These conflicting formation dates remain unresolved. A local architectural-history organization places Whitesboro High School on the Curran Tract in 1936–38. [4] In 1950, a Marcy common-school trustee sought a referendum on an order dissolving that district and annexing it to the central district; the court denied the petition and dismissed the proceeding. [5] The case does not establish unanimous local opinion."
+    ],
+    "sources": [
+      {
+        "locator": "Public Common Schools, printed pp. 365–366",
+        "title": "History of Oneida County, New York, vol. I (1912)",
+        "url": "https://ldsgenealogy.com/NY/books/History-of-Oneida-County-New-York-from-1700-to-the-present-time-Volume-I-part-45.htm"
+      },
+      {
+        "locator": "First page, anniversary and stated formation date",
+        "title": "New York State Senate Resolution J2062 (2026)",
+        "url": "https://legislation.nysenate.gov/pdf/bills/2025/J2062"
+      },
+      {
+        "locator": "printed p. 489, Whitestown No. 2",
+        "title": "NYSED Master Plan for School District Reorganization, volume 2",
+        "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume2.PDF"
+      },
+      {
+        "locator": "paragraph on Whitesboro High School, 1936–38",
+        "title": "Olmsted City of Greater Utica, The Curran Tract",
+        "url": "https://olmstedcity.org/the-curran-tract/"
+      },
+      {
+        "locator": "1950 Marcy annexation and disposition",
+        "title": "Grace v. Wilson, 199 Misc. 738 (N.Y. Sup. Ct. 1950)",
+        "url": "https://hallapproved.com/ny/cases/supreme-court/1950/5588537/"
       }
     ]
   },
