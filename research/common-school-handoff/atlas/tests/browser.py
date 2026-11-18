@@ -23,7 +23,7 @@ with sync_playwright() as p:
     assert desktop.locator('#record-list article').count()==min(36,total)
     assert desktop.locator('#record-list article[tabindex="-1"]').evaluate('e=>e===document.activeElement')
     desktop.select_option('#county','Delaware')
-    assert desktop.locator('path[aria-label="Delaware County"]').get_attribute('stroke')=='#652e13'
+    assert desktop.locator('path[aria-label="Delaware County"]').get_attribute('stroke')=='#17447d'
     desktop.locator('[data-key="common"]').click()
     assert desktop.locator('#record-list article').count()==1
     assert 'tax' in desktop.locator('#record-list article').inner_text()

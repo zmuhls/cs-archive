@@ -108,3 +108,12 @@ h1{font-size:clamp(2.1rem,4.2vw,4.25rem);line-height:.95;margin:0;letter-spacing
 .county-account-sources{margin:.65rem 0 .3rem;padding-inline-start:1.3em}
 .county-account-sources li{margin:.35rem 0}
 .county-account-sources span{font-size:.9em}
+
+/* Color identifies selection only. Weight and marker shape reinforce it. */
+:root{--water:#d9e6eb}
+.county-shape{background:#efeee9;border:1px solid #66645b}
+.selected-shape{background:#cfdef2;border:3px solid #17447d}
+.site-marker,.site-key span{background:#ffecb5;color:#29271e;border-color:#423719}
+.site-marker.site-approximate,.site-key span{border-radius:4px;border:2px dashed #423719}
+.site-marker.site-exact{border-radius:50%;border:2px solid #423719}
+.site-marker:focus-visible{outline:3px solid #17447d;outline-offset:3px}

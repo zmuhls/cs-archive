@@ -39,7 +39,6 @@
   const archiveKinds = new Set(['Archive guide','Archival collection','Ledger section']);
   const types = new Set(data.records.map(r=>r.kind).sort());
   const hasSites = data.records.some(r=>r.site);
-  const pageCoverage = Object.groupBy ? Object.groupBy(data.records.filter(r=>r.kind==='Ledger section'),r=>r.county) : data.records.filter(r=>r.kind==='Ledger section').reduce((a,r)=>((a[r.county]??=[]).push(r),a),{});
   function option(select,value,label=value) {
     const o=e('option',label);o.value=value;select.append(o);
   }
@@ -143,14 +142,11 @@
 
   function updateMap() {
     if(!map)return;
-    const active=recordsInView({ignoreCounty:true});
-    const counts=new Map();
-    for (const r of active) if(r.county)counts.set(r.county,(counts.get(r.county)||0)+1);
     counties.eachLayer(layer=>{
-      const name=layer.feature.properties.name;
-      const selected=filters.county===name;
-      const color=counts.get(name)?'#557044':pageCoverage[name]?'#c3ac72':'#dce0ce';
-      layer.setStyle({color:selected?'#652e13':'#fff9df',weight:selected?2.5:1.2,fillColor:color,fillOpacity:selected?1:.8});
+      const selected=filters.county===layer.feature.properties.name;
+      layer.setStyle(selected
+        ? {color:'#17447d',weight:3.5,fillColor:'#cfdef2',fillOpacity:1}
+        : {color:'#66645b',weight:1.15,fillColor:'#efeee9',fillOpacity:1});
       if(selected)layer.bringToFront();
     });
     pointLayer.clearLayers();
@@ -254,7 +250,7 @@
     try {
       map=L.map('map',{scrollWheelZoom:false,zoomSnap:.1,minZoom:4,maxZoom:13,attributionControl:true});
       map.attributionControl.setPrefix(false).addAttribution('2024 <a href="https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html">U.S. Census Bureau</a> reference boundaries');
-      counties=L.geoJSON(data.counties,{style:{color:'#fff9df',weight:1.2,fillColor:'#dce0ce',fillOpacity:.8},
+      counties=L.geoJSON(data.counties,{style:{color:'#66645b',weight:1.15,fillColor:'#efeee9',fillOpacity:1},
         onEachFeature:(feature,layer)=>{
           const name=feature.properties.name;
           const tooltip=e('span',name+' County');
