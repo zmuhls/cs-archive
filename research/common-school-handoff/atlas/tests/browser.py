@@ -18,16 +18,16 @@ with sync_playwright() as p:
     assert desktop.locator('#results-count').inner_text().endswith(" records")
     desktop.keyboard.press('Tab')
     assert desktop.locator('.skip').evaluate('e=>e===document.activeElement')
-    desktop.get_by_role('button',name='Show 18 more records').click()
-    assert desktop.locator('#record-list article').count()==36
+    total = int(desktop.locator('#results-count').inner_text().split()[0])
+    desktop.get_by_role('button',name=f'Show {min(18,total-18)} more records').click()
+    assert desktop.locator('#record-list article').count()==min(36,total)
     assert desktop.locator('#record-list article[tabindex="-1"]').evaluate('e=>e===document.activeElement')
     desktop.select_option('#county','Delaware')
     assert desktop.locator('path[aria-label="Delaware County"]').get_attribute('stroke')=='#652e13'
     desktop.locator('[data-key="common"]').click()
     assert desktop.locator('#record-list article').count()==1
     assert 'tax' in desktop.locator('#record-list article').inner_text()
-    desktop.locator('#record-list summary').click()
-    assert '1833 meeting record' in desktop.locator('#record-list details dl').inner_text()
+    assert '1833' in desktop.locator('#record-list article').inner_text()
     desktop.locator('[data-key="aid"]').click()
     assert 'Stamford' in desktop.locator('#record-list').inner_text()
     desktop.get_by_role('button',name='Clear filters').click()
@@ -39,6 +39,7 @@ with sync_playwright() as p:
     desktop.get_by_role('button',name='Clear filters').click()
     desktop.locator('[data-key="unknown"]').click()
     desktop.select_option('#county','Essex')
+    desktop.select_option('#kind','Ledger section')
     desktop.locator('#record-b0494-section-54 summary').click()
     assert 'Retake of p. 54' in desktop.locator('#record-list').inner_text()
     href=desktop.locator('#record-b0494-section-54 details a').first.get_attribute('href')
@@ -46,7 +47,7 @@ with sync_playwright() as p:
     desktop.get_by_role('button',name='Clear filters').click()
     desktop.fill('#search','"><img src=x onerror=alert(1)>')
     assert desktop.locator('#record-list img').count()==0
-    assert "not evidence of absence" in desktop.locator('#record-list').inner_text()
+    assert "No records match the selected filters." in desktop.locator('#record-list').inner_text()
     # County click is deliberately redundant with keyboard-accessible select.
     desktop.fill('#search','')
     desktop.locator('path[aria-label="Cayuga County"]').evaluate("(e)=>e.dispatchEvent(new MouseEvent('click',{bubbles:true}))")
@@ -64,6 +65,8 @@ with sync_playwright() as p:
     assert mobile.locator('#record-list article').count()==18
     assert mobile.evaluate('document.documentElement.scrollWidth === window.innerWidth')
     mobile.select_option('#county','Broome')
+    assert 'County account forthcoming.' in mobile.locator('#record-list').inner_text()
+    mobile.select_option('#kind','Ledger section')
     assert 'Broome County' in mobile.locator('#record-list').inner_text()
     if shots: mobile.screenshot(path=str(Path(shots)/'atlas-mobile.png'))
     # Simulate failure of vendored JS by using a separate copy without its script.

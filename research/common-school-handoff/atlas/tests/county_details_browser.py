@@ -60,12 +60,7 @@ with sync_playwright() as p:
         assert page.locator('#record-list .record-source strong').first.inner_text().strip() == 'Source:'
         assert page.locator('#record-list article').first.evaluate(
             "el => parseFloat(getComputedStyle(el.querySelector('p:not(.record-meta):not(.record-date)')).fontSize) >= 16")
-        first = page.locator('#record-list article').first
-        first.locator('summary').click()
-        assert 'Event date' in first.locator('dl').inner_text()
-        assert 'Record date or scope' in first.locator('dl').inner_text()
-        assert 'Place evidence' in first.locator('dl').inner_text()
-        assert 'Review status' in first.locator('dl').inner_text()
+        assert 'Review status' not in page.locator('#record-list').inner_text()
         assert page.evaluate('document.documentElement.scrollWidth <= innerWidth')
         page.reload()
         assert title.inner_text() == 'Cayuga County'
@@ -80,7 +75,7 @@ with sync_playwright() as p:
         page.keyboard.press('Enter')
         assert 'Statewide' in title.inner_text()
         page.select_option('#county', 'Albany')
-        assert 'not evidence of absence' in page.locator('#record-list').inner_text()
+        assert 'County account forthcoming.' in page.locator('#record-list').inner_text()
         page.get_by_role('button', name='Show all counties').click()
         assert title.inner_text() == 'Records'
         assert title.evaluate('el => el === document.activeElement')
