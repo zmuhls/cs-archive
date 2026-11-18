@@ -662,6 +662,29 @@
       }
     ]
   },
+  "Montgomery": {
+    "paragraphs": [
+      "Fultonville’s Union Free School and Mohawk’s District 7 had separate buildings and histories. The county historian reports that Fultonville’s Union Street school, built in 1884, burned in January 1923 and was replaced. [1] At the District 7 school on Plank Road, the historian recounts that two Montgomery County trustees favored repairing the building, outvoting a Fulton County trustee when a replacement site north of the county line was under consideration. The one-room school closed in 1949 and was moved to the Fonda school campus in 1973 for preservation. [2]",
+      "The state plan records a June 29, 1953 meeting for Fonda-Fultonville Central and a vote of 527 for, 510 against and 21 blank or void. It lists districts in Montgomery, Fulton and Schoharie counties and says the new district began operating in 1953–54. The plan gives June 10 as the designation date, before the meeting; those are the dates as printed. [3]"
+    ],
+    "sources": [
+      {
+        "locator": "Union Street school and the January 1923 fire",
+        "title": "Montgomery County Historian, History of Fultonville",
+        "url": "https://www.montgomerycountyny.gov/web/sites/departments/historian/articles_FultonvilleHistory.asp"
+      },
+      {
+        "locator": "Plank Road Schoolhouse, District 7, repairs, closure and move",
+        "title": "Montgomery County Historian, The Little Red Schoolhouse",
+        "url": "https://www.montgomerycountyny.gov/web/sites/departments/historian/articles_LittleRedSchoolhouse.asp"
+      },
+      {
+        "locator": "Printed pp. 431–432, Glen District 1, Fonda-Fultonville Central",
+        "title": "NYSED Master Plan for School District Reorganization, volume 1",
+        "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume1.pdf#page=433"
+      }
+    ]
+  },
   "Nassau": {
     "paragraphs": [
       "Hempstead Central High School District 3 brought several existing union-free districts into a shared high-school arrangement. The state register lists districts 4, 7, 25 and 29, records a meeting on September 25, 1934, and dates formation and designation to November 1. [1] The present district’s history says the first freshmen used a renovated six-room Bedford Avenue schoolhouse in 1935, before Mepham High School opened in 1937. [2]",
@@ -852,6 +875,52 @@
         "locator": "Printed pp. 462–463, Somerset District 1 / Barker Central",
         "title": "NYSED Master Plan, volume 2",
         "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume2.PDF"
+      }
+    ]
+  },
+  "Oswego": {
+    "paragraphs": [
+      "A county history records that Mexico village’s Districts 7, 8 and 9 combined in July 1869 and were generally known afterward as Union School District 8. [1]",
+      "Another reorganization, some seven decades later, drew in rural districts from seven Oswego County towns. The 1958 state plan records an organizing meeting on July 22, 1936, with a vote of 886 for, 597 against and four blank or void; it gives July 28 as the designation date and 1937–38 as the first year of operation. [2] The history accompanying the Mexico Academy marker reports a fire at the academy in 1936 and the start of construction on a replacement building in June 1937. It uses 1937 for centralization, whereas the state plan separates the 1936 vote and designation from the first school year. Neither chronology establishes the location of the vote. [3]"
+    ],
+    "sources": [
+      {
+        "locator": "List of school districts and the July 27, 1869 consolidation",
+        "title": "Landmarks of Oswego County, The Town of Mexico, 1895",
+        "url": "https://oswego.nygenweb.net/towns/mexico/1895landmarks.html"
+      },
+      {
+        "locator": "Printed p. 559, Mexico Central School District 1",
+        "title": "NYSED Master Plan for School District Reorganization, volume 2",
+        "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume2.PDF#page=111"
+      },
+      {
+        "locator": "History accompanying marker, 1936 fire and 1937 construction",
+        "title": "William G. Pomeroy Foundation and Mexico Historical Society, The Academy",
+        "url": "https://www.wgpfoundation.org/historic-markers/the-academy/"
+      }
+    ]
+  },
+  "Otsego": {
+    "paragraphs": [
+      "Jayne Davis Szaz recalls beginning first grade in a one-room school at West Exeter in September 1935, and walking there with her brother. [1]",
+      "The 1958 state plan separately lists Otsego County's Exeter Common District 7 as annexed to Winfield Central effective September 15, 1944. [2] A later Winfield annual-meeting notice, published in 1959, names Exeter among the district's towns and proposes the purchase of two buses. [3] The notice concerns a later annual meeting, not the 1944 annexation, and naming a town does not establish inclusion of every parcel. Neither the pupil's place name nor the plan's district number establishes that her 1935 school was the annexed District 7 building."
+    ],
+    "sources": [
+      {
+        "locator": "recollections beginning with the 1935 school year",
+        "title": "Jayne Davis Szaz, The One-Room Schoolhouse, West Exeter",
+        "url": "https://www.dcnyhistory.org/schjohnjack.html"
+      },
+      {
+        "locator": "printed p. 340 / PDF p. 342, Winfield annexations",
+        "title": "NYSED Master Plan, 1958",
+        "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume1.pdf#page=342"
+      },
+      {
+        "locator": "printed p. 3 / year-volume PDF p. 106",
+        "title": "West Winfield Star, annual meeting notice, June 18, 1959",
+        "url": "https://core-docs.s3.us-east-1.amazonaws.com/documents/asset/uploaded_file/3271/MMCSD/3921193/1959.pdf#page=106"
       }
     ]
   },
@@ -1243,6 +1312,29 @@
         "locator": "MSS.277, New Hurley School District record book, 1874–1939",
         "title": "Historic Huguenot Street, Institutional Records: New Hurley School District",
         "url": "https://www.huguenotstreet.org/institutional-records"
+      }
+    ]
+  },
+  "Warren": {
+    "paragraphs": [
+      "A Hague Historical Society history transcribes a July 1909 notice inviting bids for a District 1 schoolhouse, with bids to be opened at the town hall. [1] This is evidence of a proposed building and bid venue, not proof of the 1926 meeting place.",
+      "The 1958 state plan records a Hague central-school meeting on April 3, 1926, designation April 15, a 94–19 vote, and operation in 1926–27. Its original districts included a joint Hague–Ticonderoga district crossing into Essex County. [2] The town's later comprehensive plan says Hague closed its school facility in 1979 and its students shifted to Ticonderoga schools. [3] The sources do not say what happened to each of the earlier one-room buildings."
+    ],
+    "sources": [
+      {
+        "locator": "transcription of Ticonderoga Sentinel notice, July 15, 1909",
+        "title": "Hague Historical Society, Hague District Schools",
+        "url": "https://haguehistorical.com/hague-schools-1850-1926"
+      },
+      {
+        "locator": "printed p. 804 / PDF p. 356",
+        "title": "NYSED Master Plan, 1958, volume 2",
+        "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume2.PDF#page=356"
+      },
+      {
+        "locator": "printed p. 9, Student Enrollment",
+        "title": "Town of Hague Comprehensive Plan Update, 2025",
+        "url": "https://ecode360.com/HA1590/document/753201349.pdf"
       }
     ]
   },
