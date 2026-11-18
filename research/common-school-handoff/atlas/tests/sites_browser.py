@@ -20,6 +20,7 @@ with sync_playwright() as p:
     marker.focus(); page.keyboard.press('Enter')
     popup=page.locator('.leaflet-popup-content')
     assert popup.is_visible() and 'not the building footprint' in popup.inner_text().lower()
+    popup.get_by_text('Additional sources',exact=True).click()
     assert popup.get_by_role('link',name='NYS ITS Streets',exact=False).get_attribute('href').startswith('https://nysgeohub.ny.gov/')
     assert page.evaluate('document.documentElement.scrollWidth <= window.innerWidth'), page.evaluate('[document.documentElement.scrollWidth, window.innerWidth]')
     assert requests==[] and errors==[]

@@ -15,7 +15,7 @@ with sync_playwright() as p:
     desktop.goto(url)
     assert desktop.locator('.leaflet-overlay-pane path').count()==62
     assert desktop.locator('#county option').count()==64
-    assert "county-linked" in desktop.locator('#results-count').inner_text()
+    assert desktop.locator('#results-count').inner_text().endswith(" records")
     desktop.keyboard.press('Tab')
     assert desktop.locator('.skip').evaluate('e=>e===document.activeElement')
     desktop.get_by_role('button',name='Show 18 more records').click()
@@ -48,7 +48,7 @@ with sync_playwright() as p:
     assert desktop.locator('#record-list img').count()==0
     assert "not evidence of absence" in desktop.locator('#record-list').inner_text()
     # County click is deliberately redundant with keyboard-accessible select.
-    desktop.get_by_role('button',name='Clear filters').click()
+    desktop.fill('#search','')
     desktop.locator('path[aria-label="Cayuga County"]').evaluate("(e)=>e.dispatchEvent(new MouseEvent('click',{bubbles:true}))")
     assert desktop.locator('#county').input_value()=='Cayuga'
     desktop.select_option('#kind','Meeting minutes')

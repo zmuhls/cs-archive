@@ -61,13 +61,52 @@
     });
   }
 
+  // The vetted site CSV retains full compound locators. Render its references
+  // separately so long map-service queries stay in href, not in the text.
+  function sources(r) {
+    const parts=(r.source_locator||'').split(/;\s*/);
+    const compound=parts.some(part=>/https?:\/\//i.test(part));
+    const supplemental=new Map();
+    const add=(url,label)=>{
+      if(url&&url!==r.source_url)supplemental.set(url,label);
+    };
+    if(compound){
+      for(const part of parts.slice(1)){
+        const match=part.match(/^(.*?)\s*(https:\/\/\S+)$/i);
+        if(match) {
+          const url=match[2];
+          if(url!==r.geometry_source_url && url!==r.related_source_url)
+            add(url,match[1].replace(/[ ,]+$/,'')||'Supplementary reference');
+        } else {
+          const folio=part.match(/^B0494(?: PDF)? p\.\s*(\d+)/i);
+          if(folio) {
+            const archive=data.records.find(record=>record.id==='b0494-guide');
+            if(archive?.source_url)add(archive.source_url.split('#')[0]+'#page='+folio[1],part);
+          }
+        }
+      }
+    }
+    add(r.geometry_source_url,r.geometry_source_locator||'Coordinate reference');
+    add(r.related_source_url,r.related_source_locator||'Corroborating source');
+    return {label:compound?parts[0]:r.source_locator,supplemental,fullLocator:compound?r.source_locator:null};
+  }
+  function sourceList(evidence){
+    const list=e('ul',null,'source-notes');
+    for(const [url,label] of evidence.supplemental){
+      const item=e('li');
+      item.append(link(url,label));
+      list.append(item);
+    }
+    return list;
+  }
   function card(r) {
     const article=e('article',null,'record');article.id='record-'+r.id;
     article.append(e('h3',r.title));
     article.append(e('p',[(r.county?r.county+' County':'Statewide'),r.kind].join(' · '),'record-meta'));
     if(r.event_start!=null||r.event_end!=null)article.append(e('p',r.event_label,'record-date'));
     article.append(e('p',r.summary));
-    const caption=e('p',null,'record-source');caption.append(e('strong','Source: '),link(r.source_url,r.source_locator));article.append(caption);
+    const citations=sources(r);
+    const caption=e('p',null,'record-source');caption.append(e('strong','Source: '),link(r.source_url,citations.label));article.append(caption);
     const disclosure = e('details');
     disclosure.append(e('summary',r.pages?'Scan pages and provenance':'Dates, place and provenance'));
     const list=e('dl');
@@ -75,11 +114,15 @@
       list.append(e('dt',label),e('dd',value||'Not established'));
     }
     disclosure.append(list);
-    if(r.geometry_source_url){
-      const evidence=e('p');evidence.append(link(r.geometry_source_url,r.geometry_source_locator||'Coordinate reference'));disclosure.append(evidence);
+    if(citations.supplemental.size){
+      const extra=e('section');
+      extra.append(e('h4','Additional sources'),sourceList(citations));
+      disclosure.append(extra);
     }
-    if(r.related_source_url){
-      const corroboration=e('p');corroboration.append(link(r.related_source_url,r.related_source_locator||'Corroborating source'));disclosure.append(corroboration);
+    if(citations.fullLocator){
+      const original=e('details',null,'original-locator');
+      original.append(e('summary','Original locator'),e('p',citations.fullLocator));
+      disclosure.append(original);
     }
     if(r.pages) {
       const ul=e('ul');
@@ -133,9 +176,13 @@
         if(group.length>1)popup.append(e('p',group.length+' events share this proxy. Each is recorded separately.','site-group-note'));
         for(const r of group){
           const entry=e('section');
-          entry.append(e('strong',r.title),e('p',(r.precision==='approximate'?'Approximate location':'Verified site')+' · '+r.kind),e('p',r.event_label),e('p',r.summary),e('p',r.uncertainty_note||r.place_note),link(r.source_url,r.source_locator));
-          if(r.geometry_source_url){const p=e('p');p.append(link(r.geometry_source_url,r.geometry_source_locator||'Coordinate reference'));entry.append(p);}
-          if(r.related_source_url){const p=e('p');p.append(link(r.related_source_url,r.related_source_locator||'Corroborating source'));entry.append(p);}
+          const citations=sources(r);
+          entry.append(e('strong',r.title),e('p',(r.precision==='approximate'?'Approximate location':'Verified site')+' · '+r.kind),e('p',r.event_label),e('p',r.summary),e('p',r.uncertainty_note||r.place_note),link(r.source_url,citations.label));
+          if(citations.supplemental.size){
+            const extra=e('details');
+            extra.append(e('summary','Additional sources'),sourceList(citations));
+            entry.append(extra);
+          }
           popup.append(entry);
         }
         marker.bindPopup(popup,{maxHeight:300,maxWidth:330}).addTo(pointLayer);
@@ -157,24 +204,11 @@
   }
   function renderCountyHeading(){
     const name=filters.county;
-    const scope=$('county-scope');
     const jump=$('selected-county-link');
     $('record-title').textContent=name==='~statewide'?'Statewide records':name?name+' County':'Records';
     jump.hidden=!name;
     if(name)jump.textContent='Read '+(name==='~statewide'?'statewide':name+' County')+' records';
-    scope.hidden=!name;
     $('county-actions').hidden=!name;
-    if(!name)return;
-    if(name==='~statewide'){
-      scope.textContent='Statewide context is not evidence for any individual county or district.';
-      return;
-    }
-    const indexed=(pageCoverage[name]||[]).length;
-    const parts=indexed
-      ? [indexed+' grouped B0494 scan '+(indexed===1?'entry':'entries')+' indexed for this county.']
-      : ['No B0494 section is indexed for this county in the available scan. That does not mean no records survive.'];
-    parts.push('Dated records are ordered by event date. Undated items, including scan sections without event dates, follow.');
-    scope.textContent=parts.join(' ');
   }
   function mapInit(){
     if(!window.L){mapStatus();return;}
@@ -249,8 +283,8 @@
     }
     current.replaceChildren(frag);
     if(focusNew)current.querySelector('[tabindex="-1"]')?.focus();
-    const mapped=matches.filter(r=>r.county).length;
-    $('results-count').textContent=matches.length+' '+(matches.length===1?'record':'records')+' · '+mapped+' county-linked · '+(matches.length-mapped)+' statewide';
+    $('results-count').textContent=matches.length+' '+(matches.length===1?'record':'records');
+    $('clear').hidden=!(filters.period!=='all'||filters.county||filters.kind||filters.search||!filters.points);
     $('period-detail').textContent=details[filters.period][2];
     if($('search')!==document.activeElement)$('search').value=filters.search;
     $('county').value=filters.county;
@@ -278,9 +312,9 @@
   });
   $('kind').addEventListener('change',ev=>{filters.kind=ev.target.value;pageSize=18;render();});
   $('search').addEventListener('input',ev=>{filters.search=ev.target.value.slice(0,150);pageSize=18;render();});
-  $('points').addEventListener('change',ev=>{filters.points=ev.target.checked;updateMap();writeState();});
+  $('points').addEventListener('change',ev=>{filters.points=ev.target.checked;render();});
   $('clear').addEventListener('click',()=>{
-    Object.assign(filters,{period:'all',county:'',search:'',kind:'',points:true});pageSize=18;render();
+    Object.assign(filters,{period:'all',county:'',search:'',kind:'',points:true});pageSize=18;render();$('search').focus({preventScroll:true});
   });
   readState();mapInit();render();
 })();

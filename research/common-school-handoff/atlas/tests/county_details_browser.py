@@ -55,7 +55,7 @@ with sync_playwright() as p:
         assert title.inner_text() == 'Cayuga County'
         assert title.evaluate('el => el === document.activeElement')
         assert title.evaluate('el => el.getBoundingClientRect().top >= 0 && el.getBoundingClientRect().bottom <= innerHeight')
-        assert 'B0494 scan' in page.locator('#county-scope').inner_text()
+        assert page.locator('#county-scope').count() == 0
         assert 'Moravia' in page.locator('#record-list article').first.inner_text()
         assert page.locator('#record-list .record-source strong').first.inner_text().strip() == 'Source:'
         assert page.locator('#record-list article').first.evaluate(
@@ -80,7 +80,7 @@ with sync_playwright() as p:
         page.keyboard.press('Enter')
         assert 'Statewide' in title.inner_text()
         page.select_option('#county', 'Albany')
-        assert 'That does not mean no records survive' in page.locator('#county-scope').inner_text()
+        assert 'not evidence of absence' in page.locator('#record-list').inner_text()
         page.get_by_role('button', name='Show all counties').click()
         assert title.inner_text() == 'Records'
         assert title.evaluate('el => el === document.activeElement')
