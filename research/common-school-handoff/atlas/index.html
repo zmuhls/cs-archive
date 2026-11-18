@@ -12,7 +12,7 @@
 <script defer src="atlas.js"></script>
 </head>
 <body>
-<a class="skip" href="#records">Skip to source records</a>
+<a class="skip" href="#record-title">Skip to source records</a>
 <header class="masthead"><div><h1>Common School Archive</h1><p>A historical atlas of New York’s school districts</p></div><span class="state-name">New York State</span></header>
 <nav aria-label="Historical evidence periods" class="periods" id="periods">
 <button aria-pressed="true" data-key="all">All periods</button>
@@ -29,15 +29,21 @@
 <button id="reset-map" class="map-reset" type="button">Fit New York</button>
 <div class="map-legend" aria-label="Map legend"><strong>County evidence</strong><span><i class="swatch indexed"></i>Record in current view</span><span><i class="swatch coverage"></i>Indexed B0494 section</span><span><i class="swatch absent"></i>No indexed evidence in this view</span></div>
 </div>
-<div class="map-notice"><p id="map-caption"><strong>Modern county boundaries.</strong> Periods filter historical evidence, not historical district boundaries. County shading is not a count of districts or events.</p><label class="point-control" id="points-control" hidden><input type="checkbox" id="points" checked> Show sourced sites</label><p id="site-key" class="site-key" hidden><span aria-hidden="true">S</span> Schoolhouse &nbsp; <span class="legend-meeting" aria-hidden="true">M</span> Meeting site &nbsp; Dashed border: approximate. A number counts records at one marker.</p></div>
+<div class="map-notice"><p id="map-caption"><strong>Modern county boundaries.</strong> Select a county on the map or in the records controls to read its records. Shading shows evidence coverage; it does not count districts or events.</p><a href="#record-title" id="selected-county-link" hidden></a><label class="point-control" id="points-control" hidden><input type="checkbox" id="points" checked> Show sourced sites</label><p id="site-key" class="site-key" hidden><span aria-hidden="true">S</span> Schoolhouse &nbsp; <span class="legend-meeting" aria-hidden="true">M</span> Meeting site &nbsp; Dashed border: approximate. A number counts records at one marker.</p></div>
 </section>
 <section class="records-panel" id="records" aria-labelledby="record-title">
+<div class="record-heading">
+<p class="record-eyebrow">Source records</p>
+<h2 id="record-title" tabindex="-1">Records</h2>
+<p class="county-scope" id="county-scope" hidden></p>
+<div class="county-actions" id="county-actions" hidden><button class="text-button" id="show-all-counties" type="button">Show all counties</button><a href="#map" id="back-to-map">Back to map</a></div>
+</div>
 <div class="record-controls">
 <div class="field"><label for="county">County</label><select id="county"><option value="">All counties and statewide</option></select></div>
 <div class="field"><label for="search">Search records</label><input id="search" type="search" placeholder="County, district, or keyword" autocomplete="off"></div>
 <div class="field inline"><label for="kind">Type</label><select id="kind"><option value="">All types</option></select><button class="text-button" id="clear" type="button">Clear filters</button></div>
 </div>
-<div class="results"><h2 id="record-title">Records</h2><p class="coverage-note" id="period-detail">Browse source records and scan sections by county. Date filters use dates of events, not the register’s catalog span.</p>
+<div class="results"><p class="coverage-note" id="period-detail">Browse source records and scan sections by county. Date filters use dates of events, not the register’s catalog span.</p>
 <p class="results-count" id="results-count" role="status" aria-live="polite"></p>
 <div id="record-list"></div>
 </div>

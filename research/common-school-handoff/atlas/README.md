@@ -4,6 +4,7 @@ An offline-first Leaflet atlas for studying New York State's common schools, dis
 
 ## What the atlas shows
 
+- Select a polygon to move directly to its named county account; the County selector provides the same records without the map. County records show dated events first, followed by undated material, with scan scope, source locators, record/date distinctions, and place/review evidence. Use Back to map to return or Show all counties to clear only that selection.
 - The county layer uses generalized **2024** Census reference boundaries. Historical periods are evidence filters, not a claim that these polygons were historical school districts or historical county boundaries. Date filtering is against event-year bounds, never against the ledger's overall catalog span; unknown dates have their own view.
 - Coverage consists of **116 PDF positions, 2 front-matter pages, 6 apparent retake pairs, 29 filed county sections** in the available Broome–Onondaga extract. The last visible original folio is 215. The **96 grouped ledger sections** group adjacent scan positions under a reviewed or provisional heading. They are not 96 distinct school actions, and the extract is not the whole bound register.
 - The 19 selected scan examples have individual date-stage labels and uncertainty notes; they aren't a complete event census. Source citations distinguish scanned page position and printed folio where observed. County of filing is not county of each predecessor district, and a county association is not a meeting-site location.
@@ -19,7 +20,7 @@ The [Clarkson 1887 district pilot](../monroe-1887-pilot/) is a separate source-l
 1. Edit curated `data/context.json` and source CSVs, retaining an event label, record-period label (or explicit unknown), county of filing/place semantics, source URL, locator, and review note.
 2. `python3 tools/build_data.py` validates and regenerates `data/bundle.js`; `node --check atlas.js` checks application syntax. Bundling as local JS rather than a fetch means the atlas starts directly from `file://`, including offline.
 3. To reproduce the county GeoJSON, download the official archive below, install `pyshp==2.3.1` in a Python virtual environment, and run `python3 tools/build_counties.py /path/to/cb_2024_us_county_20m.zip`. The generator retains only FIPS state 36, without inferring historical geometry. Run step 2 again.
-4. Run `python3 tests/browser.py` with Playwright Python and a Chromium engine. Set `CHROMIUM_BIN` to override its default engine and `ATLAS_SCREENSHOTS` to a directory for screenshots. Current packaged build passed the local-file, zero-external-request, desktop/mobile, county/period/type search behavior, diagnostics fallback, and provenance checks in Chromium. See `TESTING.md` for exact assertions and limits.
+4. Run `python3 tests/browser.py` with Playwright Python and a Chromium engine. Set `CHROMIUM_BIN` to override its default engine and `ATLAS_SCREENSHOTS` to a directory for screenshots. Current packaged build passed the local-file, zero-external-request, desktop/mobile, county/period/type search behavior, diagnostics fallback, and provenance checks in Chromium. Run `python3 tests/county_details_browser.py` to check county selection and legibility on narrow and desktop layouts. See `TESTING.md` for exact assertions and limits.
 
 ## Sources and durability
 

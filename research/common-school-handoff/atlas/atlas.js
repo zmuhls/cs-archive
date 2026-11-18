@@ -65,13 +65,13 @@
     const article=e('article',null,'record');article.id='record-'+r.id;
     article.append(e('h3',r.title));
     article.append(e('p',[(r.county?r.county+' County':'Statewide'),r.kind].join(' · '),'record-meta'));
-    if(r.event_start!=null||r.event_end!=null)article.append(e('p',r.event_label));
+    if(r.event_start!=null||r.event_end!=null)article.append(e('p',r.event_label,'record-date'));
     article.append(e('p',r.summary));
-    const caption=e('p',null,'record-source');caption.append(link(r.source_url,r.source_locator));article.append(caption);
+    const caption=e('p',null,'record-source');caption.append(e('strong','Source: '),link(r.source_url,r.source_locator));article.append(caption);
     const disclosure = e('details');
     disclosure.append(e('summary',r.pages?'Scan pages and provenance':'Dates, place and provenance'));
     const list=e('dl');
-    for (const [label,value] of [['Event',r.event_label],['Record',r.record_label],['Place',r.place_note],['Review',r.review],...(r.precision?[['Location precision',r.precision+(r.uncertainty_note?' · '+r.uncertainty_note:'')]]:[])]) {
+    for (const [label,value] of [['Event date',r.event_label],['Record date or scope',r.record_label],['Place evidence',r.place_note],['Review status',r.review],...(r.precision?[['Location precision',r.precision+(r.uncertainty_note?' · '+r.uncertainty_note:'')]]:[])]) {
       list.append(e('dt',label),e('dd',value||'Not established'));
     }
     disclosure.append(list);
@@ -144,7 +144,38 @@
     }
   }
 
-  function setCounty(name){filters.county=filters.county===name?'':name;pageSize=18;render();}
+  function focusRecords(){
+    const title=$('record-title');
+    title.focus({preventScroll:true});
+    title.scrollIntoView({block:'start',behavior:'instant'});
+  }
+  function setCounty(name,{focus=false}={}){
+    filters.county=name;
+    pageSize=18;
+    render();
+    if(focus)focusRecords();
+  }
+  function renderCountyHeading(){
+    const name=filters.county;
+    const scope=$('county-scope');
+    const jump=$('selected-county-link');
+    $('record-title').textContent=name==='~statewide'?'Statewide records':name?name+' County':'Records';
+    jump.hidden=!name;
+    if(name)jump.textContent='Read '+(name==='~statewide'?'statewide':name+' County')+' records';
+    scope.hidden=!name;
+    $('county-actions').hidden=!name;
+    if(!name)return;
+    if(name==='~statewide'){
+      scope.textContent='Statewide context is not evidence for any individual county or district.';
+      return;
+    }
+    const indexed=(pageCoverage[name]||[]).length;
+    const parts=indexed
+      ? [indexed+' grouped B0494 scan '+(indexed===1?'entry':'entries')+' indexed for this county.']
+      : ['No B0494 section is indexed for this county in the available scan. That does not mean no records survive.'];
+    parts.push('Dated records are ordered by event date. Undated items, including scan sections without event dates, follow.');
+    scope.textContent=parts.join(' ');
+  }
   function mapInit(){
     if(!window.L){mapStatus();return;}
     try {
@@ -155,7 +186,7 @@
           const name=feature.properties.name;
           const tooltip=e('span',name+' County');
           layer.bindTooltip(tooltip,{sticky:true,className:'atlas-tooltip'});
-          layer.on('click',()=>setCounty(name));
+          layer.on('click',()=>setCounty(name,{focus:true}));
           layer.on('add',()=>{
             const path=layer.getElement();
             if(!path)return;
@@ -197,7 +228,12 @@
     }catch{ /* file origins can restrict history; nothing depends on it */ }
   }
   function render(focusNew=false){
+    renderCountyHeading();
     const matches=recordsInView();
+    if(filters.county)matches.sort((a,b)=>(a.event_start??a.event_end??Infinity)-(b.event_start??b.event_end??Infinity)
+      ||Number(b.kind==='Ledger section')-Number(a.kind==='Ledger section')
+      ||(a.kind==='Ledger section'&&b.kind==='Ledger section'?((a.pages?.[0]?.number??Infinity)-(b.pages?.[0]?.number??Infinity)):0)
+      ||a.title.localeCompare(b.title));
     const current=$('record-list');
     const frag=document.createDocumentFragment();
     const oldLimit=pageSize-18;
@@ -228,7 +264,18 @@
     if(!button)return;
     filters.period=button.dataset.key;pageSize=18;render();
   });
-  $('county').addEventListener('change',ev=>{filters.county=ev.target.value;pageSize=18;render();});
+  for(const nav of [$('selected-county-link'),document.querySelector('.skip')]){
+    nav.addEventListener('click',ev=>{ev.preventDefault();focusRecords();});
+  }
+  $('county').addEventListener('change',ev=>setCounty(ev.target.value));
+  $('show-all-counties').addEventListener('click',()=>setCounty('',{focus:true}));
+  $('back-to-map').addEventListener('click',ev=>{
+    ev.preventDefault();
+    if(!map){$('county').focus();return;}
+    const frame=$('map');
+    frame.focus({preventScroll:true});
+    frame.scrollIntoView({block:'start',behavior:'instant'});
+  });
   $('kind').addEventListener('change',ev=>{filters.kind=ev.target.value;pageSize=18;render();});
   $('search').addEventListener('input',ev=>{filters.search=ev.target.value.slice(0,150);pageSize=18;render();});
   $('points').addEventListener('change',ev=>{filters.points=ev.target.checked;updateMap();writeState();});

@@ -27,7 +27,7 @@ h1{font-size:clamp(2.1rem,4.2vw,4.25rem);line-height:.95;margin:0;letter-spacing
 .record-controls{display:grid;gap:.75rem;padding:.35rem 0 1rem;border-bottom:1px solid var(--rule)}
 .field label{font:700 1rem Georgia,serif;display:block;margin-bottom:.3rem}.field input,.field select{width:100%;min-width:0;padding:.46rem .55rem;border:1px solid #9e9277;border-radius:3px;background:#fffbef;color:var(--ink);min-height:39px}
 .field.inline{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:.48rem}.field.inline label{margin:0}.text-button{background:transparent;border:0;text-decoration:underline;padding:.28rem;color:var(--ink);font-size:.8rem}
-.results h2{font-size:2rem;margin:.8rem 0 .25rem}.coverage-note{font-size:.85rem;line-height:1.5;margin:0;color:#445847}.results-count{font-size:.83rem;font-weight:700;margin:.7rem 0}
+.coverage-note{font-size:.85rem;line-height:1.5;margin:0;color:#445847}.results-count{font-size:.83rem;font-weight:700;margin:.7rem 0}
 .record{padding:.8rem 0 1rem;border-top:1px solid var(--rule)}.record h3{margin:0;font-size:1.22rem;line-height:1.19}.record p{margin:.36rem 0;line-height:1.45}
 .record-meta,.record-source,.record p,.record summary{font-size:.88rem}.record-meta{color:#465b4b;font-weight:650}.record details{font-size:.86rem;margin-top:.45rem}.record summary{cursor:pointer}.record details dl{display:grid;grid-template-columns:auto 1fr;gap:.25rem .55rem}.record details dt{font-weight:700}.record details dd{margin:0}.record details ul{padding-left:1.1rem}.record details li{margin:.35rem 0}.record .retake{font-weight:700}
 .more-button{width:100%;margin:.6rem 0;padding:.55rem 1rem;border:1px solid var(--forest);background:#fff9e8;color:var(--forest)}.no-results{border:1px dashed var(--rule);padding:.7rem;font-size:.9rem}
@@ -49,3 +49,25 @@ h1{font-size:clamp(2.1rem,4.2vw,4.25rem);line-height:.95;margin:0;letter-spacing
 
 /* Long printed source locators must not widen the record or popup columns. */
 .record a,.site-popup a{overflow-wrap:anywhere}
+
+/* County accounts are normal page content, not a map overlay or nested scroller. */
+.record-heading{padding:.35rem 0 1rem;border-bottom:1px solid var(--rule)}
+.record-eyebrow{margin:0;color:#465b4b;font-size:.8rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase}
+.record-heading h2{font-size:clamp(1.9rem,4vw,2.5rem);line-height:1.12;margin:.25rem 0 .5rem;scroll-margin-top:1rem}
+.record-heading h2:focus-visible{outline:3px solid #906007;outline-offset:3px}
+.county-scope,.coverage-note,.results-count,.record p,.record details{font-size:1rem;line-height:1.55;overflow-wrap:anywhere}
+.county-scope{margin:.5rem 0 0;max-width:65ch}
+.county-actions{display:flex;flex-wrap:wrap;gap:0 .85rem;margin-top:.25rem}
+.county-actions .text-button,.county-actions a{min-height:44px;display:inline-flex;align-items:center;font-size:1rem;padding:.2rem 0;text-decoration:underline}
+.record-controls{padding-top:1rem}
+.field input,.field select,.text-button,.more-button{min-height:44px}
+.results{padding-top:.9rem}
+.record{max-width:72ch;padding:1rem 0}
+.record h3{font-size:1.35rem;line-height:1.24;overflow-wrap:anywhere}
+.record .record-meta,.record .record-date{font-size:.94rem;color:#35473b}
+.record .record-date{font-weight:650}
+.record summary{font-size:1rem;line-height:1.45;padding:.7rem .05rem;min-height:44px}
+.record details dl{grid-template-columns:minmax(0,1fr);gap:.12rem}
+.record details dd+dt{margin-top:.45rem}
+.no-results{font-size:1rem;line-height:1.5}
+#selected-county-link{display:inline-flex;align-items:center;min-height:44px;font-size:1rem;font-weight:650}
