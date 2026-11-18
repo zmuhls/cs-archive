@@ -73,6 +73,39 @@
       }
     ]
   },
+  "Cayuga": {
+    "paragraphs": [
+      "Before the merger, the 1867–68 county gazetteer described Moravia's Institute and two district schools. [1] Local historian James A. Wright records that voters from Districts 1 and 2 met at Smith's Hall on December 19, 1868 and approved a union free school; on January 13 they voted separately to select the Institute grounds for a new building. [2] The later state register explicitly says it copied Wright because no original papers had been received; it is not a second eyewitness account. [3]",
+      "An 1879 county history says teaching continued in the Institute and both district schoolhouses until the new school opened on April 25, 1870. [4] The National Register survey places the later brick school on the Institute site on Church Street and says the old frame building was moved behind it. [5]"
+    ],
+    "sources": [
+      {
+        "locator": "printed p. 67 / PDF p. 67, Moravia",
+        "title": "Gazetteer and Business Directory of Cayuga County, 1867–68",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Gazetteer_and_business_directory_of_Cayuga_County%2C_N.Y.%2C_for_1867-8_%28IA_gazetteerbusines00c%29.pdf#page=67"
+      },
+      {
+        "locator": "printed pp. 181–183",
+        "title": "James A. Wright, Historical Sketches of Moravia",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Historical_sketches_of_the_town_of_Moravia%2C_from_1791_to_1873_%28IA_historicalsketch00wright%29.pdf"
+      },
+      {
+        "locator": "folio 29, PDF p. 11",
+        "title": "NYS Archives B0494, Cayuga",
+        "url": "https://media.githubusercontent.com/media/zmuhls/cs-archive/main/raw/scans/NYS%20Archives/B0494/District-Consolidation-Data_100-116.pdf#page=11"
+      },
+      {
+        "locator": "printed p. 469 / PDF p. 12",
+        "title": "History of Cayuga County, 1879",
+        "url": "https://www.tcpl.org/sites/default/files/content/archive/CayugaCo_1879_p458to481.pdf#page=12"
+      },
+      {
+        "locator": "section E, printed p. 9",
+        "title": "National Register, Historic and Architectural Resources of Moravia",
+        "url": "https://npgallery.nps.gov/pdfhost/docs/NRHP/Text/64500456.pdf"
+      }
+    ]
+  },
   "Chautauqua": {
     "paragraphs": [
       "Sherman’s central district formed through a sequence rather than a single opening. The state register records it as laid out November 25, 1935, with a meeting December 10 and designation December 28. [1] A later state plan records 408 votes for and 201 against at the meeting, and operation beginning in 1936–37. It also lists Mina/Ripley common district 12 as annexed effective August 9, 1941, not at the original meeting. [2] A village architectural survey dates the replacement Sherman school to 1936–38 and reports later busing from the wider area. It gives December 11 rather than December 10 for the centralization vote, an unresolved discrepancy. [3] The available records do not establish the meeting venue or when each rural school ceased operation."
@@ -92,6 +125,28 @@
         "locator": "printed pp. 3-30–3-31, PDF pp. 30–31",
         "title": "Village of Sherman Cultural Resources Survey",
         "url": "https://buffaloah.com/surveys/sher/HistOverv.pdf#page=30"
+      }
+    ]
+  },
+  "Chemung": {
+    "paragraphs": [
+      "An 1892 county history counted four Ashland school districts and one schoolhouse in each. [1] A photograph collection separately identifies a Wellsburg school class in June 1897, although the photograph alone cannot establish which building received later transfer pupils. [2] Selectively transcribed District 2 minutes show how Scudder's schooling changed: in 1933 voters approved transport for academic pupils; in 1939 they retained the local school for a year while comparing costs; and in 1940 they voted 20–3 to send grade pupils and new high-school pupils to Wellsburg, while more advanced high-school pupils finished at Elmira. [3] The district still met at its schoolhouse in 1950 and authorized a bus contract. Transport and the end of local classes therefore did not automatically dissolve the district or end the building's use as a meeting place. The transcriber omitted some business and years; current custody of the original books is unverified."
+    ],
+    "sources": [
+      {
+        "locator": "Town of Ashland chapter, concluding school paragraph",
+        "title": "Ausburn Towner, History of Chemung County, 1892",
+        "url": "https://chemung.nygenweb.net/books/ashlanto.htm"
+      },
+      {
+        "locator": "1897 school photograph and caption",
+        "title": "Ashland Historical Society photograph collection, Wellsburg school",
+        "url": "https://chemung.nygenweb.net/schools/wellsburg.htm"
+      },
+      {
+        "locator": "1933, 1939–40 and 1950 entries; transcript pp. 11–16, 20–21",
+        "title": "District 2 minute-book excerpts, 1958 transcription",
+        "url": "https://chemung.nygenweb.net/schools/scudder.htm"
       }
     ]
   },
@@ -150,6 +205,50 @@
       }
     ]
   },
+  "Columbia": {
+    "paragraphs": [
+      "Columbia County’s rural and city schools differed in scale and organization. A contemporary geographical history reported 184 district schoolhouses in 1846, with schools open an average of nine months and more than 11,000 scholars taught. In Kinderhook, the District 6 one-room schoolhouse was built around 1850 to replace an earlier school. It served the town into the 1940s, when it closed as the local district centralized. The Columbia County Historical Society later moved and restored the building as a museum. In Hudson, an 1871–72 gazetteer reports that the city was divided into four school districts in 1857. Its account also describes schools separated by sex and a separate school for Black children, a reminder that public provision did not mean equal access. Countywide totals, Kinderhook’s building and Hudson’s districts describe different geographic and administrative units."
+    ],
+    "sources": [
+      {
+        "locator": "Columbia County, Schools, printed p. 212; 1846 reported statistics",
+        "title": "Mather and Brockett, A Geographical History of the State of New York",
+        "url": "https://ldsgenealogy.com/NY/books/A-geographical-history-of-the-state-of-New-York-embracing-its-history-government-physical-features-climate-geology-mineralogy-etc-with-a-separate-map-of-each-county-part-23.htm"
+      },
+      {
+        "locator": "History of the Ichabod Crane Schoolhouse, District 6 and later preservation",
+        "title": "Columbia County Historical Society, Ichabod Crane Schoolhouse",
+        "url": "https://cchsny.org/visit/ichabod-crane-schoolhouse/"
+      },
+      {
+        "locator": "Hudson, printed pp. 139–141, public schools and school categories",
+        "title": "Hamilton Child, Gazetteer and Business Directory of Columbia County (1871–72)",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Gazetteer_and_business_directory_of_Columbia_County%2C_N.Y._for_1871-2_%28IA_cu31924025959200%29.pdf"
+      }
+    ]
+  },
+  "Cortland": {
+    "paragraphs": [
+      "Cincinnatus centralization linked rural districts across county lines. A later district recruitment brochure says residents voted 307–109 for centralization on June 12, 1931, and describes a 1933 building vote and federal aid in 1934. [1] The state’s later master plan lists the original component districts across Cortland, Chenango and Broome counties and says the district began operating in 1931–32. It instead gives July 12 for the meeting and 306–109 for the vote. [2] These differences remain unresolved; original notices and returns would be needed to establish the date and count. A later architect’s project description identifies a 1935 wing in the school building, illustrating that district organization and construction were separate stages. [3] It does not resolve the meeting discrepancy or establish the venue."
+    ],
+    "sources": [
+      {
+        "locator": "Our History, p. 1",
+        "title": "Cincinnatus Central School District vacancy brochure",
+        "url": "https://www.ocmboces.org/tfiles/folder3316/Cincinnatus%20Vacancy%20Brochure.pdf"
+      },
+      {
+        "locator": "printed p. 184",
+        "title": "NYSED Master Plan for School District Reorganization",
+        "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume1.pdf"
+      },
+      {
+        "locator": "Description of 1935 wing",
+        "title": "Ashley McGraw, Cincinnatus Central School renovation",
+        "url": "https://www.ashleymcgraw.com/projects-k-12/steam-space-renovation"
+      }
+    ]
+  },
   "Delaware": {
     "paragraphs": [
       "Colchester's reorganization unfolded across rural communities rather than at one schoolhouse. The B0494 ledger records the central district laid out on July 21, 1938, a meeting on August 2 and designation on August 3. [1] The 1958 state plan reports a 289–42 vote, identifies Colchester Common District 2 among the original constituents, and dates the central district's operation to 1939–40. [2] A Colchester Historical Society account describes District 2's Corbett school as a company-built, rented building also used for religious gatherings and community suppers. It reports that older pupils went to the new Downsville school before the younger grades, and that the Corbett school closed the following year. [3] The local history dates centralization to 1939 in its account of the pupils’ transfer; the state records date the district’s legal formation to 1938. Neither establishes the location of the organizing meeting."
@@ -169,6 +268,33 @@
         "locator": "p. 1",
         "title": "Colchester Historical Society, Corbett School District 2",
         "url": "https://colchesterhsny.org/wp-content/uploads/2023/03/5-corbett-school-no.-2.pdf"
+      }
+    ]
+  },
+  "Dutchess": {
+    "paragraphs": [
+      "Rhinebeck's district organization and its school buildings followed different timelines. The state ledger records the boundaries for Rhinebeck’s central district on June 11, 1941, a district meeting on June 27, and formal designation on September 15. [1] The 1958 state plan reports 764 votes for and 231 against, and says the district began operating in 1941–42; it is a later state compilation, not the signed election return. [2] A village-commissioned historic assessment describes the 1939 fire that destroyed the older wing of the Mulberry Street school, and reports that after a new school opened in 1952 the Mulberry Street building continued to serve lower elementary grades. [3] Separately, the Rhinebeck Historical Society identifies a series of schoolhouse photographs as taken in July 1941 and says the one-room schools had closed by the end of the 1950s. [4] Those accounts do not prove any particular school's exact closing date, the 1941 meeting venue, or a connection between a pictured building and a numbered legal district."
+    ],
+    "sources": [
+      {
+        "locator": "folio 98 / PDF p. 48",
+        "title": "NYS Archives B0494, Dutchess",
+        "url": "https://media.githubusercontent.com/media/zmuhls/cs-archive/main/raw/scans/NYS%20Archives/B0494/District-Consolidation-Data_100-116.pdf#page=48"
+      },
+      {
+        "locator": "printed p. 228 / PDF p. 230",
+        "title": "NYSED Master Plan, 1958",
+        "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume1.pdf#page=230"
+      },
+      {
+        "locator": "printed pp. 11–12, school history",
+        "title": "Dutchess Shepherd Bulkeley School Project Phase 1A assessment",
+        "url": "https://villageofrhinebeck.org/s/Bulkeley-school-Project-Phase-1-Survey.pdf"
+      },
+      {
+        "locator": "one-room schoolhouse photographs and captions",
+        "title": "Rhinebeck Historical Society, From the Archives, May 2026",
+        "url": "https://starrlibrary.org/from-the-archives-may-2026/"
       }
     ]
   },
@@ -267,6 +393,28 @@
       }
     ]
   },
+  "Genesee": {
+    "paragraphs": [
+      "Genesee County’s school history includes local union free schools as well as earlier schools. The county historian’s timeline places a school built in 1801 at Le Roy, in what became Genesee County the following year. In November 1853 Batavia residents voted 102 to 34 to create Union Free School District 2 and elected a six-member board of education. Several decades later, the Le Roy Union Free School purchased the Academic Institute building in 1891. A limestone addition followed in 1898, and by 1904 the building was known as Le Roy Union High School. A new high school opened across the street in 1911, after which the older academic buildings were converted to industrial use."
+    ],
+    "sources": [
+      {
+        "locator": "1851–1860, section 12 Education, p. 9",
+        "title": "City of Batavia historical chronology",
+        "url": "https://www.cityofbataviany.gov/DocumentCenter/View/286/1851-to-1860-PDF"
+      },
+      {
+        "locator": "County history timeline, 1801 school at Le Roy and 1802 county formation",
+        "title": "Genesee County history timeline",
+        "url": "https://www.geneseeny.gov/Department-Content/History/Genesee-County-History"
+      },
+      {
+        "locator": "Landmark Award for the Academic Building, second and third paragraphs",
+        "title": "Le Roy Historical Society, Academic Building",
+        "url": "https://leroyhistoricalsociety.org/Articles/2010/110710%20-%20Landmark%20Award%20For%20The%20Academic%20Building.pdf"
+      }
+    ]
+  },
   "Greene": {
     "paragraphs": [
       "Greenville's central district was organized before a separate school-site decision. The B0494 ledger records layout March 29, 1930, a meeting April 29, and designation May 13 for a district extending into Greene and Albany counties. [1] A later state plan reports 351 votes for, 23 against and operation in 1930–31. [2] A district history reproduces a contemporary notice calling the April 29 meeting at Greenville Village Hall; another chapter reports the vote there. [3] [4] These are transcriptions and retrospective compilation, not the inspected original newspaper or signed minutes, and the two chapters may share sources. The same history dates a separate vote for the Rundell farm site to January 22, 1931. That later site decision does not establish the 1930 meeting's parcel. One transcribed article gives a weekday that does not align clearly with the reported chronology."
@@ -316,6 +464,50 @@
       }
     ]
   },
+  "Herkimer": {
+    "paragraphs": [
+      "The 1958 state plan records a June 25, 1931 meeting to organize the West Winfield district, followed by district designation on July 25 and the start of classes in 1931–32. The district included joint districts involving Herkimer, Oneida and Otsego. The plan records a later annexation of Exeter District 7 in Otsego effective September 15, 1944. [1] A 1942 architectural account describes a 675-seat auditorium at the central school. [2] In 1959, the clerk called the four-county district’s annual meeting at the schoolhouse. The newspaper reported that the July 14 meeting took place in the school auditorium and that voters approved a budget and two buses. [3] The surviving references do not establish the precise address of the 1959 meeting."
+    ],
+    "sources": [
+      {
+        "locator": "printed pp. 339–340 / PDF pp. 341–342",
+        "title": "NYSED Master Plan, 1958",
+        "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume1.pdf#page=341"
+      },
+      {
+        "locator": "School design account and auditorium capacity",
+        "title": "New York State Association of Architects, Winfield Central School, May–June 1942",
+        "url": "https://www.usmodernist.org/AIANYS/AIANYS-1942-05-06.pdf#page=2"
+      },
+      {
+        "locator": "June 18 notice, PDF p. 106; July 16 report, PDF p. 115",
+        "title": "West Winfield Star, meeting notice and report, 1959",
+        "url": "https://core-docs.s3.us-east-1.amazonaws.com/documents/asset/uploaded_file/3271/MMCSD/3921193/1959.pdf#page=106"
+      }
+    ]
+  },
+  "Jefferson": {
+    "paragraphs": [
+      "In 1945 Alexandria’s centralization brought together an existing union-free district and numerous common-school districts. The state register lists the Alexandria grouping as laid out April 30 and records a meeting June 1, without a vote total or a meeting venue. [1] The later state master plan identifies Central District 2 and reports 356 votes for, 183 against and seven blank or void, with operation beginning in 1945–46. Its list of original constituents is distinct from a proposed later addition, which should not be treated as an accomplished annexation. [2] A state audit reproduces the district’s description of a school building dating to 1928, a reminder that the area already had school facilities before centralization. [3] That building is not evidence of the 1945 meeting location."
+    ],
+    "sources": [
+      {
+        "locator": "folio 152, PDF p. 80",
+        "title": "NYS Archives B0494",
+        "url": "https://media.githubusercontent.com/media/zmuhls/cs-archive/main/raw/scans/NYS%20Archives/B0494/District-Consolidation-Data_100-116.pdf#page=80"
+      },
+      {
+        "locator": "printed p. 344, PDF p. 346",
+        "title": "NYSED Master Plan for School District Reorganization",
+        "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume1.pdf#page=346"
+      },
+      {
+        "locator": "Appendix A, printed p. 10, district response",
+        "title": "NYS Comptroller, Alexandria Central School District audit",
+        "url": "https://www.osc.ny.gov/files/local-government/audits/2020/pdf/alexandria-2020-109.pdf"
+      }
+    ]
+  },
   "Kings": {
     "paragraphs": [
       "Kings County’s school records show how independent towns and the City of Brooklyn ran schools before their incorporation into Greater New York in 1898. In 1843 the Flatbush School District and Flatlands District No. 2 reached a boundary agreement; the Erasmus Hall papers preserve a later copy, not a survey of the line. A May 1870 census for Flatbush District No. 1 listed children by name, age, and race. The city archive separately inventories tax lists and trustee minutes for Flatbush District No. 3, showing what survives from a different district. In Williamsburg, local Black residents had organized an African Free School before 1841. District trustees took it over in 1844, and after Williamsburg joined the City of Brooklyn in 1855, it moved into the former Bushwick District No. 1 schoolhouse. Brooklyn renumbered it Public School 69 in 1887, but the school still served only Black pupils."
@@ -335,6 +527,50 @@
         "locator": "LP-1977, pp. 3, 5–6; segregation policy and Colored School No. 3",
         "title": "NYC Landmarks Preservation Commission, (Former) Colored School No. 3",
         "url": "https://s-media.nyc.gov/agencies/lpc/lp/1977.pdf#page=3"
+      }
+    ]
+  },
+  "Madison": {
+    "paragraphs": [
+      "Madison village’s schools changed from an older union-free institution to a rural central district. An 1899 county history says Union Free School District 1 was organized on December 7, 1878, and describes its school building’s earlier use. [1] The district’s retrospective history reports that a December 20, 1930 vote approved a central rural school, 265 to 53, and that the 1939 addition was accompanied by the closing of schools in Madison, Madison Center and Bouckville. [2] Those dates describe different stages of reorganization and operation, not a single event. For research into the wider county, the Madison County records office describes school records, mostly financial reports, dating approximately 1829–1950. [3] The catalog description does not establish that a particular vote return or individual district record survives."
+    ],
+    "sources": [
+      {
+        "locator": "Madison village union free school, education chapter",
+        "title": "Our County and Its People: Madison County (1899)",
+        "url": "https://ldsgenealogy.com/NY/books/Our-county-and-its-people-a-descriptive-and-biographical-record-of-Madison-County-New-York-part-47.htm"
+      },
+      {
+        "locator": "1878 organization; 1930 vote and 1939 closures",
+        "title": "Madison Central School District, detailed history",
+        "url": "https://campussuite-storage.s3.amazonaws.com/prod/1559068/164567ea-a790-11eb-bd65-0a83820e3417/2297968/1138e02a-f488-11eb-ac17-0a4c584a8ccf/file/MCS-DetailedHistory.pdf"
+      },
+      {
+        "locator": "School records described as mostly financial reports",
+        "title": "Madison County Genealogy & Research",
+        "url": "https://www.madisoncounty.ny.gov/185/Genealogy-Research"
+      }
+    ]
+  },
+  "Monroe": {
+    "paragraphs": [
+      "Clarkson’s school history includes both an academy and a network of local districts. The town’s architectural survey dates the surviving brick academy building to 1853, after the earlier academy burned in 1852. The 1869–70 county gazetteer gives a broader picture of the town: for the year ending September 30, 1868, it reports ten school districts employing eleven teachers, 477 children attending, and average attendance of 204. Records also survive for a cross-town district: the University at Albany holds minutes and reports of Kendall and Hamlin District 8, formerly Clarkson (or Union) and Kendall District 12, dated 1838–1920. Those surviving materials document a different district, not necessarily the academy."
+    ],
+    "sources": [
+      {
+        "locator": "Printed p. 94; PDF p. 98, Clarkson school statistics",
+        "title": "Gazetteer and Business Directory of Monroe County, 1869–70",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Gazetteer_and_business_directory_of_Monroe_County%2C_N.Y._for_1869-70_%28IA_gazetteerbusines00chiha%29.pdf#page=98"
+      },
+      {
+        "locator": "The Clarkson Academy, attachment 1, description and significance",
+        "title": "Clarkson historic-resource survey",
+        "url": "https://clarksonny.org/wp-content/uploads/2024/06/Town-of-Clarkson-Survey.pdf"
+      },
+      {
+        "locator": "Abstract, scope and content, biographical/historical",
+        "title": "Kendall and Hamlin District 8 records finding aid",
+        "url": "https://archives.albany.edu/description/catalog/mss084"
       }
     ]
   },
@@ -427,6 +663,55 @@
       }
     ]
   },
+  "Ontario": {
+    "paragraphs": [
+      "Schooling in Ontario County developed through both village and rural institutions. A local history records that Phelps districts reunited in 1845 and a union-school building was erected in 1846. In rural Geneva, children attended District 3’s Ansley Schoolhouse from 1849 until the mid-1950s, according to the town’s newsletter. After the building stood unused, a preservation society restored it and opened it as a museum in 1980. District organization also changed across town lines. The state reorganization master plan records a June 19, 1941 meeting for Clifton Springs Central, with 481 votes in favor and 129 against; the district was designated on July 19 and began operating in the 1941–42 school year. Its territory included several Ontario County towns and Arcadia in Wayne County. These examples describe separate institutions, not one continuous district."
+    ],
+    "sources": [
+      {
+        "locator": "Printed pp. 447–448, Phelps Union and Classical school",
+        "title": "History of Ontario County, Town of Phelps",
+        "url": "https://ldsgenealogy.com/NY/books/A-history-of-Ontario-County-New-York-and-its-people-Volume-I-part-41.htm"
+      },
+      {
+        "locator": "Ansley Schoolhouse article, district attendance and restoration",
+        "title": "Town of Geneva Town Times, 2024 Q1",
+        "url": "https://cms6.revize.com/revize/geneva/0.0002024/Town%20Times/Newsletter%202024%20Qtr%201%20FINAL.2.pdf"
+      },
+      {
+        "locator": "Printed p. 521, Phelps District 2 / Clifton Springs Central",
+        "title": "NYSED Master Plan for School District Reorganization, volume 2",
+        "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume2.PDF"
+      }
+    ]
+  },
+  "Orange": {
+    "paragraphs": [
+      "Newburgh and Port Jervis took different routes from common schools to larger public systems. In 1829 a state charter made the Newburgh High School the common school for District No. 13, which then covered the whole village. The Legislature established Newburgh’s public school system by special act in 1852, before Newburgh became a city in 1865. Port Jervis was still a village in the Town of Deerpark in January 1862, when residents dissatisfied with the rate-bill system reorganized as Union Free School District No. 1 and elected a board. The district owned only the Main Street schoolhouse, so it rented a Presbyterian church basement for additional classroom space. A high school was organized in 1863 and admitted under the Regents in 1867. The sequence distinguishes a change in school governance from later recognition of secondary instruction."
+    ],
+    "sources": [
+      {
+        "locator": "Newburgh, High School subsection",
+        "title": "Everts & Peck, History of Orange County (1881), Newburgh",
+        "url": "https://ldsgenealogy.com/NY/books/History-of-Orange-County-New-York-with-illustrations-and-biographical-sketches-of-many-of-its-pioneers-and-prominent-men-part-78.htm"
+      },
+      {
+        "locator": "Deerpark, pp. 715–716, Port Jervis school reorganization",
+        "title": "Everts & Peck, History of Orange County (1881), Deerpark",
+        "url": "https://ldsgenealogy.com/NY/books/History-of-Orange-County-New-York-with-illustrations-and-biographical-sketches-of-many-of-its-pioneers-and-prominent-men-part-176.htm"
+      },
+      {
+        "locator": "Newburgh Academy and the 1852 establishment of free public education",
+        "title": "American Antiquarian Society, The Literary Casket",
+        "url": "https://www.americanantiquarian.org/node/9164"
+      },
+      {
+        "locator": "Ch. XXXIV, The Newburgh Schools and The Port Jervis Schools",
+        "title": "Russel Headley, The History of Orange County New York (1908)",
+        "url": "https://www.cyberlibrary.org/en/books/the-history-of-orange-county-new-york-49260/chapters/37/"
+      }
+    ]
+  },
   "Orleans": {
     "paragraphs": [
       "The Town of Gaines once supported a network of small district schools, several built of cobblestone. The Gaines Basin District 2 schoolhouse was built in 1832, replacing an earlier log school. Another Gaines school, District 4, received its property by deed from Caleb and Ann Knapp in 1844, according to a local history of its site.",
@@ -447,6 +732,28 @@
         "locator": "Printed pp. 462–463, Somerset District 1 / Barker Central",
         "title": "NYSED Master Plan, volume 2",
         "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume2.PDF"
+      }
+    ]
+  },
+  "Putnam": {
+    "paragraphs": [
+      "In Philipstown, Garrison’s school history traces a small school on church grounds to a subscription-supported free school. The state designated the Garrison Union Free School District on November 3, 1866, and the schoolhouse was moved to another site. As the district grew, a new stone school building was constructed in 1909. Garrison later absorbed Graymoor in 1925 and two neighboring districts in 1932. A separate centralization took place around Cold Spring: state records report that voters approved the Haldane central district in June 1933, 478 to 195, and that it began operating in the 1933–34 school year. Putnam County’s archives describe commissioners’ and trustees’ reports that preserve another layer of local history, including school finances, attendance and teacher information. These are distinct district histories; neither school represents every district in the county."
+    ],
+    "sources": [
+      {
+        "locator": "District History, 1866 designation, 1909 building and 1925–32 mergers",
+        "title": "Garrison Union Free School District, District History",
+        "url": "https://www.gufs.org/44297_2"
+      },
+      {
+        "locator": "Printed p. 592, Philipstown School District No. 1, Haldane central school; meeting, vote, designation and opening year",
+        "title": "New York State Education Department, Master Plan for School District Reorganization, volume 2",
+        "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume2.PDF"
+      },
+      {
+        "locator": "Series 001 and 002, printed pp. 17–18, commissioners’ and trustees’ reports",
+        "title": "Putnam County Archives catalog",
+        "url": "https://www.putnamcountyny.gov/images/Departments/Historian/PDF_Documents/Archives%20catalog%20latest.pdf"
       }
     ]
   },
@@ -519,6 +826,28 @@
       }
     ]
   },
+  "Rockland": {
+    "paragraphs": [
+      "Rockland’s schools did not all move from church or local sponsorship to public governance at the same time. The county historical society traces Tappan’s early school to the Reformed Church and reports that its 1711 schoolhouse remained in educational use through 1860. In Clarkstown, an 1812 deed conveyed property to trustees for a schoolhouse near what is now Valley Cottage. Nearby Rockland Lake built its first public schoolhouse in 1835 and replaced it with a larger one in 1850. At an October 13, 1853 meeting, Rockland Lake’s voters resolved to establish a free school under the state’s union-free-school law and elected nine trustees. That arrangement was not permanent: in January 1856 the district voted to end its free-school system effective January 1, 1857. A local historical account also records that Valley Cottage did not join the Clarkstown central system in 1955, instead aligning with Nyack."
+    ],
+    "sources": [
+      {
+        "locator": "Tappan Reformed Church and first schoolhouse paragraph",
+        "title": "Historical Society of Rockland County, A Brief History of Rockland",
+        "url": "https://www.rocklandhistory.org/a-brief-history-of-rockland"
+      },
+      {
+        "locator": "p. 125, Clarkstown—School at Rockland Lake",
+        "title": "David Cole, History of Rockland County (1884)",
+        "url": "https://ldsgenealogy.com/NY/books/History-of-Rockland-County-New-York-with-biographical-sketches-of-its-prominent-men-part-28.htm"
+      },
+      {
+        "locator": "pp. 12–14, Clarkstown school history, Rockland Lake and Valley Cottage",
+        "title": "Historical Society of Rockland County, South of the Mountains",
+        "url": "https://cdm16694.contentdm.oclc.org/digital/api/collection/hsrc/id/1472/download"
+      }
+    ]
+  },
   "Saratoga": {
     "paragraphs": [
       "Saratoga County’s school history spans village schools and small rural districts. In Ballston Spa, village trustees voted in April 1811 to raise money for a common-school building. Decades later, the 1872 incorporation of Union School District 1 of Milton brought village education under a union district. Its Bath Street school opened in September 1874; by 1877 the school was organized into academic, intermediate and primary grades with eight teachers. In rural Clifton Park, District 5 confronted a different building problem: in May 1903, a meeting voted to replace its deteriorating wooden schoolhouse with a brick building."
@@ -569,6 +898,28 @@
       }
     ]
   },
+  "Schoharie": {
+    "paragraphs": [
+      "Early school records in Schoharie County capture decisions made one district at a time. At the first recorded meeting of District 6 in 1813, residents chose trustees, a clerk and a collector; the account says a schoolhouse already stood in the district, then in parts of Blenheim and Jefferson. In Blenheim District 9, voters chose a conditional site in July 1818, then agreed in February 1819 to finish the schoolhouse where it stood and raise $150. A different record from Summit shows the work of keeping a school running: in October 1849 District 4 voted that families sending children furnish wood, and in January 1850 a meeting voted for five months of schooling. These transcripts document local decisions and supplies, not complete district boundaries or every school in the county."
+    ],
+    "sources": [
+      {
+        "locator": "p. 2, first meeting of District 6, May 22, 1813",
+        "title": "Gilboa Historical Society, Gilboa Historical, spring 2007",
+        "url": "https://gilboahome.com/ghspublications/Newsletters/GHS09.1.pdf#page=2"
+      },
+      {
+        "locator": "Printed pp. 45–46, District 9 record, July 1818 and February 1819",
+        "title": "Albert C. Mayham, History of Blenheim Hill",
+        "url": "https://schoharie.nygenweb.net/pdf/BlenheimHill.pdf#page=59"
+      },
+      {
+        "locator": "Transcribed District 4 meeting entries dated October 1849 and January 1850",
+        "title": "Town of Summit historian, Life and Times of a Summit One Room Schoolhouse",
+        "url": "https://cms2.revize.com/revize/schohariecountyny/Documents/Towns/Town%20of%20Summit/Services/Town%20Historian/Historical%20Stories/ArabiaLifeAndTimesOfSummitOneRoomSchoolhouse.pdf"
+      }
+    ]
+  },
   "Schuyler": {
     "paragraphs": [
       "Schuyler County’s school history combines village schools with a long persistence of smaller rural classrooms. A local history records that Watkins Academy began instruction in spring 1860 with twelve pupils. In 1863, the academy was merged into the Watkins Academic and Union School under an act establishing the district. The county’s 1954 centennial history reports a destructive school fire in 1929 and the move of Watkins grammar grades into a new building in 1953.",
@@ -589,6 +940,33 @@
         "locator": "Society properties and Lee School Museum description",
         "title": "Schuyler County Historical Society",
         "url": "https://schuylerhistory.org/about-us/"
+      }
+    ]
+  },
+  "Seneca": {
+    "paragraphs": [
+      "Seneca County’s schools developed through local district decisions and village consolidation. In 1822, according to Fayette’s centennial history, the town’s common-school commissioners defined and recorded twelve districts with schoolhouses in Fayette. Waterloo followed another path: a county history records that on August 24, 1847, a meeting united Districts 1 and 2 as District 1 of Waterloo; the trustees then purchased the Waterloo Academy. For the school year ending September 30, 1875, that history counted 106 districts for educational purposes, nine with schoolhouses outside Seneca County. A separate 1904 county historical address counted 92 districts in 1903 within the then-current county bounds. The two figures count different things and cannot establish a decline."
+    ],
+    "sources": [
+      {
+        "locator": "Schools section, paragraph beginning “In 1822”",
+        "title": "Centennial historical sketch of Fayette",
+        "url": "https://ldsgenealogy.com/NY/books/Centennial-historical-sketch-of-the-town-of-Fayette-Seneca-County-New-York-part-5.htm"
+      },
+      {
+        "locator": "Printed p. 91, Waterloo Union School, August 24, 1847",
+        "title": "History of Seneca County, Waterloo",
+        "url": "https://www.tcpl.org/sites/default/files/content/archive/SenecaCo_1876_p89to95.pdf#page=3"
+      },
+      {
+        "locator": "Printed p. 58, statistics for school year ending September 30, 1875",
+        "title": "History of Seneca County, 1876",
+        "url": "https://www.tcpl.org/sites/default/files/content/archive/SenecaCo_1876_p53to62.pdf"
+      },
+      {
+        "locator": "Historical address, printed p. 12, 1838 and 1903 district counts",
+        "title": "Seneca County centennial historical address, 1904",
+        "url": "https://www.olivercowdery.com/smithhome/smithtx6.htm"
       }
     ]
   },
@@ -634,6 +1012,50 @@
         "locator": "Troupsburg, 1839 District 4 schoolhouse",
         "title": "Pioneer History and Atlas of Steuben County",
         "url": "https://ldsgenealogy.com/NY/books/Pioneer-history-atlas-of-Steuben-County-NY-compiled-from-historical-statistical-official-records-part-10.htm"
+      }
+    ]
+  },
+  "Suffolk": {
+    "paragraphs": [
+      "Sachem grew from separate local schools into a central district after the Second World War. A study of its pre-1947 history describes earlier centralization proposals and local rural school organization. [1] The district’s history says voters from Farmingville/Holtsville, Holbrook and Lake Ronkonkoma chose to centralize on April 21, 1955; its first nine-member board had three members from each original district. [2] A later reproduction of a 1957 district newsletter lists six school buildings and three rented facilities, and reports that the district still sent twelfth graders to outside high schools while a new high school was being completed. [3] The retrospective district page describes a high school opening in 1956, while the newsletter reproduction points to 1958 completion; these building accounts should not be silently reconciled."
+    ],
+    "sources": [
+      {
+        "locator": "Part I, 1800–1947",
+        "title": "Kenneth Brady, History of Consolidation and Centralization of Sachem Schools",
+        "url": "https://www.sachemreport.com/wp-content/uploads/2013/03/Sachem-History-1800-1947.pdf"
+      },
+      {
+        "locator": "1955 formation and initial board",
+        "title": "Sachem Central School District, About Us",
+        "url": "https://sachem.edu/about-us"
+      },
+      {
+        "locator": "Reproduced newsletter account of buildings and high-school arrangements",
+        "title": "Sachem Report, November 1957 Sachem News",
+        "url": "https://www.sachemreport.com/2013/01/05/boe-pres-says-sachem-is-second-to-none-in-original-issue-of-sachem-news-in-1957/"
+      }
+    ]
+  },
+  "Sullivan": {
+    "paragraphs": [
+      "Sullivan County’s school records distinguish securing a site, fitting out a building, and opening a centralized school. In 1842 trustees of Thompson District No. 10 paid one dollar for the right to use property for a school on the old road between Monticello and Liberty. A 1915 deed records the district’s purchase of surrounding land to extend the lot; neither transaction dates the original construction. In Hankins, in the Town of Fremont, District No. 1’s schoolhouse was built about 1845. The county’s scenic-byway plan identified it as one of six surviving schoolhouses of its kind in the Upper Delaware River Valley. Jeffersonville’s last class at the old school near what is now Lions Field graduated in 1938. The new central district school held its first classes in 1939. That opening is a local example of centralization, not a single closing date for the county’s rural schools."
+    ],
+    "sources": [
+      {
+        "locator": "Historical narrative, paragraph on 1842 lease and 1915 deed",
+        "title": "William G. Pomeroy Foundation, One-Room School",
+        "url": "https://www.wgpfoundation.org/historic-markers/one-room-school-16/"
+      },
+      {
+        "locator": "Historic Resources, Hankins District No. 1 Schoolhouse (1845)",
+        "title": "Sullivan County, Upper Delaware Scenic Byway Enhancement Concept Plan",
+        "url": "https://www.sullivanny.gov/sites/default/files/departments/BOL/ContractingAgencies/udsb/UDSB_EnhancementConceptPlan_sm.pdf"
+      },
+      {
+        "locator": "New central school and last graduating class at the former Jeff School",
+        "title": "Jeffersonville, When Hardy Settlers Decided to Stay",
+        "url": "https://jeffersonvilleny.com/our-history/"
       }
     ]
   },
@@ -795,6 +1217,28 @@
         "locator": "Letchworth Park School archaeological investigation, summary p. 20 and cultural change pp. 14–15",
         "title": "New York State Archaeological Association Bulletin 94",
         "url": "https://nysarchaeology.org/download/nysaa/bulletin/number_094.pdf"
+      }
+    ]
+  },
+  "Yates": {
+    "paragraphs": [
+      "In Potter District 5, a local history transcribes a decision to build a round cobblestone schoolhouse. At a meeting on April 2, 1838, inhabitants resolved that it should be 30 feet in diameter and 11 feet high; the school was subsequently built that year. Later, reorganization involved territory on both sides of the Ontario–Yates county line. The Marcus Whitman district’s history recounts that fire destroyed the Gorham school building on October 29, 1929, prompting debate about whether to continue individual district schools or join a central district. The state’s master plan records a June 25, 1930 meeting for Seneca–Gorham–Potter Central, with 204 votes in favor and 100 opposed; it began operating in 1930–31. The vote documents an administrative decision, not the fate of every individual schoolhouse."
+    ],
+    "sources": [
+      {
+        "locator": "Potter District 5 account, 1837–38 meeting resolutions",
+        "title": "Round Cobblestone School Houses",
+        "url": "https://www.cobblestonemuseum.org/CobblestoneStructuresCatalog/CMPubs/Round%20Cobblestone%20School%20Houses.htm"
+      },
+      {
+        "locator": "District history, October 29, 1929 Gorham school fire and centralization debate",
+        "title": "Marcus Whitman Central School, district history",
+        "url": "https://www.mwcsd.org/district/about-us/history-of-the-district"
+      },
+      {
+        "locator": "Printed p. 523, Seneca–Gorham–Potter Central School, meeting and designation",
+        "title": "NYSED Master Plan, volume 2",
+        "url": "https://www.p12.nysed.gov/mgtserv/sch_dist_org/docs/Master_Plan_For_School_District_Reorganization_Volume2.PDF"
       }
     ]
   }
