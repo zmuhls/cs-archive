@@ -3,13 +3,13 @@
   const $ = id => document.getElementById(id);
   const data = window.ATLAS_DATA;
   const details = {
-    all: [null,null,'Browse source records and scan sections by county. Date filters use dates of events, not the register’s catalog span.'],
+    all: [null,null,'Periods refer to events, not to the full date range of the register.'],
     common: [1812,1852,'Local reports and minutes document how common-school districts recorded teaching, money and attendance.'],
     union: [1853,1910,'The Union Free School Act authorized a different district form. Explore dated evidence before the Capitol fire.'],
     fire: [1911,1924,'The 1911 fire and reconstruction are a documented recordkeeping break, distinct from the centralization laws that followed.'],
     aid: [1925,1946,'New state aid expanded centralization. The surviving record still distinguishes state orders from local organization and consent.'],
     plan: [1947,1954,'The 1947 Master Plan and late entries in the accessible register extract.'],
-    unknown: [null,null,'Browse materials without indexed event-year bounds. An undated section is not assigned the register’s full catalog span.']
+    unknown: [null,null,'Records with no known event date.']
   };
   const filters = {period:'all', county:'', search:'', kind:'', points:true};
   let pageSize = 18, map, counties, pointLayer;
@@ -172,10 +172,10 @@
         const badge=e('span',code,'site-symbol');
         badge.setAttribute('aria-hidden','true');
         const icon=L.divIcon({className:'site-marker site-'+role+' '+(approx?'site-approximate':'site-exact'),html:badge,iconSize:[31,31],iconAnchor:[15,15],popupAnchor:[0,-14]});
-        const label=(approx?'Approximate location: ':'Verified site: ')+(group.length>1?group.length+' records at the same proxy; ':'')+group.map(r=>r.title).join('; ');
+        const label=(approx?'Approximate location: ':'Verified site: ')+(group.length>1?group.length+' records at the same map location; ':'')+group.map(r=>r.title).join('; ');
         const marker=L.marker([first.site[1],first.site[0]],{icon,keyboard:true,title:label,alt:label});
         const popup=e('div',null,'site-popup');
-        if(group.length>1)popup.append(e('p',group.length+' events share this proxy. Each is recorded separately.','site-group-note'));
+        if(group.length>1)popup.append(e('p',group.length+' records share this map location.','site-group-note'));
         for(const r of group){
           const entry=e('section');
           const citations=sources(r);
