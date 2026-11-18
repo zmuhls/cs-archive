@@ -75,7 +75,7 @@ with sync_playwright() as p:
         page.keyboard.press('Enter')
         assert 'Statewide' in title.inner_text()
         page.select_option('#county', 'Albany')
-        assert 'County account forthcoming.' in page.locator('#record-list').inner_text()
+        assert 'Knox District 5' in page.locator('#record-list').inner_text()
         page.get_by_role('button', name='Show all counties').click()
         assert title.inner_text() == 'Records'
         assert title.evaluate('el => el === document.activeElement')

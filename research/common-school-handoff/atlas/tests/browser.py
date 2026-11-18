@@ -65,7 +65,7 @@ with sync_playwright() as p:
     assert mobile.locator('#record-list article').count()==18
     assert mobile.evaluate('document.documentElement.scrollWidth === window.innerWidth')
     mobile.select_option('#county','Broome')
-    assert 'County account forthcoming.' in mobile.locator('#record-list').inner_text()
+    assert 'Maine: Consolidation' in mobile.locator('#record-list').inner_text()
     mobile.select_option('#kind','Ledger section')
     assert 'Broome County' in mobile.locator('#record-list').inner_text()
     if shots: mobile.screenshot(path=str(Path(shots)/'atlas-mobile.png'))
