@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="atlas.css">
 <script defer src="vendor/leaflet/leaflet.js"></script>
 <script defer src="data/bundle.js"></script>
+<script defer src="data/county-accounts.js"></script>
 <script defer src="atlas.js"></script>
 </head>
 <body>
@@ -49,6 +50,10 @@
 <div class="field"><label for="county">County</label><select id="county"><option value="">All counties and statewide</option></select></div>
 <div class="field"><label for="kind">Type</label><select id="kind"><option value="">All types</option></select></div>
 </div>
+<details class="county-account" id="county-account" hidden>
+<summary>County account</summary>
+<div id="county-account-body"></div>
+</details>
 <div class="results">
 <div class="results-bar"><p class="results-count" id="results-count" role="status" aria-live="polite"></p><button class="text-button" id="clear" type="button" hidden>Clear filters</button></div>
 <div id="record-list"></div>

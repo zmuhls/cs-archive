@@ -31,3 +31,7 @@ The [Clarkson 1887 district pilot](../monroe-1887-pilot/) is a separate source-l
 - Library: Leaflet 1.9.4, [version-matched API](https://leafletjs.com/reference-1.9.4.html) and [upstream package](https://registry.npmjs.org/leaflet/-/leaflet-1.9.4.tgz), SHA-256 `84c65a256e50657896f54c33bd857b6849ebe94c817803be818bf32a3dde0b77`. Its BSD 2-Clause license is in `vendor/leaflet/LICENSE`.
 
 This package is MIT-licensed **for original atlas code**, with separate rights and credits for third-party code and source materials. A link to an archive does not assert permission to republish a scan. CSV references and record summaries are not a blanket license for linked material.
+
+### County accounts
+
+Optional county accounts are curated separately in `data/county-accounts.json`. A county account contains a short narrative and at least three distinct documentary sources, each with a named link and source locator. Additional pages of the same document do not count as separate sources. Where documents share underlying evidence, the account does not treat them as independent confirmation. Run `python3 tools/build_county_accounts.py`, refresh the two county-account hashes in `DATA-SHA256SUMS`, and run `python3 tests/county_accounts_browser.py` after editing. The generated script supports offline rendering; county accounts add no dates, points, or map records.

@@ -212,6 +212,43 @@
     if(name)jump.textContent='Read '+(name==='~statewide'?'statewide':name+' County')+' records';
     $('county-actions').hidden=!name;
   }
+  let accountCounty = null;
+  function renderCountyAccount() {
+    const county = filters.county;
+    if (county === accountCounty) return;
+    accountCounty = county;
+    const panel = $('county-account');
+    const body = $('county-account-body');
+    const accounts = window.COUNTY_ACCOUNTS;
+    const account = accounts && Object.hasOwn(accounts, county) ? accounts[county] : null;
+    panel.open = false;
+    panel.hidden = !account;
+    body.replaceChildren();
+    if (!account) return;
+    panel.querySelector('summary').setAttribute('aria-label', county + ' County account');
+    for (const paragraph of account.paragraphs) {
+      const p = e('p');
+      for (const chunk of paragraph.split(/(\[\d+\])/)) {
+        const citation = /^\[(\d+)\]$/.exec(chunk);
+        const source = citation && account.sources[Number(citation[1]) - 1];
+        if (source) {
+          const a = link(source.url, chunk);
+          a.setAttribute('aria-label', 'Source ' + citation[1] + ': ' + source.title);
+          p.append(a);
+        } else p.append(document.createTextNode(chunk));
+      }
+      body.append(p);
+    }
+    const list = e('ol', null, 'county-account-sources');
+    list.setAttribute('aria-label', 'Sources for ' + county + ' County account');
+    for (const source of account.sources) {
+      const item = e('li');
+      item.append(link(source.url, source.title));
+      if (source.locator) item.append(e('span', ' · ' + source.locator));
+      list.append(item);
+    }
+    body.append(list);
+  }
   function mapInit(){
     if(!window.L){mapStatus();return;}
     try {
@@ -265,6 +302,7 @@
   }
   function render(focusNew=false){
     renderCountyHeading();
+    renderCountyAccount();
     const matches=recordsInView();
     if(filters.county)matches.sort((a,b)=>(a.event_start??a.event_end??Infinity)-(b.event_start??b.event_end??Infinity)
       ||Number(b.kind==='Ledger section')-Number(a.kind==='Ledger section')

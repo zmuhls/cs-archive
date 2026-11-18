@@ -99,3 +99,12 @@ h1{font-size:clamp(2.1rem,4.2vw,4.25rem);line-height:.95;margin:0;letter-spacing
 .site-popup details summary{cursor:pointer;padding:.75rem 0;min-height:44px}
 .site-popup .source-notes{padding-left:1.15rem}
 .site-popup .source-notes li{margin:.25rem 0}
+
+/* Keep editorial accounts optional so dated records remain up front. */
+.county-account{margin:0 0 .45rem;padding:.3rem 0 .4rem;border-bottom:1px solid var(--rule);overflow-wrap:anywhere}
+.county-account summary{cursor:pointer;min-height:36px;width:max-content;max-width:100%;display:list-item;padding:.35rem .35rem .25rem 0;font-weight:650}
+.county-account summary:focus-visible{outline:3px solid #906007;outline-offset:2px}
+.county-account p{line-height:1.58;margin:.4rem 0 .75rem}
+.county-account-sources{margin:.65rem 0 .3rem;padding-inline-start:1.3em}
+.county-account-sources li{margin:.35rem 0}
+.county-account-sources span{font-size:.9em}
